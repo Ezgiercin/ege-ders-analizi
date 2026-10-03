@@ -1,0 +1,117 @@
+<!--
+  EGE Forum — /ders-analizi özel sayfası
+  NodeBB Admin → Extend → Widgets → "Ders Analizi" sayfası → HTML widget'ına yapıştır.
+
+  İçindeki metin forumun kendi HTML'inde durur; arama motorları bunu okur.
+  Hesaplayıcı iframe içindedir, yüksekliğini kendisi bildirir.
+
+  IFRAME_ADRESI yerine uygulamanın yayınlandığı adresi yaz, sonuna ?embed=1 ekli kalsın.
+  Yerelde deneme için: http://localhost:5173/ders-analizi/?embed=1
+-->
+
+<div class="ege-ders-analizi">
+  <h1>Ege Üniversitesi AGNO Hesaplama</h1>
+  <p class="lead">
+    Transkriptini yükle; genel not ortalaman (AGNO), yıl ortalamaların ve her dersin ortalamaya
+    katkısı anında hesaplansın. Notları değiştirip &ldquo;şu dersten AA alsam ne olur&rdquo;
+    senaryosunu deneyebilirsin. Ücretsiz, üyelik gerekmez ve
+    <strong>yüklediğin dosya tarayıcından çıkmaz</strong> &mdash; hiçbir sunucuya gönderilmez.
+  </p>
+
+  <iframe
+    id="ege-ders-analizi-cerceve"
+    src="IFRAME_ADRESI?embed=1"
+    title="Ege Üniversitesi AGNO hesaplama aracı"
+    loading="lazy"
+    style="width:100%;border:0;height:900px;display:block"
+  ></iframe>
+
+  <h2>Ege Üniversitesi&rsquo;nde AGNO nasıl hesaplanır?</h2>
+  <p>
+    Ege&rsquo;de genel not ortalamasının resmî adı <strong>AGNO</strong> (Ağırlıklı Genel Not
+    Ortalaması); transkriptte <strong>GNO</strong> olarak da geçer. Bazı üniversitelerin kullandığı
+    &ldquo;GANO&rdquo; terimi Ege&rsquo;de kullanılmaz, hesaplanan şey aynıdır.
+  </p>
+  <p>
+    Her dersin harf notu katsayısı o dersin <strong>AKTS kredisiyle</strong> çarpılır, çıkan değerler
+    toplanır ve alınan tüm derslerin AKTS toplamına bölünür:
+  </p>
+  <p><strong>AGNO = Σ (harf notu katsayısı × AKTS) / Σ AKTS</strong></p>
+  <p>
+    Dikkat edilmesi gereken nokta, ağırlığın <em>yerel kredi</em> değil AKTS olmasıdır; Ege
+    Üniversitesi Ölçme ve Değerlendirme Esasları Yönergesi bunu açıkça belirtir. Ders tekrarında
+    ortalamaya <strong>en son alınan harf notu</strong> girer, eski not düşer.
+  </p>
+
+  <h2>Ege Üniversitesi harf notu tablosu</h2>
+  <table>
+    <thead>
+      <tr><th>Puan</th><th>Harf notu</th><th>Katsayı</th><th>Durum</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>88&ndash;100</td><td>AA</td><td>4,00</td><td>Başarılı</td></tr>
+      <tr><td>81&ndash;87</td><td>BA</td><td>3,50</td><td>Başarılı</td></tr>
+      <tr><td>74&ndash;80</td><td>BB</td><td>3,00</td><td>Başarılı</td></tr>
+      <tr><td>67&ndash;73</td><td>CB</td><td>2,50</td><td>Başarılı</td></tr>
+      <tr><td>60&ndash;66</td><td>CC</td><td>2,00</td><td>Başarılı</td></tr>
+      <tr><td>53&ndash;59</td><td>DC</td><td>1,50</td><td>Başarısız</td></tr>
+      <tr><td>46&ndash;52</td><td>DD</td><td>1,00</td><td>Başarısız</td></tr>
+      <tr><td>0&ndash;45</td><td>FD</td><td>0,50</td><td>Başarısız</td></tr>
+      <tr><td>&mdash;</td><td>FF</td><td>0,00</td><td>Devamsız</td></tr>
+    </tbody>
+  </table>
+  <p>
+    Ege&rsquo;de geçer not <strong>CC ve üstüdür</strong>. DC ve DD birçok üniversitede koşullu geçer
+    sayılsa da Ege&rsquo;nin yönergesinde başarısız kabul edilir ve ders tekrarı gerekir. Mezuniyet
+    için AGNO&rsquo;nun en az <strong>2,00</strong> olması şarttır.
+  </p>
+
+  <h2>Transkriptimi nereden alırım?</h2>
+  <h3>e-Devlet</h3>
+  <p>
+    e-Devlet&rsquo;te &ldquo;Öğrenci Belgesi / Not Döküm Belgesi&rdquo; hizmetinden transkriptini PDF
+    olarak indirebilirsin. <strong>Bu belgeyi öneriyoruz</strong>; en düzenli okuduğumuz biçim bu ve
+    hesaplanan ortalama belgedeki değerle birebir tutuyor.
+  </p>
+  <h3>Ege SSO (öğrenci bilgi sistemi)</h3>
+  <p>
+    Öğrenci bilgi sistemine girip transkript ekranından &ldquo;İndir&rdquo; diyerek de PDF
+    alabilirsin. Bu biçimde muafiyet, ders tekrarı ve yerine sayılan ders gibi özel durumlar bazen
+    tam okunamıyor; araç, hesapladığı ortalamayı belgenin kendi yazdığı değerle karşılaştırıp
+    uyuşmazsa seni uyarır.
+  </p>
+
+  <h2>Sık sorulanlar</h2>
+  <h3>Notlarım bir yere kaydediliyor mu?</h3>
+  <p>
+    Hayır. PDF tarayıcının içinde okunur, hiçbir veri sunucuya gönderilmez. Sayfayı kapattığında
+    bilgiler kalmaz.
+  </p>
+  <h3>Hesaplanan ortalama resmî midir?</h3>
+  <p>
+    Değildir, bilgilendirme amaçlıdır. Resmî ortalaman öğrenci bilgi sisteminde yazandır; bir
+    uyuşmazlık görürsen öğrenci işlerine danış.
+  </p>
+  <h3>DC veya DD aldım, dersi tekrar almalı mıyım?</h3>
+  <p>
+    Ege&rsquo;de evet. Yönergede DC ve DD başarısız sayılıyor; bu notlara sahip dersleri öncelikle
+    tekrar alman gerekiyor.
+  </p>
+  <h3>Çift anadal (ÇAP) yapıyorum, ortalamam nasıl hesaplanıyor?</h3>
+  <p>
+    Anadal ve çift anadal programlarının ortalamaları ayrı tutulur. Transkriptini yüklediğinde araç
+    belgede hangi program varsa onu hesaplar.
+  </p>
+</div>
+
+<script>
+// İframe içindeki araç büyüdükçe çerçeveyi büyüt; sayfada iki ayrı kaydırma çubuğu olmasın.
+(function () {
+  window.addEventListener('message', function (e) {
+    var v = e && e.data;
+    if (!v || v.tip !== 'ege-ders-analizi:yukseklik') return;
+    var c = document.getElementById('ege-ders-analizi-cerceve');
+    if (c && v.yukseklik > 200) c.style.height = v.yukseklik + 24 + 'px';
+  });
+})();
+</script>

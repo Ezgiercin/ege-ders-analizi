@@ -31,6 +31,9 @@
 
 html, body, #root { min-height: 100%; }
 
+/* Forumun icine gomuldugunde kendi zeminini basmasin, forumun temasi gorunsun. */
+body.gomulu, body.gomulu #root { background: transparent; min-height: 0; }
+
 body {
   margin: 0;
   background: var(--zemin);

@@ -1,4 +1,4 @@
-import { useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import {
   HARFLER,
   HARF_TABLOSU,
@@ -18,6 +18,10 @@ const bicimAdi = (k: string) => (k === 'edevlet' ? 'e-Devlet' : 'Ege SSO');
 const ondalik = (n: number, basamak = 2) =>
   n.toLocaleString('tr-TR', { minimumFractionDigits: basamak, maximumFractionDigits: basamak });
 
+/** Forumun icine iframe ile gomuldugunde ?embed=1 ile acilir: kendi basligi ve
+ *  acilama bolumleri gizlenir, bunlar forum sayfasinin HTML'inde duruyor. */
+const GOMULU = new URLSearchParams(window.location.search).get('embed') === '1';
+
 export default function App() {
   const [sonuc, setSonuc] = useState<TranskriptSonuc | null>(null);
   const [dersler, setDersler] = useState<Ders[]>([]);
@@ -26,6 +30,23 @@ export default function App() {
   const [hedef, setHedef] = useState('3,00');
   const [kalanAkts, setKalanAkts] = useState('30');
   const girdiRef = useRef<HTMLInputElement>(null);
+
+  // Gomulu modda iframe'in yuksekligini ust sayfaya bildiriyoruz ki ic kaydirma olmasin.
+  useEffect(() => {
+    if (!GOMULU) return;
+    const bildir = () => {
+      const h = document.documentElement.scrollHeight;
+      window.parent.postMessage({ tip: 'ege-ders-analizi:yukseklik', yukseklik: h }, '*');
+    };
+    bildir();
+    const gozlemci = new ResizeObserver(bildir);
+    gozlemci.observe(document.body);
+    window.addEventListener('load', bildir);
+    return () => {
+      gozlemci.disconnect();
+      window.removeEventListener('load', bildir);
+    };
+  }, []);
 
   const ortalama = useMemo(() => agnoHesapla(dersler), [dersler]);
   const yillar = useMemo(() => yillaraGore(dersler), [dersler]);
@@ -77,6 +98,7 @@ export default function App() {
 
   return (
     <div className="min-h-screen">
+      {!GOMULU && (
       <header className="border-b" style={{ borderColor: 'var(--cizgi)', background: 'var(--yuzey)' }}>
         <div className="mx-auto flex max-w-5xl items-center gap-3 px-4 py-3">
           <a href={FORUM} className="flex items-center gap-3">
@@ -90,16 +112,21 @@ export default function App() {
           </span>
         </div>
       </header>
+      )}
 
-      <main className="mx-auto max-w-5xl px-4 py-8">
-        <h1 className="text-2xl font-bold sm:text-3xl">Ege Üniversitesi AGNO Hesaplama</h1>
-        <p className="mt-2 max-w-2xl" style={{ color: 'var(--soluk)' }}>
-          Transkriptini yükle; genel not ortalaman (AGNO), yıl ortalamaların ve her dersin katkısı
-          otomatik hesaplansın. Notları değiştirip senaryo deneyebilirsin. Dosya tarayıcından çıkmaz,
-          hiçbir sunucuya gönderilmez.
-        </p>
+      <main className={GOMULU ? 'px-0 py-0' : 'mx-auto max-w-5xl px-4 py-8'}>
+        {!GOMULU && (
+          <>
+            <h1 className="text-2xl font-bold sm:text-3xl">Ege Üniversitesi AGNO Hesaplama</h1>
+            <p className="mt-2 max-w-2xl" style={{ color: 'var(--soluk)' }}>
+              Transkriptini yükle; genel not ortalaman (AGNO), yıl ortalamaların ve her dersin katkısı
+              otomatik hesaplansın. Notları değiştirip senaryo deneyebilirsin. Dosya tarayıcından
+              çıkmaz, hiçbir sunucuya gönderilmez.
+            </p>
+          </>
+        )}
 
-        <section className="kart mt-6 p-5">
+        <section className={`kart p-5 ${GOMULU ? '' : 'mt-6'}`}>
           <div className="flex flex-wrap items-center gap-4">
             <div className="min-w-0 flex-1">
               <h2 className="font-semibold">Transkriptini yükle</h2>
@@ -329,6 +356,7 @@ export default function App() {
           </>
         )}
 
+        {!GOMULU && (
         <section className="kart mt-10 p-5">
           <h2 className="text-xl font-semibold">Ege Üniversitesi&rsquo;nde AGNO nasıl hesaplanır?</h2>
           <p className="mt-2" style={{ color: 'var(--soluk)' }}>
@@ -382,7 +410,9 @@ export default function App() {
             AGNO&rsquo;nun en az 2,00 olması gerekir.
           </p>
         </section>
+        )}
 
+        {!GOMULU && (
         <section className="kart mt-6 p-5">
           <h2 className="text-xl font-semibold">Transkriptimi nereden alırım?</h2>
           <p className="mt-2">
@@ -397,8 +427,9 @@ export default function App() {
             gösteriyor.
           </p>
         </section>
+        )}
 
-        <p className="mt-8 text-center text-sm" style={{ color: 'var(--soluk)' }}>
+        <p className={`text-center text-sm ${GOMULU ? 'mt-6' : 'mt-8'}`} style={{ color: 'var(--soluk)' }}>
           Yüklediğin PDF tarayıcında işlenir, hiçbir sunucuya yüklenmez. Sonuçlar bilgilendirme
           amaçlıdır; resmî ortalaman için öğrenci işlerine danış.
         </p>
