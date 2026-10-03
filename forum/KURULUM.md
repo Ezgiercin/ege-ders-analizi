@@ -56,6 +56,17 @@ http://localhost:5173/ders-analizi/
 
 Save.
 
+## 4b. Çerçeve kodunu ekle (yükseklik ve tema)
+
+NodeBB, widget HTML'inin içindeki `<script>` etiketlerini çalıştırmaz. Bu yüzden
+çerçevenin boyunu içeriğe göre ayarlayan ve temayı forumla eşitleyen kod ayrı
+duruyor:
+
+Admin → **Appearance → Custom Content** → **Custom JavaScript** sekmesi →
+`nodebb-custom-javascript.js` dosyasının içeriğini yapıştır → Save.
+
+Sonra NodeBB'yi yeniden başlat. Bu kod yalnızca ders analizi sayfasında iş yapar.
+
 ## 5. Menüye ekle
 
 Admin → Settings → Navigation → yeni öğe:

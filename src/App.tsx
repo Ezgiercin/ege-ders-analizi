@@ -4,7 +4,6 @@ import {
   HARF_TABLOSU,
   agnoHesapla,
   basariliMi,
-  hedefIcinGereken,
   ortalamayaGirer,
   yillaraGore,
   type Ders,
@@ -27,24 +26,33 @@ export default function App() {
   const [dersler, setDersler] = useState<Ders[]>([]);
   const [hata, setHata] = useState<string | null>(null);
   const [yukleniyor, setYukleniyor] = useState(false);
-  const [hedef, setHedef] = useState('3,00');
-  const [kalanAkts, setKalanAkts] = useState('30');
   const girdiRef = useRef<HTMLInputElement>(null);
 
   // Gomulu modda iframe'in yuksekligini ust sayfaya bildiriyoruz ki ic kaydirma olmasin.
   useEffect(() => {
     if (!GOMULU) return;
+    // Yuksekligi body'nin gercek icerik yuksekliginden olcuyoruz. documentElement
+    // kullanilirsa cerceve buyudukce olcum de buyur ve dongu olusur.
+    let sonBildirilen = 0;
     const bildir = () => {
-      const h = document.documentElement.scrollHeight;
-      window.parent.postMessage({ tip: 'ege-ders-analizi:yukseklik', yukseklik: h }, '*');
+      const h = Math.ceil(document.body.getBoundingClientRect().height);
+      if (h > 0 && Math.abs(h - sonBildirilen) > 4) {
+        sonBildirilen = h;
+        window.parent.postMessage({ tip: 'ege-ders-analizi:yukseklik', yukseklik: h }, '*');
+      }
     };
     bildir();
     const gozlemci = new ResizeObserver(bildir);
     gozlemci.observe(document.body);
     window.addEventListener('load', bildir);
+    // Ust sayfanin dinleyicisi gec baglanmis olabilir; ilk saniyelerde tekrar bildir.
+    const tekrar = window.setInterval(bildir, 400);
+    const dur = window.setTimeout(() => window.clearInterval(tekrar), 4000);
     return () => {
       gozlemci.disconnect();
       window.removeEventListener('load', bildir);
+      window.clearInterval(tekrar);
+      window.clearTimeout(dur);
     };
   }, []);
 
@@ -90,14 +98,8 @@ export default function App() {
     if (sonuc) setDersler(sonuc.dersler.map((d) => ({ ...d })));
   }
 
-  const gereken = hedefIcinGereken(
-    ortalama,
-    parseFloat(kalanAkts.replace(',', '.')) || 0,
-    parseFloat(hedef.replace(',', '.')) || 0
-  );
-
   return (
-    <div className="min-h-screen">
+    <div className={GOMULU ? '' : 'min-h-screen'}>
       {!GOMULU && (
       <header className="border-b" style={{ borderColor: 'var(--cizgi)', background: 'var(--yuzey)' }}>
         <div className="mx-auto flex max-w-5xl items-center gap-3 px-4 py-3">
@@ -208,53 +210,6 @@ export default function App() {
                 Sonucu resmî kabul etme ve mümkünse bize bildir.
               </p>
             )}
-
-            <section className="mt-6 flex flex-wrap items-end gap-4 kart p-5">
-              <div>
-                <h2 className="font-semibold">Hedef ortalama</h2>
-                <p className="mt-1 text-sm" style={{ color: 'var(--soluk)' }}>
-                  Kalan derslerden ortalama kaç almam gerekir?
-                </p>
-              </div>
-              <label className="text-sm">
-                <span className="mb-1 block" style={{ color: 'var(--soluk)' }}>
-                  Hedef AGNO
-                </span>
-                <input
-                  value={hedef}
-                  onChange={(e) => setHedef(e.target.value)}
-                  inputMode="decimal"
-                  className="w-24 rounded-lg border px-3 py-2"
-                  style={{ borderColor: 'var(--cizgi)', background: 'var(--zemin)' }}
-                />
-              </label>
-              <label className="text-sm">
-                <span className="mb-1 block" style={{ color: 'var(--soluk)' }}>
-                  Kalan AKTS
-                </span>
-                <input
-                  value={kalanAkts}
-                  onChange={(e) => setKalanAkts(e.target.value)}
-                  inputMode="numeric"
-                  className="w-24 rounded-lg border px-3 py-2"
-                  style={{ borderColor: 'var(--cizgi)', background: 'var(--zemin)' }}
-                />
-              </label>
-              <div className="text-sm">
-                {gereken == null ? null : gereken > 4 ? (
-                  <span className="text-red-600 dark:text-red-300">
-                    Bu hedef kalan {kalanAkts} AKTS ile ulaşılabilir değil (gereken {ondalik(gereken)}).
-                  </span>
-                ) : gereken <= 0 ? (
-                  <span className="text-deniz-600">Hedefi şu an zaten geçiyorsun.</span>
-                ) : (
-                  <span>
-                    Ortalama katsayı <strong>{ondalik(gereken)}</strong> gerekiyor (yaklaşık{' '}
-                    {HARF_TABLOSU.find((h) => h.katsayi >= gereken - 1e-9)?.harf ?? 'AA'} seviyesi).
-                  </span>
-                )}
-              </div>
-            </section>
 
             <section className="mt-8">
               <div className="flex items-center justify-between">

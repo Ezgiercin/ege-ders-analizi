@@ -29,10 +29,26 @@
   }
 }
 
+/* Foruma gomuldugunde tema disaridan dayatilir, isletim sistemi tercihi degil. */
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --yuzey: #141a21;
+  --zemin: #0d1117;
+  --metin: #e7edf4;
+  --soluk: #93a3b5;
+  --cizgi: #263040;
+}
+
 html, body, #root { min-height: 100%; }
 
-/* Forumun icine gomuldugunde kendi zeminini basmasin, forumun temasi gorunsun. */
-body.gomulu, body.gomulu #root { background: transparent; min-height: 0; }
+/* Forumun icine gomuldugunde kendi zeminini basmasin, forumun temasi gorunsun.
+   html'in de yuksekligi serbest kalmali: aksi halde cerceve buyudukce sayfa da
+   buyuyor, "daha uzunum" diye haber veriyor ve sonsuz bir dongu olusuyor. */
+html.gomulu, body.gomulu, body.gomulu #root {
+  background: transparent;
+  min-height: 0;
+  height: auto;
+}
 
 body {
   margin: 0;

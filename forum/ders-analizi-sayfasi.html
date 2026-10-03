@@ -7,6 +7,11 @@
 
   IFRAME_ADRESI yerine uygulamanın yayınlandığı adresi yaz, sonuna ?embed=1 ekli kalsın.
   Yerelde deneme için: http://localhost:5173/ders-analizi/?embed=1
+
+  ÖNEMLİ: Çerçevenin yüksekliğini ve temasını ayarlayan kod burada DEĞİL.
+  NodeBB widget içindeki <script> etiketlerini çalıştırmıyor; o kod
+  nodebb-custom-javascript.js dosyasında ve şuraya yapıştırılır:
+  Admin → Appearance → Custom Content → Custom JavaScript
 -->
 
 <div class="ege-ders-analizi">
@@ -23,7 +28,7 @@
     src="IFRAME_ADRESI?embed=1"
     title="Ege Üniversitesi AGNO hesaplama aracı"
     loading="lazy"
-    style="width:100%;border:0;height:900px;display:block"
+    style="width:100%;border:0;height:460px;display:block"
   ></iframe>
 
   <h2>Ege Üniversitesi&rsquo;nde AGNO nasıl hesaplanır?</h2>
@@ -103,15 +108,3 @@
     belgede hangi program varsa onu hesaplar.
   </p>
 </div>
-
-<script>
-// İframe içindeki araç büyüdükçe çerçeveyi büyüt; sayfada iki ayrı kaydırma çubuğu olmasın.
-(function () {
-  window.addEventListener('message', function (e) {
-    var v = e && e.data;
-    if (!v || v.tip !== 'ege-ders-analizi:yukseklik') return;
-    var c = document.getElementById('ege-ders-analizi-cerceve');
-    if (c && v.yukseklik > 200) c.style.height = v.yukseklik + 24 + 'px';
-  });
-})();
-</script>
