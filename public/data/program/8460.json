@@ -1,0 +1,41 @@
+{
+ "id": "8460",
+ "bolumId": "61275",
+ "yil": "932001",
+ "derece": 2,
+ "fakulte": "Sosyal Bilimler Enstitüsü",
+ "bolum": "İktisat",
+ "tur": "Uygulamalı Ekonomi ve Veri Bilimi",
+ "ad": "İktisat — Uygulamalı Ekonomi ve Veri Bilimi",
+ "yol": "/DereceProgramlari/Detay/2/61275/8460/932001",
+ "dersler": [
+  {
+   "kod": "9202077012025",
+   "ad": "Uygulamalı Ekonomı",
+   "mufredat": null,
+   "yariyil": 1,
+   "grup": null,
+   "tur": "Zorunlu",
+   "dil": "Türkçe",
+   "teori": 3,
+   "uygulama": null,
+   "laboratuvar": null,
+   "akts": null,
+   "detayYolu": "/DereceProgramlari/Ders/2/8460/301893/794579/1/2026"
+  },
+  {
+   "kod": "9202077002026",
+   "ad": "Bılımsel Araştırma Yöntemlerı ve Yayın Etığı",
+   "mufredat": null,
+   "yariyil": 2,
+   "grup": null,
+   "tur": "Zorunlu",
+   "dil": "Türkçe",
+   "teori": 3,
+   "uygulama": null,
+   "laboratuvar": null,
+   "akts": null,
+   "detayYolu": "/DereceProgramlari/Ders/2/8460/304783/796978/1/2026"
+  }
+ ]
+}

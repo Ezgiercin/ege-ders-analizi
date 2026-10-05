@@ -23,10 +23,11 @@
     var c = cerceve();
     var y = Number(v.yukseklik);
     if (!c || !(y > 80) || y > 20000) return;
-    // Dongu emniyeti: olculen boy cercevenin mevcut boyuna cok yakinsa, icerik
-    // cerceveye gore buyuyor demektir; buyutmeyi birak.
     var simdiki = c.getBoundingClientRect().height;
-    if (y > simdiki && y - simdiki < 24) return;
+    // 2 pikselden kucuk farklari yok say; aksi halde her kucuk degisimde
+    // cerceve titrer. Buyume engellenmez: engellenirse icerik sigmaz ve
+    // cerceve icinde ikinci bir kaydirma cubugu cikar.
+    if (Math.abs(y + 16 - simdiki) < 2) return;
     c.style.height = y + 16 + 'px';
   });
 

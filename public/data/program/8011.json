@@ -1,0 +1,27 @@
+{
+ "id": "8011",
+ "bolumId": "60058",
+ "yil": "932001",
+ "derece": 2,
+ "fakulte": "Sağlık Bilimleri Enstitüsü",
+ "bolum": "Kadın Sağlığı ve Hastalıkları Hemşireliği",
+ "tur": "Tezsiz Yüksek Lisans Programı",
+ "ad": "Kadın Sağlığı ve Hastalıkları Hemşireliği — Tezsiz Yüksek Lisans Programı",
+ "yol": "/DereceProgramlari/Detay/2/60058/8011/932001",
+ "dersler": [
+  {
+   "kod": "9304045062000",
+   "ad": "Doğum Bılgısı ve Hemşırelık Yaklaşımı I",
+   "mufredat": null,
+   "yariyil": 2,
+   "grup": null,
+   "tur": "Zorunlu",
+   "dil": "Türkçe",
+   "teori": 3,
+   "uygulama": null,
+   "laboratuvar": null,
+   "akts": 3,
+   "detayYolu": "/DereceProgramlari/Ders/2/8011/218326/720189/1/2026"
+  }
+ ]
+}

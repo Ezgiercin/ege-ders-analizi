@@ -50,6 +50,13 @@ html.gomulu, body.gomulu, body.gomulu #root {
   height: auto;
 }
 
+/* Cerceve icinde: kenarliklar cerceveye dayanip kirpilmasin, en alttaki
+   bosluk olcume dahil olsun (alt pay aksi halde disari tasip yutuluyor). */
+body.gomulu {
+  padding: 2px 3px 10px;
+  overflow-x: hidden;
+}
+
 body {
   margin: 0;
   background: var(--zemin);

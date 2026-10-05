@@ -1,0 +1,27 @@
+{
+ "id": "8128",
+ "bolumId": "61021",
+ "yil": "932001",
+ "derece": 2,
+ "fakulte": "Sağlık Bilimleri Enstitüsü",
+ "bolum": "Çocuk Sağlığı ve Hastalıkları Hemşireliği",
+ "tur": "Yenidoğan Yoğun Bakım Hemşireliği",
+ "ad": "Çocuk Sağlığı ve Hastalıkları Hemşireliği — Yenidoğan Yoğun Bakım Hemşireliği",
+ "yol": "/DereceProgramlari/Detay/2/61021/8128/932001",
+ "dersler": [
+  {
+   "kod": "BAT102",
+   "ad": "Bılımsel Araştırmanın Temellerı",
+   "mufredat": "Çocuk Sağlığı ve Hastalıkları Hemşireliği ) - Yeni Doğan Bakım Hemşireliği ( Ana Müfredat",
+   "yariyil": 1,
+   "grup": null,
+   "tur": "Zorunlu",
+   "dil": "Türkçe",
+   "teori": 2,
+   "uygulama": null,
+   "laboratuvar": null,
+   "akts": 3,
+   "detayYolu": "/DereceProgramlari/Ders/2/8128/265257/775365/1/2026"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "id": "8218",
+ "bolumId": "61118",
+ "yil": "932001",
+ "derece": 2,
+ "fakulte": "Sosyal Bilimler Enstitüsü",
+ "bolum": "Uluslararası İlişkiler",
+ "tur": "Küresel Güvenlik ve Dış Politika",
+ "ad": "Uluslararası İlişkiler — Küresel Güvenlik ve Dış Politika",
+ "yol": "/DereceProgramlari/Detay/2/61118/8218/932001",
+ "dersler": [
+  {
+   "kod": "9219047012023",
+   "ad": "Dış Polıtıka Analızı",
+   "mufredat": null,
+   "yariyil": 1,
+   "grup": null,
+   "tur": "Zorunlu",
+   "dil": "Türkçe",
+   "teori": 3,
+   "uygulama": null,
+   "laboratuvar": null,
+   "akts": null,
+   "detayYolu": "/DereceProgramlari/Ders/2/8218/296516/787482/1/2026"
+  },
+  {
+   "kod": "9219047032023",
+   "ad": "Bılımsel Araştırma Yöntemlerı ve Etık",
+   "mufredat": null,
+   "yariyil": 1,
+   "grup": null,
+   "tur": "Zorunlu",
+   "dil": "Türkçe",
+   "teori": 3,
+   "uygulama": null,
+   "laboratuvar": null,
+   "akts": null,
+   "detayYolu": "/DereceProgramlari/Ders/2/8218/296517/787483/1/2026"
+  },
+  {
+   "kod": "9219047022023",
+   "ad": "Uluslararası Güvenlık",
+   "mufredat": null,
+   "yariyil": 2,
+   "grup": null,
+   "tur": "Zorunlu",
+   "dil": "Türkçe",
+   "teori": 3,
+   "uygulama": null,
+   "laboratuvar": null,
+   "akts": null,
+   "detayYolu": "/DereceProgramlari/Ders/2/8218/296532/787484/1/2026"
+  }
+ ]
+}
