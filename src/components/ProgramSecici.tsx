@@ -25,6 +25,14 @@ export default function ProgramSecici({ secili, onSec }: Props) {
       .catch((e) => setHata(e.message));
   }, []);
 
+  // Program dışarıdan seçildiğinde (ör. transkriptten bulunduğunda) düzey ve
+  // fakülte kutularını da ona göre doldur.
+  useEffect(() => {
+    if (!secili) return;
+    setDerece(secili.derece);
+    setFakulte(secili.fakulte ?? '');
+  }, [secili]);
+
   const fakulteListesi = useMemo(
     () => (dizin ? fakulteler(dizin.programlar, derece) : []),
     [dizin, derece]
@@ -33,6 +41,14 @@ export default function ProgramSecici({ secili, onSec }: Props) {
     () => (dizin ? programlariSuz(dizin.programlar, derece, fakulte || null) : []),
     [dizin, derece, fakulte]
   );
+
+  // Liste her filtrede yeniden anahtarlandığı için seçili programı kimliğinden bul
+  const seciliAnahtar =
+    (secili &&
+      programListesi.find(
+        (p) => p.id === secili.id && p.ad === secili.ad && p.fakulte === secili.fakulte
+      )?.anahtar) ||
+    '';
 
   const kutu = 'w-full rounded-lg border px-3 py-2 text-sm';
   const kutuStil = { borderColor: 'var(--cizgi)', background: 'var(--yuzey)', color: 'var(--metin)' };
@@ -104,7 +120,7 @@ export default function ProgramSecici({ secili, onSec }: Props) {
           <select
             className={kutu}
             style={kutuStil}
-            value={secili?.anahtar ?? ''}
+            value={seciliAnahtar}
             disabled={!dizin}
             onChange={(e) => {
               const p = programListesi.find((x) => x.anahtar === e.target.value) ?? null;

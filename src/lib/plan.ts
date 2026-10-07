@@ -62,6 +62,10 @@ export function planKur(opts: {
   const bolumler: PlanBolumu[] = [];
   const tumSatirlar: PlanSatiri[] = [];
   const mufredattakiKodlar = new Set<string>();
+  // Transkriptteki son kayıt: müfredat satırında AKTS'yi belgeden almak için
+  // (katalogdaki AKTS ile öğrencinin aldığı yılın AKTS'si farklı olabilir).
+  const transkripttenDers = new Map<string, Ders>();
+  for (const d of transkriptDersleri) transkripttenDers.set(d.kod, d);
 
   if (program) {
     const ana = opts.mufredat !== undefined ? opts.mufredat : anaMufredat(program.dersler);
@@ -73,7 +77,7 @@ export function planKur(opts: {
     for (const y of donemler) {
       const satirlar = donemliler
         .filter((d) => d.yariyil === y)
-        .map((d) => katalogdanSatir(d, notlar));
+        .map((d) => katalogdanSatir(d, notlar, transkripttenDers));
       satirlar.forEach((s) => mufredattakiKodlar.add(s.kod));
       bolumler.push({ baslik: `${y}. dönem`, satirlar });
       tumSatirlar.push(...satirlar);
@@ -81,7 +85,7 @@ export function planKur(opts: {
 
     const gruplar = [...new Set(anaDersler.filter((d) => d.grup).map((d) => d.grup as string))];
     for (const g of gruplar) {
-      const satirlar = anaDersler.filter((d) => d.grup === g).map((d) => katalogdanSatir(d, notlar));
+      const satirlar = anaDersler.filter((d) => d.grup === g).map((d) => katalogdanSatir(d, notlar, transkripttenDers));
       satirlar.forEach((s) => mufredattakiKodlar.add(s.kod));
       bolumler.push({ baslik: g, altBaslik: 'Seçmeli ders havuzu', satirlar });
       tumSatirlar.push(...satirlar);
@@ -126,12 +130,17 @@ export function planKur(opts: {
   return { bolumler, satirlar: tumSatirlar };
 }
 
-function katalogdanSatir(d: KatalogDersi, notlar: Record<string, string>): PlanSatiri {
+function katalogdanSatir(
+  d: KatalogDersi,
+  notlar: Record<string, string>,
+  transkript: Map<string, Ders>
+): PlanSatiri {
+  const t = transkript.get(d.kod);
   return {
     anahtar: `m-${d.kod}-${d.yariyil ?? 'g'}-${d.grup ?? ''}`,
     kod: d.kod,
     ad: d.ad,
-    akts: d.akts,
+    akts: t?.akts ?? d.akts,
     yariyil: d.yariyil,
     grup: d.grup,
     tur: d.tur,

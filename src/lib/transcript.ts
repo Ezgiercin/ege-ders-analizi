@@ -15,7 +15,7 @@ export type Kaynak = 'edevlet' | 'sso';
 
 export interface TranskriptSonuc {
   kaynak: Kaynak;
-  ogrenci: { ad?: string; no?: string; program?: string };
+  ogrenci: { ad?: string; no?: string; program?: string; fakulte?: string };
   /** Belgenin kendi yazdığı genel ortalama — hesabımızı buna karşı doğruluyoruz. */
   beyanEdilenAgno: number | null;
   dersler: Ders[];
@@ -146,6 +146,13 @@ function parseEdevlet(sayfalar: any[]): Omit<TranskriptSonuc, 'kaynak'> {
         const sol = r.cells.filter((c) => c.x > 120 && c.x < 330);
         if (sol.length) ogrenci.program = metinBirlestir(sol);
       }
+      if (!ogrenci.fakulte && /^(Fakülte|Yüksekokul|Enstitü|Birim)/i.test(r.text)) {
+        const sol = r.cells.filter((c) => c.x > 120 && c.x < 330);
+        const deger = sol.length
+          ? metinBirlestir(sol)
+          : r.text.replace(/^(Fakülte\s*\/?\s*Yüksekokul(u)?|Fakültesi|Fakülte|Yüksekokul(u)?|Enstitü(sü)?|Birimi?)\s*:?\s*/i, '');
+        if (deger) ogrenci.fakulte = deger;
+      }
       if (beyan == null && /Genel Not Ortalaması/.test(r.text)) {
         const alti = rows[rows.indexOf(r) + 1];
         const aday = (alti ? alti.cells : []).concat(r.cells).map((c) => c.s.trim());
@@ -238,6 +245,7 @@ function parseSso(sayfalar: any[]): Omit<TranskriptSonuc, 'kaynak'> {
       if (/^Ad soyad\s*:?$/.test(t)) ogrenci.ad = rows[i + 1].text;
       if (/^Öğrenci no\s*:?$/.test(t)) ogrenci.no = rows[i + 1].text;
       if (/^Program\s*:?$/.test(t)) ogrenci.program = rows[i + 1].text;
+      if (/^(Fakülte|Birim|Fakülte\s*\/\s*Yüksekokul)\s*:?$/i.test(t)) ogrenci.fakulte = rows[i + 1].text;
       if (beyan == null && /^Genel Not Ortalaması\s*:?$/.test(t)) {
         for (let j = i + 1; j < Math.min(i + 6, rows.length); j++) {
           const v = sayi(rows[j].text);

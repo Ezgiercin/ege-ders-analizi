@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { HARFLER, HARF_TABLOSU, basariliMi } from './lib/grades';
-import { mufredatlar, programYukle, type ProgramDetay, type ProgramOzet } from './lib/katalog';
+import { dizinYukle, mufredatlar, programYukle, type ProgramDetay, type ProgramOzet } from './lib/katalog';
+import { programBul } from './lib/eslestir';
 import {
   istatistik,
   planKur,
@@ -31,6 +32,8 @@ export default function App() {
   const [programHatasi, setProgramHatasi] = useState<string | null>(null);
   const [yukleniyor, setYukleniyor] = useState(false);
   const [dersEkleAcik, setDersEkleAcik] = useState(false);
+  /** Transkriptten program bulunduğunda / bulunamadığında gösterilen not */
+  const [programNotu, setProgramNotu] = useState<{ bulundu: boolean; metin: string } | null>(null);
   const girdiRef = useRef<HTMLInputElement>(null);
 
   // Gomulu modda iframe'in yuksekligini ust sayfaya bildiriyoruz.
@@ -123,10 +126,10 @@ export default function App() {
   }, [notlar, temelNotlar, elleEklenen]);
 
   const dogrulama = useMemo(() => {
-    if (!sonuc?.beyanEdilenAgno || degistirilmis || program) return null;
+    if (!sonuc?.beyanEdilenAgno || degistirilmis) return null;
     const fark = Math.abs(sonuc.beyanEdilenAgno - ist.agno);
     return { tutuyor: fark < 0.005, beyan: sonuc.beyanEdilenAgno };
-  }, [sonuc, ist, degistirilmis, program]);
+  }, [sonuc, ist, degistirilmis]);
 
   async function dosyaSec(file: File | undefined) {
     if (!file) return;
@@ -134,12 +137,34 @@ export default function App() {
     setYukleniyor(true);
     try {
       const r = await transkriptOku(file);
-      setSonuc(r);
+      // Yeni PDF: önceki seçimler ve elle girilenler silinir, her şey belgeden gelir.
+      setElleEklenen([]);
+      setDersEkleAcik(false);
       setNotlar(transkriptNotlari(r.dersler));
+      setSonuc(r);
+      setProgramOzet(null);
+
+      // Transkriptteki program/fakülte bilgisini katalogla eşleştir
+      const dizin = await dizinYukle().catch(() => null);
+      const bulunan = dizin
+        ? await programBul(dizin.programlar, r.ogrenci, r.dersler.map((d) => d.kod))
+        : null;
+      setProgramOzet(bulunan);
+      if (bulunan) {
+        setProgramNotu({ bulundu: true, metin: `Programın transkriptten bulundu: ${bulunan.ad}` });
+      } else if (r.ogrenci.program) {
+        setProgramNotu({
+          bulundu: false,
+          metin: `Transkriptteki programı (“${r.ogrenci.program}”) katalogda eşleştiremedik. Müfredatı görmek istersen listeden seçebilirsin.`,
+        });
+      } else {
+        setProgramNotu(null);
+      }
     } catch (e) {
       setHata(e instanceof Error ? e.message : 'PDF okunamadı.');
       setSonuc(null);
       setNotlar({});
+      setProgramNotu(null);
     } finally {
       setYukleniyor(false);
     }
@@ -203,7 +228,11 @@ export default function App() {
               type="file"
               accept="application/pdf,.pdf"
               className="hidden"
-              onChange={(e) => dosyaSec(e.target.files?.[0])}
+              onChange={(e) => {
+                dosyaSec(e.target.files?.[0]);
+                // Aynı dosya yeniden seçilirse de okunsun
+                e.target.value = '';
+              }}
             />
             <button
               type="button"
@@ -221,7 +250,26 @@ export default function App() {
           )}
         </section>
 
-        <ProgramSecici secili={programOzet} onSec={setProgramOzet} />
+        <ProgramSecici
+          secili={programOzet}
+          onSec={(p) => {
+            setProgramOzet(p);
+            setProgramNotu(null);
+          }}
+        />
+
+        {programNotu && (
+          <p
+            className={`mt-3 rounded-lg px-4 py-3 text-sm ${
+              programNotu.bulundu
+                ? 'bg-deniz-100 text-deniz-600 dark:bg-deniz-600/20 dark:text-deniz-100'
+                : 'bg-amber-50 text-amber-900 dark:bg-amber-950/40 dark:text-amber-100'
+            }`}
+          >
+            {programNotu.metin}
+            {programNotu.bulundu && ' Farklıysa yukarıdan değiştirebilirsin.'}
+          </p>
+        )}
 
         {programHatasi && (
           <p className="mt-3 rounded-lg bg-amber-50 px-4 py-3 text-sm text-amber-900 dark:bg-amber-950/40 dark:text-amber-100">
