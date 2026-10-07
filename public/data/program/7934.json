@@ -12,7 +12,7 @@
   {
    "kod": "9304185012013",
    "ad": "İş Sağlığı Hemşırelığı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9304185042016",
    "ad": "Sağlık Bılımlerınde Araştırma",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9304185022013",
    "ad": "İş Sağlığı Hızmetlerı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9304025462017",
    "ad": "Hemşırelıkte Eleştırel Düşünme",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9304025472017",
    "ad": "İş Sağlığı Hızmetlerı Uygulaması",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9304185032016",
    "ad": "İş Sağlığı Hemşırelığı Uygulaması",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9304185052013",
    "ad": "Hemşırelıkte Epıdemıyolojı(Genel)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9304185082015",
    "ad": "Temel İlkyardım",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9304185092013",
    "ad": "Bılgısayar Uygulamalı Bıyoıstatıstık I",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9304185122015",
    "ad": "Sağlığı Gelıştırme ve Sağlık Eğıtımı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9304185162013",
    "ad": "İş Sağlığı Alanındakı Meslekı Sağlık Sorunları",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9304185172013",
    "ad": "Ekotoksıkoljı ve Hava Kırlılığı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9304185182013",
    "ad": "İş Sağlığı Toksıkolojısı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9304185192013",
    "ad": "İş Hukuku",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9304025462017",
    "ad": "Hemşırelıkte Eleştırel Düşünme",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9304025472017",
    "ad": "İş Sağlığı Hızmetlerı Uygulaması",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9304185032016",
    "ad": "İş Sağlığı Hemşırelığı Uygulaması",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9304185052013",
    "ad": "Hemşırelıkte Epıdemıyolojı(Genel)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9304185082015",
    "ad": "Temel İlkyardım",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9304185092013",
    "ad": "Bılgısayar Uygulamalı Bıyoıstatıstık I",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9304185122015",
    "ad": "Sağlığı Gelıştırme ve Sağlık Eğıtımı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9304185162013",
    "ad": "İş Sağlığı Alanındakı Meslekı Sağlık Sorunları",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9304185172013",
    "ad": "Ekotoksıkoljı ve Hava Kırlılığı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9304185182013",
    "ad": "İş Sağlığı Toksıkolojısı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9304185192013",
    "ad": "İş Hukuku",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans ) İş Sağlığı Hemşireliği Müfredatı",
    "yariyil": null,
    "grup": "930418SEÇMELİ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",

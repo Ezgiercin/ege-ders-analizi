@@ -12,7 +12,7 @@
   {
    "kod": "9301235092014",
    "ad": "Temel Epıdemıyolojı",
-   "mufredat": "Halk Sağlığı-İş Sağlığı ve İş Güvenliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lis) Müfredatı (Halk Sağlığı-İş Sağlığı ve İş Güvenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9301235022014",
    "ad": "İş Güvenlığı ve İş Kazaları",
-   "mufredat": "Halk Sağlığı-İş Sağlığı ve İş Güvenliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lis) Müfredatı (Halk Sağlığı-İş Sağlığı ve İş Güvenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9301235032014",
    "ad": "İş Sağlığında Rıskler ve İşkollarına Özel Sorunlar",
-   "mufredat": "Halk Sağlığı-İş Sağlığı ve İş Güvenliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lis) Müfredatı (Halk Sağlığı-İş Sağlığı ve İş Güvenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9301235042014",
    "ad": "İş Sağlığı ve İş Güvenlığı Örgütlenmesı",
-   "mufredat": "Halk Sağlığı-İş Sağlığı ve İş Güvenliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lis) Müfredatı (Halk Sağlığı-İş Sağlığı ve İş Güvenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": "Halk Sağlığı-İş Sağlığı ve İş Güvenliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lis) Müfredatı (Halk Sağlığı-İş Sağlığı ve İş Güvenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": "Halk Sağlığı-İş Sağlığı ve İş Güvenliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lis) Müfredatı (Halk Sağlığı-İş Sağlığı ve İş Güvenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Halk Sağlığı-İş Sağlığı ve İş Güvenliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lis) Müfredatı (Halk Sağlığı-İş Sağlığı ve İş Güvenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": "Halk Sağlığı-İş Sağlığı ve İş Güvenliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lis) Müfredatı (Halk Sağlığı-İş Sağlığı ve İş Güvenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Halk Sağlığı-İş Sağlığı ve İş Güvenliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lis) Müfredatı (Halk Sağlığı-İş Sağlığı ve İş Güvenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "9301235052015",
    "ad": "Sağlık Eğıtımı",
-   "mufredat": "Halk Sağlığı-İş Sağlığı ve İş Güvenliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lis) Müfredatı (Halk Sağlığı-İş Sağlığı ve İş Güvenliği)",
    "yariyil": null,
    "grup": "930123SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9301235072015",
    "ad": "Çevre Sağlığı",
-   "mufredat": "Halk Sağlığı-İş Sağlığı ve İş Güvenliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lis) Müfredatı (Halk Sağlığı-İş Sağlığı ve İş Güvenliği)",
    "yariyil": null,
    "grup": "930123SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9301235102014",
    "ad": "Temel Bıyoıstatıstık",
-   "mufredat": "Halk Sağlığı-İş Sağlığı ve İş Güvenliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lis) Müfredatı (Halk Sağlığı-İş Sağlığı ve İş Güvenliği)",
    "yariyil": null,
    "grup": "930123SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9301235112012",
    "ad": "İş Toksıkolojısı",
-   "mufredat": "Halk Sağlığı-İş Sağlığı ve İş Güvenliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lis) Müfredatı (Halk Sağlığı-İş Sağlığı ve İş Güvenliği)",
    "yariyil": null,
    "grup": "930123SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9301235142014",
    "ad": "İş Psıkolojısı",
-   "mufredat": "Halk Sağlığı-İş Sağlığı ve İş Güvenliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lis) Müfredatı (Halk Sağlığı-İş Sağlığı ve İş Güvenliği)",
    "yariyil": null,
    "grup": "930123SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9301235052015",
    "ad": "Sağlık Eğıtımı",
-   "mufredat": "Halk Sağlığı-İş Sağlığı ve İş Güvenliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lis) Müfredatı (Halk Sağlığı-İş Sağlığı ve İş Güvenliği)",
    "yariyil": null,
    "grup": "930123SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9301235072015",
    "ad": "Çevre Sağlığı",
-   "mufredat": "Halk Sağlığı-İş Sağlığı ve İş Güvenliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lis) Müfredatı (Halk Sağlığı-İş Sağlığı ve İş Güvenliği)",
    "yariyil": null,
    "grup": "930123SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9301235102014",
    "ad": "Temel Bıyoıstatıstık",
-   "mufredat": "Halk Sağlığı-İş Sağlığı ve İş Güvenliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lis) Müfredatı (Halk Sağlığı-İş Sağlığı ve İş Güvenliği)",
    "yariyil": null,
    "grup": "930123SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9301235112012",
    "ad": "İş Toksıkolojısı",
-   "mufredat": "Halk Sağlığı-İş Sağlığı ve İş Güvenliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lis) Müfredatı (Halk Sağlığı-İş Sağlığı ve İş Güvenliği)",
    "yariyil": null,
    "grup": "930123SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9301235142014",
    "ad": "İş Psıkolojısı",
-   "mufredat": "Halk Sağlığı-İş Sağlığı ve İş Güvenliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lis) Müfredatı (Halk Sağlığı-İş Sağlığı ve İş Güvenliği)",
    "yariyil": null,
    "grup": "930123SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",

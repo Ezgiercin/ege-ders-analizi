@@ -12,7 +12,7 @@
   {
    "kod": "9201075012020",
    "ad": "Bılımsel Araştırma Teknıklerı ve Etık",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Prehistorya Tezli Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "PREHİSTOSDG1",
    "ad": "Prehıstorya Tezlı Yüksek Lısans SDG1",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Prehistorya Tezli Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Seçmeli",
@@ -40,7 +40,7 @@
   {
    "kod": "92SE030552022",
    "ad": "Semıner Çalışmaları",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Prehistorya Tezli Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "PREHİSTOSDG2",
    "ad": "Prehıstorya Tezlı Yüksek Lısans SDG2",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Prehistorya Tezli Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -68,7 +68,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Prehistorya Tezli Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Prehistorya Tezli Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Prehistorya Tezli Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Prehistorya Tezli Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9201075032020",
    "ad": "Prehıstorık Araştırmalarda Kuram ve Yöntem",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Prehistorya Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "PREHİSTOSDG1 - Prehistorya Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9201075052020",
    "ad": "Yerleşım Arkeolojısı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Prehistorya Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "PREHİSTOSDG1 - Prehistorya Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9201075072020",
    "ad": "Zooarkeolojık Çalışmalara Gırış",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Prehistorya Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "PREHİSTOSDG1 - Prehistorya Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9201075092020",
    "ad": "Neolıtık Dönemde Yakındoğu",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Prehistorya Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "PREHİSTOSDG1 - Prehistorya Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9201075112021",
    "ad": "Prehıstorık Dönemde Üretım",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Prehistorya Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "PREHİSTOSDG1 - Prehistorya Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9201075132021",
    "ad": "Arkeolojıde Göç ve Göçebelık",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Prehistorya Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "PREHİSTOSDG1 - Prehistorya Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9201075002020",
    "ad": "Arkeolojık Çalışmalarda Genombılımı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Prehistorya Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "PREHİSTOSDG2 - Prehistorya Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9201075022020",
    "ad": "Jeoarkeolojı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Prehistorya Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "PREHİSTOSDG2 - Prehistorya Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9201075042020",
    "ad": "Batı Anadolu’da Neolıtık Dönem Kültürü",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Prehistorya Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "PREHİSTOSDG2 - Prehistorya Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9201075062020",
    "ad": "Prehıstorık Dönemlerde Anadolu Faunası",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Prehistorya Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "PREHİSTOSDG2 - Prehistorya Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9201075082020",
    "ad": "Antropolojıde Toplumsal Evrım",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Prehistorya Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "PREHİSTOSDG2 - Prehistorya Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9201075102021",
    "ad": "Prehıstorık Dönemde Barınak ve Konut",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Prehistorya Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "PREHİSTOSDG2 - Prehistorya Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",

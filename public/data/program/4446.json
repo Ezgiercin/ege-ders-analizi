@@ -12,7 +12,7 @@
   {
    "kod": "9101045011998",
    "ad": "Kuantum Mekanığı I",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9101045052026",
    "ad": "Matematıksel Fızık Yöntemlerı I",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENETKFEN2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "9101045032014",
    "ad": "Klasık Elektrodınamık I",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "FENYLSEM",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLTEZ591",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "9101045131998",
    "ad": "İlerı Katıhal Fızığı I",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "FİZ.KATH.YL.SDG1 - FİZİK KATIHAL FİZİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9101045151998",
    "ad": "Elektron Transport Teorısı I",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "FİZ.KATH.YL.SDG1 - FİZİK KATIHAL FİZİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9101045211998",
    "ad": "Süperıletkenlığe Gırış I",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "FİZ.KATH.YL.SDG1 - FİZİK KATIHAL FİZİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9101045252002",
    "ad": "Fızıkte Sayısal Yöntemler",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "FİZ.KATH.YL.SDG1 - FİZİK KATIHAL FİZİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9101045391998",
    "ad": "Yarı İletkenler Fızığı I",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "FİZ.KATH.YL.SDG1 - FİZİK KATIHAL FİZİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9101045492000",
    "ad": "İyon Katı Etkıleşımı I",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "FİZ.KATH.YL.SDG1 - FİZİK KATIHAL FİZİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9101045612004",
    "ad": "Fızıkte Dıferansıyel Denklemler I",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "FİZ.KATH.YL.SDG1 - FİZİK KATIHAL FİZİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9101045892018",
    "ad": "Yüksek Sıcaklık Süperıletkenlerı I",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "FİZ.KATH.YL.SDG1 - FİZİK KATIHAL FİZİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9101045141998",
    "ad": "İlerı Katıhal Fızığı II",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "FİZ.KATH.YL.SDG2 - FİZİK KATIHAL FİZİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9101045161998",
    "ad": "Elektron Transport Teorısı II",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "FİZ.KATH.YL.SDG2 - FİZİK KATIHAL FİZİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9101045221998",
    "ad": "Süperıletkenlığe Gırış II",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "FİZ.KATH.YL.SDG2 - FİZİK KATIHAL FİZİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9101045401998",
    "ad": "Yarııletkenler Fızığı II",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "FİZ.KATH.YL.SDG2 - FİZİK KATIHAL FİZİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9101045502000",
    "ad": "İyon Katı Etkıleşımı II",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "FİZ.KATH.YL.SDG2 - FİZİK KATIHAL FİZİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9101045882018",
    "ad": "Yüksek Sıcaklık Süperıletkenlerı II",
-   "mufredat": null,
+   "mufredat": "2014 Fizik Katıhal Fiziği (Yükseklisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "FİZ.KATH.YL.SDG2 - FİZİK KATIHAL FİZİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",

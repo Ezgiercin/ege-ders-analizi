@@ -12,7 +12,7 @@
   {
    "kod": "2604001032021",
    "ad": "YABANCI DİL-I",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "2604001112021",
    "ad": "STAJ",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "2604001132017",
    "ad": "STATİK VE MUKAVEMET",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "2604001152021",
    "ad": "BİLGİSAYAR",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "2604001172019",
    "ad": "KİMYA",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "2604001192020",
    "ad": "MALZEME-I",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "2604001212020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "9021001012010",
    "ad": "TÜRK DİLİ - I",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9021001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ - I",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "9021001072010",
    "ad": "MATEMATİK",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "9021001112010",
    "ad": "METALURJİYE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "9021001172010",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "2604001062021",
    "ad": "YABANCI DİL-II",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "2604001102019",
    "ad": "SERAMİK MALZEMELER",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "2604001122019",
    "ad": "POLİMERİK MALZEMELER",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "2604001142019",
    "ad": "YÖNLENDİRİLMİŞ ÇALIŞMA-I",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "2604001222021",
    "ad": "MALZEME-II",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "2604001242017",
    "ad": "CEVHER HAZIRLAMA",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "2604001282021",
    "ad": "TEKNİK RESİM",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "9021000922010",
    "ad": "TÜRK DİLİ - II",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "9021000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ - II",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "9021001162010",
    "ad": "ÖLÇME BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "19012101T11219",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "2604002012019",
    "ad": "REFRAKTERLER VE ENDÜSTRİ FIRINLARI",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "2604002032019",
    "ad": "MEKANİK METALURJİ-I",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "2604002092020",
    "ad": "ÇELİKLER VE ISIL İŞLEMLER",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "9021002012010",
    "ad": "KOMPOZİT MALZEMELER",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "9021002032010",
    "ad": "KOROZYON",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "9021002072010",
    "ad": "DEMİR-ÇELİK ÜRETİM TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "9021002212011",
    "ad": "BİLGİSAYAR DESTEKLİ TASARIM",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "2604002002019",
    "ad": "YÖNLENDİRİLMİŞ ÇALIŞMA-II",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "2604002042020",
    "ad": "TALAŞLI İMALAT",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "2604002062020",
    "ad": "KALİTE KONTROL VE STANDARTLARI",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "9021002042010",
    "ad": "İŞ HUKUKU",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "9021002062010",
    "ad": "İŞ GÜVENLİĞİ",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "9021002082010",
    "ad": "DEMİR DIŞI METALLERİN ÜRETİMİ",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "9021002092010",
    "ad": "DÖKÜM PRENSİPLERİ VE TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "9021002122010",
    "ad": "MEKANİK METALURJİ-II",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "9021002142010",
    "ad": "BİRLEŞTİRME TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "2604002022019",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-METALURJİ - SEÇMELİ DERS GRUBU METALURJİ",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "2604002072020",
    "ad": "MESLEK ETİĞİ",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-METALURJİ - SEÇMELİ DERS GRUBU METALURJİ",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "2604002082020",
    "ad": "ENDÜSTRİ 4.0",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-I-METALURJİ - SEÇMELİ -I- METALURJİ",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "9021002202014",
    "ad": "İŞARET DİLİ",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-I-METALURJİ - SEÇMELİ -I- METALURJİ",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "9021002242014",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-I-METALURJİ - SEÇMELİ -I- METALURJİ",
    "tur": "Seçmeli",
@@ -628,609 +628,7 @@
   {
    "kod": "2604001032021",
    "ad": "YABANCI DİL-I",
-   "mufredat": null,
-   "yariyil": 1,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 2,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/288251/784882/1/2026"
-  },
-  {
-   "kod": "2604001112021",
-   "ad": "STAJ",
-   "mufredat": null,
-   "yariyil": 1,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": null,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 5,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/288254/784883/1/2026"
-  },
-  {
-   "kod": "2604001132017",
-   "ad": "STATİK VE MUKAVEMET",
-   "mufredat": null,
-   "yariyil": 1,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": 1,
-   "laboratuvar": null,
-   "akts": 4,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/271355/784884/1/2026"
-  },
-  {
-   "kod": "2604001152021",
-   "ad": "BİLGİSAYAR",
-   "mufredat": null,
-   "yariyil": 1,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 1,
-   "uygulama": 1,
-   "laboratuvar": null,
-   "akts": 2,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/288253/784885/1/2026"
-  },
-  {
-   "kod": "2604001172019",
-   "ad": "KİMYA",
-   "mufredat": null,
-   "yariyil": 1,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 3,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/278386/784886/1/2026"
-  },
-  {
-   "kod": "2604001212020",
-   "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
-   "yariyil": 1,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 1,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 2,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/284071/784888/1/2026"
-  },
-  {
-   "kod": "9021001012010",
-   "ad": "TÜRK DİLİ - I",
-   "mufredat": null,
-   "yariyil": 1,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 2,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/132368/784889/1/2026"
-  },
-  {
-   "kod": "9021001022010",
-   "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ - I",
-   "mufredat": null,
-   "yariyil": 1,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 2,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/132369/784890/1/2026"
-  },
-  {
-   "kod": "9021001072010",
-   "ad": "MATEMATİK",
-   "mufredat": null,
-   "yariyil": 1,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": 1,
-   "laboratuvar": null,
-   "akts": 3,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/132374/784891/1/2026"
-  },
-  {
-   "kod": "9021001112010",
-   "ad": "METALURJİYE GİRİŞ",
-   "mufredat": null,
-   "yariyil": 1,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 2,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/132378/784892/1/2026"
-  },
-  {
-   "kod": "9021001172010",
-   "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
-   "yariyil": 1,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 1,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 1,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/132384/784893/1/2026"
-  },
-  {
-   "kod": "2604001062021",
-   "ad": "YABANCI DİL-II",
-   "mufredat": null,
-   "yariyil": 2,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 2,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/288256/784894/1/2026"
-  },
-  {
-   "kod": "2604001102019",
-   "ad": "SERAMİK MALZEMELER",
-   "mufredat": null,
-   "yariyil": 2,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 3,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/278384/784895/1/2026"
-  },
-  {
-   "kod": "2604001122019",
-   "ad": "POLİMERİK MALZEMELER",
-   "mufredat": null,
-   "yariyil": 2,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 3,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/278385/784896/1/2026"
-  },
-  {
-   "kod": "2604001142019",
-   "ad": "YÖNLENDİRİLMİŞ ÇALIŞMA-I",
-   "mufredat": null,
-   "yariyil": 2,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": 1,
-   "laboratuvar": null,
-   "akts": 4,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/278388/784897/1/2026"
-  },
-  {
-   "kod": "2604001222021",
-   "ad": "MALZEME-II",
-   "mufredat": null,
-   "yariyil": 2,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 4,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/288258/784898/1/2026"
-  },
-  {
-   "kod": "2604001242017",
-   "ad": "CEVHER HAZIRLAMA",
-   "mufredat": null,
-   "yariyil": 2,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": 1,
-   "laboratuvar": null,
-   "akts": 4,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/271350/784899/1/2026"
-  },
-  {
-   "kod": "2604001282021",
-   "ad": "TEKNİK RESİM",
-   "mufredat": null,
-   "yariyil": 2,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": 1,
-   "laboratuvar": null,
-   "akts": 4,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/288261/784900/1/2026"
-  },
-  {
-   "kod": "9021000922010",
-   "ad": "TÜRK DİLİ - II",
-   "mufredat": null,
-   "yariyil": 2,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 2,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/132365/784901/1/2026"
-  },
-  {
-   "kod": "9021000942010",
-   "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ - II",
-   "mufredat": null,
-   "yariyil": 2,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 2,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/132366/784902/1/2026"
-  },
-  {
-   "kod": "9021001162010",
-   "ad": "ÖLÇME BİLGİSİ",
-   "mufredat": null,
-   "yariyil": 2,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 2,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/132383/784903/1/2026"
-  },
-  {
-   "kod": "19012101T11219",
-   "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
-   "yariyil": 3,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 1,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 1,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/229163/784904/1/2026"
-  },
-  {
-   "kod": "2604002012019",
-   "ad": "REFRAKTERLER VE ENDÜSTRİ FIRINLARI",
-   "mufredat": null,
-   "yariyil": 3,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 4,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/278389/784905/1/2026"
-  },
-  {
-   "kod": "2604002032019",
-   "ad": "MEKANİK METALURJİ-I",
-   "mufredat": null,
-   "yariyil": 3,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 4,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/278390/784906/1/2026"
-  },
-  {
-   "kod": "2604002092020",
-   "ad": "ÇELİKLER VE ISIL İŞLEMLER",
-   "mufredat": null,
-   "yariyil": 3,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": 2,
-   "laboratuvar": null,
-   "akts": 4,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/284075/784907/1/2026"
-  },
-  {
-   "kod": "9021002012010",
-   "ad": "KOMPOZİT MALZEMELER",
-   "mufredat": null,
-   "yariyil": 3,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 2,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/221713/784908/1/2026"
-  },
-  {
-   "kod": "9021002032010",
-   "ad": "KOROZYON",
-   "mufredat": null,
-   "yariyil": 3,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": 2,
-   "laboratuvar": null,
-   "akts": 6,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/221715/784909/1/2026"
-  },
-  {
-   "kod": "9021002072010",
-   "ad": "DEMİR-ÇELİK ÜRETİM TEKNOLOJİSİ",
-   "mufredat": null,
-   "yariyil": 3,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": 1,
-   "laboratuvar": null,
-   "akts": 4,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/221719/784910/1/2026"
-  },
-  {
-   "kod": "9021002212011",
-   "ad": "BİLGİSAYAR DESTEKLİ TASARIM",
-   "mufredat": null,
-   "yariyil": 3,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": 1,
-   "akts": 3,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/236309/784911/1/2026"
-  },
-  {
-   "kod": "2604002002019",
-   "ad": "YÖNLENDİRİLMİŞ ÇALIŞMA-II",
-   "mufredat": null,
-   "yariyil": 4,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": null,
-   "uygulama": 4,
-   "laboratuvar": null,
-   "akts": 4,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/278391/784913/1/2026"
-  },
-  {
-   "kod": "2604002042020",
-   "ad": "TALAŞLI İMALAT",
-   "mufredat": null,
-   "yariyil": 4,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 1,
-   "uygulama": 1,
-   "laboratuvar": null,
-   "akts": 2,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/284076/784914/1/2026"
-  },
-  {
-   "kod": "2604002062020",
-   "ad": "KALİTE KONTROL VE STANDARTLARI",
-   "mufredat": null,
-   "yariyil": 4,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 2,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/284077/784915/1/2026"
-  },
-  {
-   "kod": "9021002042010",
-   "ad": "İŞ HUKUKU",
-   "mufredat": null,
-   "yariyil": 4,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 2,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/221716/784916/1/2026"
-  },
-  {
-   "kod": "9021002062010",
-   "ad": "İŞ GÜVENLİĞİ",
-   "mufredat": null,
-   "yariyil": 4,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 2,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/221718/784917/1/2026"
-  },
-  {
-   "kod": "9021002082010",
-   "ad": "DEMİR DIŞI METALLERİN ÜRETİMİ",
-   "mufredat": null,
-   "yariyil": 4,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": 1,
-   "laboratuvar": null,
-   "akts": 4,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/221720/784918/1/2026"
-  },
-  {
-   "kod": "9021002092010",
-   "ad": "DÖKÜM PRENSİPLERİ VE TEKNOLOJİSİ",
-   "mufredat": null,
-   "yariyil": 4,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": 2,
-   "laboratuvar": null,
-   "akts": 4,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/221721/784919/1/2026"
-  },
-  {
-   "kod": "9021002122010",
-   "ad": "MEKANİK METALURJİ-II",
-   "mufredat": null,
-   "yariyil": 4,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 4,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/221724/784920/1/2026"
-  },
-  {
-   "kod": "9021002142010",
-   "ad": "BİRLEŞTİRME TEKNOLOJİSİ",
-   "mufredat": null,
-   "yariyil": 4,
-   "grup": null,
-   "tur": "Zorunlu",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": 1,
-   "laboratuvar": null,
-   "akts": 4,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/221726/784921/1/2026"
-  },
-  {
-   "kod": "2604002022019",
-   "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": null,
-   "yariyil": null,
-   "grup": "SEÇ-METALURJİ - SEÇMELİ DERS GRUBU METALURJİ",
-   "tur": "Seçmeli",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 2,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/279239/784912/1"
-  },
-  {
-   "kod": "2604002072020",
-   "ad": "MESLEK ETİĞİ",
-   "mufredat": null,
-   "yariyil": null,
-   "grup": "SEÇ-METALURJİ - SEÇMELİ DERS GRUBU METALURJİ",
-   "tur": "Seçmeli",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 2,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/284073/784912/1"
-  },
-  {
-   "kod": "2604002082020",
-   "ad": "ENDÜSTRİ 4.0",
-   "mufredat": null,
-   "yariyil": null,
-   "grup": "SEÇ-I-METALURJİ - SEÇMELİ -I- METALURJİ",
-   "tur": "Seçmeli",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 2,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/284072/784922/1"
-  },
-  {
-   "kod": "9021002202014",
-   "ad": "İŞARET DİLİ",
-   "mufredat": null,
-   "yariyil": null,
-   "grup": "SEÇ-I-METALURJİ - SEÇMELİ -I- METALURJİ",
-   "tur": "Seçmeli",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 2,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/255093/784922/1"
-  },
-  {
-   "kod": "9021002242014",
-   "ad": "GİRİŞİMCİLİK",
-   "mufredat": null,
-   "yariyil": null,
-   "grup": "SEÇ-I-METALURJİ - SEÇMELİ -I- METALURJİ",
-   "tur": "Seçmeli",
-   "dil": "Türkçe",
-   "teori": 2,
-   "uygulama": null,
-   "laboratuvar": null,
-   "akts": 2,
-   "detayYolu": "/DereceProgramlari/Ders/0/8080/255096/784922/1"
-  },
-  {
-   "kod": "2604001032021",
-   "ad": "YABANCI DİL-I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1244,7 +642,7 @@
   {
    "kod": "2604001112021",
    "ad": "STAJ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1258,7 +656,7 @@
   {
    "kod": "2604001152021",
    "ad": "BİLGİSAYAR",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1272,7 +670,7 @@
   {
    "kod": "2604001172019",
    "ad": "KİMYA",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1286,7 +684,7 @@
   {
    "kod": "2604001212020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1300,7 +698,7 @@
   {
    "kod": "2604001232023",
    "ad": "MALZEME BİLİMİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1314,7 +712,7 @@
   {
    "kod": "2604001252023",
    "ad": "METALURJİYE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1328,7 +726,7 @@
   {
    "kod": "9021001012010",
    "ad": "TÜRK DİLİ - I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1342,7 +740,7 @@
   {
    "kod": "9021001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ - I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1356,7 +754,7 @@
   {
    "kod": "9021001072010",
    "ad": "MATEMATİK",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1370,7 +768,7 @@
   {
    "kod": "9021001172010",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1384,7 +782,7 @@
   {
    "kod": "2604001062021",
    "ad": "YABANCI DİL-II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1398,7 +796,7 @@
   {
    "kod": "2604001282023",
    "ad": "TEKNİK RESİM",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1412,7 +810,7 @@
   {
    "kod": "2604001302023",
    "ad": "STATİK VE MUKAVEMET",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1426,7 +824,7 @@
   {
    "kod": "2604001322023",
    "ad": "DEMİR-ÇELİK ÜRETİM TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1440,7 +838,7 @@
   {
    "kod": "2604001342023",
    "ad": "MALZEME MUAYENE YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1454,7 +852,7 @@
   {
    "kod": "2604001362023",
    "ad": "ÇELİKLER VE ISIL İŞLEMLER",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1468,7 +866,7 @@
   {
    "kod": "9021000922010",
    "ad": "TÜRK DİLİ - II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1482,7 +880,7 @@
   {
    "kod": "9021000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ - II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1496,7 +894,7 @@
   {
    "kod": "9021001162010",
    "ad": "ÖLÇME BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1510,7 +908,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1524,7 +922,7 @@
   {
    "kod": "2604002032023",
    "ad": "MEKANİK METALURJİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1538,7 +936,7 @@
   {
    "kod": "2604002172023",
    "ad": "POLİMERİK MALZEMELER",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1552,7 +950,7 @@
   {
    "kod": "2604002192023",
    "ad": "SERAMİK MALZEMELER",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1566,7 +964,7 @@
   {
    "kod": "2604002212023",
    "ad": "ISI VE KÜTLE TRANSFERİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1580,7 +978,7 @@
   {
    "kod": "2604002232023",
    "ad": "BİLGİSAYAR DESTEKLİ TASARIM-I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1594,7 +992,7 @@
   {
    "kod": "2604002312023",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1608,7 +1006,7 @@
   {
    "kod": "2604002332023",
    "ad": "KOROZYON",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1622,7 +1020,7 @@
   {
    "kod": "2604002042020",
    "ad": "TALAŞLI İMALAT",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1636,7 +1034,7 @@
   {
    "kod": "2604002062020",
    "ad": "KALİTE KONTROL VE STANDARTLARI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1650,7 +1048,7 @@
   {
    "kod": "2604002102023",
    "ad": "İŞ GÜVENLİĞİ VE MESLEK ETİĞİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1664,7 +1062,7 @@
   {
    "kod": "2604002122023",
    "ad": "BİLGİSAYAR DESTEKLİ TASARIM-II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1678,7 +1076,7 @@
   {
    "kod": "2604002142023",
    "ad": "KOMPOZİT MALZEMELER",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1692,7 +1090,7 @@
   {
    "kod": "2604002162023",
    "ad": "İLERİ MALZEMELER",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1706,7 +1104,7 @@
   {
    "kod": "9021002082010",
    "ad": "DEMİR DIŞI METALLERİN ÜRETİMİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1720,7 +1118,7 @@
   {
    "kod": "9021002092010",
    "ad": "DÖKÜM PRENSİPLERİ VE TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1734,7 +1132,7 @@
   {
    "kod": "9021002142010",
    "ad": "BİRLEŞTİRME TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1748,7 +1146,7 @@
   {
    "kod": "2604002022019",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-METALURJİ-I - SEÇMELİ DERS GRUBU METALURJİ-I",
    "tur": "Seçmeli",
@@ -1762,7 +1160,7 @@
   {
    "kod": "2604002272023",
    "ad": "İNORGANİK KİMYA",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-METALURJİ-I - SEÇMELİ DERS GRUBU METALURJİ-I",
    "tur": "Seçmeli",
@@ -1776,7 +1174,7 @@
   {
    "kod": "2604002292023",
    "ad": "İŞARET DİLİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-METALURJİ-I - SEÇMELİ DERS GRUBU METALURJİ-I",
    "tur": "Seçmeli",
@@ -1790,7 +1188,7 @@
   {
    "kod": "2604002352023",
    "ad": "SIFIR ATIK YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-METALURJİ-I - SEÇMELİ DERS GRUBU METALURJİ-I",
    "tur": "Seçmeli",
@@ -1804,7 +1202,7 @@
   {
    "kod": "2604002082023",
    "ad": "ENDÜSTRİ 4.0",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-METALURJİ-II - SEÇMELİ DERS GRUBU METALURJİ-II",
    "tur": "Seçmeli",
@@ -1818,7 +1216,7 @@
   {
    "kod": "2604002182023",
    "ad": "MESLEKİ YABANCI DİL",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-METALURJİ-II - SEÇMELİ DERS GRUBU METALURJİ-II",
    "tur": "Seçmeli",
@@ -1832,7 +1230,7 @@
   {
    "kod": "2604002202023",
    "ad": "ALTERNATİF ENERJİ KAYNAKLARI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-METALURJİ-II - SEÇMELİ DERS GRUBU METALURJİ-II",
    "tur": "Seçmeli",
@@ -1846,7 +1244,7 @@
   {
    "kod": "2604002242023",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-METALURJİ-II - SEÇMELİ DERS GRUBU METALURJİ-II",
    "tur": "Seçmeli",
@@ -1860,7 +1258,7 @@
   {
    "kod": "2604001032021",
    "ad": "YABANCI DİL-I",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1874,7 +1272,7 @@
   {
    "kod": "2604001112024",
    "ad": "STAJ-I",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1888,7 +1286,7 @@
   {
    "kod": "2604001172019",
    "ad": "KİMYA",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1902,7 +1300,7 @@
   {
    "kod": "2604001212020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1916,7 +1314,7 @@
   {
    "kod": "2604001232023",
    "ad": "MALZEME BİLİMİ",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1930,7 +1328,7 @@
   {
    "kod": "2604001252024",
    "ad": "METALURJİYE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1944,7 +1342,7 @@
   {
    "kod": "2604001272024",
    "ad": "MATEMATİK",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1958,7 +1356,7 @@
   {
    "kod": "9021001012010",
    "ad": "TÜRK DİLİ - I",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1972,7 +1370,7 @@
   {
    "kod": "9021001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ - I",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1986,7 +1384,7 @@
   {
    "kod": "9021001172010",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2000,7 +1398,7 @@
   {
    "kod": "2604001062021",
    "ad": "YABANCI DİL-II",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2014,7 +1412,7 @@
   {
    "kod": "2604001282024",
    "ad": "TEKNİK RESİM",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2028,7 +1426,7 @@
   {
    "kod": "2604001302023",
    "ad": "STATİK VE MUKAVEMET",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2042,7 +1440,7 @@
   {
    "kod": "2604001322023",
    "ad": "DEMİR-ÇELİK ÜRETİM TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2056,7 +1454,7 @@
   {
    "kod": "2604001342023",
    "ad": "MALZEME MUAYENE YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2070,7 +1468,7 @@
   {
    "kod": "2604001362023",
    "ad": "ÇELİKLER VE ISIL İŞLEMLER",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2084,7 +1482,7 @@
   {
    "kod": "9021000922010",
    "ad": "TÜRK DİLİ - II",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2098,7 +1496,7 @@
   {
    "kod": "9021000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ - II",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2112,7 +1510,7 @@
   {
    "kod": "9021001162010",
    "ad": "ÖLÇME BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2126,7 +1524,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2140,7 +1538,7 @@
   {
    "kod": "2604002032024",
    "ad": "MEKANİK METALURJİ",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2154,7 +1552,7 @@
   {
    "kod": "2604002172023",
    "ad": "POLİMERİK MALZEMELER",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2168,7 +1566,7 @@
   {
    "kod": "2604002192023",
    "ad": "SERAMİK MALZEMELER",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2182,7 +1580,7 @@
   {
    "kod": "2604002212024",
    "ad": "ISI VE KÜTLE TRANSFERİ",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2196,7 +1594,7 @@
   {
    "kod": "2604002232024",
    "ad": "BİLGİSAYAR DESTEKLİ TASARIM-I",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2210,7 +1608,7 @@
   {
    "kod": "2604002312023",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2224,7 +1622,7 @@
   {
    "kod": "2604002332024",
    "ad": "KOROZYON",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2238,7 +1636,7 @@
   {
    "kod": "2604002372024",
    "ad": "STAJ-II",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2252,7 +1650,7 @@
   {
    "kod": "2604002042020",
    "ad": "TALAŞLI İMALAT",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2266,7 +1664,7 @@
   {
    "kod": "2604002062020",
    "ad": "KALİTE KONTROL VE STANDARTLARI",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2280,7 +1678,7 @@
   {
    "kod": "2604002102023",
    "ad": "İŞ GÜVENLİĞİ VE MESLEK ETİĞİ",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2294,7 +1692,7 @@
   {
    "kod": "2604002122023",
    "ad": "BİLGİSAYAR DESTEKLİ TASARIM-II",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2308,7 +1706,7 @@
   {
    "kod": "2604002142023",
    "ad": "KOMPOZİT MALZEMELER",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2322,7 +1720,7 @@
   {
    "kod": "2604002162023",
    "ad": "İLERİ MALZEMELER",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2336,7 +1734,7 @@
   {
    "kod": "2604002262024",
    "ad": "KAYNAK UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2350,7 +1748,7 @@
   {
    "kod": "9021002082010",
    "ad": "DEMİR DIŞI METALLERİN ÜRETİMİ",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2364,7 +1762,7 @@
   {
    "kod": "9021002092010",
    "ad": "DÖKÜM PRENSİPLERİ VE TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2378,7 +1776,7 @@
   {
    "kod": "2604002022019",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-METALURJİ-I - SEÇMELİ DERS GRUBU METALURJİ-I",
    "tur": "Seçmeli",
@@ -2392,7 +1790,7 @@
   {
    "kod": "2604002272023",
    "ad": "İNORGANİK KİMYA",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-METALURJİ-I - SEÇMELİ DERS GRUBU METALURJİ-I",
    "tur": "Seçmeli",
@@ -2406,7 +1804,7 @@
   {
    "kod": "2604002292023",
    "ad": "İŞARET DİLİ",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-METALURJİ-I - SEÇMELİ DERS GRUBU METALURJİ-I",
    "tur": "Seçmeli",
@@ -2420,7 +1818,7 @@
   {
    "kod": "2604002352023",
    "ad": "SIFIR ATIK YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-METALURJİ-I - SEÇMELİ DERS GRUBU METALURJİ-I",
    "tur": "Seçmeli",
@@ -2434,7 +1832,7 @@
   {
    "kod": "2604002392024",
    "ad": "BİLGİSAYAR",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-METALURJİ-I - SEÇMELİ DERS GRUBU METALURJİ-I",
    "tur": "Seçmeli",
@@ -2448,7 +1846,7 @@
   {
    "kod": "2604002082023",
    "ad": "ENDÜSTRİ 4.0",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-METALURJİ-II - SEÇMELİ DERS GRUBU METALURJİ-II",
    "tur": "Seçmeli",
@@ -2462,7 +1860,7 @@
   {
    "kod": "2604002182023",
    "ad": "MESLEKİ YABANCI DİL",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-METALURJİ-II - SEÇMELİ DERS GRUBU METALURJİ-II",
    "tur": "Seçmeli",
@@ -2476,7 +1874,7 @@
   {
    "kod": "2604002202023",
    "ad": "ALTERNATİF ENERJİ KAYNAKLARI",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-METALURJİ-II - SEÇMELİ DERS GRUBU METALURJİ-II",
    "tur": "Seçmeli",
@@ -2490,7 +1888,7 @@
   {
    "kod": "2604002242023",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": null,
+   "mufredat": "2024 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-METALURJİ-II - SEÇMELİ DERS GRUBU METALURJİ-II",
    "tur": "Seçmeli",
@@ -2504,7 +1902,7 @@
   {
    "kod": "2604001032021",
    "ad": "YABANCI DİL-I",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2518,7 +1916,7 @@
   {
    "kod": "2604001112024",
    "ad": "STAJ-I",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2532,7 +1930,7 @@
   {
    "kod": "2604001172025",
    "ad": "KİMYA",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2546,7 +1944,7 @@
   {
    "kod": "2604001212020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2560,7 +1958,7 @@
   {
    "kod": "2604001252025",
    "ad": "METALURJİYE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2574,7 +1972,7 @@
   {
    "kod": "2604001272025",
    "ad": "MATEMATİK",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2588,7 +1986,7 @@
   {
    "kod": "2604001292025",
    "ad": "FİZİK",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2602,7 +2000,7 @@
   {
    "kod": "2604001312025",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2616,7 +2014,7 @@
   {
    "kod": "2604001332025",
    "ad": "MALZEME BİLİMİ",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2630,7 +2028,7 @@
   {
    "kod": "2604001342025",
    "ad": "MALZEME MUAYENE YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2644,7 +2042,7 @@
   {
    "kod": "2604001352025",
    "ad": "KOROZYON",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2658,7 +2056,7 @@
   {
    "kod": "9021001012010",
    "ad": "TÜRK DİLİ - I",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2672,7 +2070,7 @@
   {
    "kod": "9021001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ - I",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2686,7 +2084,7 @@
   {
    "kod": "9021001172010",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2700,7 +2098,7 @@
   {
    "kod": "2604001062021",
    "ad": "YABANCI DİL-II",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2714,7 +2112,7 @@
   {
    "kod": "2604001242025",
    "ad": "MEKANİK METALURJİ",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2728,7 +2126,7 @@
   {
    "kod": "2604001262025",
    "ad": "DEMİR DIŞI METALLERİN ÜRETİMİ",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2742,7 +2140,7 @@
   {
    "kod": "2604001282025",
    "ad": "TEKNİK RESİM",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2756,7 +2154,7 @@
   {
    "kod": "2604001322025",
    "ad": "DEMİR-ÇELİK ÜRETİM TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2770,7 +2168,7 @@
   {
    "kod": "2604001382025",
    "ad": "STATİK VE MUKAVEMET",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2784,7 +2182,7 @@
   {
    "kod": "9021000922010",
    "ad": "TÜRK DİLİ - II",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2798,7 +2196,7 @@
   {
    "kod": "9021000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ - II",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2812,7 +2210,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2826,7 +2224,7 @@
   {
    "kod": "2604002312023",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2840,7 +2238,7 @@
   {
    "kod": "2604002372024",
    "ad": "STAJ-II",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2854,7 +2252,7 @@
   {
    "kod": "2604002412025",
    "ad": "DÖKÜM PRENSİPLERİ VE TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2868,7 +2266,7 @@
   {
    "kod": "2604002432025",
    "ad": "ÇELİKLER VE ISIL İŞLEMLER",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2882,7 +2280,7 @@
   {
    "kod": "2604002452025",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2896,7 +2294,7 @@
   {
    "kod": "2604002472025",
    "ad": "KAYNAK TEKNOLOJİSİ VE UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2910,7 +2308,7 @@
   {
    "kod": "2604002492025",
    "ad": "KOMPOZİT MALZEMELER",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2924,7 +2322,7 @@
   {
    "kod": "2604002512025",
    "ad": "KALİTE GÜVENCE VE STANDARTLARI",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2938,7 +2336,7 @@
   {
    "kod": "2604002282025",
    "ad": "İŞLETMEDE MESLEKİ EĞİTİM",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2952,7 +2350,7 @@
   {
    "kod": "2604002082023",
    "ad": "ENDÜSTRİ 4.0",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-MET-I - SEÇMELİ METALURJİ-I",
    "tur": "Seçmeli",
@@ -2966,7 +2364,7 @@
   {
    "kod": "2604002202023",
    "ad": "ALTERNATİF ENERJİ KAYNAKLARI",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-MET-I - SEÇMELİ METALURJİ-I",
    "tur": "Seçmeli",
@@ -2980,7 +2378,7 @@
   {
    "kod": "2604002352023",
    "ad": "SIFIR ATIK YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-MET-II - SEÇMELİ METALURJİ-II",
    "tur": "Seçmeli",
@@ -2994,7 +2392,7 @@
   {
    "kod": "2604002392024",
    "ad": "BİLGİSAYAR",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-MET-II - SEÇMELİ METALURJİ-II",
    "tur": "Seçmeli",
@@ -3008,7 +2406,7 @@
   {
    "kod": "2604002532025",
    "ad": "MESLEKİ İNGİLİZCE",
-   "mufredat": null,
+   "mufredat": "2025 Yılı Ana Müfredat (METALURJI)",
    "yariyil": null,
    "grup": "SEÇ-MET-II - SEÇMELİ METALURJİ-II",
    "tur": "Seçmeli",
@@ -3022,7 +2420,7 @@
   {
    "kod": "2604001032021",
    "ad": "YABANCI DİL-I",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3036,7 +2434,7 @@
   {
    "kod": "2604001172025",
    "ad": "KİMYA",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3050,7 +2448,7 @@
   {
    "kod": "2604001212020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3064,7 +2462,7 @@
   {
    "kod": "2604001252025",
    "ad": "METALURJİYE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3078,7 +2476,7 @@
   {
    "kod": "2604001272025",
    "ad": "MATEMATİK",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3092,7 +2490,7 @@
   {
    "kod": "2604001292025",
    "ad": "FİZİK",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3106,7 +2504,7 @@
   {
    "kod": "2604001312025",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3120,7 +2518,7 @@
   {
    "kod": "2604001332025",
    "ad": "MALZEME BİLİMİ",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3134,7 +2532,7 @@
   {
    "kod": "2604001342025",
    "ad": "MALZEME MUAYENE YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3148,7 +2546,7 @@
   {
    "kod": "2604001352025",
    "ad": "KOROZYON",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3162,7 +2560,7 @@
   {
    "kod": "9021001012010",
    "ad": "TÜRK DİLİ - I",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3176,7 +2574,7 @@
   {
    "kod": "9021001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ - I",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3190,7 +2588,7 @@
   {
    "kod": "9021001172010",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3204,7 +2602,7 @@
   {
    "kod": "2604001062021",
    "ad": "YABANCI DİL-II",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3218,7 +2616,7 @@
   {
    "kod": "2604001242025",
    "ad": "MEKANİK METALURJİ",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3232,7 +2630,7 @@
   {
    "kod": "2604001262025",
    "ad": "DEMİR DIŞI METALLERİN ÜRETİMİ",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3246,7 +2644,7 @@
   {
    "kod": "2604001282025",
    "ad": "TEKNİK RESİM",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3260,7 +2658,7 @@
   {
    "kod": "2604001322025",
    "ad": "DEMİR-ÇELİK ÜRETİM TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3274,7 +2672,7 @@
   {
    "kod": "2604001382025",
    "ad": "STATİK VE MUKAVEMET",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3288,7 +2686,7 @@
   {
    "kod": "9021000922010",
    "ad": "TÜRK DİLİ - II",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3302,7 +2700,7 @@
   {
    "kod": "9021000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ - II",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3316,7 +2714,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3330,7 +2728,7 @@
   {
    "kod": "2604002312023",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3344,7 +2742,7 @@
   {
    "kod": "2604002412025",
    "ad": "DÖKÜM PRENSİPLERİ VE TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3358,7 +2756,7 @@
   {
    "kod": "2604002432025",
    "ad": "ÇELİKLER VE ISIL İŞLEMLER",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3372,7 +2770,7 @@
   {
    "kod": "2604002452025",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3386,7 +2784,7 @@
   {
    "kod": "2604002472025",
    "ad": "KAYNAK TEKNOLOJİSİ VE UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3400,7 +2798,7 @@
   {
    "kod": "2604002492025",
    "ad": "KOMPOZİT MALZEMELER",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3414,7 +2812,7 @@
   {
    "kod": "2604002512025",
    "ad": "KALİTE GÜVENCE VE STANDARTLARI",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3428,7 +2826,7 @@
   {
    "kod": "2604002282025",
    "ad": "İŞLETMEDE MESLEKİ EĞİTİM",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3442,7 +2840,7 @@
   {
    "kod": "2604002082023",
    "ad": "ENDÜSTRİ 4.0",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": null,
    "grup": "SEÇ-MET-I - SEÇMELİ METALURJİ-I",
    "tur": "Seçmeli",
@@ -3456,7 +2854,7 @@
   {
    "kod": "2604002202023",
    "ad": "ALTERNATİF ENERJİ KAYNAKLARI",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": null,
    "grup": "SEÇ-MET-I - SEÇMELİ METALURJİ-I",
    "tur": "Seçmeli",
@@ -3470,7 +2868,7 @@
   {
    "kod": "2604002352023",
    "ad": "SIFIR ATIK YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": null,
    "grup": "SEÇ-MET-II - SEÇMELİ METALURJİ-II",
    "tur": "Seçmeli",
@@ -3484,7 +2882,7 @@
   {
    "kod": "2604002392024",
    "ad": "BİLGİSAYAR",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": null,
    "grup": "SEÇ-MET-II - SEÇMELİ METALURJİ-II",
    "tur": "Seçmeli",
@@ -3498,7 +2896,7 @@
   {
    "kod": "2604002532025",
    "ad": "MESLEKİ İNGİLİZCE",
-   "mufredat": null,
+   "mufredat": "2026 Yılı Ana Müfredat (Metalurji)",
    "yariyil": null,
    "grup": "SEÇ-MET-II - SEÇMELİ METALURJİ-II",
    "tur": "Seçmeli",

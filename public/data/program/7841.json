@@ -12,7 +12,7 @@
   {
    "kod": "5023001012012",
    "ad": "TÜRK DİLİ I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "5023001022012",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "5023001032012",
    "ad": "YABANCI DİL I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "5023001052012",
    "ad": "ANATOMİ",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "5023001072012",
    "ad": "FİZYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "5023001092020",
    "ad": "TEMEL MESLEKİ UYGULAMALAR",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "5023001112012",
    "ad": "AMELİYATHANE TEKNOLOJİSİ I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "5023001132012",
    "ad": "TEMEL MİKROBİYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "5023001232012",
    "ad": "YAZ STAJI",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "5023001232020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "5023000922012",
    "ad": "TÜRK DİLİ II",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "5023000942012",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "5023000962012",
    "ad": "YABANCI DİL II",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "5023001042012",
    "ad": "AMELİYATHANE TEKNOLOJİSİ II",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "5023001062020",
    "ad": "CERRAHİ HASTALIKLAR I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "5023001082012",
    "ad": "STERİLİZASYON ESASLARI VE YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "5023001232012",
    "ad": "YAZ STAJI",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "5023002012022",
    "ad": "AMELİYATHANE UYGULAMALARI I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "5023002032022",
    "ad": "CERRAHİ HASTALIKLAR II",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "5023002052022",
    "ad": "ANESTEZİYE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "5023002072012",
    "ad": "ENFEKSİYON HASTALIKLARI",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "5023002112012",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "5023002132022",
    "ad": "İŞLETMEDE MESLEKİ EĞİTİM I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "5023002022023",
    "ad": "AMELİYATHANE UYGULAMALARI II",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "5023002042022",
    "ad": "İŞLETMEDE MESLEKİ EĞİTİM II",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "5023001152012",
    "ad": "BİLGİSAYAR VE BİLGİ TEKNOLOJİLERİNE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": null,
    "grup": "SEÇ-A.H-1.YY - SEÇMELİ DERS GRUBU AMELİYATHANE HİZMETLERİ 1. YY",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "5023001172020",
    "ad": "İLKYARDIM",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": null,
    "grup": "SEÇ-A.H-1.YY - SEÇMELİ DERS GRUBU AMELİYATHANE HİZMETLERİ 1. YY",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "5023001192018",
    "ad": "BEDEN EĞİTİMİ I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": null,
    "grup": "SEÇ-A.H-1.YY - SEÇMELİ DERS GRUBU AMELİYATHANE HİZMETLERİ 1. YY",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "5023001212014",
    "ad": "TIBBİ TERMİNOLOJİ VE HASTALIKLAR BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": null,
    "grup": "SEÇ-A.H-1.YY - SEÇMELİ DERS GRUBU AMELİYATHANE HİZMETLERİ 1. YY",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "5023001212018",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": null,
    "grup": "SEÇ-A.H-1.YY - SEÇMELİ DERS GRUBU AMELİYATHANE HİZMETLERİ 1. YY",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "5023001212020",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": null,
    "grup": "SEÇ-A.H-1.YY - SEÇMELİ DERS GRUBU AMELİYATHANE HİZMETLERİ 1. YY",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "5023001252021",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": null,
    "grup": "SEÇ-A.H-1.YY - SEÇMELİ DERS GRUBU AMELİYATHANE HİZMETLERİ 1. YY",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "5023001102012",
    "ad": "İLETİŞİM BECERİLERİ",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": null,
    "grup": "SEÇ-A.H-2.YY - SEÇMELİ DERS GRUBU AMELİYATHANE HİZMETLERİ 2. YY",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "5023001122012",
    "ad": "MESLEK ETİĞİ",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": null,
    "grup": "SEÇ-A.H-2.YY - SEÇMELİ DERS GRUBU AMELİYATHANE HİZMETLERİ 2. YY",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "5023001142012",
    "ad": "BEDEN EĞİTİMİ II",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": null,
    "grup": "SEÇ-A.H-2.YY - SEÇMELİ DERS GRUBU AMELİYATHANE HİZMETLERİ 2. YY",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "5023001162019",
    "ad": "BİLGİ OKUR YAZARLIĞI",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": null,
    "grup": "SEÇ-A.H-2.YY - SEÇMELİ DERS GRUBU AMELİYATHANE HİZMETLERİ 2. YY",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "5023001182019",
    "ad": "CERRAHİ ORTAMDA RUH SAĞLIĞI VE RUHSAL SORUNLAR",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": null,
    "grup": "SEÇ-A.H-2.YY - SEÇMELİ DERS GRUBU AMELİYATHANE HİZMETLERİ 2. YY",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "5023001202024",
    "ad": "CERRAHİ ANATOMİ",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": null,
    "grup": "SEÇ-A.H-2.YY - SEÇMELİ DERS GRUBU AMELİYATHANE HİZMETLERİ 2. YY",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "5023002092012",
    "ad": "BEDEN EĞİTİMİ III",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": null,
    "grup": "SEÇ-A.H-3.YY - SEÇMELİ DERS GRUBU AMELİYATHANE HİZMETLERİ 3. YY",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "5023002112018",
    "ad": "DENTAL GİRİŞİMLERDE AMELİYATHANE UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": null,
    "grup": "SEÇ-A.H-3.YY - SEÇMELİ DERS GRUBU AMELİYATHANE HİZMETLERİ 3. YY",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "5023002042023",
    "ad": "SAĞLIK İŞLETMELERİNDE YÖNETİM",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": null,
    "grup": "SEÇ-A.H-4.YY - SEÇMELİ DERS GRUBU AMELİYATHANE HİZMETLERİ 4. YY",
    "tur": "Seçmeli",
@@ -594,13 +594,13 @@
    "teori": 2,
    "uygulama": null,
    "laboratuvar": null,
-   "akts": 3,
+   "akts": 2,
    "detayYolu": "/DereceProgramlari/Ders/0/7841/296799/681954/1"
   },
   {
    "kod": "5023002062012",
    "ad": "BEDEN EĞİTİMİ IV",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": null,
    "grup": "SEÇ-A.H-4.YY - SEÇMELİ DERS GRUBU AMELİYATHANE HİZMETLERİ 4. YY",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "5023002062022",
    "ad": "CERRAHİ PATOLOJİ",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": null,
    "grup": "SEÇ-A.H-4.YY - SEÇMELİ DERS GRUBU AMELİYATHANE HİZMETLERİ 4. YY",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "5023002102014",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": null,
    "grup": "SEÇ-A.H-4.YY - SEÇMELİ DERS GRUBU AMELİYATHANE HİZMETLERİ 4. YY",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "5023002122018",
    "ad": "AMELİYATHANEDE YAŞAM",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Müfredatı",
    "yariyil": null,
    "grup": "SEÇ-A.H-4.YY - SEÇMELİ DERS GRUBU AMELİYATHANE HİZMETLERİ 4. YY",
    "tur": "Seçmeli",

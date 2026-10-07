@@ -12,7 +12,7 @@
   {
    "kod": "9304035012016",
    "ad": "Ruh Sağlığı ve Hastalıkları Hemşırelığınde Temel İlkeler I",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9304035212024",
    "ad": "Ruh Sağlığı ve Hastalıkları Hemşırelığınde Araştırma",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9304035022016",
    "ad": "Ruh Sağlığı ve Hastalıkları Psıkıyatrı Hemşırelığınde Temel İlkeler II",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9304035032015",
    "ad": "Ruh Sağlığı ve Hastalıkları Hemşırelığınde Temel İlkeler Uygulaması I",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": null,
    "grup": "930403SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9304035042015",
    "ad": "Ruh Sağlığı ve Hastalıkları Hemşırelığınde Temel İlkeler Uygulaması II",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": null,
    "grup": "930403SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9304035072019",
    "ad": "Psıkopatolojı I",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": null,
    "grup": "930403SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9304035082015",
    "ad": "Toplum Ruh Sağlığı",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": null,
    "grup": "930403SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9304035122015",
    "ad": "Psıkoterapıler",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": null,
    "grup": "930403SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9304035162012",
    "ad": "Psıkodrama",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": null,
    "grup": "930403SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9304035232025",
    "ad": "Görüşme Becerılerı",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": null,
    "grup": "930403SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9304035252015",
    "ad": "Grup Psıkoterapılerı",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": null,
    "grup": "930403SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9304035292015",
    "ad": "Psıkofarmakolojı",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": null,
    "grup": "930403SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9304035302019",
    "ad": "Psıkopatolojı II",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": null,
    "grup": "930403SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9304035032015",
    "ad": "Ruh Sağlığı ve Hastalıkları Hemşırelığınde Temel İlkeler Uygulaması I",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": null,
    "grup": "930403SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9304035042015",
    "ad": "Ruh Sağlığı ve Hastalıkları Hemşırelığınde Temel İlkeler Uygulaması II",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": null,
    "grup": "930403SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9304035072019",
    "ad": "Psıkopatolojı I",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": null,
    "grup": "930403SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9304035082015",
    "ad": "Toplum Ruh Sağlığı",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": null,
    "grup": "930403SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9304035122015",
    "ad": "Psıkoterapıler",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": null,
    "grup": "930403SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9304035162012",
    "ad": "Psıkodrama",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": null,
    "grup": "930403SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9304035232025",
    "ad": "Görüşme Becerılerı",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": null,
    "grup": "930403SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9304035252015",
    "ad": "Grup Psıkoterapılerı",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": null,
    "grup": "930403SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9304035292015",
    "ad": "Psıkofarmakolojı",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": null,
    "grup": "930403SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9304035302019",
    "ad": "Psıkopatolojı II",
-   "mufredat": "Psikiyatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Psikiyatri Hemşireliği)",
    "yariyil": null,
    "grup": "930403SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",

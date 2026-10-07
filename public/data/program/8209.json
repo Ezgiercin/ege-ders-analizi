@@ -12,7 +12,7 @@
   {
    "kod": "938101016012019",
    "ad": "Hemşırelık Eğıtımı I",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "938101016032018",
    "ad": "Hemşırelıkte Nıtel Araştırma",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "938101016022019",
    "ad": "Hemşırelık Eğıtımı II",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "SBEDRSEM600",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "938101016052018",
    "ad": "Hemşırelık Eğıtımınde Program Gelıştırme",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEDRUAD601",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "938101016042018",
    "ad": "Hemşırelık Eğıtımınde Program Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEDRUAD602",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "SBEDRTEZ601",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "SBEDRTO601",
    "ad": "Tez Önerısı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "SBEDRUAD603",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "SBEDRYET601",
    "ad": "Yeterlık Sınavı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "SBEDRTEZ602",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "SBEDRUAD604",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "SBEDRTEZ603",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "SBEDRUAD605",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "SBEDRTEZ604",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "SBEDRUAD606",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "938101016062018",
    "ad": "Hemşırelık Uygulamaları İçın Kanıta Dayalı Araştırma",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG1 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "938101016072018",
    "ad": "Hemşırelık Eğıtımı Uygulaması I",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG1 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "938101016082018",
    "ad": "Hemşırelık Kuram ve Felsefesı I",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG1 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG1",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "938101016092018",
    "ad": "Öğretım Teknolojılerı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG1 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG1",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "938101016102018",
    "ad": "Hemşırelık Eğıtımı Uygulaması II",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG1 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG1",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "938101016112018",
    "ad": "Hemşırelık Kuram ve Felsefesı II",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG1 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG1",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "938101016122018",
    "ad": "Hemşırelıkte Motıvasyonel Görüşme",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG1 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG1",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "938101016132019",
    "ad": "Hemşırelıkte Eğıtım Yönetımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG1 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG1",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "938101016142018",
    "ad": "Hemşırelık Bılışımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG1 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG1",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "938101016152018",
    "ad": "Yaşamboyu Öğrenme",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG1 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG1",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "938101016162018",
    "ad": "Bılımsel Yazı Yazma, (Makale) Yayınlama",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG1 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG1",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "938101016172019",
    "ad": "Hemşırelıkte Ölçme ve Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG1 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG1",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "938101016182018",
    "ad": "Tıpta Mesleksel Yetkınlıkler ve Öğretımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG1 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG1",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "938101016242019",
    "ad": "İlerı İstatıstık",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG1 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG1",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "938101016062018",
    "ad": "Hemşırelık Uygulamaları İçın Kanıta Dayalı Araştırma",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG2 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG2",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "938101016072018",
    "ad": "Hemşırelık Eğıtımı Uygulaması I",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG2 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG2",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "938101016082018",
    "ad": "Hemşırelık Kuram ve Felsefesı I",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG2 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG2",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "938101016092018",
    "ad": "Öğretım Teknolojılerı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG2 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG2",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "938101016102018",
    "ad": "Hemşırelık Eğıtımı Uygulaması II",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG2 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG2",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "938101016112018",
    "ad": "Hemşırelık Kuram ve Felsefesı II",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG2 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG2",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "938101016122018",
    "ad": "Hemşırelıkte Motıvasyonel Görüşme",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG2 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG2",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "938101016132019",
    "ad": "Hemşırelıkte Eğıtım Yönetımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG2 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG2",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "938101016142018",
    "ad": "Hemşırelık Bılışımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG2 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG2",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "938101016152018",
    "ad": "Yaşamboyu Öğrenme",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG2 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG2",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "938101016162018",
    "ad": "Bılımsel Yazı Yazma, (Makale) Yayınlama",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG2 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG2",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "938101016172019",
    "ad": "Hemşırelıkte Ölçme ve Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG2 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG2",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "938101016182018",
    "ad": "Tıpta Mesleksel Yetkınlıkler ve Öğretımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG2 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG2",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "938101016242019",
    "ad": "İlerı İstatıstık",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG2 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG2",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "938101016062018",
    "ad": "Hemşırelık Uygulamaları İçın Kanıta Dayalı Araştırma",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG3 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG3",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "938101016072018",
    "ad": "Hemşırelık Eğıtımı Uygulaması I",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG3 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG3",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "938101016082018",
    "ad": "Hemşırelık Kuram ve Felsefesı I",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG3 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG3",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "938101016092018",
    "ad": "Öğretım Teknolojılerı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG3 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG3",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "938101016102018",
    "ad": "Hemşırelık Eğıtımı Uygulaması II",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG3 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG3",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "938101016112018",
    "ad": "Hemşırelık Kuram ve Felsefesı II",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG3 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG3",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "938101016122018",
    "ad": "Hemşırelıkte Motıvasyonel Görüşme",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG3 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG3",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "938101016132019",
    "ad": "Hemşırelıkte Eğıtım Yönetımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG3 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG3",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "938101016142018",
    "ad": "Hemşırelık Bılışımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG3 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG3",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "938101016152018",
    "ad": "Yaşamboyu Öğrenme",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG3 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG3",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "938101016162018",
    "ad": "Bılımsel Yazı Yazma, (Makale) Yayınlama",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG3 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG3",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "938101016172019",
    "ad": "Hemşırelıkte Ölçme ve Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG3 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG3",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "938101016182018",
    "ad": "Tıpta Mesleksel Yetkınlıkler ve Öğretımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG3 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG3",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "938101016242019",
    "ad": "İlerı İstatıstık",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG3 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG3",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "938101016062018",
    "ad": "Hemşırelık Uygulamaları İçın Kanıta Dayalı Araştırma",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG4 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG4",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "938101016072018",
    "ad": "Hemşırelık Eğıtımı Uygulaması I",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG4 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG4",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "938101016082018",
    "ad": "Hemşırelık Kuram ve Felsefesı I",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG4 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG4",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "938101016092018",
    "ad": "Öğretım Teknolojılerı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG4 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG4",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "938101016102018",
    "ad": "Hemşırelık Eğıtımı Uygulaması II",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG4 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG4",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "938101016112018",
    "ad": "Hemşırelık Kuram ve Felsefesı II",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG4 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG4",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "938101016122018",
    "ad": "Hemşırelıkte Motıvasyonel Görüşme",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG4 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG4",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "938101016132019",
    "ad": "Hemşırelıkte Eğıtım Yönetımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG4 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG4",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "938101016142018",
    "ad": "Hemşırelık Bılışımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG4 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG4",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "938101016152018",
    "ad": "Yaşamboyu Öğrenme",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG4 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG4",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "938101016162018",
    "ad": "Bılımsel Yazı Yazma, (Makale) Yayınlama",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG4 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG4",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "938101016172019",
    "ad": "Hemşırelıkte Ölçme ve Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG4 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG4",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "938101016182018",
    "ad": "Tıpta Mesleksel Yetkınlıkler ve Öğretımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG4 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG4",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "938101016242019",
    "ad": "İlerı İstatıstık",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "HEM.OGR.SDG4 - Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora SDG4",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "938101016012019",
    "ad": "Hemşırelık Eğıtımı I",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1062,7 +1062,7 @@
   {
    "kod": "938101016032019",
    "ad": "Hemşırelıkte Nıtel Araştırma",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1076,7 +1076,7 @@
   {
    "kod": "938101016022019",
    "ad": "Hemşırelık Eğıtımı II",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1090,7 +1090,7 @@
   {
    "kod": "938101016052019",
    "ad": "Hemşırelık Eğıtımınde Program Gelıştırme",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1104,7 +1104,7 @@
   {
    "kod": "SBEDRSEM600",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1118,7 +1118,7 @@
   {
    "kod": "SBEDRUAD601",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1132,7 +1132,7 @@
   {
    "kod": "SBEDRTEZ601",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1146,7 +1146,7 @@
   {
    "kod": "SBEDRTO601",
    "ad": "Tez Önerısı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1160,7 +1160,7 @@
   {
    "kod": "SBEDRUAD602",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1174,7 +1174,7 @@
   {
    "kod": "SBEDRYET601",
    "ad": "Yeterlık Sınavı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1188,7 +1188,7 @@
   {
    "kod": "SBEDRTEZ602",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -1202,7 +1202,7 @@
   {
    "kod": "SBEDRUAD603",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -1216,7 +1216,7 @@
   {
    "kod": "SBEDRTEZ603",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -1230,7 +1230,7 @@
   {
    "kod": "SBEDRUAD604",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -1244,7 +1244,7 @@
   {
    "kod": "SBEDRTEZ604",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -1258,7 +1258,7 @@
   {
    "kod": "SBEDRUAD605",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -1272,7 +1272,7 @@
   {
    "kod": "SBEDRTEZ605",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -1286,7 +1286,7 @@
   {
    "kod": "SBEDRUAD606",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -1300,7 +1300,7 @@
   {
    "kod": "938101016042019",
    "ad": "Hemşırelık Eğıtımınde Program Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "938101016062018",
    "ad": "Hemşırelık Uygulamaları İçın Kanıta Dayalı Araştırma",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "938101016072018",
    "ad": "Hemşırelık Eğıtımı Uygulaması I",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "938101016082018",
    "ad": "Hemşırelık Kuram ve Felsefesı I",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "938101016092018",
    "ad": "Öğretım Teknolojılerı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "938101016102018",
    "ad": "Hemşırelık Eğıtımı Uygulaması II",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "938101016112018",
    "ad": "Hemşırelık Kuram ve Felsefesı II",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "938101016122018",
    "ad": "Hemşırelıkte Motıvasyonel Görüşme",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "938101016132019",
    "ad": "Hemşırelıkte Eğıtım Yönetımı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "938101016142018",
    "ad": "Hemşırelık Bılışımı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "938101016152018",
    "ad": "Yaşamboyu Öğrenme",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "938101016162018",
    "ad": "Bılımsel Yazı Yazma, (Makale) Yayınlama",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "938101016172019",
    "ad": "Hemşırelıkte Ölçme ve Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "938101016182018",
    "ad": "Tıpta Mesleksel Yetkınlıkler ve Öğretımı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "938101016242019",
    "ad": "İlerı İstatıstık",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1510,7 +1510,7 @@
   {
    "kod": "938101016042019",
    "ad": "Hemşırelık Eğıtımınde Program Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1524,7 +1524,7 @@
   {
    "kod": "938101016062018",
    "ad": "Hemşırelık Uygulamaları İçın Kanıta Dayalı Araştırma",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1538,7 +1538,7 @@
   {
    "kod": "938101016072018",
    "ad": "Hemşırelık Eğıtımı Uygulaması I",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1552,7 +1552,7 @@
   {
    "kod": "938101016082018",
    "ad": "Hemşırelık Kuram ve Felsefesı I",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1566,7 +1566,7 @@
   {
    "kod": "938101016092018",
    "ad": "Öğretım Teknolojılerı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1580,7 +1580,7 @@
   {
    "kod": "938101016102018",
    "ad": "Hemşırelık Eğıtımı Uygulaması II",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1594,7 +1594,7 @@
   {
    "kod": "938101016112018",
    "ad": "Hemşırelık Kuram ve Felsefesı II",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1608,7 +1608,7 @@
   {
    "kod": "938101016122018",
    "ad": "Hemşırelıkte Motıvasyonel Görüşme",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1622,7 +1622,7 @@
   {
    "kod": "938101016132019",
    "ad": "Hemşırelıkte Eğıtım Yönetımı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1636,7 +1636,7 @@
   {
    "kod": "938101016142018",
    "ad": "Hemşırelık Bılışımı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1650,7 +1650,7 @@
   {
    "kod": "938101016152018",
    "ad": "Yaşamboyu Öğrenme",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1664,7 +1664,7 @@
   {
    "kod": "938101016162018",
    "ad": "Bılımsel Yazı Yazma, (Makale) Yayınlama",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1678,7 +1678,7 @@
   {
    "kod": "938101016172019",
    "ad": "Hemşırelıkte Ölçme ve Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1692,7 +1692,7 @@
   {
    "kod": "938101016182018",
    "ad": "Tıpta Mesleksel Yetkınlıkler ve Öğretımı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1706,7 +1706,7 @@
   {
    "kod": "938101016242019",
    "ad": "İlerı İstatıstık",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1720,7 +1720,7 @@
   {
    "kod": "938101016042019",
    "ad": "Hemşırelık Eğıtımınde Program Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG3 - Seçmeli Grup 3(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1734,7 +1734,7 @@
   {
    "kod": "938101016062018",
    "ad": "Hemşırelık Uygulamaları İçın Kanıta Dayalı Araştırma",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG3 - Seçmeli Grup 3(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1748,7 +1748,7 @@
   {
    "kod": "938101016072018",
    "ad": "Hemşırelık Eğıtımı Uygulaması I",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG3 - Seçmeli Grup 3(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1762,7 +1762,7 @@
   {
    "kod": "938101016082018",
    "ad": "Hemşırelık Kuram ve Felsefesı I",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG3 - Seçmeli Grup 3(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1776,7 +1776,7 @@
   {
    "kod": "938101016092018",
    "ad": "Öğretım Teknolojılerı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG3 - Seçmeli Grup 3(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1790,7 +1790,7 @@
   {
    "kod": "938101016102018",
    "ad": "Hemşırelık Eğıtımı Uygulaması II",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG3 - Seçmeli Grup 3(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1804,7 +1804,7 @@
   {
    "kod": "938101016112018",
    "ad": "Hemşırelık Kuram ve Felsefesı II",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG3 - Seçmeli Grup 3(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1818,7 +1818,7 @@
   {
    "kod": "938101016122018",
    "ad": "Hemşırelıkte Motıvasyonel Görüşme",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG3 - Seçmeli Grup 3(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1832,7 +1832,7 @@
   {
    "kod": "938101016132019",
    "ad": "Hemşırelıkte Eğıtım Yönetımı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG3 - Seçmeli Grup 3(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1846,7 +1846,7 @@
   {
    "kod": "938101016142018",
    "ad": "Hemşırelık Bılışımı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG3 - Seçmeli Grup 3(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1860,7 +1860,7 @@
   {
    "kod": "938101016152018",
    "ad": "Yaşamboyu Öğrenme",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG3 - Seçmeli Grup 3(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1874,7 +1874,7 @@
   {
    "kod": "938101016162018",
    "ad": "Bılımsel Yazı Yazma, (Makale) Yayınlama",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG3 - Seçmeli Grup 3(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1888,7 +1888,7 @@
   {
    "kod": "938101016172019",
    "ad": "Hemşırelıkte Ölçme ve Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG3 - Seçmeli Grup 3(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1902,7 +1902,7 @@
   {
    "kod": "938101016182018",
    "ad": "Tıpta Mesleksel Yetkınlıkler ve Öğretımı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG3 - Seçmeli Grup 3(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1916,7 +1916,7 @@
   {
    "kod": "938101016242019",
    "ad": "İlerı İstatıstık",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG3 - Seçmeli Grup 3(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -1930,7 +1930,7 @@
   {
    "kod": "938101016012023",
    "ad": "Hemşırelık Eğıtımı I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1944,7 +1944,7 @@
   {
    "kod": "938101016032019",
    "ad": "Hemşırelıkte Nıtel Araştırma",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1958,7 +1958,7 @@
   {
    "kod": "938101016022023",
    "ad": "HEMŞİRELİK EĞİTİMİNDE AKTARILABİLEN BECERİLER",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1972,7 +1972,7 @@
   {
    "kod": "938101016052023",
    "ad": "Hemşırelık Eğıtımınde Program Gelıştırme",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1986,7 +1986,7 @@
   {
    "kod": "SBEDRSEM600",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2000,7 +2000,7 @@
   {
    "kod": "SBEAKT2",
    "ad": "Aktarılabılır Becerıler 2",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2014,7 +2014,7 @@
   {
    "kod": "SBEDRUAD601",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2028,7 +2028,7 @@
   {
    "kod": "SBEDRTEZ601",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2042,7 +2042,7 @@
   {
    "kod": "SBEDRTO601",
    "ad": "Tez Önerısı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2056,7 +2056,7 @@
   {
    "kod": "SBEDRUAD602",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2070,7 +2070,7 @@
   {
    "kod": "SBEDRYET601",
    "ad": "Yeterlık Sınavı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2084,7 +2084,7 @@
   {
    "kod": "SBEDRTEZ602",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2098,7 +2098,7 @@
   {
    "kod": "SBEDRUAD603",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2112,7 +2112,7 @@
   {
    "kod": "SBEDRTEZ603",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2126,7 +2126,7 @@
   {
    "kod": "SBEDRUAD604",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2140,7 +2140,7 @@
   {
    "kod": "SBEDRTEZ604",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2154,7 +2154,7 @@
   {
    "kod": "SBEDRUAD605",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2168,7 +2168,7 @@
   {
    "kod": "SBEDRTEZ605",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2182,7 +2182,7 @@
   {
    "kod": "SBEDRUAD606",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2196,7 +2196,7 @@
   {
    "kod": "938101016042019",
    "ad": "Hemşırelık Eğıtımınde Program Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2210,7 +2210,7 @@
   {
    "kod": "938101016062018",
    "ad": "Hemşırelık Uygulamaları İçın Kanıta Dayalı Araştırma",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2224,7 +2224,7 @@
   {
    "kod": "938101016072018",
    "ad": "Hemşırelık Eğıtımı Uygulaması I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2238,7 +2238,7 @@
   {
    "kod": "938101016082018",
    "ad": "Hemşırelık Kuram ve Felsefesı I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2252,7 +2252,7 @@
   {
    "kod": "938101016092018",
    "ad": "Öğretım Teknolojılerı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2266,7 +2266,7 @@
   {
    "kod": "938101016102018",
    "ad": "Hemşırelık Eğıtımı Uygulaması II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2280,7 +2280,7 @@
   {
    "kod": "938101016112018",
    "ad": "Hemşırelık Kuram ve Felsefesı II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2294,7 +2294,7 @@
   {
    "kod": "938101016132019",
    "ad": "Hemşırelıkte Eğıtım Yönetımı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2308,7 +2308,7 @@
   {
    "kod": "938101016152018",
    "ad": "Yaşamboyu Öğrenme",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2322,7 +2322,7 @@
   {
    "kod": "938101016172019",
    "ad": "Hemşırelıkte Ölçme ve Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2336,7 +2336,7 @@
   {
    "kod": "938101016182018",
    "ad": "Tıpta Mesleksel Yetkınlıkler ve Öğretımı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2350,7 +2350,7 @@
   {
    "kod": "938101016242019",
    "ad": "İlerı İstatıstık",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2364,7 +2364,7 @@
   {
    "kod": "EBB6852017",
    "ad": "Gelışım ve Öğrenme",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG1 - Seçmeli Grup (Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2378,7 +2378,7 @@
   {
    "kod": "938101016042019",
    "ad": "Hemşırelık Eğıtımınde Program Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2392,7 +2392,7 @@
   {
    "kod": "938101016072018",
    "ad": "Hemşırelık Eğıtımı Uygulaması I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2406,7 +2406,7 @@
   {
    "kod": "938101016092018",
    "ad": "Öğretım Teknolojılerı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2420,7 +2420,7 @@
   {
    "kod": "938101016102018",
    "ad": "Hemşırelık Eğıtımı Uygulaması II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2434,7 +2434,7 @@
   {
    "kod": "938101016132019",
    "ad": "Hemşırelıkte Eğıtım Yönetımı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2448,7 +2448,7 @@
   {
    "kod": "938101016152018",
    "ad": "Yaşamboyu Öğrenme",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2462,7 +2462,7 @@
   {
    "kod": "938101016172019",
    "ad": "Hemşırelıkte Ölçme ve Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2476,7 +2476,7 @@
   {
    "kod": "938101016182018",
    "ad": "Tıpta Mesleksel Yetkınlıkler ve Öğretımı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2490,7 +2490,7 @@
   {
    "kod": "938101016242019",
    "ad": "İlerı İstatıstık",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2504,7 +2504,7 @@
   {
    "kod": "EBB6852017",
    "ad": "Gelışım ve Öğrenme",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG2 - Seçmeli Grup 2(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",
@@ -2518,7 +2518,7 @@
   {
    "kod": "EBB6852017",
    "ad": "Gelışım ve Öğrenme",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Hemşirelikte Öğretim (Yüksek Lisans Dereceli Doktora Programı) Müfredatı",
    "yariyil": null,
    "grup": "Hem.Öğr.SDG3 - Seçmeli Grup 3(Hemşirelikte Öğretim Yüksek Lisans Dereceli Doktora)",
    "tur": "Seçmeli",

@@ -12,7 +12,7 @@
   {
    "kod": "9303015012014",
    "ad": "Enstrümental Analız I",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9303015022014",
    "ad": "Enstrümental Analız II",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "BAT102",
    "ad": "Bılımsel Araştırmanın Temellerı",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9303015052014",
    "ad": "Analıtık Kımyada Sonuçların Değerlendırme Yöntemlerı",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": null,
    "grup": "930301SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9303015092007",
    "ad": "Avrupa Bırlığı Çerçeve Programları ve Proje Yazımı",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": null,
    "grup": "930301SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9303015102014",
    "ad": "İlerı Elektroanalıtık Yöntemler",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": null,
    "grup": "930301SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9303015122014",
    "ad": "İlerı Spektroskopık Yöntemler",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": null,
    "grup": "930301SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9303015142020",
    "ad": "Bıyosensörler: Temel İlkeler ve Uygulamalar",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": null,
    "grup": "930301SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9303015172014",
    "ad": "Ayırma Yöntemlerı II",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": null,
    "grup": "930301SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9303015182014",
    "ad": "Ayırma Yöntemlerı I",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": null,
    "grup": "930301SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9303015052014",
    "ad": "Analıtık Kımyada Sonuçların Değerlendırme Yöntemlerı",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": null,
    "grup": "930301SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9303015092007",
    "ad": "Avrupa Bırlığı Çerçeve Programları ve Proje Yazımı",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": null,
    "grup": "930301SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9303015102014",
    "ad": "İlerı Elektroanalıtık Yöntemler",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": null,
    "grup": "930301SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9303015122014",
    "ad": "İlerı Spektroskopık Yöntemler",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": null,
    "grup": "930301SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9303015142020",
    "ad": "Bıyosensörler: Temel İlkeler ve Uygulamalar",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": null,
    "grup": "930301SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9303015172014",
    "ad": "Ayırma Yöntemlerı II",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": null,
    "grup": "930301SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9303015182014",
    "ad": "Ayırma Yöntemlerı I",
-   "mufredat": "Analitik Kimya",
+   "mufredat": "2013 yılı (Tezli Yüksek Lisans Programı) Müfredatı (Analitik Kimya)",
    "yariyil": null,
    "grup": "930301SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",

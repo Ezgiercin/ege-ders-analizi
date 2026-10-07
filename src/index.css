@@ -1,5 +1,19 @@
 @import 'tailwindcss';
 
+/* Tailwind'in dark: renkleri varsayılan olarak işletim sisteminin temasına bakar.
+   Bizde tema data-theme ile belirleniyor (foruma gömülüyken forumdan gelir), bu
+   yüzden dark: de aynı kurala uysun: data-theme varsa ona, yoksa sisteme bak. */
+@custom-variant dark {
+  &:where([data-theme='dark'], [data-theme='dark'] *) {
+    @slot;
+  }
+  @media (prefers-color-scheme: dark) {
+    &:where(:root:not([data-theme]) *) {
+      @slot;
+    }
+  }
+}
+
 @theme {
   --color-ege-900: #00305f;
   --color-ege-700: #00468b;

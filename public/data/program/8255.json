@@ -12,7 +12,7 @@
   {
    "kod": "9402015012019",
    "ad": "Fen Eğıtımınde Kavram Yanılgıları",
-   "mufredat": null,
+   "mufredat": "2019 Fen Bilgisi Eğitimi Tezli Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9402015032019",
    "ad": "Bılımsel Araştırma Teknıklerı ve Etık (E)",
-   "mufredat": null,
+   "mufredat": "2019 Fen Bilgisi Eğitimi Tezli Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9402015002019",
    "ad": "İnformal (Sınıf Dışı) Ortamlarda Fen Dersı",
-   "mufredat": null,
+   "mufredat": "2019 Fen Bilgisi Eğitimi Tezli Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9402015022019",
    "ad": "STEM Eğıtımı",
-   "mufredat": null,
+   "mufredat": "2019 Fen Bilgisi Eğitimi Tezli Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "94SE020152023",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2019 Fen Bilgisi Eğitimi Tezli Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2019 Fen Bilgisi Eğitimi Tezli Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2019 Fen Bilgisi Eğitimi Tezli Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2019 Fen Bilgisi Eğitimi Tezli Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2019 Fen Bilgisi Eğitimi Tezli Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "9402015132019",
    "ad": "Fen Eğıtımınde Güncel Araştırmalar",
-   "mufredat": null,
+   "mufredat": "2019 Fen Bilgisi Eğitimi Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FEN.BİL.EĞİ.TYL.SDG1 - Fen Bilgisi Eğitimi Tezli Yüksek Lisans Seçmeli Ders Grubu 1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9402015152020",
    "ad": "Fen Eğıtımınde Argümantasyon",
-   "mufredat": null,
+   "mufredat": "2019 Fen Bilgisi Eğitimi Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FEN.BİL.EĞİ.TYL.SDG1 - Fen Bilgisi Eğitimi Tezli Yüksek Lisans Seçmeli Ders Grubu 1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9402015042019",
    "ad": "Eğıtım Araştırmalarında İstatıstık Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2019 Fen Bilgisi Eğitimi Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FEN.BİL.EĞİ.TYL.SDG2 - Fen Bilgisi Eğitimi Tezli Yüksek Lisans Seçmeli Ders Grubu 2",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9402015102019",
    "ad": "Nıtel Araştırma Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2019 Fen Bilgisi Eğitimi Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FEN.BİL.EĞİ.TYL.SDG2 - Fen Bilgisi Eğitimi Tezli Yüksek Lisans Seçmeli Ders Grubu 2",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9402015122020",
    "ad": "Fen Eğıtımınde Teknolojı Desteklı Öğrenme Ortamları Tasarımı",
-   "mufredat": null,
+   "mufredat": "2019 Fen Bilgisi Eğitimi Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FEN.BİL.EĞİ.TYL.SDG2 - Fen Bilgisi Eğitimi Tezli Yüksek Lisans Seçmeli Ders Grubu 2",
    "tur": "Seçmeli",

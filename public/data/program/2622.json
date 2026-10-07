@@ -12,7 +12,7 @@
   {
    "kod": "ATA101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "BKM101",
    "ad": "YAŞAM BİLİMLERİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "BKP101",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "FEN101",
    "ad": "SCIENTIFIC ENGLISH I",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "FEN109",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "FİZ159",
    "ad": "PHYSICS",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "KİM183",
    "ad": "GENEL KİMYA-I",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "MAT165",
    "ad": "MATEMATİK-I",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "TUR101",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "ATA102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "BİY194",
    "ad": "GENERAL BIOLOGY",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "FEN102",
    "ad": "SCIENTIFIC ENGLISH II",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "İST154",
    "ad": "BASIC STATISTICS",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "KİM184",
    "ad": "GENEL KİMYA-II",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "MAT154",
    "ad": "MATEMATİK-II",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "TUR102",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "ÜYG102",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "BİY293",
    "ad": "MİKROBİYOLOJİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "BKM201",
    "ad": "MOLECULAR BIOLOGY AND GENETICS",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "KİM291",
    "ad": "ORGANIC CHEMISTRY",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "KİM293",
    "ad": "ANALİTİK KİMYA",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "THU201",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "BKM202",
    "ad": "BİYOKİMYA-I",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "BKM204",
    "ad": "BASIC TECHNIQUES IN BIOCHEMISTRY",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "BKM206",
    "ad": "BİYOANORGANİK KİMYA",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "BKM208",
    "ad": "BİYOFİZİKOKİMYA",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "BKM210",
    "ad": "BİYOKİMYA LABORATUVARI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "BKM1301",
    "ad": "BİYOKİMYA-II",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "BKM1303",
    "ad": "ENZİMOLOJİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "BKM1305",
    "ad": "STRUCTURE DETERMINATION OF BIOMOLECULES",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "BKM1307",
    "ad": "STAJ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "BKM1302",
    "ad": "BİYOKİMYA-III",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "BKM1304",
    "ad": "BIOTECHNOLOGY",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "BKM1306",
    "ad": "İMMUNOLOJİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "BKM1308",
    "ad": "STAJ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "BKM1401",
    "ad": "BESİN KİMYASI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "BKM1403",
    "ad": "BIOCHEMICAL PHARMACOLOGY AND TOXICOLOGY",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "BKM1402",
    "ad": "INDUSTRIAL BIOCHEMISTRY",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "BKM1404",
    "ad": "KLİNİK BİYOKİMYA",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "FEN021",
    "ad": "TAKI SANATI VE FARKLI MATERYALLERLE ÜRETİMİ I",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "FEN035",
    "ad": "TEMEL HUKUK",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "FEN037",
    "ad": "BİLİMSEL ARAŞTIRMA TEKNİKLERİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "FEN039",
    "ad": "ÖZEL BAHÇE BİTKİLERİ YETİŞTİRİCİLİĞİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "FEN049",
    "ad": "FINANCIAL INSTITUTIONS AND MARKETS",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "FEN051",
    "ad": "FELSEFEYE GİRİŞ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "FEN053",
    "ad": "ANADOLU SANATI TARİHİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "FEN055",
    "ad": "MİTOLOJİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "FEN057",
    "ad": "KONUŞMA EĞİTİMİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "FEN059",
    "ad": "GİRİŞİMCİLİK VE KALİTE",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "FEN063",
    "ad": "MÜZİK VE TOPLUM I",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "FEN067",
    "ad": "İNSAN İLİŞKİLERİ VE İLETİŞİM",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "FEN069",
    "ad": "KİŞİLER ARASI İLİŞKİLER",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "FSM404",
    "ad": "GİRİŞİMCİLİK, FİKRİ VE SINAİ MÜLKİYET HAKLARINA GİRİŞ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "INV401",
    "ad": "İNOVASYON, TEKNOLOJİ VE GİRİŞİMCİLİK",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "FEN018",
    "ad": "DANS EĞİTİMİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "FEN034",
    "ad": "TAKI SANATI VE FARKLI MATERYALLERLE ÜRETİMİ II",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "FEN040",
    "ad": "BÖLGESEL İKTİSAT VE GELİŞME",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "FEN042",
    "ad": "YARATICI DÜŞÜNCE YÖNTEM VE TEKNİKLERİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "FEN044",
    "ad": "KİŞİSEL GELİŞİM",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "FEN046",
    "ad": "DİJİTAL FOTOĞRAFÇILIK",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "FEN048",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "FEN060",
    "ad": "MEDYA OKURYAZARLIĞI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "FEN062",
    "ad": "MODERN TÜRK EDEBİYATINDA ROMAN VE HİKAYE",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "FEN064",
    "ad": "İNSAN GELİŞİMİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "FEN066",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "FEN070",
    "ad": "MÜZİK VE TOPLUM II",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "FEN081",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "BİY393",
    "ad": "HİSTOLOJİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.I - ALAN SEÇMELİ I",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "BKM1309",
    "ad": "BİYOKİMYADA ANALİTİK TEKNİKLER",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.I - ALAN SEÇMELİ I",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "BKM1311",
    "ad": "FİZYOLOJİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.I - ALAN SEÇMELİ I",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "BKM1313",
    "ad": "HAYATIN KÖKENİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.I - ALAN SEÇMELİ I",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "KİM381",
    "ad": "ENSTRÜMENTAL ANALİZ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.I - ALAN SEÇMELİ I",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "BİY001",
    "ad": "MODERN BİYOLOJİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "BİY003",
    "ad": "İYİ LABORATUVAR UYGULAMALARI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "FİZ001",
    "ad": "NANOTEKNOLOJİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "FİZ317",
    "ad": "BİYOFİZİK",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "FİZ328",
    "ad": "BİYOLOJİ VE TIPTA FİZİK",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "KİM001",
    "ad": "KİMYASAL ÜRÜNLER VE YAŞAM",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "KİM003",
    "ad": "KEMOMETRİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "KİM007",
    "ad": "İŞ GÜVENLİĞİ VE SAĞLIĞI-KİMYASAL RİSK ETMENLERİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "KİM223",
    "ad": "HISTORY OF SCIENCE AND CHEMISTRY",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "MAT005",
    "ad": "MODELLEME TEKNİKLERİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "BKM1310",
    "ad": "HALK SAĞLIĞI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.II - ALAN SEÇMELİ II",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "BKM1312",
    "ad": "GIDA HİJYENİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.II - ALAN SEÇMELİ II",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "BKM1314",
    "ad": "BİYOLOJİK MEMBRANLAR VE FONKSİYONLARI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.II - ALAN SEÇMELİ II",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "BKM1316",
    "ad": "EKOLOJİK BİYOKİMYA",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.II - ALAN SEÇMELİ II",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "BKM302",
    "ad": "NANOBİYOTEKNOLOJİYE GİRİŞ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.II - ALAN SEÇMELİ II",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "BKM304",
    "ad": "BİYOSENSÖRLERE GİRİŞ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.II - ALAN SEÇMELİ II",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "BİY006",
    "ad": "GENETİKTE GÜNCEL KONULAR",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "FİZ320",
    "ad": "BİYOMEKANİK",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "FİZ324",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "FİZ410",
    "ad": "RADYASYON FİZİĞİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "FİZ412",
    "ad": "MEDİKAL FİZİK",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "FİZ418",
    "ad": "ÖLÇÜ VE KONTROL TEKNİĞİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "FİZ430",
    "ad": "SPEKTRAL ANALİZ YÖNTEMLERİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "KİM002",
    "ad": "LABORATUVAR GÜVENLİĞİ VE ATIK YÖNETİMİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "BKM403",
    "ad": "INTRODUCTION TO BIOINFORMATICS",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.III.ING - ALAN SEÇMELİ III ING",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "BKM411",
    "ad": "GENE TECHNOLOGY AND APPLICATIONS",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.III.ING - ALAN SEÇMELİ III ING",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "İST451",
    "ad": "APPLIED BIOSTATISTICS",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.III.ING - ALAN SEÇMELİ III ING",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "KİM457",
    "ad": "CHEMOMETRY",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.III.ING - ALAN SEÇMELİ III ING",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "KİM481",
    "ad": "INTRODUCTION TO CHEMICAL INSTRUMENTATION",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.III.ING - ALAN SEÇMELİ III ING",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "BKM1421",
    "ad": "BİYOKİMYADA DENEY HAYVANLARI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.III.TUR - ALAN SEÇMELİ III TUR",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "BKM1423",
    "ad": "EGZERSİZ BİYOKİMYASI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.III.TUR - ALAN SEÇMELİ III TUR",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "BKM1425",
    "ad": "BİTKİ BİYOKİMYASI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.III.TUR - ALAN SEÇMELİ III TUR",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "BKM1427",
    "ad": "GENEL VİROLOJİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.III.TUR - ALAN SEÇMELİ III TUR",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "BKM1429",
    "ad": "OKSİDATİF HASAR VE METABOLİK HASTALIKLAR",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.III.TUR - ALAN SEÇMELİ III TUR",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "BKM1431",
    "ad": "DOKU BİYOKİMYASI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.III.TUR - ALAN SEÇMELİ III TUR",
    "tur": "Seçmeli",
@@ -1510,7 +1510,7 @@
   {
    "kod": "BKM401",
    "ad": "KAYNAK TARAMA TEKNİKLERİ (DİPLOMA ÇALIŞMASI-I)",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.III.TUR - ALAN SEÇMELİ III TUR",
    "tur": "Seçmeli",
@@ -1524,7 +1524,7 @@
   {
    "kod": "BKM405",
    "ad": "GIDA KALİTE KONTROL",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.III.TUR - ALAN SEÇMELİ III TUR",
    "tur": "Seçmeli",
@@ -1538,7 +1538,7 @@
   {
    "kod": "BKM409",
    "ad": "HÜCRE VE DOKU KÜLTÜRÜ HAZIRLAMA TEKNİKLERİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.III.TUR - ALAN SEÇMELİ III TUR",
    "tur": "Seçmeli",
@@ -1552,7 +1552,7 @@
   {
    "kod": "BKM1410",
    "ad": "CLINICAL BIOCHEMICAL GENETICS",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.ING - ALAN SEÇMELİ IV ING",
    "tur": "Seçmeli",
@@ -1566,7 +1566,7 @@
   {
    "kod": "BKM1412",
    "ad": "NUTRITIONAL BIOCHEMISTRY",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.ING - ALAN SEÇMELİ IV ING",
    "tur": "Seçmeli",
@@ -1580,7 +1580,7 @@
   {
    "kod": "BKM404",
    "ad": "TECHNICAL INVESTIGATION",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.ING - ALAN SEÇMELİ IV ING",
    "tur": "Seçmeli",
@@ -1594,7 +1594,7 @@
   {
    "kod": "BKM406",
    "ad": "BIOCHEMICAL IMAGING TECHNIQUES",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.ING - ALAN SEÇMELİ IV ING",
    "tur": "Seçmeli",
@@ -1608,7 +1608,7 @@
   {
    "kod": "BKM412",
    "ad": "BIOMATERIALS",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.ING - ALAN SEÇMELİ IV ING",
    "tur": "Seçmeli",
@@ -1622,7 +1622,7 @@
   {
    "kod": "BKM414",
    "ad": "COMPUTATIONAL BIOCHEMISTRY",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.ING - ALAN SEÇMELİ IV ING",
    "tur": "Seçmeli",
@@ -1636,7 +1636,7 @@
   {
    "kod": "BKM1408",
    "ad": "BİYOETİK",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.TUR - ALAN SEÇMELİ IV TUR",
    "tur": "Seçmeli",
@@ -1650,7 +1650,7 @@
   {
    "kod": "BKM1420",
    "ad": "ANATOMİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.TUR - ALAN SEÇMELİ IV TUR",
    "tur": "Seçmeli",
@@ -1664,7 +1664,7 @@
   {
    "kod": "BKM1426",
    "ad": "BİYOKİMYASAL DİYAGNOSTİKLER",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.TUR - ALAN SEÇMELİ IV TUR",
    "tur": "Seçmeli",
@@ -1678,7 +1678,7 @@
   {
    "kod": "BKM402",
    "ad": "BİTİRME TEZİ (DİPLOMA ÇALIŞMASI-II)",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.TUR - ALAN SEÇMELİ IV TUR",
    "tur": "Seçmeli",
@@ -1692,7 +1692,7 @@
   {
    "kod": "BKM410",
    "ad": "ATIK DEĞERLENDİRMESİ VE ARITMA YÖNTEMLERİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2014 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.TUR - ALAN SEÇMELİ IV TUR",
    "tur": "Seçmeli",
@@ -1706,7 +1706,7 @@
   {
    "kod": "ATA101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1720,7 +1720,7 @@
   {
    "kod": "BKM101",
    "ad": "YAŞAM BİLİMLERİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1734,7 +1734,7 @@
   {
    "kod": "BKP101",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1748,7 +1748,7 @@
   {
    "kod": "FEN101",
    "ad": "SCIENTIFIC ENGLISH I",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1762,7 +1762,7 @@
   {
    "kod": "FEN109",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1776,7 +1776,7 @@
   {
    "kod": "FİZ159",
    "ad": "PHYSICS",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1790,7 +1790,7 @@
   {
    "kod": "KİM183",
    "ad": "GENEL KİMYA-I",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1804,7 +1804,7 @@
   {
    "kod": "MAT165",
    "ad": "MATEMATİK-I",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1818,7 +1818,7 @@
   {
    "kod": "TUR101",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1832,7 +1832,7 @@
   {
    "kod": "ATA102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1846,7 +1846,7 @@
   {
    "kod": "BİY194",
    "ad": "GENERAL BIOLOGY",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1860,7 +1860,7 @@
   {
    "kod": "FEN102",
    "ad": "SCIENTIFIC ENGLISH II",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1874,7 +1874,7 @@
   {
    "kod": "İST154",
    "ad": "BASIC STATISTICS",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1888,7 +1888,7 @@
   {
    "kod": "KİM184",
    "ad": "GENEL KİMYA-II",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1902,7 +1902,7 @@
   {
    "kod": "MAT154",
    "ad": "MATEMATİK-II",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1916,7 +1916,7 @@
   {
    "kod": "TUR102",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1930,7 +1930,7 @@
   {
    "kod": "ÜYG102",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1944,7 +1944,7 @@
   {
    "kod": "BİY293",
    "ad": "MİKROBİYOLOJİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1958,7 +1958,7 @@
   {
    "kod": "BKM201",
    "ad": "MOLECULAR BIOLOGY AND GENETICS",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1972,7 +1972,7 @@
   {
    "kod": "KİM291",
    "ad": "ORGANIC CHEMISTRY",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1986,7 +1986,7 @@
   {
    "kod": "KİM293",
    "ad": "ANALİTİK KİMYA",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2000,7 +2000,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -2014,7 +2014,7 @@
   {
    "kod": "THU201",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2028,7 +2028,7 @@
   {
    "kod": "BKM202",
    "ad": "BİYOKİMYA-I",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2042,7 +2042,7 @@
   {
    "kod": "BKM204",
    "ad": "BASIC TECHNIQUES IN BIOCHEMISTRY",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2056,7 +2056,7 @@
   {
    "kod": "BKM206",
    "ad": "BİYOANORGANİK KİMYA",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2070,7 +2070,7 @@
   {
    "kod": "BKM208",
    "ad": "BİYOFİZİKOKİMYA",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2084,7 +2084,7 @@
   {
    "kod": "BKM210",
    "ad": "BİYOKİMYA LABORATUVARI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2098,7 +2098,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -2112,7 +2112,7 @@
   {
    "kod": "BKM1301",
    "ad": "BİYOKİMYA-II",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2126,7 +2126,7 @@
   {
    "kod": "BKM1303",
    "ad": "ENZİMOLOJİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2140,7 +2140,7 @@
   {
    "kod": "BKM1305",
    "ad": "STRUCTURE DETERMINATION OF BIOMOLECULES",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2154,7 +2154,7 @@
   {
    "kod": "BKM1307",
    "ad": "STAJ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2168,7 +2168,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -2182,7 +2182,7 @@
   {
    "kod": "BKM1302",
    "ad": "BİYOKİMYA-III",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2196,7 +2196,7 @@
   {
    "kod": "BKM1304",
    "ad": "BIOTECHNOLOGY",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2210,7 +2210,7 @@
   {
    "kod": "BKM1306",
    "ad": "İMMUNOLOJİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2224,7 +2224,7 @@
   {
    "kod": "BKM1308",
    "ad": "STAJ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2238,7 +2238,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -2252,7 +2252,7 @@
   {
    "kod": "BKM1401",
    "ad": "BESİN KİMYASI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2266,7 +2266,7 @@
   {
    "kod": "BKM1403",
    "ad": "BIOCHEMICAL PHARMACOLOGY AND TOXICOLOGY",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2280,7 +2280,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2294,7 +2294,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -2308,7 +2308,7 @@
   {
    "kod": "BKM1402",
    "ad": "INDUSTRIAL BIOCHEMISTRY",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2322,7 +2322,7 @@
   {
    "kod": "BKM1404",
    "ad": "KLİNİK BİYOKİMYA",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2336,7 +2336,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -2350,7 +2350,7 @@
   {
    "kod": "AST004",
    "ad": "ASTROBİYOLOJİYE GİRİŞ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2364,7 +2364,7 @@
   {
    "kod": "BİY001",
    "ad": "MODERN BİYOLOJİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2378,7 +2378,7 @@
   {
    "kod": "BİY003",
    "ad": "İYİ LABORATUVAR UYGULAMALARI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2392,7 +2392,7 @@
   {
    "kod": "FİZ001",
    "ad": "NANOTEKNOLOJİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2406,7 +2406,7 @@
   {
    "kod": "FİZ317",
    "ad": "BİYOFİZİK",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2420,7 +2420,7 @@
   {
    "kod": "FİZ328",
    "ad": "BİYOLOJİ VE TIPTA FİZİK",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2434,7 +2434,7 @@
   {
    "kod": "KİM001",
    "ad": "KİMYASAL ÜRÜNLER VE YAŞAM",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2448,7 +2448,7 @@
   {
    "kod": "KİM003",
    "ad": "KEMOMETRİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2462,7 +2462,7 @@
   {
    "kod": "KİM007",
    "ad": "İŞ GÜVENLİĞİ VE SAĞLIĞI-KİMYASAL RİSK ETMENLERİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2476,7 +2476,7 @@
   {
    "kod": "KİM223",
    "ad": "HISTORY OF SCIENCE AND CHEMISTRY",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2490,7 +2490,7 @@
   {
    "kod": "MAT005",
    "ad": "MODELLEME TEKNİKLERİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2504,7 +2504,7 @@
   {
    "kod": "BİY006",
    "ad": "GENETİKTE GÜNCEL KONULAR",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -2518,7 +2518,7 @@
   {
    "kod": "FİZ320",
    "ad": "BİYOMEKANİK",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -2532,7 +2532,7 @@
   {
    "kod": "FİZ324",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -2546,7 +2546,7 @@
   {
    "kod": "FİZ410",
    "ad": "RADYASYON FİZİĞİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -2560,7 +2560,7 @@
   {
    "kod": "FİZ412",
    "ad": "MEDİKAL FİZİK",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -2574,7 +2574,7 @@
   {
    "kod": "FİZ418",
    "ad": "ÖLÇÜ VE KONTROL TEKNİĞİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -2588,7 +2588,7 @@
   {
    "kod": "FİZ430",
    "ad": "SPEKTRAL ANALİZ YÖNTEMLERİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -2602,7 +2602,7 @@
   {
    "kod": "KİM002",
    "ad": "LABORATUVAR GÜVENLİĞİ VE ATIK YÖNETİMİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -2616,7 +2616,7 @@
   {
    "kod": "BİY393",
    "ad": "HİSTOLOJİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.I - ALAN SEÇMELİ I",
    "tur": "Seçmeli",
@@ -2630,7 +2630,7 @@
   {
    "kod": "BKM1309",
    "ad": "BİYOKİMYADA ANALİTİK TEKNİKLER",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.I - ALAN SEÇMELİ I",
    "tur": "Seçmeli",
@@ -2644,7 +2644,7 @@
   {
    "kod": "BKM1311",
    "ad": "FİZYOLOJİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.I - ALAN SEÇMELİ I",
    "tur": "Seçmeli",
@@ -2658,7 +2658,7 @@
   {
    "kod": "BKM1313",
    "ad": "HAYATIN KÖKENİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.I - ALAN SEÇMELİ I",
    "tur": "Seçmeli",
@@ -2672,7 +2672,7 @@
   {
    "kod": "KİM381",
    "ad": "ENSTRÜMENTAL ANALİZ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.I - ALAN SEÇMELİ I",
    "tur": "Seçmeli",
@@ -2686,7 +2686,7 @@
   {
    "kod": "Bİİ305DSG",
    "ad": "DİN SOSYOLOJİSİNE GİRİŞ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2700,7 +2700,7 @@
   {
    "kod": "Bİİ315İDİT",
    "ad": "İLK DÖNEM İSLAM TARİHİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2714,7 +2714,7 @@
   {
    "kod": "Bİİ319KMTH",
    "ad": "KUTSAL METİNLERDE TARİH VE HİKAYE: KISSALARIN MUKAYESESİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2728,7 +2728,7 @@
   {
    "kod": "Bİİ321TÜTT",
    "ad": "TÜRK TASAVVUF TARİHİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2742,7 +2742,7 @@
   {
    "kod": "DTMK305TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ I",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2756,7 +2756,7 @@
   {
    "kod": "ECZ301ATS",
    "ad": "AFETTE TOPLUMSAL SORUMLULUK",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2770,7 +2770,7 @@
   {
    "kod": "EDB315FEGİ",
    "ad": "FELSEFEYE GİRİŞ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2784,7 +2784,7 @@
   {
    "kod": "EDB317TSSK",
    "ad": "TÜRK SANATINDA SEMBOLLER VE KÜLTÜREL ETKİLEŞİM",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2798,7 +2798,7 @@
   {
    "kod": "EĞT305AT",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2812,7 +2812,7 @@
   {
    "kod": "EĞT305BUMFE",
    "ad": "BASİT VE UCUZ MALZEMELERLE FEN ETKİNLİKLERİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2826,7 +2826,7 @@
   {
    "kod": "EĞT305DE",
    "ad": "DÜNYA EDEBİYATI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2840,7 +2840,7 @@
   {
    "kod": "EĞT305EYZU",
    "ad": "EĞİTİMDE YAPAY ZEKA UYGULAMALARI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2854,7 +2854,7 @@
   {
    "kod": "EĞT305TYÖ",
    "ad": "TERS YÜZ ÖĞRENME",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2868,7 +2868,7 @@
   {
    "kod": "EĞT307SAEL",
    "ad": "SANAT ELEŞTİRİSİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2882,7 +2882,7 @@
   {
    "kod": "ENF305ÖSMW",
    "ad": "ÖĞRETİMDE SOSYAL MEDYA VE WEB2.0 ARAÇLARI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2896,7 +2896,7 @@
   {
    "kod": "ENF305YMT",
    "ad": "YENİ MEDYA TEKNOLOJİLERİ VE DİJİTAL YAYINCILIK",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2910,7 +2910,7 @@
   {
    "kod": "ENF309VM",
    "ad": "DATA MINING",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2924,7 +2924,7 @@
   {
    "kod": "GZL224TEKNO",
    "ad": "TEKNOKÜLTÜR VE SANAL DÜNYALAR",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2938,7 +2938,7 @@
   {
    "kod": "İİB307IGP",
    "ad": "INTRODUCTION TO GLOBAL POLITICS",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2952,7 +2952,7 @@
   {
    "kod": "İLE247MAG",
    "ad": "MAGAZİN HABERCİLİĞİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2966,7 +2966,7 @@
   {
    "kod": "İLE257TSİ",
    "ad": "TÜRK SİNEMASI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2980,7 +2980,7 @@
   {
    "kod": "İLE307DZY",
    "ad": "DUYGUSAL ZEKA YÖNETİMİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2994,7 +2994,7 @@
   {
    "kod": "MOD305ÜTG",
    "ad": "ÜRÜN TASARIMINA GİRİŞ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -3008,7 +3008,7 @@
   {
    "kod": "MOD307ÜTMS",
    "ad": "ÜRÜN TASARIMINDA MALZEME SEÇİMİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -3022,7 +3022,7 @@
   {
    "kod": "MÜH309ETKG",
    "ad": "ELEKTRİK TESİSATLARINDA KORUMA VE GÜVENLİK",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -3036,7 +3036,7 @@
   {
    "kod": "MÜH313PİPG",
    "ad": "PYTHON İLE PROGRAMLAMAYA GİRİŞ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -3050,7 +3050,7 @@
   {
    "kod": "SUÜ307OLTAB",
    "ad": "OLTA BALIKÇILIĞI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -3064,7 +3064,7 @@
   {
    "kod": "BKM1310",
    "ad": "HALK SAĞLIĞI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.II - ALAN SEÇMELİ II",
    "tur": "Seçmeli",
@@ -3078,7 +3078,7 @@
   {
    "kod": "BKM1312",
    "ad": "GIDA HİJYENİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.II - ALAN SEÇMELİ II",
    "tur": "Seçmeli",
@@ -3092,7 +3092,7 @@
   {
    "kod": "BKM1314",
    "ad": "BİYOLOJİK MEMBRANLAR VE FONKSİYONLARI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.II - ALAN SEÇMELİ II",
    "tur": "Seçmeli",
@@ -3106,7 +3106,7 @@
   {
    "kod": "BKM1316",
    "ad": "EKOLOJİK BİYOKİMYA",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.II - ALAN SEÇMELİ II",
    "tur": "Seçmeli",
@@ -3120,7 +3120,7 @@
   {
    "kod": "BKM302",
    "ad": "NANOBİYOTEKNOLOJİYE GİRİŞ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.II - ALAN SEÇMELİ II",
    "tur": "Seçmeli",
@@ -3134,7 +3134,7 @@
   {
    "kod": "BKM304",
    "ad": "BİYOSENSÖRLERE GİRİŞ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.II - ALAN SEÇMELİ II",
    "tur": "Seçmeli",
@@ -3148,7 +3148,7 @@
   {
    "kod": "Bİİ305DS",
    "ad": "DİN VE SANAT",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3162,7 +3162,7 @@
   {
    "kod": "Bİİ306DİVKA",
    "ad": "DİNLER VE KADIN",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3176,7 +3176,7 @@
   {
    "kod": "Bİİ320PHCY",
    "ad": "HZ.PEYGAMBERİN HAYATININ ÇAĞDAŞ YORUMU",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3190,7 +3190,7 @@
   {
    "kod": "Bİİ324KVTM",
    "ad": "KUR'AN VE TARTIŞMALI MESELELER: METİN, TESFİR VE ALGI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3204,7 +3204,7 @@
   {
    "kod": "ECZ302TM",
    "ad": "TÜRK MÜZİĞİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3218,7 +3218,7 @@
   {
    "kod": "ECZ304CB",
    "ad": "ÇEVRE BİLİNCİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3232,7 +3232,7 @@
   {
    "kod": "ECZ306KBİT",
    "ad": "KENTLİLİK BİLİNCİ VE İZMİR TARİHİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3246,7 +3246,7 @@
   {
    "kod": "EDB307YVRM",
    "ad": "YUNAN VE ROMA MİTOLOJİSİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3260,7 +3260,7 @@
   {
    "kod": "ENF305WEB",
    "ad": "WEB TASARIMI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3274,7 +3274,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3288,7 +3288,7 @@
   {
    "kod": "MOD306MLB",
    "ad": "MALZEME BİLGİSİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3302,7 +3302,7 @@
   {
    "kod": "MÜH309ETKG",
    "ad": "ELEKTRİK TESİSATLARINDA KORUMA VE GÜVENLİK",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3316,7 +3316,7 @@
   {
    "kod": "SUÜ310DCK",
    "ad": "DENİZDE CANLI KALABİLME",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3330,7 +3330,7 @@
   {
    "kod": "BKM403",
    "ad": "INTRODUCTION TO BIOINFORMATICS",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.III.ING - ALAN SEÇMELİ III ING",
    "tur": "Seçmeli",
@@ -3344,7 +3344,7 @@
   {
    "kod": "BKM411",
    "ad": "GENE TECHNOLOGY AND APPLICATIONS",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.III.ING - ALAN SEÇMELİ III ING",
    "tur": "Seçmeli",
@@ -3358,7 +3358,7 @@
   {
    "kod": "İST451",
    "ad": "APPLIED BIOSTATISTICS",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.III.ING - ALAN SEÇMELİ III ING",
    "tur": "Seçmeli",
@@ -3372,7 +3372,7 @@
   {
    "kod": "KİM457",
    "ad": "CHEMOMETRY",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.III.ING - ALAN SEÇMELİ III ING",
    "tur": "Seçmeli",
@@ -3386,7 +3386,7 @@
   {
    "kod": "KİM481",
    "ad": "INTRODUCTION TO CHEMICAL INSTRUMENTATION",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.III.ING - ALAN SEÇMELİ III ING",
    "tur": "Seçmeli",
@@ -3400,7 +3400,7 @@
   {
    "kod": "BKM1421",
    "ad": "BİYOKİMYADA DENEY HAYVANLARI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.SEÇ.III.TUR - ALAN SEÇMELİ DERS GRUBU III TUR",
    "tur": "Seçmeli",
@@ -3414,7 +3414,7 @@
   {
    "kod": "BKM1423",
    "ad": "EGZERSİZ BİYOKİMYASI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.SEÇ.III.TUR - ALAN SEÇMELİ DERS GRUBU III TUR",
    "tur": "Seçmeli",
@@ -3428,7 +3428,7 @@
   {
    "kod": "BKM1425",
    "ad": "BİTKİ BİYOKİMYASI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.SEÇ.III.TUR - ALAN SEÇMELİ DERS GRUBU III TUR",
    "tur": "Seçmeli",
@@ -3442,7 +3442,7 @@
   {
    "kod": "BKM1427",
    "ad": "GENEL VİROLOJİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.SEÇ.III.TUR - ALAN SEÇMELİ DERS GRUBU III TUR",
    "tur": "Seçmeli",
@@ -3456,7 +3456,7 @@
   {
    "kod": "BKM1429",
    "ad": "OKSİDATİF HASAR VE METABOLİK HASTALIKLAR",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.SEÇ.III.TUR - ALAN SEÇMELİ DERS GRUBU III TUR",
    "tur": "Seçmeli",
@@ -3470,7 +3470,7 @@
   {
    "kod": "BKM1431",
    "ad": "DOKU BİYOKİMYASI",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.SEÇ.III.TUR - ALAN SEÇMELİ DERS GRUBU III TUR",
    "tur": "Seçmeli",
@@ -3484,7 +3484,7 @@
   {
    "kod": "BKM401",
    "ad": "KAYNAK TARAMA TEKNİKLERİ (DİPLOMA ÇALIŞMASI-I)",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.SEÇ.III.TUR - ALAN SEÇMELİ DERS GRUBU III TUR",
    "tur": "Seçmeli",
@@ -3498,7 +3498,7 @@
   {
    "kod": "BKM405",
    "ad": "GIDA KALİTE KONTROL",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.SEÇ.III.TUR - ALAN SEÇMELİ DERS GRUBU III TUR",
    "tur": "Seçmeli",
@@ -3512,7 +3512,7 @@
   {
    "kod": "BKM409",
    "ad": "HÜCRE VE DOKU KÜLTÜRÜ HAZIRLAMA TEKNİKLERİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.SEÇ.III.TUR - ALAN SEÇMELİ DERS GRUBU III TUR",
    "tur": "Seçmeli",
@@ -3526,7 +3526,7 @@
   {
    "kod": "BKM1410",
    "ad": "CLINICAL BIOCHEMICAL GENETICS",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.ING - ALAN SEÇMELİ IV ING",
    "tur": "Seçmeli",
@@ -3540,7 +3540,7 @@
   {
    "kod": "BKM1412",
    "ad": "NUTRITIONAL BIOCHEMISTRY",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.ING - ALAN SEÇMELİ IV ING",
    "tur": "Seçmeli",
@@ -3554,7 +3554,7 @@
   {
    "kod": "BKM404",
    "ad": "TECHNICAL INVESTIGATION",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.ING - ALAN SEÇMELİ IV ING",
    "tur": "Seçmeli",
@@ -3568,7 +3568,7 @@
   {
    "kod": "BKM406",
    "ad": "BIOCHEMICAL IMAGING TECHNIQUES",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.ING - ALAN SEÇMELİ IV ING",
    "tur": "Seçmeli",
@@ -3582,7 +3582,7 @@
   {
    "kod": "BKM412",
    "ad": "BIOMATERIALS",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.ING - ALAN SEÇMELİ IV ING",
    "tur": "Seçmeli",
@@ -3596,7 +3596,7 @@
   {
    "kod": "BKM414",
    "ad": "COMPUTATIONAL BIOCHEMISTRY",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.ING - ALAN SEÇMELİ IV ING",
    "tur": "Seçmeli",
@@ -3610,7 +3610,7 @@
   {
    "kod": "BKM1408",
    "ad": "BİYOETİK",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.TUR - ALAN SEÇMELİ IV TUR",
    "tur": "Seçmeli",
@@ -3624,7 +3624,7 @@
   {
    "kod": "BKM1420",
    "ad": "ANATOMİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.TUR - ALAN SEÇMELİ IV TUR",
    "tur": "Seçmeli",
@@ -3638,7 +3638,7 @@
   {
    "kod": "BKM1426",
    "ad": "BİYOKİMYASAL DİYAGNOSTİKLER",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.TUR - ALAN SEÇMELİ IV TUR",
    "tur": "Seçmeli",
@@ -3652,7 +3652,7 @@
   {
    "kod": "BKM402",
    "ad": "BİTİRME TEZİ (DİPLOMA ÇALIŞMASI-II)",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.TUR - ALAN SEÇMELİ IV TUR",
    "tur": "Seçmeli",
@@ -3666,7 +3666,7 @@
   {
    "kod": "BKM410",
    "ad": "ATIK DEĞERLENDİRMESİ VE ARITMA YÖNTEMLERİ",
-   "mufredat": "Biyokimyagerlik",
+   "mufredat": "2020 Yılı Müfredatı (Biyokimyagerlik)",
    "yariyil": null,
    "grup": "BKM.ALAN.IV.TUR - ALAN SEÇMELİ IV TUR",
    "tur": "Seçmeli",
@@ -3680,7 +3680,7 @@
   {
    "kod": "ATA101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3694,7 +3694,7 @@
   {
    "kod": "BKM101",
    "ad": "YAŞAM BİLİMLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3708,7 +3708,7 @@
   {
    "kod": "BKP101",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3722,7 +3722,7 @@
   {
    "kod": "FEN101",
    "ad": "SCIENTIFIC ENGLISH I",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3736,7 +3736,7 @@
   {
    "kod": "FEN109",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3750,7 +3750,7 @@
   {
    "kod": "FİZ159",
    "ad": "PHYSICS",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3764,7 +3764,7 @@
   {
    "kod": "KİM183",
    "ad": "GENEL KİMYA-I",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3778,7 +3778,7 @@
   {
    "kod": "MAT165",
    "ad": "MATEMATİK-I",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3792,7 +3792,7 @@
   {
    "kod": "TUR101",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3806,7 +3806,7 @@
   {
    "kod": "ATA102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3820,7 +3820,7 @@
   {
    "kod": "BİY194",
    "ad": "GENERAL BIOLOGY",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3834,7 +3834,7 @@
   {
    "kod": "FEN102",
    "ad": "SCIENTIFIC ENGLISH II",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3848,7 +3848,7 @@
   {
    "kod": "İST154",
    "ad": "BASIC STATISTICS",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3862,7 +3862,7 @@
   {
    "kod": "KİM184",
    "ad": "GENEL KİMYA-II",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3876,7 +3876,7 @@
   {
    "kod": "MAT154",
    "ad": "MATEMATİK-II",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3890,7 +3890,7 @@
   {
    "kod": "TUR102",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3904,7 +3904,7 @@
   {
    "kod": "ÜYG102",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3918,7 +3918,7 @@
   {
    "kod": "BİY293",
    "ad": "MİKROBİYOLOJİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3932,7 +3932,7 @@
   {
    "kod": "BKM201",
    "ad": "MOLECULAR BIOLOGY AND GENETICS",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3946,7 +3946,7 @@
   {
    "kod": "KİM291",
    "ad": "ORGANIC CHEMISTRY",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3960,7 +3960,7 @@
   {
    "kod": "KİM293",
    "ad": "ANALİTİK KİMYA",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3974,7 +3974,7 @@
   {
    "kod": "THU201",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3988,7 +3988,7 @@
   {
    "kod": "BKM202",
    "ad": "BİYOKİMYA-I",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -4002,7 +4002,7 @@
   {
    "kod": "BKM204",
    "ad": "BASIC TECHNIQUES IN BIOCHEMISTRY",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -4016,7 +4016,7 @@
   {
    "kod": "BKM206",
    "ad": "BİYOANORGANİK KİMYA",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -4030,7 +4030,7 @@
   {
    "kod": "BKM208",
    "ad": "BİYOFİZİKOKİMYA",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -4044,7 +4044,7 @@
   {
    "kod": "BKM210",
    "ad": "BİYOKİMYA LABORATUVARI",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -4058,7 +4058,7 @@
   {
    "kod": "BKM2301",
    "ad": "BİYOKİMYA-II",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -4072,7 +4072,7 @@
   {
    "kod": "BKM2303",
    "ad": "BİYOTEKNOLOJİNİN TEMELLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -4086,7 +4086,7 @@
   {
    "kod": "BKM2305",
    "ad": "ENZİM TEKNOLOJİSİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -4100,7 +4100,7 @@
   {
    "kod": "BKM2307",
    "ad": "STAJ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -4114,7 +4114,7 @@
   {
    "kod": "BKM2302",
    "ad": "BİYOKİMYA-III",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -4128,7 +4128,7 @@
   {
    "kod": "BKM2304",
    "ad": "FERMENTASYON TEKNOLOJİSİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -4142,7 +4142,7 @@
   {
    "kod": "BKM2306",
    "ad": "BIOREACTORS",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -4156,7 +4156,7 @@
   {
    "kod": "BKM2308",
    "ad": "STAJ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -4170,7 +4170,7 @@
   {
    "kod": "BKM2401",
    "ad": "BIOPROCESS KINETICS",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -4184,7 +4184,7 @@
   {
    "kod": "BKM411",
    "ad": "GENE TECHNOLOGY AND APPLICATIONS",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -4198,7 +4198,7 @@
   {
    "kod": "BKM2402",
    "ad": "BİYOPROSESLERDE AYIRMA VE SAFLAŞTIRMA YÖNTEMLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -4212,7 +4212,7 @@
   {
    "kod": "BKM2404",
    "ad": "BIOPROCESS LABORATORY",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -4226,7 +4226,7 @@
   {
    "kod": "FEN021",
    "ad": "TAKI SANATI VE FARKLI MATERYALLERLE ÜRETİMİ I",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4240,7 +4240,7 @@
   {
    "kod": "FEN035",
    "ad": "TEMEL HUKUK",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4254,7 +4254,7 @@
   {
    "kod": "FEN037",
    "ad": "BİLİMSEL ARAŞTIRMA TEKNİKLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4268,7 +4268,7 @@
   {
    "kod": "FEN039",
    "ad": "ÖZEL BAHÇE BİTKİLERİ YETİŞTİRİCİLİĞİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4282,7 +4282,7 @@
   {
    "kod": "FEN049",
    "ad": "FINANCIAL INSTITUTIONS AND MARKETS",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4296,7 +4296,7 @@
   {
    "kod": "FEN051",
    "ad": "FELSEFEYE GİRİŞ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4310,7 +4310,7 @@
   {
    "kod": "FEN053",
    "ad": "ANADOLU SANATI TARİHİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4324,7 +4324,7 @@
   {
    "kod": "FEN055",
    "ad": "MİTOLOJİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4338,7 +4338,7 @@
   {
    "kod": "FEN057",
    "ad": "KONUŞMA EĞİTİMİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4352,7 +4352,7 @@
   {
    "kod": "FEN059",
    "ad": "GİRİŞİMCİLİK VE KALİTE",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4366,7 +4366,7 @@
   {
    "kod": "FEN063",
    "ad": "MÜZİK VE TOPLUM I",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4380,7 +4380,7 @@
   {
    "kod": "FEN067",
    "ad": "İNSAN İLİŞKİLERİ VE İLETİŞİM",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4394,7 +4394,7 @@
   {
    "kod": "FEN069",
    "ad": "KİŞİLER ARASI İLİŞKİLER",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4408,7 +4408,7 @@
   {
    "kod": "FSM404",
    "ad": "GİRİŞİMCİLİK, FİKRİ VE SINAİ MÜLKİYET HAKLARINA GİRİŞ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4422,7 +4422,7 @@
   {
    "kod": "INV401",
    "ad": "İNOVASYON, TEKNOLOJİ VE GİRİŞİMCİLİK",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4436,7 +4436,7 @@
   {
    "kod": "FEN018",
    "ad": "DANS EĞİTİMİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4450,7 +4450,7 @@
   {
    "kod": "FEN034",
    "ad": "TAKI SANATI VE FARKLI MATERYALLERLE ÜRETİMİ II",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4464,7 +4464,7 @@
   {
    "kod": "FEN040",
    "ad": "BÖLGESEL İKTİSAT VE GELİŞME",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4478,7 +4478,7 @@
   {
    "kod": "FEN042",
    "ad": "YARATICI DÜŞÜNCE YÖNTEM VE TEKNİKLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4492,7 +4492,7 @@
   {
    "kod": "FEN044",
    "ad": "KİŞİSEL GELİŞİM",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4506,7 +4506,7 @@
   {
    "kod": "FEN046",
    "ad": "DİJİTAL FOTOĞRAFÇILIK",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4520,7 +4520,7 @@
   {
    "kod": "FEN048",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4534,7 +4534,7 @@
   {
    "kod": "FEN060",
    "ad": "MEDYA OKURYAZARLIĞI",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4548,7 +4548,7 @@
   {
    "kod": "FEN062",
    "ad": "MODERN TÜRK EDEBİYATINDA ROMAN VE HİKAYE",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4562,7 +4562,7 @@
   {
    "kod": "FEN064",
    "ad": "İNSAN GELİŞİMİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4576,7 +4576,7 @@
   {
    "kod": "FEN066",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4590,7 +4590,7 @@
   {
    "kod": "FEN070",
    "ad": "MÜZİK VE TOPLUM II",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4604,7 +4604,7 @@
   {
    "kod": "FEN081",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4618,7 +4618,7 @@
   {
    "kod": "BİY391",
    "ad": "GIDA MİKROBİYOLOJİSİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.V - ALAN SEÇMELİ V",
    "tur": "Seçmeli",
@@ -4632,7 +4632,7 @@
   {
    "kod": "BİY395",
    "ad": "HÜCRE BİYOLOJİSİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.V - ALAN SEÇMELİ V",
    "tur": "Seçmeli",
@@ -4646,7 +4646,7 @@
   {
    "kod": "BKM2311",
    "ad": "MAKROMOLEKÜLERDE YAPISAL ANAZLİZLER",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.V - ALAN SEÇMELİ V",
    "tur": "Seçmeli",
@@ -4660,7 +4660,7 @@
   {
    "kod": "KİM381",
    "ad": "ENSTRÜMENTAL ANALİZ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.V - ALAN SEÇMELİ V",
    "tur": "Seçmeli",
@@ -4674,7 +4674,7 @@
   {
    "kod": "BİY001",
    "ad": "MODERN BİYOLOJİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4688,7 +4688,7 @@
   {
    "kod": "BİY003",
    "ad": "İYİ LABORATUVAR UYGULAMALARI",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4702,7 +4702,7 @@
   {
    "kod": "FİZ001",
    "ad": "NANOTEKNOLOJİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4716,7 +4716,7 @@
   {
    "kod": "FİZ317",
    "ad": "BİYOFİZİK",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4730,7 +4730,7 @@
   {
    "kod": "FİZ328",
    "ad": "BİYOLOJİ VE TIPTA FİZİK",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4744,7 +4744,7 @@
   {
    "kod": "KİM001",
    "ad": "KİMYASAL ÜRÜNLER VE YAŞAM",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4758,7 +4758,7 @@
   {
    "kod": "KİM003",
    "ad": "KEMOMETRİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4772,7 +4772,7 @@
   {
    "kod": "KİM007",
    "ad": "İŞ GÜVENLİĞİ VE SAĞLIĞI-KİMYASAL RİSK ETMENLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4786,7 +4786,7 @@
   {
    "kod": "KİM223",
    "ad": "HISTORY OF SCIENCE AND CHEMISTRY",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4800,7 +4800,7 @@
   {
    "kod": "MAT005",
    "ad": "MODELLEME TEKNİKLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4814,7 +4814,7 @@
   {
    "kod": "BİY494",
    "ad": "MİKROBİYAL EKOLOJİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VI - ALAN SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -4828,7 +4828,7 @@
   {
    "kod": "BKM2310",
    "ad": "KSENOBİYOTİK METABOLİZMA",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VI - ALAN SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -4842,7 +4842,7 @@
   {
    "kod": "BKM2312",
    "ad": "MİKROBİYAL METABOLİZMA",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VI - ALAN SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -4856,7 +4856,7 @@
   {
    "kod": "BKM2314",
    "ad": "İMMUNOLOJİK BİYOTEKNOLOJİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VI - ALAN SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -4870,7 +4870,7 @@
   {
    "kod": "BKM302",
    "ad": "NANOBİYOTEKNOLOJİYE GİRİŞ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VI - ALAN SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -4884,7 +4884,7 @@
   {
    "kod": "BKM304",
    "ad": "BİYOSENSÖRLERE GİRİŞ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VI - ALAN SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -4898,7 +4898,7 @@
   {
    "kod": "BİY006",
    "ad": "GENETİKTE GÜNCEL KONULAR",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4912,7 +4912,7 @@
   {
    "kod": "FİZ320",
    "ad": "BİYOMEKANİK",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4926,7 +4926,7 @@
   {
    "kod": "FİZ324",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4940,7 +4940,7 @@
   {
    "kod": "FİZ410",
    "ad": "RADYASYON FİZİĞİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4954,7 +4954,7 @@
   {
    "kod": "FİZ412",
    "ad": "MEDİKAL FİZİK",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4968,7 +4968,7 @@
   {
    "kod": "FİZ418",
    "ad": "ÖLÇÜ VE KONTROL TEKNİĞİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4982,7 +4982,7 @@
   {
    "kod": "FİZ430",
    "ad": "SPEKTRAL ANALİZ YÖNTEMLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4996,7 +4996,7 @@
   {
    "kod": "KİM002",
    "ad": "LABORATUVAR GÜVENLİĞİ VE ATIK YÖNETİMİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -5010,7 +5010,7 @@
   {
    "kod": "BKM2411",
    "ad": "FOOD BIOTECHNOLOGY",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VII.ING - ALAN SEÇMELİ VII ING",
    "tur": "Seçmeli",
@@ -5024,7 +5024,7 @@
   {
    "kod": "BKM403",
    "ad": "INTRODUCTION TO BIOINFORMATICS",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VII.ING - ALAN SEÇMELİ VII ING",
    "tur": "Seçmeli",
@@ -5038,7 +5038,7 @@
   {
    "kod": "İST451",
    "ad": "APPLIED BIOSTATISTICS",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VII.ING - ALAN SEÇMELİ VII ING",
    "tur": "Seçmeli",
@@ -5052,7 +5052,7 @@
   {
    "kod": "KİM481",
    "ad": "INTRODUCTION TO CHEMICAL INSTRUMENTATION",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VII.ING - ALAN SEÇMELİ VII ING",
    "tur": "Seçmeli",
@@ -5066,7 +5066,7 @@
   {
    "kod": "BKM2421",
    "ad": "BİTKİ VE HAYVAN BİYOTEKNOLOJİSİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VII.TUR - ALAN SEÇMELİ VII TUR",
    "tur": "Seçmeli",
@@ -5080,7 +5080,7 @@
   {
    "kod": "BKM2423",
    "ad": "ENDÜSTRİYEL EKONOMİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VII.TUR - ALAN SEÇMELİ VII TUR",
    "tur": "Seçmeli",
@@ -5094,7 +5094,7 @@
   {
    "kod": "BKM2425",
    "ad": "ENTEGRE ATIK YÖNETİMİ VE EKONOMİSİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VII.TUR - ALAN SEÇMELİ VII TUR",
    "tur": "Seçmeli",
@@ -5108,7 +5108,7 @@
   {
    "kod": "BKM2427",
    "ad": "FARMASÖTİK BİYOTEKNOLOJİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VII.TUR - ALAN SEÇMELİ VII TUR",
    "tur": "Seçmeli",
@@ -5122,7 +5122,7 @@
   {
    "kod": "BKM2429",
    "ad": "MOLEKÜLER VE METABOLİK MÜHENDİSLİK",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VII.TUR - ALAN SEÇMELİ VII TUR",
    "tur": "Seçmeli",
@@ -5136,7 +5136,7 @@
   {
    "kod": "BKM2431",
    "ad": "BİYOENERJİ TEKNOLOJİLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VII.TUR - ALAN SEÇMELİ VII TUR",
    "tur": "Seçmeli",
@@ -5150,7 +5150,7 @@
   {
    "kod": "BKM401",
    "ad": "KAYNAK TARAMA TEKNİKLERİ (DİPLOMA ÇALIŞMASI-I)",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VII.TUR - ALAN SEÇMELİ VII TUR",
    "tur": "Seçmeli",
@@ -5164,7 +5164,7 @@
   {
    "kod": "BKM405",
    "ad": "GIDA KALİTE KONTROL",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VII.TUR - ALAN SEÇMELİ VII TUR",
    "tur": "Seçmeli",
@@ -5178,7 +5178,7 @@
   {
    "kod": "BKM409",
    "ad": "HÜCRE VE DOKU KÜLTÜRÜ HAZIRLAMA TEKNİKLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VII.TUR - ALAN SEÇMELİ VII TUR",
    "tur": "Seçmeli",
@@ -5192,7 +5192,7 @@
   {
    "kod": "BKM2410",
    "ad": "FUNGAL BIOTECHNOLOGY",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.ING - ALAN SEÇMELİ VIII ING",
    "tur": "Seçmeli",
@@ -5206,7 +5206,7 @@
   {
    "kod": "BKM404",
    "ad": "TECHNICAL INVESTIGATION",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.ING - ALAN SEÇMELİ VIII ING",
    "tur": "Seçmeli",
@@ -5220,7 +5220,7 @@
   {
    "kod": "BKM406",
    "ad": "BIOCHEMICAL IMAGING TECHNIQUES",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.ING - ALAN SEÇMELİ VIII ING",
    "tur": "Seçmeli",
@@ -5234,7 +5234,7 @@
   {
    "kod": "BKM412",
    "ad": "BIOMATERIALS",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.ING - ALAN SEÇMELİ VIII ING",
    "tur": "Seçmeli",
@@ -5248,7 +5248,7 @@
   {
    "kod": "BKM414",
    "ad": "COMPUTATIONAL BIOCHEMISTRY",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.ING - ALAN SEÇMELİ VIII ING",
    "tur": "Seçmeli",
@@ -5262,7 +5262,7 @@
   {
    "kod": "BKM2420",
    "ad": "ENDÜSTRİYEL HİJYEN",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.TUR - ALAN SEÇMELİ VIII TUR",
    "tur": "Seçmeli",
@@ -5276,7 +5276,7 @@
   {
    "kod": "BKM2422",
    "ad": "ÇEVRE BİYOTEKNOLOJİSİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.TUR - ALAN SEÇMELİ VIII TUR",
    "tur": "Seçmeli",
@@ -5290,7 +5290,7 @@
   {
    "kod": "BKM2424",
    "ad": "TARIMSAL BİYOTEKNOLOJİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.TUR - ALAN SEÇMELİ VIII TUR",
    "tur": "Seçmeli",
@@ -5304,7 +5304,7 @@
   {
    "kod": "BKM2426",
    "ad": "MEDİKAL BİYOTEKNOLOJİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.TUR - ALAN SEÇMELİ VIII TUR",
    "tur": "Seçmeli",
@@ -5318,7 +5318,7 @@
   {
    "kod": "BKM2428",
    "ad": "DOKU MÜHENDİSLİĞİNDE TEMEL PRENSİPLER",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.TUR - ALAN SEÇMELİ VIII TUR",
    "tur": "Seçmeli",
@@ -5332,7 +5332,7 @@
   {
    "kod": "BKM2430",
    "ad": "YAPAY ORGANLAR",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.TUR - ALAN SEÇMELİ VIII TUR",
    "tur": "Seçmeli",
@@ -5346,7 +5346,7 @@
   {
    "kod": "BKM2432",
    "ad": "BİYOMETRİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.TUR - ALAN SEÇMELİ VIII TUR",
    "tur": "Seçmeli",
@@ -5360,7 +5360,7 @@
   {
    "kod": "BKM2434",
    "ad": "BİYOETİK",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.TUR - ALAN SEÇMELİ VIII TUR",
    "tur": "Seçmeli",
@@ -5374,7 +5374,7 @@
   {
    "kod": "BKM402",
    "ad": "BİTİRME TEZİ (DİPLOMA ÇALIŞMASI-II)",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.TUR - ALAN SEÇMELİ VIII TUR",
    "tur": "Seçmeli",
@@ -5388,7 +5388,7 @@
   {
    "kod": "BKM410",
    "ad": "ATIK DEĞERLENDİRMESİ VE ARITMA YÖNTEMLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2014 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.TUR - ALAN SEÇMELİ VIII TUR",
    "tur": "Seçmeli",
@@ -5402,7 +5402,7 @@
   {
    "kod": "ATA101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -5416,7 +5416,7 @@
   {
    "kod": "BKM101",
    "ad": "YAŞAM BİLİMLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -5430,7 +5430,7 @@
   {
    "kod": "BKP101",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -5444,7 +5444,7 @@
   {
    "kod": "FEN101",
    "ad": "SCIENTIFIC ENGLISH I",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -5458,7 +5458,7 @@
   {
    "kod": "FEN109",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -5472,7 +5472,7 @@
   {
    "kod": "FİZ159",
    "ad": "PHYSICS",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -5486,7 +5486,7 @@
   {
    "kod": "KİM183",
    "ad": "GENEL KİMYA-I",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -5500,7 +5500,7 @@
   {
    "kod": "MAT165",
    "ad": "MATEMATİK-I",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -5514,7 +5514,7 @@
   {
    "kod": "TUR101",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -5528,7 +5528,7 @@
   {
    "kod": "ATA102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -5542,7 +5542,7 @@
   {
    "kod": "BİY194",
    "ad": "GENERAL BIOLOGY",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -5556,7 +5556,7 @@
   {
    "kod": "FEN102",
    "ad": "SCIENTIFIC ENGLISH II",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -5570,7 +5570,7 @@
   {
    "kod": "İST154",
    "ad": "BASIC STATISTICS",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -5584,7 +5584,7 @@
   {
    "kod": "KİM184",
    "ad": "GENEL KİMYA-II",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -5598,7 +5598,7 @@
   {
    "kod": "MAT154",
    "ad": "MATEMATİK-II",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -5612,7 +5612,7 @@
   {
    "kod": "TUR102",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -5626,7 +5626,7 @@
   {
    "kod": "ÜYG102",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -5640,7 +5640,7 @@
   {
    "kod": "BİY293",
    "ad": "MİKROBİYOLOJİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -5654,7 +5654,7 @@
   {
    "kod": "BKM201",
    "ad": "MOLECULAR BIOLOGY AND GENETICS",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -5668,7 +5668,7 @@
   {
    "kod": "KİM291",
    "ad": "ORGANIC CHEMISTRY",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -5682,7 +5682,7 @@
   {
    "kod": "KİM293",
    "ad": "ANALİTİK KİMYA",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -5696,7 +5696,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -5710,7 +5710,7 @@
   {
    "kod": "THU201",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -5724,7 +5724,7 @@
   {
    "kod": "BKM202",
    "ad": "BİYOKİMYA-I",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -5738,7 +5738,7 @@
   {
    "kod": "BKM204",
    "ad": "BASIC TECHNIQUES IN BIOCHEMISTRY",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -5752,7 +5752,7 @@
   {
    "kod": "BKM206",
    "ad": "BİYOANORGANİK KİMYA",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -5766,7 +5766,7 @@
   {
    "kod": "BKM208",
    "ad": "BİYOFİZİKOKİMYA",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -5780,7 +5780,7 @@
   {
    "kod": "BKM210",
    "ad": "BİYOKİMYA LABORATUVARI",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -5794,7 +5794,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -5808,7 +5808,7 @@
   {
    "kod": "BKM2301",
    "ad": "BİYOKİMYA-II",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -5822,7 +5822,7 @@
   {
    "kod": "BKM2303",
    "ad": "BİYOTEKNOLOJİNİN TEMELLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -5836,7 +5836,7 @@
   {
    "kod": "BKM2305",
    "ad": "ENZİM TEKNOLOJİSİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -5850,7 +5850,7 @@
   {
    "kod": "BKM2307",
    "ad": "STAJ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -5864,7 +5864,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -5878,7 +5878,7 @@
   {
    "kod": "BKM2302",
    "ad": "BİYOKİMYA-III",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -5892,7 +5892,7 @@
   {
    "kod": "BKM2304",
    "ad": "FERMENTASYON TEKNOLOJİSİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -5906,7 +5906,7 @@
   {
    "kod": "BKM2306",
    "ad": "BIOREACTORS",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -5920,7 +5920,7 @@
   {
    "kod": "BKM2308",
    "ad": "STAJ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -5934,7 +5934,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -5948,7 +5948,7 @@
   {
    "kod": "BKM2401",
    "ad": "BIOPROCESS KINETICS",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -5962,7 +5962,7 @@
   {
    "kod": "BKM411",
    "ad": "GENE TECHNOLOGY AND APPLICATIONS",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -5976,7 +5976,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -5990,7 +5990,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -6004,7 +6004,7 @@
   {
    "kod": "BKM2402",
    "ad": "BİYOPROSESLERDE AYIRMA VE SAFLAŞTIRMA YÖNTEMLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -6018,7 +6018,7 @@
   {
    "kod": "BKM2404",
    "ad": "BIOPROCESS LABORATORY",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -6032,7 +6032,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -6046,7 +6046,7 @@
   {
    "kod": "AST004",
    "ad": "ASTROBİYOLOJİYE GİRİŞ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -6060,7 +6060,7 @@
   {
    "kod": "BİY001",
    "ad": "MODERN BİYOLOJİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -6074,7 +6074,7 @@
   {
    "kod": "BİY003",
    "ad": "İYİ LABORATUVAR UYGULAMALARI",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -6088,7 +6088,7 @@
   {
    "kod": "FİZ001",
    "ad": "NANOTEKNOLOJİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -6102,7 +6102,7 @@
   {
    "kod": "FİZ317",
    "ad": "BİYOFİZİK",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -6116,7 +6116,7 @@
   {
    "kod": "FİZ328",
    "ad": "BİYOLOJİ VE TIPTA FİZİK",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -6130,7 +6130,7 @@
   {
    "kod": "KİM001",
    "ad": "KİMYASAL ÜRÜNLER VE YAŞAM",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -6144,7 +6144,7 @@
   {
    "kod": "KİM003",
    "ad": "KEMOMETRİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -6158,7 +6158,7 @@
   {
    "kod": "KİM007",
    "ad": "İŞ GÜVENLİĞİ VE SAĞLIĞI-KİMYASAL RİSK ETMENLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -6172,7 +6172,7 @@
   {
    "kod": "KİM223",
    "ad": "HISTORY OF SCIENCE AND CHEMISTRY",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -6186,7 +6186,7 @@
   {
    "kod": "MAT005",
    "ad": "MODELLEME TEKNİKLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -6200,7 +6200,7 @@
   {
    "kod": "BİY006",
    "ad": "GENETİKTE GÜNCEL KONULAR",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -6214,7 +6214,7 @@
   {
    "kod": "FİZ320",
    "ad": "BİYOMEKANİK",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -6228,7 +6228,7 @@
   {
    "kod": "FİZ324",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -6242,7 +6242,7 @@
   {
    "kod": "FİZ410",
    "ad": "RADYASYON FİZİĞİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -6256,7 +6256,7 @@
   {
    "kod": "FİZ412",
    "ad": "MEDİKAL FİZİK",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -6270,7 +6270,7 @@
   {
    "kod": "FİZ418",
    "ad": "ÖLÇÜ VE KONTROL TEKNİĞİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -6284,7 +6284,7 @@
   {
    "kod": "FİZ430",
    "ad": "SPEKTRAL ANALİZ YÖNTEMLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -6298,7 +6298,7 @@
   {
    "kod": "KİM002",
    "ad": "LABORATUVAR GÜVENLİĞİ VE ATIK YÖNETİMİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -6312,7 +6312,7 @@
   {
    "kod": "BİY391",
    "ad": "GIDA MİKROBİYOLOJİSİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.V - ALAN SEÇMELİ V",
    "tur": "Seçmeli",
@@ -6326,7 +6326,7 @@
   {
    "kod": "BİY395",
    "ad": "HÜCRE BİYOLOJİSİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.V - ALAN SEÇMELİ V",
    "tur": "Seçmeli",
@@ -6340,7 +6340,7 @@
   {
    "kod": "BKM2311",
    "ad": "MAKROMOLEKÜLERDE YAPISAL ANAZLİZLER",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.V - ALAN SEÇMELİ V",
    "tur": "Seçmeli",
@@ -6354,7 +6354,7 @@
   {
    "kod": "KİM381",
    "ad": "ENSTRÜMENTAL ANALİZ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.V - ALAN SEÇMELİ V",
    "tur": "Seçmeli",
@@ -6368,7 +6368,7 @@
   {
    "kod": "Bİİ305DSG",
    "ad": "DİN SOSYOLOJİSİNE GİRİŞ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6382,7 +6382,7 @@
   {
    "kod": "Bİİ315İDİT",
    "ad": "İLK DÖNEM İSLAM TARİHİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6396,7 +6396,7 @@
   {
    "kod": "Bİİ319KMTH",
    "ad": "KUTSAL METİNLERDE TARİH VE HİKAYE: KISSALARIN MUKAYESESİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6410,7 +6410,7 @@
   {
    "kod": "Bİİ321TÜTT",
    "ad": "TÜRK TASAVVUF TARİHİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6424,7 +6424,7 @@
   {
    "kod": "DTMK305TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ I",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6438,7 +6438,7 @@
   {
    "kod": "ECZ301ATS",
    "ad": "AFETTE TOPLUMSAL SORUMLULUK",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6452,7 +6452,7 @@
   {
    "kod": "EDB315FEGİ",
    "ad": "FELSEFEYE GİRİŞ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6466,7 +6466,7 @@
   {
    "kod": "EDB317TSSK",
    "ad": "TÜRK SANATINDA SEMBOLLER VE KÜLTÜREL ETKİLEŞİM",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6480,7 +6480,7 @@
   {
    "kod": "EĞT305AT",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6494,7 +6494,7 @@
   {
    "kod": "EĞT305BUMFE",
    "ad": "BASİT VE UCUZ MALZEMELERLE FEN ETKİNLİKLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6508,7 +6508,7 @@
   {
    "kod": "EĞT305DE",
    "ad": "DÜNYA EDEBİYATI",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6522,7 +6522,7 @@
   {
    "kod": "EĞT305EYZU",
    "ad": "EĞİTİMDE YAPAY ZEKA UYGULAMALARI",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6536,7 +6536,7 @@
   {
    "kod": "EĞT305TYÖ",
    "ad": "TERS YÜZ ÖĞRENME",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6550,7 +6550,7 @@
   {
    "kod": "EĞT307SAEL",
    "ad": "SANAT ELEŞTİRİSİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6564,7 +6564,7 @@
   {
    "kod": "ENF305ÖSMW",
    "ad": "ÖĞRETİMDE SOSYAL MEDYA VE WEB2.0 ARAÇLARI",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6578,7 +6578,7 @@
   {
    "kod": "ENF305YMT",
    "ad": "YENİ MEDYA TEKNOLOJİLERİ VE DİJİTAL YAYINCILIK",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6592,7 +6592,7 @@
   {
    "kod": "ENF309VM",
    "ad": "DATA MINING",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6606,7 +6606,7 @@
   {
    "kod": "GZL224TEKNO",
    "ad": "TEKNOKÜLTÜR VE SANAL DÜNYALAR",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6620,7 +6620,7 @@
   {
    "kod": "İİB307IGP",
    "ad": "INTRODUCTION TO GLOBAL POLITICS",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6634,7 +6634,7 @@
   {
    "kod": "İLE247MAG",
    "ad": "MAGAZİN HABERCİLİĞİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6648,7 +6648,7 @@
   {
    "kod": "İLE257TSİ",
    "ad": "TÜRK SİNEMASI",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6662,7 +6662,7 @@
   {
    "kod": "İLE307DZY",
    "ad": "DUYGUSAL ZEKA YÖNETİMİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6676,7 +6676,7 @@
   {
    "kod": "MOD305ÜTG",
    "ad": "ÜRÜN TASARIMINA GİRİŞ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6690,7 +6690,7 @@
   {
    "kod": "MOD307ÜTMS",
    "ad": "ÜRÜN TASARIMINDA MALZEME SEÇİMİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6704,7 +6704,7 @@
   {
    "kod": "MÜH309ETKG",
    "ad": "ELEKTRİK TESİSATLARINDA KORUMA VE GÜVENLİK",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6718,7 +6718,7 @@
   {
    "kod": "MÜH313PİPG",
    "ad": "PYTHON İLE PROGRAMLAMAYA GİRİŞ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6732,7 +6732,7 @@
   {
    "kod": "SUÜ307OLTAB",
    "ad": "OLTA BALIKÇILIĞI",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -6746,7 +6746,7 @@
   {
    "kod": "BİY494",
    "ad": "MİKROBİYAL EKOLOJİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VI - ALAN SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -6760,7 +6760,7 @@
   {
    "kod": "BKM2310",
    "ad": "KSENOBİYOTİK METABOLİZMA",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VI - ALAN SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -6774,7 +6774,7 @@
   {
    "kod": "BKM2312",
    "ad": "MİKROBİYAL METABOLİZMA",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VI - ALAN SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -6788,7 +6788,7 @@
   {
    "kod": "BKM2314",
    "ad": "İMMUNOLOJİK BİYOTEKNOLOJİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VI - ALAN SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -6802,7 +6802,7 @@
   {
    "kod": "BKM302",
    "ad": "NANOBİYOTEKNOLOJİYE GİRİŞ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VI - ALAN SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -6816,7 +6816,7 @@
   {
    "kod": "BKM304",
    "ad": "BİYOSENSÖRLERE GİRİŞ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VI - ALAN SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -6830,7 +6830,7 @@
   {
    "kod": "Bİİ305DS",
    "ad": "DİN VE SANAT",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -6844,7 +6844,7 @@
   {
    "kod": "Bİİ306DİVKA",
    "ad": "DİNLER VE KADIN",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -6858,7 +6858,7 @@
   {
    "kod": "Bİİ320PHCY",
    "ad": "HZ.PEYGAMBERİN HAYATININ ÇAĞDAŞ YORUMU",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -6872,7 +6872,7 @@
   {
    "kod": "Bİİ324KVTM",
    "ad": "KUR'AN VE TARTIŞMALI MESELELER: METİN, TESFİR VE ALGI",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -6886,7 +6886,7 @@
   {
    "kod": "ECZ302TM",
    "ad": "TÜRK MÜZİĞİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -6900,7 +6900,7 @@
   {
    "kod": "ECZ304CB",
    "ad": "ÇEVRE BİLİNCİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -6914,7 +6914,7 @@
   {
    "kod": "ECZ306KBİT",
    "ad": "KENTLİLİK BİLİNCİ VE İZMİR TARİHİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -6928,7 +6928,7 @@
   {
    "kod": "EDB307YVRM",
    "ad": "YUNAN VE ROMA MİTOLOJİSİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -6942,7 +6942,7 @@
   {
    "kod": "ENF305WEB",
    "ad": "WEB TASARIMI",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -6956,7 +6956,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -6970,7 +6970,7 @@
   {
    "kod": "MOD306MLB",
    "ad": "MALZEME BİLGİSİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -6984,7 +6984,7 @@
   {
    "kod": "MÜH309ETKG",
    "ad": "ELEKTRİK TESİSATLARINDA KORUMA VE GÜVENLİK",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -6998,7 +6998,7 @@
   {
    "kod": "SUÜ310DCK",
    "ad": "DENİZDE CANLI KALABİLME",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -7012,7 +7012,7 @@
   {
    "kod": "BKM2421",
    "ad": "BİTKİ VE HAYVAN BİYOTEKNOLOJİSİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.SEÇ.VII.TUR - ALAN SEÇMELİ DERS GRUBU VII TUR",
    "tur": "Seçmeli",
@@ -7026,7 +7026,7 @@
   {
    "kod": "BKM2423",
    "ad": "ENDÜSTRİYEL EKONOMİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.SEÇ.VII.TUR - ALAN SEÇMELİ DERS GRUBU VII TUR",
    "tur": "Seçmeli",
@@ -7040,7 +7040,7 @@
   {
    "kod": "BKM2425",
    "ad": "ENTEGRE ATIK YÖNETİMİ VE EKONOMİSİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.SEÇ.VII.TUR - ALAN SEÇMELİ DERS GRUBU VII TUR",
    "tur": "Seçmeli",
@@ -7054,7 +7054,7 @@
   {
    "kod": "BKM2427",
    "ad": "FARMASÖTİK BİYOTEKNOLOJİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.SEÇ.VII.TUR - ALAN SEÇMELİ DERS GRUBU VII TUR",
    "tur": "Seçmeli",
@@ -7068,7 +7068,7 @@
   {
    "kod": "BKM2431",
    "ad": "BİYOENERJİ TEKNOLOJİLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.SEÇ.VII.TUR - ALAN SEÇMELİ DERS GRUBU VII TUR",
    "tur": "Seçmeli",
@@ -7082,7 +7082,7 @@
   {
    "kod": "BKM401",
    "ad": "KAYNAK TARAMA TEKNİKLERİ (DİPLOMA ÇALIŞMASI-I)",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.SEÇ.VII.TUR - ALAN SEÇMELİ DERS GRUBU VII TUR",
    "tur": "Seçmeli",
@@ -7096,7 +7096,7 @@
   {
    "kod": "BKM405",
    "ad": "GIDA KALİTE KONTROL",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.SEÇ.VII.TUR - ALAN SEÇMELİ DERS GRUBU VII TUR",
    "tur": "Seçmeli",
@@ -7110,7 +7110,7 @@
   {
    "kod": "BKM409",
    "ad": "HÜCRE VE DOKU KÜLTÜRÜ HAZIRLAMA TEKNİKLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.SEÇ.VII.TUR - ALAN SEÇMELİ DERS GRUBU VII TUR",
    "tur": "Seçmeli",
@@ -7124,7 +7124,7 @@
   {
    "kod": "BKM2411",
    "ad": "FOOD BIOTECHNOLOGY",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VII.ING - ALAN SEÇMELİ VII ING",
    "tur": "Seçmeli",
@@ -7138,7 +7138,7 @@
   {
    "kod": "BKM403",
    "ad": "INTRODUCTION TO BIOINFORMATICS",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VII.ING - ALAN SEÇMELİ VII ING",
    "tur": "Seçmeli",
@@ -7152,7 +7152,7 @@
   {
    "kod": "İST451",
    "ad": "APPLIED BIOSTATISTICS",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VII.ING - ALAN SEÇMELİ VII ING",
    "tur": "Seçmeli",
@@ -7166,7 +7166,7 @@
   {
    "kod": "KİM481",
    "ad": "INTRODUCTION TO CHEMICAL INSTRUMENTATION",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VII.ING - ALAN SEÇMELİ VII ING",
    "tur": "Seçmeli",
@@ -7180,7 +7180,7 @@
   {
    "kod": "BKM2410",
    "ad": "FUNGAL BIOTECHNOLOGY",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.ING - ALAN SEÇMELİ VIII ING",
    "tur": "Seçmeli",
@@ -7194,7 +7194,7 @@
   {
    "kod": "BKM404",
    "ad": "TECHNICAL INVESTIGATION",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.ING - ALAN SEÇMELİ VIII ING",
    "tur": "Seçmeli",
@@ -7208,7 +7208,7 @@
   {
    "kod": "BKM406",
    "ad": "BIOCHEMICAL IMAGING TECHNIQUES",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.ING - ALAN SEÇMELİ VIII ING",
    "tur": "Seçmeli",
@@ -7222,7 +7222,7 @@
   {
    "kod": "BKM412",
    "ad": "BIOMATERIALS",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.ING - ALAN SEÇMELİ VIII ING",
    "tur": "Seçmeli",
@@ -7236,7 +7236,7 @@
   {
    "kod": "BKM414",
    "ad": "COMPUTATIONAL BIOCHEMISTRY",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.ING - ALAN SEÇMELİ VIII ING",
    "tur": "Seçmeli",
@@ -7250,7 +7250,7 @@
   {
    "kod": "BKM2420",
    "ad": "ENDÜSTRİYEL HİJYEN",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.TUR - ALAN SEÇMELİ VIII TUR",
    "tur": "Seçmeli",
@@ -7264,7 +7264,7 @@
   {
    "kod": "BKM2422",
    "ad": "ÇEVRE BİYOTEKNOLOJİSİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.TUR - ALAN SEÇMELİ VIII TUR",
    "tur": "Seçmeli",
@@ -7278,7 +7278,7 @@
   {
    "kod": "BKM2424",
    "ad": "TARIMSAL BİYOTEKNOLOJİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.TUR - ALAN SEÇMELİ VIII TUR",
    "tur": "Seçmeli",
@@ -7292,7 +7292,7 @@
   {
    "kod": "BKM2426",
    "ad": "MEDİKAL BİYOTEKNOLOJİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.TUR - ALAN SEÇMELİ VIII TUR",
    "tur": "Seçmeli",
@@ -7306,7 +7306,7 @@
   {
    "kod": "BKM2428",
    "ad": "DOKU MÜHENDİSLİĞİNDE TEMEL PRENSİPLER",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.TUR - ALAN SEÇMELİ VIII TUR",
    "tur": "Seçmeli",
@@ -7320,7 +7320,7 @@
   {
    "kod": "BKM2430",
    "ad": "YAPAY ORGANLAR",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.TUR - ALAN SEÇMELİ VIII TUR",
    "tur": "Seçmeli",
@@ -7334,7 +7334,7 @@
   {
    "kod": "BKM2432",
    "ad": "BİYOMETRİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.TUR - ALAN SEÇMELİ VIII TUR",
    "tur": "Seçmeli",
@@ -7348,7 +7348,7 @@
   {
    "kod": "BKM2434",
    "ad": "BİYOETİK",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.TUR - ALAN SEÇMELİ VIII TUR",
    "tur": "Seçmeli",
@@ -7362,7 +7362,7 @@
   {
    "kod": "BKM402",
    "ad": "BİTİRME TEZİ (DİPLOMA ÇALIŞMASI-II)",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.TUR - ALAN SEÇMELİ VIII TUR",
    "tur": "Seçmeli",
@@ -7376,7 +7376,7 @@
   {
    "kod": "BKM410",
    "ad": "ATIK DEĞERLENDİRMESİ VE ARITMA YÖNTEMLERİ",
-   "mufredat": "Biyoteknoloji Ağırlıklı Biyokimya",
+   "mufredat": "2020 Yılı Müfredatı (Biyoteknoloji Ağırlıklı Biyokimya)",
    "yariyil": null,
    "grup": "BKM.ALAN.VIII.TUR - ALAN SEÇMELİ VIII TUR",
    "tur": "Seçmeli",

@@ -12,7 +12,7 @@
   {
    "kod": "9204016012018",
    "ad": "Bılımsel Araştırma Yöntemlerı ve Etık (E)",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "92SE180162022",
    "ad": "Semıner Çalışmaları",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "SOSDRYET790",
    "ad": "Yeterlılık Dersı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SOSDRTEZONE",
    "ad": "Tez Önerısı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "DRTEZ692",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "DRTEZ692",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "DRTEZ692",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "DRTEZ692",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "9204016032020",
    "ad": "Pazarlama Kuramı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": null,
    "grup": "İŞLT.DOK.PAZ.SDG1 - İşletme pazarlama Yükseklisans Derecesi ile Doktora SDG1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9204016072021",
    "ad": "Pazarlamada Güncel Tartışmalar ve Okumalar",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": null,
    "grup": "İŞLT.DOK.PAZ.SDG1 - İşletme pazarlama Yükseklisans Derecesi ile Doktora SDG1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9204016092021",
    "ad": "Dıjıtalleşme ve Pazarlama",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": null,
    "grup": "İŞLT.DOK.PAZ.SDG1 - İşletme pazarlama Yükseklisans Derecesi ile Doktora SDG1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9204016112021",
    "ad": "Hızmet Pazarlaması Stratejılerı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": null,
    "grup": "İŞLT.DOK.PAZ.SDG1 - İşletme pazarlama Yükseklisans Derecesi ile Doktora SDG1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9204016132021",
    "ad": "Endüstrıyel İşlemlerde Stratejık Pazarlama Yönetımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": null,
    "grup": "İŞLT.DOK.PAZ.SDG1 - İşletme pazarlama Yükseklisans Derecesi ile Doktora SDG1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9204016152021",
    "ad": "Satış Yönetımı Stratejılerı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": null,
    "grup": "İŞLT.DOK.PAZ.SDG1 - İşletme pazarlama Yükseklisans Derecesi ile Doktora SDG1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9204016172018",
    "ad": "Stratejık Pazarlama Yönetımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": null,
    "grup": "İŞLT.DOK.PAZ.SDG1 - İşletme pazarlama Yükseklisans Derecesi ile Doktora SDG1",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9204016192026",
    "ad": "Pazarlama ve Toplum",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": null,
    "grup": "İŞLT.DOK.PAZ.SDG1 - İşletme pazarlama Yükseklisans Derecesi ile Doktora SDG1",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9204016002021",
    "ad": "Küreselleşme ve Pazar Dınamıklerı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": null,
    "grup": "İŞLT.DOK.PAZ.SDG2 - İşletme pazarlama Yükseklisans Derecesi ile Doktora SDG2",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9204016022018",
    "ad": "Tüketıcı Davranışları ve Tüketım Kültürü Teorılerı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": null,
    "grup": "İŞLT.DOK.PAZ.SDG2 - İşletme pazarlama Yükseklisans Derecesi ile Doktora SDG2",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9204016042021",
    "ad": "Stratejık Perakende Yönetımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": null,
    "grup": "İŞLT.DOK.PAZ.SDG2 - İşletme pazarlama Yükseklisans Derecesi ile Doktora SDG2",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9204016052018",
    "ad": "Bılım Felsefesı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": null,
    "grup": "İŞLT.DOK.PAZ.SDG2 - İşletme pazarlama Yükseklisans Derecesi ile Doktora SDG2",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9204016062021",
    "ad": "Marka Yönetımınde Güncel Yaklaşımlar",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": null,
    "grup": "İŞLT.DOK.PAZ.SDG2 - İşletme pazarlama Yükseklisans Derecesi ile Doktora SDG2",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9204016082021",
    "ad": "Reklamcılık ve Marka İletışımı Yönetımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": null,
    "grup": "İŞLT.DOK.PAZ.SDG2 - İşletme pazarlama Yükseklisans Derecesi ile Doktora SDG2",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9204016102021",
    "ad": "Eleştırel Pazarlama Okumaları",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": null,
    "grup": "İŞLT.DOK.PAZ.SDG2 - İşletme pazarlama Yükseklisans Derecesi ile Doktora SDG2",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9204016122021",
    "ad": "Bütünleşık Pazarlama İletışımınde Güncel Yaklaşımlar ve Yenı Medya",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": null,
    "grup": "İŞLT.DOK.PAZ.SDG2 - İşletme pazarlama Yükseklisans Derecesi ile Doktora SDG2",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9204016142018",
    "ad": "İlerı Pazarlama Araştırmaları ve Analızı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": null,
    "grup": "İŞLT.DOK.PAZ.SDG2 - İşletme pazarlama Yükseklisans Derecesi ile Doktora SDG2",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9204046602019",
    "ad": "Pazarlamada İlerı Okumalar",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": null,
    "grup": "İŞLT.DOK.PAZ.SDG2 - İşletme pazarlama Yükseklisans Derecesi ile Doktora SDG2",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "EBB6832017",
    "ad": "Öğretımde Planlama ve Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": null,
    "grup": "İŞLT.DOK.PAZ.SDG2 - İşletme pazarlama Yükseklisans Derecesi ile Doktora SDG2",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "EBB6852017",
    "ad": "Gelışım ve Öğrenme",
-   "mufredat": null,
+   "mufredat": "2018 Yılı İşletme-Pazarlama Yükseklisans Derecesi ile Doktora Müfredatı",
    "yariyil": null,
    "grup": "İŞLT.DOK.PAZ.SDG2 - İşletme pazarlama Yükseklisans Derecesi ile Doktora SDG2",
    "tur": "Seçmeli",

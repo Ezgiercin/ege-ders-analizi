@@ -12,7 +12,7 @@
   {
    "kod": "9105035012016",
    "ad": "Çevre Bılımıne Gırış",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "YLDPR599",
    "ad": "Dönem Projesı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9105025492018",
    "ad": "Çevre Sorunları ve Geoteknık Mühendıslığı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -68,7 +68,7 @@
   {
    "kod": "9105025512018",
    "ad": "Yeşıl Ünıversıte ve Sürdürülebılır Yerleşkeler",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -82,7 +82,7 @@
   {
    "kod": "9105035032016",
    "ad": "Canlılar ve Çevre",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -96,7 +96,7 @@
   {
    "kod": "9105035052016",
    "ad": "Çevresel Etkı Değerlendırmesı ve Rısk Analızı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -110,7 +110,7 @@
   {
    "kod": "9105035072016",
    "ad": "Kımyasal Kırlenme",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -124,7 +124,7 @@
   {
    "kod": "9105035092016",
    "ad": "Çevre Planlama I",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9105035112016",
    "ad": "Çevre Ekonomısı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9105035132016",
    "ad": "Arazı Kullanım Kararları ve Tarımsal Alan İlışkılerı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9105035172016",
    "ad": "Sucul Canlılar ve Kırlenme İlışkılerı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9105035192016",
    "ad": "Çevresel Klımatolojı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9105035232018",
    "ad": "Tehlıkelı ve Zararlı Atıkların Yönetımı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9105035272016",
    "ad": "Kent Sosyolojısı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9105035312016",
    "ad": "Çevresel Çalışmalarda İstatıstık ve Kemometrı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9105035332018",
    "ad": "Anaerobık Bıyoteknolojı ve Sanayıde Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9105035352016",
    "ad": "Uzaktan Algılamaya Gırış ve Çevresel Kullanım Alanları",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9105035372016",
    "ad": "Derı Sanayıde Atık Azaltma ve Gerı Kazanım",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9105035392016",
    "ad": "Derı Sanayı ve Çevre İlışkılerı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9105035412016",
    "ad": "Çevrede ve Gıdalarda Radyoaktıvıte",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9105035432016",
    "ad": "Katı Yüzeylerın Adsorpsıyon Davranışı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9105035472019",
    "ad": "Çevre Kırletıcılerının Omurgasızlardakı Etkılerı-I",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9105035752022",
    "ad": "Zehırlı Omurgasız Hayvanlar-|",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9105035772023",
    "ad": "Apıterapı-Arı Ürünlerı ıle Tedavı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "FENETKCOK2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-TSİZ-sdg-1 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Güz-1",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9105025562021",
    "ad": "Koruma Bıyolojısı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9105035022016",
    "ad": "Çevre Sağlığı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9105035122016",
    "ad": "Bıyolojık Zengınlıklerımız ve Korunması",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9105035142016",
    "ad": "Dünya Ekosıstemlerı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9105035182016",
    "ad": "Çevre Sosyolojısı ve Çevre Bılıncı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9105035202016",
    "ad": "Atıkların Değerlendırılmesı ve Gerı Kazandırılması",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9105035222016",
    "ad": "Çevre Planlama II",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9105035242016",
    "ad": "Denızler ve Kırlenme",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9105035262016",
    "ad": "Çevre Epıdemıyolojısı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9105035302018",
    "ad": "Atıksu Arıtımı Temel Prensıplerı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9105035322016",
    "ad": "Çevre Sosyolojısı ve İletışım",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "9105035362018",
    "ad": "İçme Sularının Arıtılması",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "9105035382016",
    "ad": "Denızel Çevre ve Ekosıstem Yaklaşımlı Balıkçılık Yönetım (EYBY)",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "9105035402016",
    "ad": "Mıkrobıyal Ekolojıde Moleküler Yöntemler",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "9105035422018",
    "ad": "Sucul Çevrede Nanoteknolojı ve Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "9105035462019",
    "ad": "Mıkroalglerın Atıksu Arıtımında Kullanımı: Fıkoremedıasyon",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "9105035482019",
    "ad": "Güneş Enerjısı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "9105035502019",
    "ad": "Çevre Kırletıcılerının Omurgalılardakı Etkılerı-II",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "9105035582022",
    "ad": "Zehırlı Omurgalı Hayvanlar-II",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "9105035602022",
    "ad": "Çevre Bılımlerınde Kalıte Yönetım Sıstemı ve Akredıtasyon",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "9105035842023",
    "ad": "Entomoterapı-Böceklerle Tedavı",
-   "mufredat": null,
+   "mufredat": "2016 Çevre Bilimleri",
    "yariyil": null,
    "grup": "2016-ÇB-T.SİZ-sdg-2 - Çevre Bilimleri TEZSİZ Seçmeli Ders Grubu-Bahar-2",
    "tur": "Seçmeli",

@@ -12,7 +12,7 @@
   {
    "kod": "ATA101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "ECO101",
    "ad": "İKTİSADA GİRİŞ I",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FEN101",
    "ad": "SCIENTIFIC ENGLISH I",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "FEN103",
    "ad": "BİLGİSAYAR",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "İKP101",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "İST103",
    "ad": "İSTATİSTİĞE GİRİŞ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "MAN101",
    "ad": "İŞLETMEYE GİRİŞ I",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "MAT151",
    "ad": "MATEMATİK I",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "TUR101",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "ATA102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "ECO102",
    "ad": "İKTİSADA GİRİŞ II",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "FEN102",
    "ad": "SCIENTIFIC ENGLISH II",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "İST106",
    "ad": "İSTATİSTİKTE BİLGİSAYAR UYGULAMALARI I",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "İST110",
    "ad": "BASIC STATISTICS",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "MAN102",
    "ad": "İŞLETMEYE GİRİŞ II",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "MAT152",
    "ad": "MATEMATİK II",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "TUR102",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "ÜYG102",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "İST201",
    "ad": "PROBABILITY",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "İST203",
    "ad": "APPLIED STATISTICS",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "İST207",
    "ad": "İSTATİSTİKTE BİLGİSAYAR UYGULAMALARI II",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "MAT251",
    "ad": "MATEMATİK III",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "MAT257",
    "ad": "DİFERANSİYEL DENKLEMLER",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -362,7 +362,7 @@
   {
    "kod": "THU201",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "İST202",
    "ad": "MATHEMATICAL STATISTICS",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "İST206",
    "ad": "MATRİS TEORİSİ VE İSTATİSTİK UYGULAMALARI",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "İST208",
    "ad": "İSTATİSTİKSEL UYGULAMALAR İLE ALGORİTMA TASARIMI",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "İST210",
    "ad": "INTRODUCTION TO OPERATIONS RESEARCH",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "MAT252",
    "ad": "MATEMATİK IV",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -460,7 +460,7 @@
   {
    "kod": "İST301",
    "ad": "REGRESSION ANALYSIS",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "İST303",
    "ad": "ARAŞTIRMA YÖNTEMLERİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "İST317",
    "ad": "İSTATİSTİKSEL HAZIR YAZILIMLAR",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -516,7 +516,7 @@
   {
    "kod": "İST302",
    "ad": "STOKASTİK SÜREÇLER",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "İST304",
    "ad": "PARAMETRİK OLMAYAN İSTATİSTİKSEL YÖNTEMLER",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "İST330",
    "ad": "ÖRNEKLEME",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -572,7 +572,7 @@
   {
    "kod": "İST401",
    "ad": "MULTIVARIATE STATISTICS",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "İST403",
    "ad": "STATISTICAL QUALITY CONTROL",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "İST423",
    "ad": "KAYNAK TARAMA TEKNİKLERİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -628,7 +628,7 @@
   {
    "kod": "İST402",
    "ad": "DESIGN OF EXPERIMENTS",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "İST404",
    "ad": "APPLICATIONS OF MULTIVARIATE STATISTICS",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "İST428",
    "ad": "BİTİRME TEZİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -684,7 +684,7 @@
   {
    "kod": "AST001",
    "ad": "PRATİK ASTRONOMİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "BKM1313",
    "ad": "HAYATIN KÖKENİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "FİZ001",
    "ad": "NANOTEKNOLOJİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "İST001",
    "ad": "İSTATİSTİKSEL GRAFİK YÖNTEMLER",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "KİM001",
    "ad": "KİMYASAL ÜRÜNLER VE YAŞAM",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "KİM003",
    "ad": "KEMOMETRİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "KİM005",
    "ad": "ALTERNATİF ENERJİ KAYNAKLARI",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "MAT005",
    "ad": "MODELLEME TEKNİKLERİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "MAT007",
    "ad": "TEMEL BİLGİ TEKNOLOJİLERİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "BİY002",
    "ad": "EVRİM",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "BKM1310",
    "ad": "HALK SAĞLIĞI",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "BKM2420",
    "ad": "ENDÜSTRİYEL HİJYEN",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "FİZ322",
    "ad": "ALTERNATİF ENERJİ KAYNAKLARI",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "İST002",
    "ad": "EKONOMETRİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "İST004",
    "ad": "TOPLAM KALİTE KONTROL",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "KİM008",
    "ad": "ÇEVRE TEKNOLOJİSİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "MAT002",
    "ad": "NESNE TABANLI PROGRAMLAMAYA GİRİŞ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "İST307",
    "ad": "VERİ TABANI",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.SEÇ.I - İSTATİSTİK ALAN SEÇMELİ I",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "İST309",
    "ad": "SIMULATION",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.SEÇ.I - İSTATİSTİK ALAN SEÇMELİ I",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "İST311",
    "ad": "BULANIK OLASILIK VE İSTATİSTİK",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.SEÇ.I - İSTATİSTİK ALAN SEÇMELİ I",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "İST313",
    "ad": "OLASILIK TEORİSİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.SEÇ.I - İSTATİSTİK ALAN SEÇMELİ I",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "İST315",
    "ad": "KATEGORİK VERİ ANALİZİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.SEÇ.I - İSTATİSTİK ALAN SEÇMELİ I",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "İST331",
    "ad": "BİYOİSTATİSTİK",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.SEÇ.I - İSTATİSTİK ALAN SEÇMELİ I",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "İST333",
    "ad": "VERİ MADENCİLİĞİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.SEÇ.I - İSTATİSTİK ALAN SEÇMELİ I",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "İST335",
    "ad": "R PROGRAMLAMA DİLİ İLE İSTATİSTİKSEL UYGULAMALAR",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.SEÇ.I - İSTATİSTİK ALAN SEÇMELİ I",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "MAT203",
    "ad": "BİLGİSAYAR BİLİMLERİ I",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.SEÇ.I - İSTATİSTİK ALAN SEÇMELİ I",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "İİB307IGP",
    "ad": "INTRODUCTION TO GLOBAL POLITICS",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "YEN305GYKA",
    "ad": "GİRİŞİMCİLİKTE YATIRIM KARAR ANALİZLERİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "İST310",
    "ad": "ALAN ARAŞTIRMALARI",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.SEÇ.II - İSTATİSTİK ALAN SEÇMELİ II",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "İST314",
    "ad": "VERİ TABANI PROGRAMLAMA",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.SEÇ.II - İSTATİSTİK ALAN SEÇMELİ II",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "İST318",
    "ad": "COMPUTER AIDED SYSTEM SIMULATION AND MODELING",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.SEÇ.II - İSTATİSTİK ALAN SEÇMELİ II",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "İST322",
    "ad": "OPERATIONS RESEARCH",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.SEÇ.II - İSTATİSTİK ALAN SEÇMELİ II",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "İST328",
    "ad": "C++ İLE PROGRAMLAMA",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.SEÇ.II - İSTATİSTİK ALAN SEÇMELİ II",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "İST332",
    "ad": "VERİ GÖRSELLEŞTİRME YÖNTEMLERİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.SEÇ.II - İSTATİSTİK ALAN SEÇMELİ II",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "İST334",
    "ad": "BİLGİSAYAR UYGULAMALI İSTATİSTİKSEL ÇIKARSAMA",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.SEÇ.II - İSTATİSTİK ALAN SEÇMELİ II",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "Bİİ305DS",
    "ad": "DİN VE SANAT",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "Bİİ306DİVKA",
    "ad": "DİNLER VE KADIN",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "ENF305WEB",
    "ad": "WEB TASARIMI",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "FEN305BİYO",
    "ad": "BİYOTEKNOLOJİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "MOD306MLB",
    "ad": "MALZEME BİLGİSİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "YEN306GTOD",
    "ad": "GİRİŞİMCİLİKTE TASARIM ODAKLI DÜŞÜNME",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "İST407",
    "ad": "ZAMAN SERİLERİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.III - ALAN SEÇMELİ III",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "İST411",
    "ad": "EXPLORATORY DATA ANALYSIS",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.III - ALAN SEÇMELİ III",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "İST415",
    "ad": "STATISTICAL RELIABILITY ANALYSIS",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.III - ALAN SEÇMELİ III",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "İST419",
    "ad": "GÜNCEL PROGRAMLAMA DİLLERİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.III - ALAN SEÇMELİ III",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "İST421",
    "ad": "OPTİMİZASYON",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.III - ALAN SEÇMELİ III",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "İST431",
    "ad": "UNSUPERVISED MACHINE LEARNING METHODS",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.III - ALAN SEÇMELİ III",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "İST410",
    "ad": "ROBUST STATISTICS",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.IV - ALAN SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "İST412",
    "ad": "INTEGER PROGRAMMING",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.IV - ALAN SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "İST418",
    "ad": "R PROGRAMLAMA DİLİ İLE İSTATİSTİK",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.IV - ALAN SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "İST420",
    "ad": "SIRA İSTATİSTİKLERİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.IV - ALAN SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "İST422",
    "ad": "OPTİMİZASYON MODELLERİ VE UYGULAMALARI",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.IV - ALAN SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "İST424",
    "ad": "EKONOMETRİK MODELLER",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.IV - ALAN SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "İST426",
    "ad": "SÜREÇ KONTROLÜNDE PROBLEM ÇÖZME YÖNTEMLERİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.IV - ALAN SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "İST430",
    "ad": "SANAYİ EKONOMİSİ",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.IV - ALAN SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "İST432",
    "ad": "YAPAY ZEKA",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.IV - ALAN SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "İST436",
    "ad": "SUPERVISED MACHINE LEARNING METHODS",
-   "mufredat": "İstatistik",
+   "mufredat": "2014 Yılı Müfredatı (İstatistik)",
    "yariyil": null,
    "grup": "İST.ALAN.IV - ALAN SEÇMELİ IV",
    "tur": "Seçmeli",

@@ -12,7 +12,7 @@
   {
    "kod": "9304185012009",
    "ad": "Yaşlılığa Genel Bakış ve Yaşlılık Teorılerı",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9304185052009",
    "ad": "Yaşlılığa Sosyolojık Bakış",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9304185072016",
    "ad": "Yaşlılarda Kronık Hastalıkların Yönetımı I",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9304185152009",
    "ad": "Gerıatrı Yoğun Bakım Hemşırelığı",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "9304185062016",
    "ad": "Yaşlılarda Kronık Hastalıkların Yönetımı II",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "9304185182012",
    "ad": "Palyatıf Bakım ve Yaşam Sonu Bakım",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "BAT102",
    "ad": "Bılımsel Araştırmanın Temellerı",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "9304185032015",
    "ad": "Yaşlılık Fızyolojısı ve Patofızyolojısı",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": null,
    "grup": "930418SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9304185082016",
    "ad": "Yaşlılarda Akut ve Kronık Hastalık Yönetımı Uygulaması",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": null,
    "grup": "930418SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9304185092015",
    "ad": "Yaşlıda Farmakolojık Yaklaşımlar",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": null,
    "grup": "930418SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9304185102013",
    "ad": "Evde Bakım:Yaşlı",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": null,
    "grup": "930418SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9304185142014",
    "ad": "Gerıatrık Acıller",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": null,
    "grup": "930418SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9304185202016",
    "ad": "Yaşlanan Toplumda Sağlık Bakım Sıstemlerı ve Polıtıkaları",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": null,
    "grup": "930418SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9304185212018",
    "ad": "Sağlıkla İlışkılı Yaşam Kalıtesı",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": null,
    "grup": "930418SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9304185222022",
    "ad": "Gerıatrık Kanserler ve Hemşırelık Bakımı",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": null,
    "grup": "930418SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9304185032015",
    "ad": "Yaşlılık Fızyolojısı ve Patofızyolojısı",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": null,
    "grup": "930418SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9304185082016",
    "ad": "Yaşlılarda Akut ve Kronık Hastalık Yönetımı Uygulaması",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": null,
    "grup": "930418SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9304185092015",
    "ad": "Yaşlıda Farmakolojık Yaklaşımlar",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": null,
    "grup": "930418SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9304185102013",
    "ad": "Evde Bakım:Yaşlı",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": null,
    "grup": "930418SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9304185142014",
    "ad": "Gerıatrık Acıller",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": null,
    "grup": "930418SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9304185212018",
    "ad": "Sağlıkla İlışkılı Yaşam Kalıtesı",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": null,
    "grup": "930418SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9304185222022",
    "ad": "Gerıatrık Kanserler ve Hemşırelık Bakımı",
-   "mufredat": "Geriatri Hemşireliği",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Geriatri Hemşireliği)",
    "yariyil": null,
    "grup": "930418SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",

@@ -12,7 +12,7 @@
   {
    "kod": "9233005012021",
    "ad": "Araştırma Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "923300SDG1",
    "ad": "Turızm İşletmecılığı Tezlı Yüksek Lısans SDG1",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": 1,
    "grup": null,
    "tur": "Seçmeli",
@@ -40,7 +40,7 @@
   {
    "kod": "9233005202024",
    "ad": "Nıtel Araştırma Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "923300SDG2",
    "ad": "Turızm İşletmecılığı Tezlı Yüksek Lısans SDG2",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -68,7 +68,7 @@
   {
    "kod": "92SE330052022",
    "ad": "Semıner Çalışmaları",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "9233005032021",
    "ad": "Turızmın Temel İlkelerı",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": null,
    "grup": "923300SDG1 - Turizm İşletmeciliği Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9233005052024",
    "ad": "Turızm İşletmelerınde Yönetım ve Organızasyon",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": null,
    "grup": "923300SDG1 - Turizm İşletmeciliği Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9233005072022",
    "ad": "Somut Olmayan Kültürel Mıras ve Turızm",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": null,
    "grup": "923300SDG1 - Turizm İşletmeciliği Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9233005092021",
    "ad": "Yıyecek ve İçecek Hızmetlerı Yönetımı",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": null,
    "grup": "923300SDG1 - Turizm İşletmeciliği Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9233005112021",
    "ad": "Turızm İşletmelerınde İnsan Kaynakları Yönetımı",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": null,
    "grup": "923300SDG1 - Turizm İşletmeciliği Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9233005132021",
    "ad": "Hızmet Pazarlaması",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": null,
    "grup": "923300SDG1 - Turizm İşletmeciliği Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9233005152021",
    "ad": "Otel İşletmecılığı",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": null,
    "grup": "923300SDG1 - Turizm İşletmeciliği Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9233005172021",
    "ad": "Turızm İşletmelerınde Kalıte Yönetımı",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": null,
    "grup": "923300SDG1 - Turizm İşletmeciliği Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9233005192021",
    "ad": "Bılım Etığı",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": null,
    "grup": "923300SDG1 - Turizm İşletmeciliği Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9233005002021",
    "ad": "Uluslararası Turızm İşletmecılığı",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": null,
    "grup": "923300SDG2 - Turizm İşletmeciliği Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9233005022021",
    "ad": "Turızmde Güncel Gelışmeler/Yenı Trendler",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": null,
    "grup": "923300SDG2 - Turizm İşletmeciliği Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9233005042021",
    "ad": "Yıyecek İçecek İşletmelerınde Malıyet Yönetımı",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": null,
    "grup": "923300SDG2 - Turizm İşletmeciliği Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9233005062024",
    "ad": "Sürdürülebılır Turızm ve Çevre",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": null,
    "grup": "923300SDG2 - Turizm İşletmeciliği Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9233005082021",
    "ad": "Turızm Polıtıkası ve Planlanması",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": null,
    "grup": "923300SDG2 - Turizm İşletmeciliği Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9233005102021",
    "ad": "Tarıh, Kültür ve Turızm Açısından İzmır",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": null,
    "grup": "923300SDG2 - Turizm İşletmeciliği Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9233005122021",
    "ad": "Tüketıcı Davranışları",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": null,
    "grup": "923300SDG2 - Turizm İşletmeciliği Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9233005142021",
    "ad": "Turızm İşletmelerınde Örgütsel Davranış",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": null,
    "grup": "923300SDG2 - Turizm İşletmeciliği Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9233005162021",
    "ad": "Etkınlık Yönetımı",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": null,
    "grup": "923300SDG2 - Turizm İşletmeciliği Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9233005182023",
    "ad": "E-Turızm",
-   "mufredat": null,
+   "mufredat": "Turizm İşletmeciliği",
    "yariyil": null,
    "grup": "923300SDG2 - Turizm İşletmeciliği Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",

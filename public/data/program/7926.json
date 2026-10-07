@@ -12,7 +12,7 @@
   {
    "kod": "HAZ001",
    "ad": "HAZIRLIK SINIFI",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 0,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "1992001012013",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "1992001022013",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "1992001072013",
    "ad": "DOĞRU AKIM DEVRE ANALİZİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "1992001132013",
    "ad": "MALZEME TEKNOLOJİSİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "1992001312020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "1992001332025",
    "ad": "GENEL MATEMATİK",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "1992001352025",
    "ad": "MEKATRONİK ÖLÇME TEKNİĞİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "1992001372025",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "1992001392025",
    "ad": "YABANCI DİL I",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "1992001412026",
    "ad": "SAYISAL ELEKTRONİK",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "1992001432026",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "1992000922013",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "1992000942013",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "1992001102013",
    "ad": "ALTERNATİF AKIM DEVRE ANALİZİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "1992001122021",
    "ad": "MAKİNE ELEMANLARI VE MEKANİZMALAR",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "1992001422021",
    "ad": "BİLGİSAYAR DESTEKLİ TASARIM",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "1992001522025",
    "ad": "YABANCI DİL II",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "1992001582026",
    "ad": "SAYISAL TASARIM",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -272,13 +272,13 @@
    "teori": 3,
    "uygulama": 1,
    "laboratuvar": null,
-   "akts": null,
+   "akts": 4,
    "detayYolu": "/DereceProgramlari/Ders/0/7926/303468/795581/1/2026"
   },
   {
    "kod": "1992001602026",
    "ad": "ELEKTRONİK I",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "1992001662026",
    "ad": "SENSÖRLER VE DÖNÜŞTÜRÜCÜLER",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "1992002012013",
    "ad": "PNÖMATİK VE HİDROLİK SİSTEMLER",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "1992002132013",
    "ad": "ELEKTRİK MOTORLARI VE SÜRÜCÜLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "1992002352025",
    "ad": "KALİTE YÖNETİM SİSTEMİ VE STANDARTLARI",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "1992002492026",
    "ad": "MİKRODENETLEYİCİLER",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "1992002512026",
    "ad": "PROGRAMLANABİLİR MANTIK DENETLEYİCİLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -384,13 +384,13 @@
    "teori": 3,
    "uygulama": 1,
    "laboratuvar": null,
-   "akts": null,
+   "akts": 5,
    "detayYolu": "/DereceProgramlari/Ders/0/7926/303483/795589/1/2026"
   },
   {
    "kod": "1992002532026",
    "ad": "ROBOT TEKNOLOJİSİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "1992002592026",
    "ad": "ESNEK ÜRETİM SİSTEMLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "İŞME204",
    "ad": "İŞLETMEDE MESLEKİ EĞİTİM",
-   "mufredat": "Mekatronik",
+   "mufredat": "2026 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "1992001012013",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "1992001022013",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "1992001052013",
    "ad": "GENEL MATEMATİK",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "1992001072013",
    "ad": "DOĞRU AKIM DEVRE ANALİZİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "1992001132013",
    "ad": "MALZEME TEKNOLOJİSİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "1992001292020",
    "ad": "MEKATRONİĞİN TEMELLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "1992001312020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "MEKSDG01",
    "ad": "SEÇMELİ DERS GRUBU 1",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "MEKSDG02",
    "ad": "SEÇMELİ DERS GRUBU 2",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "MEKSDG03",
    "ad": "SEÇMELİ DERS GRUBU 3",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "MEKSDG04",
    "ad": "SEÇMELİ DERS GRUBU 4",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "1992000922013",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "1992000942013",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "1992001102013",
    "ad": "ALTERNATİF AKIM DEVRE ANALİZİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -628,7 +628,7 @@
   {
    "kod": "1992001122014",
    "ad": "MAKİNE ELEMANLARI VE MEKANİZMALAR",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "1992001242013",
    "ad": "ENDRÜSTRİYE DAYALI EĞİTİM I",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "1992001262014",
    "ad": "KİŞİSEL YETKİNLİKLER VE KİŞİLİK ÖZELLİKLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "1992001422020",
    "ad": "BİLGİSAYAR DESTEKLİ TASARIM",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "MEKSDG05",
    "ad": "SEÇMELİ DERS GRUBU 5",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "MEKSDG06",
    "ad": "SEÇMELİ DERS GRUBU 6",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "MEKSDG07",
    "ad": "SEÇMELİ DERS GRUBU 7",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "MEKSDG08",
    "ad": "SEÇMELİ DERS GRUBU 8",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "1992002012013",
    "ad": "PNÖMATİK VE HİDROLİK SİSTEMLER",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -754,7 +754,7 @@
   {
    "kod": "1992002092013",
    "ad": "BİLGİSAYAR DESTEKLİ ÜRETİM",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "1992002132013",
    "ad": "ELEKTRİK MOTORLARI VE SÜRÜCÜLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -782,7 +782,7 @@
   {
    "kod": "1992002212014",
    "ad": "ELEŞTİREL DÜŞÜNCE VE PROBLEM ÇÖZME TEKNİKLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -796,7 +796,7 @@
   {
    "kod": "MEKSDG09",
    "ad": "SEÇMELİ DERS GRUBU 9",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "MEKSDG10",
    "ad": "SEÇMELİ DERS GRUBU10",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "MEKSDG11",
    "ad": "SEÇMELİ DERS GRUBU 11",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "MEKSDG12",
    "ad": "SEÇMELİ DERS GRUBU 12",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "1992002022013",
    "ad": "ROBOT TEKNOLOJİSİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -866,7 +866,7 @@
   {
    "kod": "1992002122013",
    "ad": "İŞ GÜVENLİĞİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -880,7 +880,7 @@
   {
    "kod": "1992002302014",
    "ad": "İŞ İLE İLGİLİ YETKİNLİKLER",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -894,7 +894,7 @@
   {
    "kod": "1992002502020",
    "ad": "ESNEK ÜRETİM SİSTEMLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -908,7 +908,7 @@
   {
    "kod": "1992002522020",
    "ad": "SİSTEM ANALİZİ VE TASARIMI",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -922,7 +922,7 @@
   {
    "kod": "MEKSDG13",
    "ad": "SEÇMELİ DERS GRUBU 13",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "MEKSDG14",
    "ad": "SEÇMELİ DERS GRUBU 14",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "MEKSDG15",
    "ad": "SEÇMELİ DERS GRUBU 15",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "MEKSDG16",
    "ad": "SEÇMELİ DERS GRUBU 16",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "1992001032013",
    "ad": "TECHNICAL ENGLISH",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG01 - SEÇMELİ DERS GRUBU 1",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "1992001232014",
    "ad": "YABANCI DİL 1",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG01 - SEÇMELİ DERS GRUBU 1",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "1992001152013",
    "ad": "INFORMATION AND COMMUNICATION TECHNOLOGY",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG02 - SEÇMELİ DERS GRUBU 2",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "1992001252014",
    "ad": "BİLGİ VE İLETİŞİM TEKNOLOJİSİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG02 - SEÇMELİ DERS GRUBU 2",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "1992001092013",
    "ad": "DIGITAL ELECTRONICS",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG03 - SEÇMELİ DERS GRUBU 3",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "1992001272014",
    "ad": "SAYISAL ELEKTRONİK",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG03 - SEÇMELİ DERS GRUBU 3",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "1992001172013",
    "ad": "MEKATRONİK ÖLÇME TEKNİĞİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG04 - SEÇMELİ DERS GRUBU 4",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "1992001192013",
    "ad": "ALGORİTMA VE PROGRAMLAMAYA GİRİŞ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG04 - SEÇMELİ DERS GRUBU 4",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "1992001212013",
    "ad": "RESEARCH METHODS AND TECHNIQUES",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG04 - SEÇMELİ DERS GRUBU 4",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "1992001282014",
    "ad": "YABANCI DİL II",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG05 - SEÇMELİ DERS GRUBU 5",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "1992001382014",
    "ad": "VOCATIONAL ENGLISH",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG05 - SEÇMELİ DERS GRUBU 5",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "1992001062013",
    "ad": "ELECTRONICS I",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG06 - SEÇMELİ DERS GRUBU 6",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "1992001302014",
    "ad": "ELEKTRONİK 1",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG06 - SEÇMELİ DERS GRUBU 6",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "1992001082013",
    "ad": "DIGITAL DESIGN",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG07 - SEÇMELİ DERS GRUBU 7",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "1992001322014",
    "ad": "SAYISAL TASARIM",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG07 - SEÇMELİ DERS GRUBU 7",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "1992001182013",
    "ad": "MESLEK MATEMATİĞİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG08 - SEÇMELİ DERS GRUBU 8",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "1992001202013",
    "ad": "VERİ TABANI VE GÖRSEL PROGLAMLAMA",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG08 - SEÇMELİ DERS GRUBU 8",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "1992001222013",
    "ad": "ENERGY MANAGEMENT",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG08 - SEÇMELİ DERS GRUBU 8",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "1992001362014",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG08 - SEÇMELİ DERS GRUBU 8",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "1992002052013",
    "ad": "SENSORS AND TRANSDUCERS",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG09 - SEÇMELİ DERS GRUBU 9",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "1992002232014",
    "ad": "SENSÖRLER VE DÖNÜŞTÜRÜCÜLER",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG09 - SEÇMELİ DERS GRUBU 9",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "1992002072014",
    "ad": "MICROCONTROLLERS",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG10 - SEÇMELİ DERS GRUBU10",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "1992002252014",
    "ad": "MİKRODENETLEYİCİLER",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG10 - SEÇMELİ DERS GRUBU10",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "1992002032013",
    "ad": "PROGRAMMABLE LOGIC CONTROLLERS",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG11 - SEÇMELİ DERS GRUBU 11",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "1992002272014",
    "ad": "PROGRAMLANABİLİR MANTIK DENETLEYİCİLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG11 - SEÇMELİ DERS GRUBU 11",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "1992002112013",
    "ad": "KALİTE GÜVENCE VE STANDARTLARI",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG12 - SEÇMELİ DERS GRUBU 12",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "1992002292014",
    "ad": "BİLGİSAYAR DESTEKLİ TAKIM TEZGAHLARI",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG12 - SEÇMELİ DERS GRUBU 12",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "1992002312014",
    "ad": "ELEKTRONİK 2",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG12 - SEÇMELİ DERS GRUBU 12",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "1992002332014",
    "ad": "CONTROL SYSTEMS",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG12 - SEÇMELİ DERS GRUBU 12",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "1992002062013",
    "ad": "SUPERVISORY CONTROL AND DATA ACQUISITION",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG13 - SEÇMELİ DERS GRUBU 13",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "1992002322014",
    "ad": "GÖZETİMLİ KONTROL VE VERİ TOPLAMA",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG13 - SEÇMELİ DERS GRUBU 13",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "1992002342014",
    "ad": "SÜREÇ KONTROL",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG14 - SEÇMELİ DERS GRUBU 14",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "1992002362014",
    "ad": "MİKRODENETLEYİCİ UYGULAMALARI",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG15 - SEÇMELİ DERS GRUBU 15",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "1992002382014",
    "ad": "ENDÜSTRİYEL AĞLAR",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG15 - SEÇMELİ DERS GRUBU 15",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "1992002422014",
    "ad": "PROGRAMMABLE CONTROLLER APPLICATION",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG15 - SEÇMELİ DERS GRUBU 15",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "1992002102014",
    "ad": "BUSINESS ADMINISTRATION",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG16 - SEÇMELİ DERS GRUBU 16",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "1992002482014",
    "ad": "GERÇEK ZAMANLI PROGRAMLAMA",
-   "mufredat": "Mekatronik",
+   "mufredat": "2020 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG16 - SEÇMELİ DERS GRUBU 16",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "1992001012013",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1510,7 +1510,7 @@
   {
    "kod": "1992001022013",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1524,7 +1524,7 @@
   {
    "kod": "1992001052013",
    "ad": "GENEL MATEMATİK",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1538,7 +1538,7 @@
   {
    "kod": "1992001072013",
    "ad": "DOĞRU AKIM DEVRE ANALİZİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1552,7 +1552,7 @@
   {
    "kod": "1992001132013",
    "ad": "MALZEME TEKNOLOJİSİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1566,7 +1566,7 @@
   {
    "kod": "1992001292020",
    "ad": "MEKATRONİĞİN TEMELLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1580,7 +1580,7 @@
   {
    "kod": "1992001312020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1594,7 +1594,7 @@
   {
    "kod": "MEKSDG01",
    "ad": "SEÇMELİ DERS GRUBU 1",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Seçmeli",
@@ -1608,7 +1608,7 @@
   {
    "kod": "MEKSDG02",
    "ad": "SEÇMELİ DERS GRUBU 2",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Seçmeli",
@@ -1622,7 +1622,7 @@
   {
    "kod": "MEKSDG03",
    "ad": "SEÇMELİ DERS GRUBU 3",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Seçmeli",
@@ -1636,7 +1636,7 @@
   {
    "kod": "MEKSDG04",
    "ad": "SEÇMELİ DERS GRUBU 4",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Seçmeli",
@@ -1650,7 +1650,7 @@
   {
    "kod": "1992000922013",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1664,7 +1664,7 @@
   {
    "kod": "1992000942013",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1678,7 +1678,7 @@
   {
    "kod": "1992001102013",
    "ad": "ALTERNATİF AKIM DEVRE ANALİZİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1692,7 +1692,7 @@
   {
    "kod": "1992001122021",
    "ad": "MAKİNE ELEMANLARI VE MEKANİZMALAR",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1706,7 +1706,7 @@
   {
    "kod": "1992001262014",
    "ad": "KİŞİSEL YETKİNLİKLER VE KİŞİLİK ÖZELLİKLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1720,7 +1720,7 @@
   {
    "kod": "1992001422021",
    "ad": "BİLGİSAYAR DESTEKLİ TASARIM",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1734,7 +1734,7 @@
   {
    "kod": "MEKSDG05",
    "ad": "SEÇMELİ DERS GRUBU 5",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -1748,7 +1748,7 @@
   {
    "kod": "MEKSDG06",
    "ad": "SEÇMELİ DERS GRUBU 6",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -1762,7 +1762,7 @@
   {
    "kod": "MEKSDG07",
    "ad": "SEÇMELİ DERS GRUBU 7",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -1776,7 +1776,7 @@
   {
    "kod": "MEKSDG08",
    "ad": "SEÇMELİ DERS GRUBU 8",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -1790,7 +1790,7 @@
   {
    "kod": "1992002012013",
    "ad": "PNÖMATİK VE HİDROLİK SİSTEMLER",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1804,7 +1804,7 @@
   {
    "kod": "1992002092013",
    "ad": "BİLGİSAYAR DESTEKLİ ÜRETİM",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1818,7 +1818,7 @@
   {
    "kod": "1992002132013",
    "ad": "ELEKTRİK MOTORLARI VE SÜRÜCÜLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1832,7 +1832,7 @@
   {
    "kod": "1992002212014",
    "ad": "ELEŞTİREL DÜŞÜNCE VE PROBLEM ÇÖZME TEKNİKLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1846,7 +1846,7 @@
   {
    "kod": "MEKSDG09",
    "ad": "SEÇMELİ DERS GRUBU 9",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -1860,7 +1860,7 @@
   {
    "kod": "MEKSDG10",
    "ad": "SEÇMELİ DERS GRUBU10",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -1874,7 +1874,7 @@
   {
    "kod": "MEKSDG11",
    "ad": "SEÇMELİ DERS GRUBU 11",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -1888,7 +1888,7 @@
   {
    "kod": "MEKSDG12",
    "ad": "SEÇMELİ DERS GRUBU 12",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -1902,7 +1902,7 @@
   {
    "kod": "1992001242021",
    "ad": "ENDRÜSTRİYE DAYALI EĞİTİM",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1916,7 +1916,7 @@
   {
    "kod": "1992002022013",
    "ad": "ROBOT TEKNOLOJİSİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1930,7 +1930,7 @@
   {
    "kod": "1992002122013",
    "ad": "İŞ GÜVENLİĞİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1944,7 +1944,7 @@
   {
    "kod": "1992002302014",
    "ad": "İŞ İLE İLGİLİ YETKİNLİKLER",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1958,7 +1958,7 @@
   {
    "kod": "1992002502020",
    "ad": "ESNEK ÜRETİM SİSTEMLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1972,7 +1972,7 @@
   {
    "kod": "1992002522020",
    "ad": "SİSTEM ANALİZİ VE TASARIMI",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1986,7 +1986,7 @@
   {
    "kod": "MEKSDG13",
    "ad": "SEÇMELİ DERS GRUBU 13",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Seçmeli",
@@ -2000,7 +2000,7 @@
   {
    "kod": "MEKSDG14",
    "ad": "SEÇMELİ DERS GRUBU 14",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Seçmeli",
@@ -2014,7 +2014,7 @@
   {
    "kod": "1992001032013",
    "ad": "TECHNICAL ENGLISH",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG01 - SEÇMELİ DERS GRUBU 1",
    "tur": "Seçmeli",
@@ -2028,7 +2028,7 @@
   {
    "kod": "1992001232014",
    "ad": "YABANCI DİL 1",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG01 - SEÇMELİ DERS GRUBU 1",
    "tur": "Seçmeli",
@@ -2042,7 +2042,7 @@
   {
    "kod": "1992001152013",
    "ad": "INFORMATION AND COMMUNICATION TECHNOLOGY",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG02 - SEÇMELİ DERS GRUBU 2",
    "tur": "Seçmeli",
@@ -2056,7 +2056,7 @@
   {
    "kod": "1992001252014",
    "ad": "BİLGİ VE İLETİŞİM TEKNOLOJİSİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG02 - SEÇMELİ DERS GRUBU 2",
    "tur": "Seçmeli",
@@ -2070,7 +2070,7 @@
   {
    "kod": "1992001092013",
    "ad": "DIGITAL ELECTRONICS",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG03 - SEÇMELİ DERS GRUBU 3",
    "tur": "Seçmeli",
@@ -2084,7 +2084,7 @@
   {
    "kod": "1992001272014",
    "ad": "SAYISAL ELEKTRONİK",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG03 - SEÇMELİ DERS GRUBU 3",
    "tur": "Seçmeli",
@@ -2098,7 +2098,7 @@
   {
    "kod": "1992001172013",
    "ad": "MEKATRONİK ÖLÇME TEKNİĞİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG04 - SEÇMELİ DERS GRUBU 4",
    "tur": "Seçmeli",
@@ -2112,7 +2112,7 @@
   {
    "kod": "1992001192013",
    "ad": "ALGORİTMA VE PROGRAMLAMAYA GİRİŞ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG04 - SEÇMELİ DERS GRUBU 4",
    "tur": "Seçmeli",
@@ -2126,7 +2126,7 @@
   {
    "kod": "1992001212013",
    "ad": "RESEARCH METHODS AND TECHNIQUES",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG04 - SEÇMELİ DERS GRUBU 4",
    "tur": "Seçmeli",
@@ -2140,7 +2140,7 @@
   {
    "kod": "1992001282014",
    "ad": "YABANCI DİL II",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG05 - SEÇMELİ DERS GRUBU 5",
    "tur": "Seçmeli",
@@ -2154,7 +2154,7 @@
   {
    "kod": "1992001382014",
    "ad": "VOCATIONAL ENGLISH",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG05 - SEÇMELİ DERS GRUBU 5",
    "tur": "Seçmeli",
@@ -2168,7 +2168,7 @@
   {
    "kod": "1992001062013",
    "ad": "ELECTRONICS I",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG06 - SEÇMELİ DERS GRUBU 6",
    "tur": "Seçmeli",
@@ -2182,7 +2182,7 @@
   {
    "kod": "1992001302014",
    "ad": "ELEKTRONİK 1",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG06 - SEÇMELİ DERS GRUBU 6",
    "tur": "Seçmeli",
@@ -2196,7 +2196,7 @@
   {
    "kod": "1992001082013",
    "ad": "DIGITAL DESIGN",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG07 - SEÇMELİ DERS GRUBU 7",
    "tur": "Seçmeli",
@@ -2210,7 +2210,7 @@
   {
    "kod": "1992001322014",
    "ad": "SAYISAL TASARIM",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG07 - SEÇMELİ DERS GRUBU 7",
    "tur": "Seçmeli",
@@ -2224,7 +2224,7 @@
   {
    "kod": "1992001182013",
    "ad": "MESLEK MATEMATİĞİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG08 - SEÇMELİ DERS GRUBU 8",
    "tur": "Seçmeli",
@@ -2238,7 +2238,7 @@
   {
    "kod": "1992001202013",
    "ad": "VERİ TABANI VE GÖRSEL PROGLAMLAMA",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG08 - SEÇMELİ DERS GRUBU 8",
    "tur": "Seçmeli",
@@ -2252,7 +2252,7 @@
   {
    "kod": "1992001222013",
    "ad": "ENERGY MANAGEMENT",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG08 - SEÇMELİ DERS GRUBU 8",
    "tur": "Seçmeli",
@@ -2266,7 +2266,7 @@
   {
    "kod": "1992001362014",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG08 - SEÇMELİ DERS GRUBU 8",
    "tur": "Seçmeli",
@@ -2280,7 +2280,7 @@
   {
    "kod": "1992002052013",
    "ad": "SENSORS AND TRANSDUCERS",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG09 - SEÇMELİ DERS GRUBU 9",
    "tur": "Seçmeli",
@@ -2294,7 +2294,7 @@
   {
    "kod": "1992002232014",
    "ad": "SENSÖRLER VE DÖNÜŞTÜRÜCÜLER",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG09 - SEÇMELİ DERS GRUBU 9",
    "tur": "Seçmeli",
@@ -2308,7 +2308,7 @@
   {
    "kod": "1992002072014",
    "ad": "MICROCONTROLLERS",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG10 - SEÇMELİ DERS GRUBU10",
    "tur": "Seçmeli",
@@ -2322,7 +2322,7 @@
   {
    "kod": "1992002252014",
    "ad": "MİKRODENETLEYİCİLER",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG10 - SEÇMELİ DERS GRUBU10",
    "tur": "Seçmeli",
@@ -2336,7 +2336,7 @@
   {
    "kod": "1992002032013",
    "ad": "PROGRAMMABLE LOGIC CONTROLLERS",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG11 - SEÇMELİ DERS GRUBU 11",
    "tur": "Seçmeli",
@@ -2350,7 +2350,7 @@
   {
    "kod": "1992002272014",
    "ad": "PROGRAMLANABİLİR MANTIK DENETLEYİCİLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG11 - SEÇMELİ DERS GRUBU 11",
    "tur": "Seçmeli",
@@ -2364,7 +2364,7 @@
   {
    "kod": "1992002112013",
    "ad": "KALİTE GÜVENCE VE STANDARTLARI",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG12 - SEÇMELİ DERS GRUBU 12",
    "tur": "Seçmeli",
@@ -2378,7 +2378,7 @@
   {
    "kod": "1992002292014",
    "ad": "BİLGİSAYAR DESTEKLİ TAKIM TEZGAHLARI",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG12 - SEÇMELİ DERS GRUBU 12",
    "tur": "Seçmeli",
@@ -2392,7 +2392,7 @@
   {
    "kod": "1992002312014",
    "ad": "ELEKTRONİK 2",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG12 - SEÇMELİ DERS GRUBU 12",
    "tur": "Seçmeli",
@@ -2406,7 +2406,7 @@
   {
    "kod": "1992002332014",
    "ad": "CONTROL SYSTEMS",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG12 - SEÇMELİ DERS GRUBU 12",
    "tur": "Seçmeli",
@@ -2420,7 +2420,7 @@
   {
    "kod": "1992002062013",
    "ad": "SUPERVISORY CONTROL AND DATA ACQUISITION",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG13 - SEÇMELİ DERS GRUBU 13",
    "tur": "Seçmeli",
@@ -2434,7 +2434,7 @@
   {
    "kod": "1992002322014",
    "ad": "GÖZETİMLİ KONTROL VE VERİ TOPLAMA",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG13 - SEÇMELİ DERS GRUBU 13",
    "tur": "Seçmeli",
@@ -2448,7 +2448,7 @@
   {
    "kod": "1992002102014",
    "ad": "BUSINESS ADMINISTRATION",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG14 - SEÇMELİ DERS GRUBU 14",
    "tur": "Seçmeli",
@@ -2462,7 +2462,7 @@
   {
    "kod": "1992002342014",
    "ad": "SÜREÇ KONTROL",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG14 - SEÇMELİ DERS GRUBU 14",
    "tur": "Seçmeli",
@@ -2476,7 +2476,7 @@
   {
    "kod": "1992002362014",
    "ad": "MİKRODENETLEYİCİ UYGULAMALARI",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG14 - SEÇMELİ DERS GRUBU 14",
    "tur": "Seçmeli",
@@ -2490,7 +2490,7 @@
   {
    "kod": "1992002422014",
    "ad": "PROGRAMMABLE CONTROLLER APPLICATION",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG14 - SEÇMELİ DERS GRUBU 14",
    "tur": "Seçmeli",
@@ -2504,7 +2504,7 @@
   {
    "kod": "1992002482014",
    "ad": "GERÇEK ZAMANLI PROGRAMLAMA",
-   "mufredat": "Mekatronik",
+   "mufredat": "2021 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG14 - SEÇMELİ DERS GRUBU 14",
    "tur": "Seçmeli",
@@ -2518,7 +2518,7 @@
   {
    "kod": "1992001012013",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2532,7 +2532,7 @@
   {
    "kod": "1992001022013",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2546,7 +2546,7 @@
   {
    "kod": "1992001052013",
    "ad": "GENEL MATEMATİK",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2560,7 +2560,7 @@
   {
    "kod": "1992001072013",
    "ad": "DOĞRU AKIM DEVRE ANALİZİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2574,7 +2574,7 @@
   {
    "kod": "1992001132013",
    "ad": "MALZEME TEKNOLOJİSİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2588,7 +2588,7 @@
   {
    "kod": "1992001292020",
    "ad": "MEKATRONİĞİN TEMELLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2602,7 +2602,7 @@
   {
    "kod": "1992001312020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2616,7 +2616,7 @@
   {
    "kod": "MEKSDG01",
    "ad": "SEÇMELİ DERS GRUBU 1",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Seçmeli",
@@ -2630,7 +2630,7 @@
   {
    "kod": "MEKSDG02",
    "ad": "SEÇMELİ DERS GRUBU 2",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Seçmeli",
@@ -2644,7 +2644,7 @@
   {
    "kod": "MEKSDG03",
    "ad": "SEÇMELİ DERS GRUBU 3",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Seçmeli",
@@ -2658,7 +2658,7 @@
   {
    "kod": "MEKSDG04",
    "ad": "SEÇMELİ DERS GRUBU 4",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Seçmeli",
@@ -2672,7 +2672,7 @@
   {
    "kod": "1992000922013",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2686,7 +2686,7 @@
   {
    "kod": "1992000942013",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2700,7 +2700,7 @@
   {
    "kod": "1992001102013",
    "ad": "ALTERNATİF AKIM DEVRE ANALİZİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2714,7 +2714,7 @@
   {
    "kod": "1992001122021",
    "ad": "MAKİNE ELEMANLARI VE MEKANİZMALAR",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2728,7 +2728,7 @@
   {
    "kod": "1992001422021",
    "ad": "BİLGİSAYAR DESTEKLİ TASARIM",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2742,7 +2742,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2756,7 +2756,7 @@
   {
    "kod": "MEKSDG05",
    "ad": "SEÇMELİ DERS GRUBU 5",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -2770,7 +2770,7 @@
   {
    "kod": "MEKSDG06",
    "ad": "SEÇMELİ DERS GRUBU 6",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -2784,7 +2784,7 @@
   {
    "kod": "MEKSDG07",
    "ad": "SEÇMELİ DERS GRUBU 7",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -2798,7 +2798,7 @@
   {
    "kod": "MEKSDG08",
    "ad": "SEÇMELİ DERS GRUBU 8",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -2812,7 +2812,7 @@
   {
    "kod": "1992002012013",
    "ad": "PNÖMATİK VE HİDROLİK SİSTEMLER",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2826,7 +2826,7 @@
   {
    "kod": "1992002092013",
    "ad": "BİLGİSAYAR DESTEKLİ ÜRETİM",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2840,7 +2840,7 @@
   {
    "kod": "1992002132013",
    "ad": "ELEKTRİK MOTORLARI VE SÜRÜCÜLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2854,7 +2854,7 @@
   {
    "kod": "1992002212014",
    "ad": "ELEŞTİREL DÜŞÜNCE VE PROBLEM ÇÖZME TEKNİKLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2868,7 +2868,7 @@
   {
    "kod": "MEKSDG09",
    "ad": "SEÇMELİ DERS GRUBU 9",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -2882,7 +2882,7 @@
   {
    "kod": "MEKSDG10",
    "ad": "SEÇMELİ DERS GRUBU10",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -2896,7 +2896,7 @@
   {
    "kod": "MEKSDG11",
    "ad": "SEÇMELİ DERS GRUBU 11",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -2910,7 +2910,7 @@
   {
    "kod": "MEKSDG12",
    "ad": "SEÇMELİ DERS GRUBU 12",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -2924,7 +2924,7 @@
   {
    "kod": "1992001242021",
    "ad": "ENDRÜSTRİYE DAYALI EĞİTİM",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2938,7 +2938,7 @@
   {
    "kod": "1992002022013",
    "ad": "ROBOT TEKNOLOJİSİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2952,7 +2952,7 @@
   {
    "kod": "1992002122013",
    "ad": "İŞ GÜVENLİĞİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2966,7 +2966,7 @@
   {
    "kod": "1992002702023",
    "ad": "SİSTEM ANALİZİ VE TASARIMI",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2980,7 +2980,7 @@
   {
    "kod": "1992001032013",
    "ad": "TECHNICAL ENGLISH",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG01 - SEÇMELİ DERS GRUBU 1",
    "tur": "Seçmeli",
@@ -2994,7 +2994,7 @@
   {
    "kod": "1992001232014",
    "ad": "YABANCI DİL 1",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG01 - SEÇMELİ DERS GRUBU 1",
    "tur": "Seçmeli",
@@ -3008,7 +3008,7 @@
   {
    "kod": "1992001152013",
    "ad": "INFORMATION AND COMMUNICATION TECHNOLOGY",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG02 - SEÇMELİ DERS GRUBU 2",
    "tur": "Seçmeli",
@@ -3022,7 +3022,7 @@
   {
    "kod": "1992001252014",
    "ad": "BİLGİ VE İLETİŞİM TEKNOLOJİSİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG02 - SEÇMELİ DERS GRUBU 2",
    "tur": "Seçmeli",
@@ -3036,7 +3036,7 @@
   {
    "kod": "1992001092013",
    "ad": "DIGITAL ELECTRONICS",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG03 - SEÇMELİ DERS GRUBU 3",
    "tur": "Seçmeli",
@@ -3050,7 +3050,7 @@
   {
    "kod": "1992001272014",
    "ad": "SAYISAL ELEKTRONİK",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG03 - SEÇMELİ DERS GRUBU 3",
    "tur": "Seçmeli",
@@ -3064,7 +3064,7 @@
   {
    "kod": "1992001172013",
    "ad": "MEKATRONİK ÖLÇME TEKNİĞİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG04 - SEÇMELİ DERS GRUBU 4",
    "tur": "Seçmeli",
@@ -3078,7 +3078,7 @@
   {
    "kod": "1992001192013",
    "ad": "ALGORİTMA VE PROGRAMLAMAYA GİRİŞ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG04 - SEÇMELİ DERS GRUBU 4",
    "tur": "Seçmeli",
@@ -3092,7 +3092,7 @@
   {
    "kod": "1992001212013",
    "ad": "RESEARCH METHODS AND TECHNIQUES",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG04 - SEÇMELİ DERS GRUBU 4",
    "tur": "Seçmeli",
@@ -3106,7 +3106,7 @@
   {
    "kod": "1992001282014",
    "ad": "YABANCI DİL II",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG05 - SEÇMELİ DERS GRUBU 5",
    "tur": "Seçmeli",
@@ -3120,7 +3120,7 @@
   {
    "kod": "1992001382014",
    "ad": "VOCATIONAL ENGLISH",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG05 - SEÇMELİ DERS GRUBU 5",
    "tur": "Seçmeli",
@@ -3134,7 +3134,7 @@
   {
    "kod": "1992001302014",
    "ad": "ELEKTRONİK 1",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG06 - SEÇMELİ DERS GRUBU 6",
    "tur": "Seçmeli",
@@ -3148,7 +3148,7 @@
   {
    "kod": "1992001322014",
    "ad": "SAYISAL TASARIM",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG07 - SEÇMELİ DERS GRUBU 7",
    "tur": "Seçmeli",
@@ -3162,7 +3162,7 @@
   {
    "kod": "1992001182013",
    "ad": "MESLEK MATEMATİĞİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG08 - SEÇMELİ DERS GRUBU 8",
    "tur": "Seçmeli",
@@ -3176,7 +3176,7 @@
   {
    "kod": "1992001202013",
    "ad": "VERİ TABANI VE GÖRSEL PROGLAMLAMA",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG08 - SEÇMELİ DERS GRUBU 8",
    "tur": "Seçmeli",
@@ -3190,7 +3190,7 @@
   {
    "kod": "1992002232014",
    "ad": "SENSÖRLER VE DÖNÜŞTÜRÜCÜLER",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG09 - SEÇMELİ DERS GRUBU 9",
    "tur": "Seçmeli",
@@ -3204,7 +3204,7 @@
   {
    "kod": "1992002252014",
    "ad": "MİKRODENETLEYİCİLER",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG10 - SEÇMELİ DERS GRUBU10",
    "tur": "Seçmeli",
@@ -3218,7 +3218,7 @@
   {
    "kod": "1992002272014",
    "ad": "PROGRAMLANABİLİR MANTIK DENETLEYİCİLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG11 - SEÇMELİ DERS GRUBU 11",
    "tur": "Seçmeli",
@@ -3232,7 +3232,7 @@
   {
    "kod": "1992002112013",
    "ad": "KALİTE GÜVENCE VE STANDARTLARI",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG12 - SEÇMELİ DERS GRUBU 12",
    "tur": "Seçmeli",
@@ -3246,7 +3246,7 @@
   {
    "kod": "1992002322014",
    "ad": "GÖZETİMLİ KONTROL VE VERİ TOPLAMA",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG13. - SEÇMELİ DERS GRUBU 13",
    "tur": "Seçmeli",
@@ -3260,7 +3260,7 @@
   {
    "kod": "1992002542023",
    "ad": "İŞ İLE İLGİLİ YETKİNLİKLER",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG13. - SEÇMELİ DERS GRUBU 13",
    "tur": "Seçmeli",
@@ -3274,7 +3274,7 @@
   {
    "kod": "1992002582023",
    "ad": "SÜREÇ KONTROL",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG13. - SEÇMELİ DERS GRUBU 13",
    "tur": "Seçmeli",
@@ -3288,7 +3288,7 @@
   {
    "kod": "1992002602023",
    "ad": "MİKRODENETLEYİCİ UYGULAMALARI",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG13. - SEÇMELİ DERS GRUBU 13",
    "tur": "Seçmeli",
@@ -3302,7 +3302,7 @@
   {
    "kod": "1992002642023",
    "ad": "GERÇEK ZAMANLI PROGRAMLAMA",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG13. - SEÇMELİ DERS GRUBU 13",
    "tur": "Seçmeli",
@@ -3316,7 +3316,7 @@
   {
    "kod": "1992002662023",
    "ad": "ESNEK ÜRETİM SİSTEMLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG13. - SEÇMELİ DERS GRUBU 13",
    "tur": "Seçmeli",
@@ -3330,7 +3330,7 @@
   {
    "kod": "1992002682023",
    "ad": "İŞ YERİ EĞİTİMİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2023 Yılı Müfredatı (Mekatronik)",
    "yariyil": null,
    "grup": "MEKSDG13. - SEÇMELİ DERS GRUBU 13",
    "tur": "Seçmeli",
@@ -3344,7 +3344,7 @@
   {
    "kod": "1992001012013",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3358,7 +3358,7 @@
   {
    "kod": "1992001022013",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3372,7 +3372,7 @@
   {
    "kod": "1992001072013",
    "ad": "DOĞRU AKIM DEVRE ANALİZİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3386,7 +3386,7 @@
   {
    "kod": "1992001132013",
    "ad": "MALZEME TEKNOLOJİSİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3400,7 +3400,7 @@
   {
    "kod": "1992001292020",
    "ad": "MEKATRONİĞİN TEMELLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3414,7 +3414,7 @@
   {
    "kod": "1992001312020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3428,7 +3428,7 @@
   {
    "kod": "1992001332025",
    "ad": "GENEL MATEMATİK",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3442,7 +3442,7 @@
   {
    "kod": "1992001352025",
    "ad": "MEKATRONİK ÖLÇME TEKNİĞİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3456,7 +3456,7 @@
   {
    "kod": "1992001372025",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3470,7 +3470,7 @@
   {
    "kod": "1992001392025",
    "ad": "YABANCI DİL I",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3484,7 +3484,7 @@
   {
    "kod": "MEKSEÇDERS1",
    "ad": "SEÇMELİ DERS GRUBU 1",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Seçmeli",
@@ -3498,7 +3498,7 @@
   {
    "kod": "1992000922013",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3512,7 +3512,7 @@
   {
    "kod": "1992000942013",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3526,7 +3526,7 @@
   {
    "kod": "1992001102013",
    "ad": "ALTERNATİF AKIM DEVRE ANALİZİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3540,7 +3540,7 @@
   {
    "kod": "1992001122021",
    "ad": "MAKİNE ELEMANLARI VE MEKANİZMALAR",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3554,7 +3554,7 @@
   {
    "kod": "1992001422021",
    "ad": "BİLGİSAYAR DESTEKLİ TASARIM",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3568,7 +3568,7 @@
   {
    "kod": "1992001462025",
    "ad": "MESLEKİ MATEMATİK",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3582,7 +3582,7 @@
   {
    "kod": "1992001522025",
    "ad": "YABANCI DİL II",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3596,7 +3596,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3610,7 +3610,7 @@
   {
    "kod": "MEKSEÇDERS2",
    "ad": "SEÇMELİ DERS GRUBU 2",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -3624,7 +3624,7 @@
   {
    "kod": "MEKSEÇDERS3",
    "ad": "SEÇMELİ DERS GRUBU 3",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -3638,7 +3638,7 @@
   {
    "kod": "MEKSEÇDERS4",
    "ad": "SEÇMELİ DERS GRUBU 4",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -3652,7 +3652,7 @@
   {
    "kod": "1992002012013",
    "ad": "PNÖMATİK VE HİDROLİK SİSTEMLER",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3666,7 +3666,7 @@
   {
    "kod": "1992002132013",
    "ad": "ELEKTRİK MOTORLARI VE SÜRÜCÜLERİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3680,7 +3680,7 @@
   {
    "kod": "1992002352025",
    "ad": "KALİTE YÖNETİM SİSTEMİ VE STANDARTLARI",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3694,7 +3694,7 @@
   {
    "kod": "1992002452025",
    "ad": "BİLGİSAYAR DESTEKLİ ÜRETİM",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3708,7 +3708,7 @@
   {
    "kod": "MEKSEÇDERS5",
    "ad": "SEÇMELİ DERS GRUBU 5",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -3722,7 +3722,7 @@
   {
    "kod": "MEKSEÇDERS6",
    "ad": "SEÇMELİ DERS GRUBU 6",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -3736,7 +3736,7 @@
   {
    "kod": "MEKSEÇDERS7",
    "ad": "SEÇMELİ DERS GRUBU 7",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -3750,7 +3750,7 @@
   {
    "kod": "MEKSEÇDERS8",
    "ad": "SEÇMELİ DERS GRUBU 8",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -3764,7 +3764,7 @@
   {
    "kod": "1992001242021",
    "ad": "ENDRÜSTRİYE DAYALI EĞİTİM",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3778,7 +3778,7 @@
   {
    "kod": "1992002022013",
    "ad": "ROBOT TEKNOLOJİSİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3792,7 +3792,7 @@
   {
    "kod": "1992002702023",
    "ad": "SİSTEM ANALİZİ VE TASARIMI",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3806,7 +3806,7 @@
   {
    "kod": "1992002722025",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3820,7 +3820,7 @@
   {
    "kod": "MEKSEÇDERS9",
    "ad": "SEÇMELİ DERS GRUBU 9",
-   "mufredat": "Mekatronik",
+   "mufredat": "2025 Yılı Müfredatı (Mekatronik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Seçmeli",

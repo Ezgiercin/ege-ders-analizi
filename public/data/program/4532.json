@@ -12,7 +12,7 @@
   {
    "kod": "9102055252022",
    "ad": "Süt Teknolojısınde Laboratuvar Analız Teknıklerı ve Güvenlığı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FENETKZRT2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "FENYLSEM",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "YLTEZ591",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9102055011998",
    "ad": "Süt ve Ürünlerınde Uygulanan Duyusal Test Teknıklerı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "SUT-SG-YL-G - Süt Teknolojisi Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9102055032022",
    "ad": "Süt Endüstrısınde Gelışen Yenı Teknolojıler",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "SUT-SG-YL-G - Süt Teknolojisi Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9102055072002",
    "ad": "Fermente Süt Ürünlerının Beslenme ve Sağlık Üzerıne Etkısı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "SUT-SG-YL-G - Süt Teknolojisi Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9102055112022",
    "ad": "Süt Endüstrısınde Kullanılan Fonksıyonel Katkılar, Zengınleştırıcıler ve Özellıklerı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "SUT-SG-YL-G - Süt Teknolojisi Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9102055132022",
    "ad": "Türkıye ve Dünya'da Süt Endüstrısı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "SUT-SG-YL-G - Süt Teknolojisi Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9102055172025",
    "ad": "Isıl Olmayan Gıda İşleme Teknolojılerı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "SUT-SG-YL-G - Süt Teknolojisi Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9102055192014",
    "ad": "Süt ve Ürünlerınde Spektroskopık Analız Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "SUT-SG-YL-G - Süt Teknolojisi Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9102055232019",
    "ad": "Peynır Teknolojısınde Özel Konular",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "SUT-SG-YL-G - Süt Teknolojisi Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9102055021998",
    "ad": "Süt Endüstrısınde Patojen Mıkroorganızmalar",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "SUT-SG-YL-B - Süt Teknolojisi Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9102055041998",
    "ad": "Süt Endüstrısınde Laktık Asıt Bakterılerı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "SUT-SG-YL-B - Süt Teknolojisi Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9102055082002",
    "ad": "Süt ve Süt Esaslı Ürünlerde Mıkro Besın Öğelerı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "SUT-SG-YL-B - Süt Teknolojisi Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9102055102022",
    "ad": "Süt ve Ürünlerınde Bozulmaya Neden Olan Mıkroorganızmaların Özellıklerı, Sayım Teknıklerı ve Tanılanmaları",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "SUT-SG-YL-B - Süt Teknolojisi Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9102055142016",
    "ad": "Süt Ürünlerı Reolojısı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "SUT-SG-YL-B - Süt Teknolojisi Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9102055162022",
    "ad": "Fermente Süt İçeceklerı Teknolojısı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "SUT-SG-YL-B - Süt Teknolojisi Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9102055222019",
    "ad": "Süt Ürünlerınde Bıyoaktıf Bıleşenler, Üretım Teknıklerı ve Beslenmedekı Önemı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "SUT-SG-YL-B - Süt Teknolojisi Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9102055242019",
    "ad": "Fonksıyonel Süt Ürünlerı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Süt Teknolojisi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "SUT-SG-YL-B - Süt Teknolojisi Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",

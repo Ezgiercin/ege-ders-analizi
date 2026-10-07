@@ -12,7 +12,7 @@
   {
    "kod": "9101086142025",
    "ad": "ORGANIK KIMYADA SEÇME KONULAR II",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FENETKFEN2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "FENDRSEM1",
    "ad": "Semıner I",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "FENDRYET790",
    "ad": "Yeterlılık",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "FENDRSEM2",
    "ad": "Semıner II",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "FENDRTEZONE",
    "ad": "Tez Önerısı",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "DRTEZ694",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "DRTEZ692",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "DRTEZ692",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "DRTEZ692",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "9101086212019",
    "ad": "Renewable Energy Sources",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKDOKSDG1 - KİMYA-ORGANİKDOKSDG1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9101086372017",
    "ad": "Petrokımyasallar",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKDOKSDG1 - KİMYA-ORGANİKDOKSDG1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9101086372019",
    "ad": "Petrochemıcals",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKDOKSDG1 - KİMYA-ORGANİKDOKSDG1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9101086532017",
    "ad": "Makro Moleküllerde NMR Spektroskopısı",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKDOKSDG1 - KİMYA-ORGANİKDOKSDG1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9101086792017",
    "ad": "İsım Tepkımelerı I",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKDOKSDG1 - KİMYA-ORGANİKDOKSDG1",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9101086482019",
    "ad": "Advanced Industrıal Organıc Chemıstry",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKDOKSDG2 - KİMYA-ORGANİKDOKSDG2",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9101086602017",
    "ad": "Spektroskopık Yöntemlerle Organık Bıleşıklerde Yapı Tayını",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKDOKSDG2 - KİMYA-ORGANİKDOKSDG2",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9101086722018",
    "ad": "New Trends ın Natural Product Chemıstry",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKDOKSDG2 - KİMYA-ORGANİKDOKSDG2",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9101086762017",
    "ad": "İsım Tepkımelerı II",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKDOKSDG2 - KİMYA-ORGANİKDOKSDG2",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9101086822022",
    "ad": "Catalytıc Hydrıogen Tranfer Reactıons",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKDOKSDG2 - KİMYA-ORGANİKDOKSDG2",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "EBB6852017",
    "ad": "Gelışım ve Öğrenme",
-   "mufredat": null,
+   "mufredat": "%30 Organik Kimya Doktora Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKDOKSDG2 - KİMYA-ORGANİKDOKSDG2",
    "tur": "Seçmeli",

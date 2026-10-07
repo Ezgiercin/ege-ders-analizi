@@ -12,7 +12,7 @@
   {
    "kod": "9149025012015",
    "ad": "İş Güvenlığı Kültürü ve Mevzuatı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9149025032020",
    "ad": "İş Güvenlığınde Teknık İlkeler",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9149025022020",
    "ad": "Rısk Yönetımı ve Değerlendırmesı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "YLDPR599",
    "ad": "Dönem Projesı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "9149025052015",
    "ad": "Kımyasal Rısk Etmenlerı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -96,7 +96,7 @@
   {
    "kod": "9149025072015",
    "ad": "Fızıksel Rısk Etmenlerı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -110,7 +110,7 @@
   {
    "kod": "9149025092017",
    "ad": "Tehlıkelı Kımyasallar",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -124,7 +124,7 @@
   {
    "kod": "9149025112015",
    "ad": "Yapı İşlerınde İş Güvenlığı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9149025132015",
    "ad": "Radyasyon ve Radyasyondan Korunma",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9149025152015",
    "ad": "Tehlıkelı Madde ve Atık Yönetımı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9149025162015",
    "ad": "Tekstılde İş Güvenlığı ve İşçı Sağlığı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9149025212015",
    "ad": "Nükleer Teknolojı ve Güvenlığı I",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9149025232015",
    "ad": "Laboratuvar Teknıklerı ve Güvenlık",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9149025312015",
    "ad": "Elektrıkle Çalışmalarda İş Güvenlığı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9149025352017",
    "ad": "İş Güvenlığınde Meslek Sağlığı Gözetım İlkelerı ve Hastalıkları",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9149025372017",
    "ad": "İş Güvenlığınde İlk Yardım ve Teknık İlkeler",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9149025452015",
    "ad": "Bıyolojık Rısk Etmenlerı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9149025472016",
    "ad": "Akuakültürde İş Güvenlığı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9149025512017",
    "ad": "Endüstrıyel Alanlarda Kıtlesel Olayların Yönetımı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9149025532017",
    "ad": "Balıkçılık Sanayınde İş Güvenlığı Teknıklerı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9149025572016",
    "ad": "Yangın",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9149025592016",
    "ad": "İşletmelerde Atık Gerı Kazanımı ve Bertarafı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9149025652023",
    "ad": "Makıne İmalat Endüstrısınde İş Güvenlığı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9149025662025",
    "ad": "Python ıle Algorıtma Tasarımı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "FENETKCOK2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG1 - İŞGÜV-TEZSİZSDG1",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9149025082015",
    "ad": "Nükleer Teknolojı ve Güvenlığı II",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG2 - İŞGÜV-TEZSİZSDG2",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9149025102016",
    "ad": "İş Güvenlığınde Kışısel Koruyucu Donanımlar ve Kullanım Prensıplerı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG2 - İŞGÜV-TEZSİZSDG2",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9149025142015",
    "ad": "Tarımda İş Güvenlığı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG2 - İŞGÜV-TEZSİZSDG2",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9149025242015",
    "ad": "Çevre Koruma",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG2 - İŞGÜV-TEZSİZSDG2",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9149025282015",
    "ad": "Metrolojı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG2 - İŞGÜV-TEZSİZSDG2",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9149025322017",
    "ad": "Su Ürünlerı Sanayınde Rısk Analız Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG2 - İŞGÜV-TEZSİZSDG2",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9149025402023",
    "ad": "Ergonomık Ölçüm Yöntemlerı ve Teknıklerı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG2 - İŞGÜV-TEZSİZSDG2",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9149025422015",
    "ad": "Endüstrıyel Hıjyen ve İşçı Sağlığı",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG2 - İŞGÜV-TEZSİZSDG2",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9149025462017",
    "ad": "Yenılenebılır Enerjı Tesıslerınde İSG",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG2 - İŞGÜV-TEZSİZSDG2",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9149025562016",
    "ad": "Kımya Sanayınde Sağlık, Çevre ve İş Güvenlığı \" Üçlü Sorumluluk\" Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG2 - İŞGÜV-TEZSİZSDG2",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9149025582017",
    "ad": "Tehlıkelı Maddelerın Depolanma ve Taşınmasında İSG",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG2 - İŞGÜV-TEZSİZSDG2",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "9149025622025",
    "ad": "İş Sağlığı ve Güvenlığı ıçın İstatıstıksel Yöntemler",
-   "mufredat": null,
+   "mufredat": "2015 İş Güvenliği Tezsiz Y.L Programı",
    "yariyil": null,
    "grup": "İŞGÜV-TEZSİZSDG2 - İŞGÜV-TEZSİZSDG2",
    "tur": "Seçmeli",

@@ -12,7 +12,7 @@
   {
    "kod": "6502001012006",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "6502001022006",
    "ad": "ATATÜRK İLKELERİ VE İNK.TARİHİ I",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "6502001032012",
    "ad": "YABANCI DİL I",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "6502001072012",
    "ad": "GENEL SERACILIK",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "6502001101997",
    "ad": "TEKNİK RESİM",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "6502001192004",
    "ad": "MATEMATİK",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "6502001252012",
    "ad": "SERACILIK UYGULAMALARI I",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "6502001272020",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "6502001292020",
    "ad": "BİTKİ MORFOLOJİSİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "6502001312020",
    "ad": "BİTKİ FİZYOLOJİSİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "6502001332012",
    "ad": "BİLGİ VE İLETİŞİM TEKNOLOJİSİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "6502001352020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "6502000922006",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "6502000942006",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "6502000962012",
    "ad": "YABANCI DİL II",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "6502001122014",
    "ad": "BİTKİ ÜRETİM TEKNİĞİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "6502001142012",
    "ad": "SERA KLİMASI",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "6502001242012",
    "ad": "SERA YAPIM TEKNİĞİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "6502001282023",
    "ad": "SERACILIK UYGULAMALARI II",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "6502001302012",
    "ad": "KESME ÇİÇEK YETİŞTİRİCİLİĞİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "6502001322014",
    "ad": "TARIMSAL EKOLOJİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "6502002222008",
    "ad": "SERACILIK UYGULAMALARI-III",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "6502002252012",
    "ad": "SERA BİTKİLERİ HASTALIKLARI VE MÜCADELESİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "6502002292014",
    "ad": "ORGANİK TARIM",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "6502002312012",
    "ad": "İÇ MEKAN BİTKİLERİ YETİŞTİRİCİLİĞİ I",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "6502002332012",
    "ad": "SERADA SEBZE YETİŞTİRİCİLİĞİ I",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "6502002352012",
    "ad": "SERA TOPRAĞI",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "6502002372012",
    "ad": "GENEL EKONOMİ VE PAZARLAMA",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "6502002392012",
    "ad": "SULAMA",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "16510201T11236",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "16510208T11218",
    "ad": "STAJ",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "6502002062012",
    "ad": "GÜBRELER VE GÜBRELEME",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "6502002232008",
    "ad": "SERACILIK UYGULAMALARI-IV",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "6502002262012",
    "ad": "SERA BİTKİLERİ ZARARLILARI VE MÜCADELESİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "6502002282004",
    "ad": "TOPRAKSIZ TARIM",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "6502002322012",
    "ad": "SERA PROJELENDİRME",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "6502002342012",
    "ad": "SERADA SEBZE YETİŞTİRİCİLİĞİ II",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "6502002382012",
    "ad": "İÇ MEKAN BİTKİLERİ YETİŞTİRİCİLİĞİ II",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "6502001382015",
    "ad": "SERALARDA BİLİŞİM VE OTOMASYON TEKNOLOJİSİ KULLANIMI",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": null,
    "grup": "B.SERA.SEÇ.I - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "6502001402019",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": null,
    "grup": "B.SERA.SEÇ.I - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "6502001422020",
    "ad": "BİTKİ-SU-TOPRAK İLİŞKİLERİ VE ATIK YÖNETİMİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": null,
    "grup": "B.SERA.SEÇ.I - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "6502002012014",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": null,
    "grup": "B.SERA.SEÇ.II - SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "6502002032014",
    "ad": "SERA ÜRÜNLERİNİN MUHAFAZASI VE PAZARA HAZIRLANMASI",
-   "mufredat": "Seracılık",
+   "mufredat": "2014 Yılı Müfredatı (Seracılık)",
    "yariyil": null,
    "grup": "B.SERA.SEÇ.II - SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "6502001012006",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "6502001022006",
    "ad": "ATATÜRK İLKELERİ VE İNK.TARİHİ I",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "6502001032012",
    "ad": "YABANCI DİL I",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "6502001101997",
    "ad": "TEKNİK RESİM",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "6502001352020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -698,7 +698,7 @@
   {
    "kod": "6502001472026",
    "ad": "GENEL BOTANİK",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -712,7 +712,7 @@
   {
    "kod": "6502001492026",
    "ad": "BİLGİ VE İLETİŞİM TEKNOLOJİSİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -726,7 +726,7 @@
   {
    "kod": "6502001512026",
    "ad": "SERACILIK UYGULAMALARI I",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -740,7 +740,7 @@
   {
    "kod": "6502001532026",
    "ad": "BİTKİ ÜRETİM TEKNİKLERİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -754,7 +754,7 @@
   {
    "kod": "6502001552026",
    "ad": "ÖLÇME BİLGİSİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "6502000922006",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -782,7 +782,7 @@
   {
    "kod": "6502000942006",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -796,7 +796,7 @@
   {
    "kod": "6502000962012",
    "ad": "YABANCI DİL II",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -810,7 +810,7 @@
   {
    "kod": "6502001442026",
    "ad": "SERACILIK UYGULAMALARI II",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -824,7 +824,7 @@
   {
    "kod": "6502001462026",
    "ad": "KESME ÇİÇEK YETİŞTİRİCİLİĞİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -838,7 +838,7 @@
   {
    "kod": "6502001482026",
    "ad": "TOPRAK BİLGİSİ VE BİTKİ BESLEME",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -852,7 +852,7 @@
   {
    "kod": "6502001502026",
    "ad": "SERA YAPIM TEKNİĞİ VE İKLİMLENDİRME TEKNOLOJİLERİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -866,7 +866,7 @@
   {
    "kod": "6502001522026",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -880,7 +880,7 @@
   {
    "kod": "6502001542026",
    "ad": "İÇ MEKAN SÜS BİTKİLERİ YETİŞTİRİCİLİĞİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -894,7 +894,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -908,7 +908,7 @@
   {
    "kod": "6502002372012",
    "ad": "GENEL EKONOMİ VE PAZARLAMA",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -922,7 +922,7 @@
   {
    "kod": "6502002472026",
    "ad": "SULAMA",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -936,7 +936,7 @@
   {
    "kod": "6502002492026",
    "ad": "ÖRTÜ ALTI SEBZE YETİŞTİRİCİLİĞİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -950,7 +950,7 @@
   {
    "kod": "6502002512026",
    "ad": "SERACILIK UYGULAMALARI III",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -964,7 +964,7 @@
   {
    "kod": "6502002532026",
    "ad": "ÖRTÜ ALTI HASTALIKLARI VE ZARARLILARI",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -978,7 +978,7 @@
   {
    "kod": "6502002552026",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -992,7 +992,7 @@
   {
    "kod": "6502002572026",
    "ad": "TARIMSAL ÜRETİMDE ATIK YÖNETİMİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1006,7 +1006,7 @@
   {
    "kod": "6502002592026",
    "ad": "TOPRAKSIZ TARIM",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1020,7 +1020,7 @@
   {
    "kod": "6502002612026",
    "ad": "SERA PROJESİ HAZIRLAMA TEKNİĞİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1034,7 +1034,7 @@
   {
    "kod": "6502002482026",
    "ad": "İŞLETMEDE MESLEKİ EĞİTİM",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1048,7 +1048,7 @@
   {
    "kod": "6502001572026",
    "ad": "GİRİŞİMCİLİK VE KALİTE",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": null,
    "grup": "BMYO-SERA.SEÇ.1 - SEÇMELİ DERS GRUBU 1",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "6502001592026",
    "ad": "MATEMATİK",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": null,
    "grup": "BMYO-SERA.SEÇ.1 - SEÇMELİ DERS GRUBU 1",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "6502001612026",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": null,
    "grup": "BMYO-SERA.SEÇ.1 - SEÇMELİ DERS GRUBU 1",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "6502001632026",
    "ad": "KESME ÇİÇEKLERDE BUKET VE ARANJMAN TEKNİĞİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": null,
    "grup": "BMYO-SERA.SEÇ.1 - SEÇMELİ DERS GRUBU 1",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "6502001652026",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": null,
    "grup": "BMYO-SERA.SEÇ.1 - SEÇMELİ DERS GRUBU 1",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "6502001382015",
    "ad": "SERALARDA BİLİŞİM VE OTOMASYON TEKNOLOJİSİ KULLANIMI",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": null,
    "grup": "BMYO-SERA.SEÇ.2 - SEÇMELİ DERS GRUBU 2",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "6502001562026",
    "ad": "ORGANİK TARIM",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": null,
    "grup": "BMYO-SERA.SEÇ.2 - SEÇMELİ DERS GRUBU 2",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "6502001582026",
    "ad": "TARIMSAL METEOROLOJİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": null,
    "grup": "BMYO-SERA.SEÇ.2 - SEÇMELİ DERS GRUBU 2",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "6502001602026",
    "ad": "TARIMSAL EKOLOJİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": null,
    "grup": "BMYO-SERA.SEÇ.2 - SEÇMELİ DERS GRUBU 2",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "6502001622026",
    "ad": "MEVSİMLİK ÇİÇEKLER",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": null,
    "grup": "BMYO-SERA.SEÇ.2 - SEÇMELİ DERS GRUBU 2",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "6502002032014",
    "ad": "SERA ÜRÜNLERİNİN MUHAFAZASI VE PAZARA HAZIRLANMASI",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": null,
    "grup": "BMYO-SERA.SEÇ.3 - SEÇMELİ DERS GRUBU 3",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "6502002632026",
    "ad": "TEMEL LABORATUVAR TEKNİKLLERİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": null,
    "grup": "BMYO-SERA.SEÇ.3 - SEÇMELİ DERS GRUBU 3",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "6502002652026",
    "ad": "KESME GEOFİTLER",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": null,
    "grup": "BMYO-SERA.SEÇ.3 - SEÇMELİ DERS GRUBU 3",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "6502002672026",
    "ad": "TERARYUM TEKNİĞİ",
-   "mufredat": "Seracılık",
+   "mufredat": "2026 Yılı Müfredatı (Seracılık)",
    "yariyil": null,
    "grup": "BMYO-SERA.SEÇ.3 - SEÇMELİ DERS GRUBU 3",
    "tur": "Seçmeli",

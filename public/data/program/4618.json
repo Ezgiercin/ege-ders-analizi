@@ -12,7 +12,7 @@
   {
    "kod": "9103025072015",
    "ad": "Sıstem Teorısı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FENETKMUH2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9103025162015",
    "ad": "Olasılık Teorısı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "FENYLSEM",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLTEZ591",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "9103025092014",
    "ad": "Yapay Sınır Ağları ve Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-G - Elektrik-Elektronik Müh. Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9103025192014",
    "ad": "Modern Fızık ve Atomun Elektronık Yapısı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-G - Elektrik-Elektronik Müh. Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9103025292014",
    "ad": "İlerı Elektromanyetık I",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-G - Elektrik-Elektronik Müh. Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9103025392014",
    "ad": "Çoklu Çözünürlüklü İşaret İşleme",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-G - Elektrik-Elektronik Müh. Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9103025592014",
    "ad": "Görüntü İşleme",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-G - Elektrik-Elektronik Müh. Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9103025612014",
    "ad": "Ses İşleme",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-G - Elektrik-Elektronik Müh. Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9103025672014",
    "ad": "Polarızasyon-Optığı ve Ölçüm Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-G - Elektrik-Elektronik Müh. Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9103025752016",
    "ad": "Haberleşme Sıstemlerınde İlerı Yöntem ve Teknıkler I",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-G - Elektrik-Elektronik Müh. Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9103025102015",
    "ad": "İlerı Mühendıslık Matematığı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-B - Elektrik-Elektronik Müh. Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9103025122015",
    "ad": "Telsız Frekansı Elektronığı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-B - Elektrik-Elektronik Müh. Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9103025142025",
    "ad": "Yapay Zeka Teknıklerı ve Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-B - Elektrik-Elektronik Müh. Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9103025242014",
    "ad": "Optığın Teorılerı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-B - Elektrik-Elektronik Müh. Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9103025262014",
    "ad": "Kablosuz İletışım",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-B - Elektrik-Elektronik Müh. Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9103025302014",
    "ad": "Tümleşık Sıstem Tasarımı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-B - Elektrik-Elektronik Müh. Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9103025462014",
    "ad": "Maddenın Optık Özellıklerı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-B - Elektrik-Elektronik Müh. Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9103025502014",
    "ad": "Manyetızma ve Manyetık Malzemeler",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-B - Elektrik-Elektronik Müh. Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9103025522014",
    "ad": "İlerı Yarı İletkenler Fızığı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-B - Elektrik-Elektronik Müh. Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9103025542014",
    "ad": "Bıyomedıkal Sınyal Analızı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-B - Elektrik-Elektronik Müh. Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9103025622014",
    "ad": "Optık Haberleşme Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-B - Elektrik-Elektronik Müh. Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9103025642014",
    "ad": "Ses İyıleştırme",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-B - Elektrik-Elektronik Müh. Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9103025662014",
    "ad": "Bıyomedıkal Optık Görüntülemeye Gırış",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-B - Elektrik-Elektronik Müh. Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9103025742016",
    "ad": "Haberleşme Sıstemlerınde İlerı Yöntem ve Teknıkler II",
-   "mufredat": null,
+   "mufredat": "2012 yılı Elektrik-Elektronik Mühendisliği / Elektronik Yüksek Lisans",
    "yariyil": null,
    "grup": "EEM-SG-YL-B - Elektrik-Elektronik Müh. Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",

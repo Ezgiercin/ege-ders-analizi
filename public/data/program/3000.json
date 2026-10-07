@@ -12,7 +12,7 @@
   {
    "kod": "7007001012009",
    "ad": "TÜRK DİLİ-I",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "7007001022009",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ-I",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "7007001032018",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "7007001072010",
    "ad": "TOPRAK BİLGİSİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "7007001092010",
    "ad": "TARIMSAL EKOLOJİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "7007001112009",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "7007001152023",
    "ad": "STAJ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "7007001212018",
    "ad": "BOTANİK",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "7007001272022",
    "ad": "BAHÇE BİTKİLERİNE GİRİŞ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "7007001292020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "17010701T11124",
    "ad": "GENETİK VE ISLAH",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "17010701T11126",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "7007000922009",
    "ad": "TÜRK DİLİ-II",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "7007000942009",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ-II",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "7007000962018",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "7007001062010",
    "ad": "SULAMA TEKNİKLERİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "7007001152023",
    "ad": "STAJ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "7007001182010",
    "ad": "GENEL MEYVECİLİK",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "7007001202010",
    "ad": "GENEL SEBZECİLİK",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "7007001242025",
    "ad": "BİTKİ FİZYOLOJİSİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "7007001262025",
    "ad": "BİTKİ BESLEME",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "7007001302025",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "17010701T11217",
    "ad": "GENEL SERACILIK",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "7007002032022",
    "ad": "BAĞCILIK",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "7007002052009",
    "ad": "SEBZE YETİŞTİRİCİLİĞİ-I",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "7007002072009",
    "ad": "BAHÇE BİTKİLERİ HASTALIKLARI VE SAVAŞIMI",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "7007002092009",
    "ad": "MEYVE FİDANI YETİŞTİRİCİLİĞİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "7007002112009",
    "ad": "BİTKİSEL ÜRETİMDE MEKANİZASYON",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "7007002132009",
    "ad": "SÜS BİTKİLERİ YETİŞTİRİCİLİĞİ-I",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "7007002192022",
    "ad": "TARIM EKONOMİSİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "7007002022014",
    "ad": "SEBZE YETİŞTİRİCİLİĞİ-II",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "7007002082014",
    "ad": "BAHÇE BİTKİLERİ ZARARLILARI VE SAVAŞIMI",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "7007002102014",
    "ad": "MEYVE YETİŞTİRİCİLİĞİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "7007002162009",
    "ad": "SÜS BİTKİLERİ YETİŞTİRİCİLİĞİ-II",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "7007002222022",
    "ad": "MANTAR YETİŞTİRİCİLİĞİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "7007002242013",
    "ad": "ORGANİK TARIM İLKELERİ VE MEVZUAT",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "7007002302014",
    "ad": "BAHÇE ÜRÜNLERİNİN MUHAFAZASI VE PAZARA HAZIRLANMASI",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "7007002322014",
    "ad": "PEYZAJ UYGULAMALARI",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "MYOSDG",
    "ad": "MYO ORTAK SEÇMELİ DERS GRUBU",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "7007001192019",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "BAHÇ.TARIMI-1 - SEÇMELİ-1",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "7007001252019",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "BAHÇ.TARIMI-1 - SEÇMELİ-1",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "ODM202",
    "ad": "GİRİŞİMCİLİK VE KALİTE",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "ODM204",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "ODM206",
    "ad": "İYİ TARIM UYGULAMALARI",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "ODM208",
    "ad": "AGRO-TURİZM",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "ODM210",
    "ad": "ARICILIK VE İPEK BÖCEKÇİLİĞİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "ODM212",
    "ad": "TOHUM BİLİMİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "ODM214",
    "ad": "ENERJİ BİTKİLERİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "ODM216",
    "ad": "ALTERNATİF YAĞ BİTKİLERİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "ODM218",
    "ad": "ENTEGRE MÜCADELE",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "ODM220",
    "ad": "PET HAYVANLARININ BESLENMESİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "ODM222",
    "ad": "ARI YETİŞTİRİCİLİĞİ VE SAĞLIĞI",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "ODM224",
    "ad": "STARTER KÜLTÜRLER",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "ODM228",
    "ad": "TARIMSAL BİYOTEKNOLOJİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "ODM230",
    "ad": "FİDE YETİŞTİRİCİLİĞİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "ODM231",
    "ad": "AT YETİŞTİRME",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "ODM232",
    "ad": "KÜLTÜR BALIKÇILIĞI VE SAĞLIĞI",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "ODM233",
    "ad": "KAFES KUŞLARI YETİŞTİRİCİLİĞİ VE SAĞLIĞİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "ODM234",
    "ad": "KULUÇKA YÖNETİMİ VE HİJYEN",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "ODM235",
    "ad": "ÖZEL EĞİTİM",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2018 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "7007001012009",
    "ad": "TÜRK DİLİ-I",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -880,7 +880,7 @@
   {
    "kod": "7007001022009",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ-I",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -894,7 +894,7 @@
   {
    "kod": "7007001032018",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -908,7 +908,7 @@
   {
    "kod": "7007001272022",
    "ad": "BAHÇE BİTKİLERİNE GİRİŞ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -922,7 +922,7 @@
   {
    "kod": "7007001292020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -936,7 +936,7 @@
   {
    "kod": "7007001312026",
    "ad": "TOPRAK BİLGİSİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -950,7 +950,7 @@
   {
    "kod": "7007001332026",
    "ad": "TARIMSAL EKOLOJİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -964,7 +964,7 @@
   {
    "kod": "7007001352026",
    "ad": "SULAMA TEKNİKLERİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -978,7 +978,7 @@
   {
    "kod": "7007001372026",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -992,7 +992,7 @@
   {
    "kod": "7007001392026",
    "ad": "GENETİK VE BİTKİ ISLAHI",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1006,7 +1006,7 @@
   {
    "kod": "7007001432026",
    "ad": "BOTANİK",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1020,7 +1020,7 @@
   {
    "kod": "7007001452026",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1034,7 +1034,7 @@
   {
    "kod": "17010701T11126",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1048,7 +1048,7 @@
   {
    "kod": "7007000922009",
    "ad": "TÜRK DİLİ-II",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1062,7 +1062,7 @@
   {
    "kod": "7007000942009",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ-II",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1076,7 +1076,7 @@
   {
    "kod": "7007000962018",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1090,7 +1090,7 @@
   {
    "kod": "7007001242025",
    "ad": "BİTKİ FİZYOLOJİSİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1104,7 +1104,7 @@
   {
    "kod": "7007001322026",
    "ad": "BİTKİ BESLEME VE GÜBRELEME",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1118,7 +1118,7 @@
   {
    "kod": "7007001342026",
    "ad": "MEYVECİLİK VE MEYVE FİDANI YETİŞTİRİCİLİĞİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1132,7 +1132,7 @@
   {
    "kod": "7007001362026",
    "ad": "BAĞCILIK I",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1146,7 +1146,7 @@
   {
    "kod": "7007001382026",
    "ad": "SÜS BİTKİLERİ YETİŞTİRİCİLİĞİ-I",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1160,7 +1160,7 @@
   {
    "kod": "7007001402026",
    "ad": "BAHÇE BİTKİLERİ ZARARLILARI VE SAVAŞIMI",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1174,7 +1174,7 @@
   {
    "kod": "7007001422026",
    "ad": "SEBZE YETİŞTİRİCİLİĞİ-I",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1188,7 +1188,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1202,7 +1202,7 @@
   {
    "kod": "7007002212026",
    "ad": "ÖRTÜ ALTI YETİŞTİRİCİLİĞİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1216,7 +1216,7 @@
   {
    "kod": "7007002232026",
    "ad": "BAĞCILIK II",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1230,7 +1230,7 @@
   {
    "kod": "7007002272026",
    "ad": "BAHÇE BİTKİLERİ HASTALIKLARI VE SAVAŞIMI",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1244,7 +1244,7 @@
   {
    "kod": "7007002292026",
    "ad": "SÜS BİTKİLERİ YETİŞTİRİCİLİĞİ-II",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1258,7 +1258,7 @@
   {
    "kod": "7007002312026",
    "ad": "BİTKİSEL ÜRETİMDE MEKANİZASYON",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1272,7 +1272,7 @@
   {
    "kod": "7007002352026",
    "ad": "MANTAR YETİŞTİRİCİLİĞİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1286,7 +1286,7 @@
   {
    "kod": "7007002372026",
    "ad": "ENTEGRE MÜCADELE",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1300,7 +1300,7 @@
   {
    "kod": "700702332026",
    "ad": "BAHÇE ÜRÜNLERİNİN MUHAFAZASI VE PAZARA HAZIRLANMASI",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1314,7 +1314,7 @@
   {
    "kod": "700702352026",
    "ad": "TARIMSAL BİYOTEKNOLOJİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1328,7 +1328,7 @@
   {
    "kod": "MYOSDG",
    "ad": "MYO ORTAK SEÇMELİ DERS GRUBU",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "7007002362026",
    "ad": "İŞLETMEDE MESLEKİ EĞİTİM",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1356,7 +1356,7 @@
   {
    "kod": "7007001192019",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "SEÇMELİ.BAHÇE.1 - SEÇMELİ DERS GRUBU 1 (B.TARIMI)",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "7007001252019",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "SEÇMELİ.BAHÇE.1 - SEÇMELİ DERS GRUBU 1 (B.TARIMI)",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "7007001472026",
    "ad": "BİLİMSEL ARAŞTIRMA YÖNTEMLERİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "SEÇMELİ.BAHÇE.1 - SEÇMELİ DERS GRUBU 1 (B.TARIMI)",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "7007001442026",
    "ad": "EGZOTİK SEBZE TÜRLERİ VE YETİŞTİRİCİLİĞİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "ALAN.SEÇMELİ.BAHÇE.1 - ALAN SEÇMELİ DERS GRUBU 1 (B.TARIMI)",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "7007001462026",
    "ad": "YENİLEBİLİR YABANCI OTLAR",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "ALAN.SEÇMELİ.BAHÇE.1 - ALAN SEÇMELİ DERS GRUBU 1 (B.TARIMI)",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "7007002492026",
    "ad": "AŞICILIK VE AŞILAMA TEKNİKLERİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "ALAN.SEÇMELİ.BAHÇE.1 - ALAN SEÇMELİ DERS GRUBU 1 (B.TARIMI)",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "7007002512026",
    "ad": "BUDAMA TEKNİĞİ VE TERBİYE",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "ALAN.SEÇMELİ.BAHÇE.1 - ALAN SEÇMELİ DERS GRUBU 1 (B.TARIMI)",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "ODM202",
    "ad": "GİRİŞİMCİLİK VE KALİTE",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "ODM204",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "ODM206",
    "ad": "İYİ TARIM UYGULAMALARI",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "ODM208",
    "ad": "AGRO-TURİZM",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1510,7 +1510,7 @@
   {
    "kod": "ODM210",
    "ad": "ARICILIK VE İPEK BÖCEKÇİLİĞİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1524,7 +1524,7 @@
   {
    "kod": "ODM212",
    "ad": "TOHUM BİLİMİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1538,7 +1538,7 @@
   {
    "kod": "ODM214",
    "ad": "ENERJİ BİTKİLERİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1552,7 +1552,7 @@
   {
    "kod": "ODM216",
    "ad": "ALTERNATİF YAĞ BİTKİLERİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1566,7 +1566,7 @@
   {
    "kod": "ODM220",
    "ad": "PET HAYVANLARININ BESLENMESİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1580,7 +1580,7 @@
   {
    "kod": "ODM222",
    "ad": "ARI YETİŞTİRİCİLİĞİ VE SAĞLIĞI",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1594,7 +1594,7 @@
   {
    "kod": "ODM224",
    "ad": "STARTER KÜLTÜRLER",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1608,7 +1608,7 @@
   {
    "kod": "ODM230",
    "ad": "FİDE YETİŞTİRİCİLİĞİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1622,7 +1622,7 @@
   {
    "kod": "ODM231",
    "ad": "AT YETİŞTİRME",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1636,7 +1636,7 @@
   {
    "kod": "ODM232",
    "ad": "KÜLTÜR BALIKÇILIĞI VE SAĞLIĞI",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1650,7 +1650,7 @@
   {
    "kod": "ODM233",
    "ad": "KAFES KUŞLARI YETİŞTİRİCİLİĞİ VE SAĞLIĞİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1664,7 +1664,7 @@
   {
    "kod": "ODM234",
    "ad": "KULUÇKA YÖNETİMİ VE HİJYEN",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1678,7 +1678,7 @@
   {
    "kod": "ODM235",
    "ad": "ÖZEL EĞİTİM",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1692,7 +1692,7 @@
   {
    "kod": "ODM236",
    "ad": "DİJİTAL TARIM İÇİN YAPAY ZEKA",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1706,7 +1706,7 @@
   {
    "kod": "ODM237",
    "ad": "TOHUMCULUK TEKNOLOJİSİNDE YAPAY ZEKA UYGULAMALARI",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1720,7 +1720,7 @@
   {
    "kod": "ODM238",
    "ad": "YEMEKLİK DANE BAKLAGİLLER",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1734,7 +1734,7 @@
   {
    "kod": "ODM239",
    "ad": "TARLA TARIMI",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1748,7 +1748,7 @@
   {
    "kod": "ODM241",
    "ad": "PEYZAJ BAKIM VE YENİLEME",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1762,7 +1762,7 @@
   {
    "kod": "ODM242",
    "ad": "CANLILARDA OKSİDADİF HASAR VE ANTİOKSİDANLAR",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1776,7 +1776,7 @@
   {
    "kod": "ODM243",
    "ad": "TEMEL İLK YARDIM",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1790,7 +1790,7 @@
   {
    "kod": "ODM244",
    "ad": "TAHILLAR",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1804,7 +1804,7 @@
   {
    "kod": "ODM245",
    "ad": "BİTKİSEL ÜRÜNLERDE KARANTİNA MEVZUATI",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1818,7 +1818,7 @@
   {
    "kod": "ODM252",
    "ad": "TARIMDA SÜRDÜRÜLEBİLİRLİK VE YENİLENEBİLİR ENERJİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1832,7 +1832,7 @@
   {
    "kod": "ODM254",
    "ad": "SÜRDÜRÜLEBİLİR GIDA SİSTEMLERİ",
-   "mufredat": "Bahçe Tarımı",
+   "mufredat": "2026 Yılı Müfredatı (Bahçe Tarımı)",
    "yariyil": null,
    "grup": "MYOSDG - MYO ORTAK SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",

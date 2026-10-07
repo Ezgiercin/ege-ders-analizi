@@ -30,6 +30,8 @@ export interface Istatistik {
   puanToplam: number;
   aktsToplam: number;
   kazanilanAkts: number;
+  /** Seçili müfredattaki derslerden kazanılan AKTS (ilerleme çubuğu için) */
+  mufredatKazanilan: number;
   mufredatAkts: number;
   kalanDers: number;
   notluDers: number;
@@ -173,8 +175,15 @@ export function istatistik(
 
   let mufredatAkts = 0;
   let kalanDers = 0;
+  let mufredatKazanilan = 0;
   if (program) {
     const ana = mufredat !== undefined ? mufredat : anaMufredat(program.dersler);
+    const mufredatKodlari = new Set(
+      program.dersler.filter((d) => (d.mufredat ?? null) === ana).map((d) => d.kod)
+    );
+    for (const s of tekil.values()) {
+      if (s.akts && basariliMi(s.harf) && mufredatKodlari.has(s.kod)) mufredatKazanilan += s.akts;
+    }
     for (const d of program.dersler) {
       if ((d.mufredat ?? null) !== ana || d.yariyil == null) continue;
       mufredatAkts += d.akts ?? 0;
@@ -188,6 +197,7 @@ export function istatistik(
     puanToplam,
     aktsToplam,
     kazanilanAkts,
+    mufredatKazanilan,
     mufredatAkts,
     kalanDers,
     notluDers,

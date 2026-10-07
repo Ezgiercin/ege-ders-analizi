@@ -12,7 +12,7 @@
   {
    "kod": "2601001032021",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "2601001292021",
    "ad": "ÖLÇME TEKNİĞİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "2601001312021",
    "ad": "STAJ",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "2601001332021",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "2601001352020",
    "ad": "TEMEL ELEKTRONİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "2601001372020",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "2601001412020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "9028001012010",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9028001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "9028001072010",
    "ad": "MATEMATİK-I",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "9028001092010",
    "ad": "DOĞRU AKIM DEVRELERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "2601001182021",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "2601001222017",
    "ad": "ALTERNATİF AKIM DEVRELERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "2601001242017",
    "ad": "TRAFO VE DOĞRU AKIM MAKİNALARI",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "2601001262017",
    "ad": "ARIZA ANALİZİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "9028000922010",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "9028000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "9028001042010",
    "ad": "MATEMATİK II",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "9028001142015",
    "ad": "TESİSATA GİRİŞ",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "2601002032020",
    "ad": "GÜÇ ELEKTRONİĞİ-I",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "2601002052020",
    "ad": "ELEKTROMEKANİK KUMANDA SİSTEMLERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "2601002092020",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "9028002012010",
    "ad": "SAYISAL ELEKTRONİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "9028002052010",
    "ad": "ASENKRON VE SENKRON MAKİNALAR",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "9028002072010",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM -I",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "9028002092010",
    "ad": "ELEKTRİK ENERJİ SANTRALLERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "9028002132010",
    "ad": "SENSÖRLER VE TRANSDUSERLER",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "9028002022010",
    "ad": "GÜÇ ELEKTRONİĞİ-II",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "9028002042010",
    "ad": "ÖZEL TASARIMLI MOTORLAR",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "9028002062010",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM -II",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "9028002082010",
    "ad": "ELEKTRİK ENERJİSİ İLETİM VE DAĞITIMI",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "9028002102010",
    "ad": "ÖZEL TESİSAT",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "9028002122010",
    "ad": "PROGRAMLANABİLİR DENETLEYİCİLER",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "9028002142010",
    "ad": "SİSTEM ANALİZİ VE TASARIMI",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "9028002162015",
    "ad": "HİDROLİK PNOMATİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "2601001212017",
    "ad": "FİZİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-I-ELEKTRİK-2015 - SEÇ-I-ELEKTRİK-İKMEP-2015",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9028001152010",
    "ad": "İŞ GÜVENLİĞİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-I-ELEKTRİK-2015 - SEÇ-I-ELEKTRİK-İKMEP-2015",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "9028001192014",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-I-ELEKTRİK-2015 - SEÇ-I-ELEKTRİK-İKMEP-2015",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "2601001202017",
    "ad": "ELEKTRONİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-II-ELEKTRİK-İKM - SEÇ-II-ELEKTRİK-İKMEP",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "2601001282019",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-II-ELEKTRİK-İKM - SEÇ-II-ELEKTRİK-İKMEP",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "9028001082010",
    "ad": "MESLEK ETİĞİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-II-ELEKTRİK-İKM - SEÇ-II-ELEKTRİK-İKMEP",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "9028001162014",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-II-ELEKTRİK-İKM - SEÇ-II-ELEKTRİK-İKMEP",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "9028001182014",
    "ad": "KALİTE GÜVENCE STANDARTLARI",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-II-ELEKTRİK-İKM - SEÇ-II-ELEKTRİK-İKMEP",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "2601002012017",
    "ad": "KONTROL SİSTEMLERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-III-ELEKTRİK-İKM - SEÇ-III-ELEKTRİK-İKMEP",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "2601002072020",
    "ad": "ENDÜSTRİ 4.0",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-III-ELEKTRİK-İKM - SEÇ-III-ELEKTRİK-İKMEP",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "2601002112022",
    "ad": "PROGRAMLAMAYA GİRİŞ",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-III-ELEKTRİK-İKM - SEÇ-III-ELEKTRİK-İKMEP",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "9028002152010",
    "ad": "SÖZLEŞME-KEŞİF-PLANLAMA",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-III-ELEKTRİK-İKM - SEÇ-III-ELEKTRİK-İKMEP",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "9028002172010",
    "ad": "MESLEKİ TEKNİK YÖNTEMLER",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-III-ELEKTRİK-İKM - SEÇ-III-ELEKTRİK-İKMEP",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "9028002192014",
    "ad": "BİLGİSAYAR DONANIMI",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-III-ELEKTRİK-İKM - SEÇ-III-ELEKTRİK-İKMEP",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "2601002022017",
    "ad": "SAYISAL TASARIM",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-IV-ELEKTRİK-İKM - SEÇ-IV-ELEKTRİK-İKMEP",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "9028002182010",
    "ad": "ARAŞTIRMA YÖNTEM VE TEKNİKLERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-IV-ELEKTRİK-İKM - SEÇ-IV-ELEKTRİK-İKMEP",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "9028002202010",
    "ad": "EV CİHAZLARI",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-IV-ELEKTRİK-İKM - SEÇ-IV-ELEKTRİK-İKMEP",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "9028002222014",
    "ad": "MİKROİŞLEMCİLER VE MİKRODENETLEYİCİLER",
-   "mufredat": "Elektrik",
+   "mufredat": "2019 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-IV-ELEKTRİK-İKM - SEÇ-IV-ELEKTRİK-İKMEP",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "2601001032021",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "2601001212023",
    "ad": "FİZİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -782,7 +782,7 @@
   {
    "kod": "2601001292021",
    "ad": "ÖLÇME TEKNİĞİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -796,7 +796,7 @@
   {
    "kod": "2601001312021",
    "ad": "STAJ",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -810,7 +810,7 @@
   {
    "kod": "2601001332021",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -824,7 +824,7 @@
   {
    "kod": "2601001352020",
    "ad": "TEMEL ELEKTRONİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -838,7 +838,7 @@
   {
    "kod": "2601001372020",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -852,7 +852,7 @@
   {
    "kod": "2601001412020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -866,7 +866,7 @@
   {
    "kod": "2601001432023",
    "ad": "DOĞRU AKIM DEVRELERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -880,7 +880,7 @@
   {
    "kod": "9028001012010",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -894,7 +894,7 @@
   {
    "kod": "9028001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -908,7 +908,7 @@
   {
    "kod": "9028001072010",
    "ad": "MATEMATİK-I",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -922,7 +922,7 @@
   {
    "kod": "2601001182023",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -936,7 +936,7 @@
   {
    "kod": "2601001222017",
    "ad": "ALTERNATİF AKIM DEVRELERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -950,7 +950,7 @@
   {
    "kod": "2601001242017",
    "ad": "TRAFO VE DOĞRU AKIM MAKİNALARI",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -964,7 +964,7 @@
   {
    "kod": "2601001262023",
    "ad": "ARIZA ANALİZİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -978,7 +978,7 @@
   {
    "kod": "2601001342023",
    "ad": "ELEKTRONİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -992,7 +992,7 @@
   {
    "kod": "2601001362023",
    "ad": "MATEMATİK II",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1006,7 +1006,7 @@
   {
    "kod": "2601001422023",
    "ad": "TESİSATA GİRİŞ",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1020,7 +1020,7 @@
   {
    "kod": "9028000922010",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1034,7 +1034,7 @@
   {
    "kod": "9028000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1048,7 +1048,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1062,7 +1062,7 @@
   {
    "kod": "2601002052020",
    "ad": "ELEKTROMEKANİK KUMANDA SİSTEMLERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1076,7 +1076,7 @@
   {
    "kod": "2601002092020",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1090,7 +1090,7 @@
   {
    "kod": "2601002132023",
    "ad": "GÜÇ ELEKTRONİĞİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1104,7 +1104,7 @@
   {
    "kod": "2601002292023",
    "ad": "ASENKRON VE SENKRON MAKİNALAR",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1118,7 +1118,7 @@
   {
    "kod": "9028002012010",
    "ad": "SAYISAL ELEKTRONİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1132,7 +1132,7 @@
   {
    "kod": "9028002072010",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM -I",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1146,7 +1146,7 @@
   {
    "kod": "9028002092010",
    "ad": "ELEKTRİK ENERJİ SANTRALLERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1160,7 +1160,7 @@
   {
    "kod": "9028002132010",
    "ad": "SENSÖRLER VE TRANSDUSERLER",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1174,7 +1174,7 @@
   {
    "kod": "2601002042023",
    "ad": "ELEKTRİKLİ ARAÇ TEKNOLOJİSİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1188,7 +1188,7 @@
   {
    "kod": "2601002062023",
    "ad": "ROBOTİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1202,7 +1202,7 @@
   {
    "kod": "2601002122023",
    "ad": "SİSTEM ANALİZİ VE TASARIMI",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1216,7 +1216,7 @@
   {
    "kod": "2601002142023",
    "ad": "HİDROLİK PNOMATİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1230,7 +1230,7 @@
   {
    "kod": "2601002202023",
    "ad": "PROGRAMLANABİLİR DENETLEYİCİLER",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1244,7 +1244,7 @@
   {
    "kod": "9028002042010",
    "ad": "ÖZEL TASARIMLI MOTORLAR",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1258,7 +1258,7 @@
   {
    "kod": "9028002062010",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM -II",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1272,7 +1272,7 @@
   {
    "kod": "9028002082010",
    "ad": "ELEKTRİK ENERJİSİ İLETİM VE DAĞITIMI",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1286,7 +1286,7 @@
   {
    "kod": "9028002102010",
    "ad": "ÖZEL TESİSAT",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1300,7 +1300,7 @@
   {
    "kod": "2601001282019",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-I - SEÇMELİ DERS GRUBU ELEKTRİK -I",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "2601001302023",
    "ad": "MESLEK ETİĞİ VE GÜVENLİĞİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-I - SEÇMELİ DERS GRUBU ELEKTRİK -I",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "2601001382023",
    "ad": "KALİTE GÜVENCE STANDARTLARI",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-I - SEÇMELİ DERS GRUBU ELEKTRİK -I",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "2601001402023",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-I - SEÇMELİ DERS GRUBU ELEKTRİK -I",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "2601002072020",
    "ad": "ENDÜSTRİ 4.0",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-I - SEÇMELİ DERS GRUBU ELEKTRİK -I",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "2601002172023",
    "ad": "MESLEKİ TEKNİK YÖNTEMLER",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-II - SEÇMELİ DERS GRUBU ELEKTRİK -II",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "2601002192023",
    "ad": "BİLGİSAYAR DONANIMI",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-II - SEÇMELİ DERS GRUBU ELEKTRİK -II",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "2601002212023",
    "ad": "KONTROL SİSTEMLERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-II - SEÇMELİ DERS GRUBU ELEKTRİK -II",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "2601002232023",
    "ad": "SÖZLEŞME-KEŞİF-PLANLAMA",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-II - SEÇMELİ DERS GRUBU ELEKTRİK -II",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "2601002252023",
    "ad": "PROGRAMLAMAYA GİRİŞ",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-II - SEÇMELİ DERS GRUBU ELEKTRİK -II",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "2601002272023",
    "ad": "SAYISAL TASARIM",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-II - SEÇMELİ DERS GRUBU ELEKTRİK -II",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "2601002082023",
    "ad": "SCADA SİSTEMLERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-III - SEÇMELİ DERS GRUBU ELEKTRİK -III",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "2601002102023",
    "ad": "ALTERNATİF ENERJİ TEKNOLOJİLERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-III - SEÇMELİ DERS GRUBU ELEKTRİK -III",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "2601002162023",
    "ad": "ARAŞTIRMA YÖNTEM TEKNİKLERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-III - SEÇMELİ DERS GRUBU ELEKTRİK -III",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "2601002182023",
    "ad": "MİKROİŞLEMCİLER VE MİKRODENETLEYECİLER",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-III - SEÇMELİ DERS GRUBU ELEKTRİK -III",
    "tur": "Seçmeli",
@@ -1510,7 +1510,7 @@
   {
    "kod": "2601002222023",
    "ad": "SIFIR ATIK YÖNETİMİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2023 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-III - SEÇMELİ DERS GRUBU ELEKTRİK -III",
    "tur": "Seçmeli",
@@ -1524,7 +1524,7 @@
   {
    "kod": "2601001032021",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1538,7 +1538,7 @@
   {
    "kod": "2601001212023",
    "ad": "FİZİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1552,7 +1552,7 @@
   {
    "kod": "2601001292024",
    "ad": "ÖLÇME TEKNİĞİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1566,7 +1566,7 @@
   {
    "kod": "2601001312024",
    "ad": "STAJ-I",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1580,7 +1580,7 @@
   {
    "kod": "2601001352024",
    "ad": "TEMEL ELEKTRONİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1594,7 +1594,7 @@
   {
    "kod": "2601001372020",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1608,7 +1608,7 @@
   {
    "kod": "2601001412020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1622,7 +1622,7 @@
   {
    "kod": "2601001432023",
    "ad": "DOĞRU AKIM DEVRELERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1636,7 +1636,7 @@
   {
    "kod": "9028001012010",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1650,7 +1650,7 @@
   {
    "kod": "9028001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1664,7 +1664,7 @@
   {
    "kod": "9028001072010",
    "ad": "MATEMATİK-I",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1678,7 +1678,7 @@
   {
    "kod": "2601001182023",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1692,7 +1692,7 @@
   {
    "kod": "2601001222017",
    "ad": "ALTERNATİF AKIM DEVRELERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1706,7 +1706,7 @@
   {
    "kod": "2601001242017",
    "ad": "TRAFO VE DOĞRU AKIM MAKİNALARI",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1720,7 +1720,7 @@
   {
    "kod": "2601001262023",
    "ad": "ARIZA ANALİZİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1734,7 +1734,7 @@
   {
    "kod": "2601001342023",
    "ad": "ELEKTRONİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1748,7 +1748,7 @@
   {
    "kod": "2601001362023",
    "ad": "MATEMATİK II",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1762,7 +1762,7 @@
   {
    "kod": "2601001422023",
    "ad": "TESİSATA GİRİŞ",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1776,7 +1776,7 @@
   {
    "kod": "9028000922010",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1790,7 +1790,7 @@
   {
    "kod": "9028000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1804,7 +1804,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1818,7 +1818,7 @@
   {
    "kod": "2601002052020",
    "ad": "ELEKTROMEKANİK KUMANDA SİSTEMLERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1832,7 +1832,7 @@
   {
    "kod": "2601002092020",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1846,7 +1846,7 @@
   {
    "kod": "2601002132023",
    "ad": "GÜÇ ELEKTRONİĞİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1860,7 +1860,7 @@
   {
    "kod": "2601002292023",
    "ad": "ASENKRON VE SENKRON MAKİNALAR",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1874,7 +1874,7 @@
   {
    "kod": "2601002312024",
    "ad": "SAYISAL ELEKTRONİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1888,7 +1888,7 @@
   {
    "kod": "2601002332024",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM-I",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1902,7 +1902,7 @@
   {
    "kod": "2601002352024",
    "ad": "SENSÖRLER VE TRANSDUSERLER",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1916,7 +1916,7 @@
   {
    "kod": "2601002372024",
    "ad": "MESLEKİ TEKNİK YÖNTEMLER",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1930,7 +1930,7 @@
   {
    "kod": "2601002392024",
    "ad": "PROGRAMLAMAYA GİRİŞ",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1944,7 +1944,7 @@
   {
    "kod": "2601002412024",
    "ad": "STAJ-II",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1958,7 +1958,7 @@
   {
    "kod": "9028002092010",
    "ad": "ELEKTRİK ENERJİ SANTRALLERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1972,7 +1972,7 @@
   {
    "kod": "2601002042023",
    "ad": "ELEKTRİKLİ ARAÇ TEKNOLOJİSİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1986,7 +1986,7 @@
   {
    "kod": "2601002122023",
    "ad": "SİSTEM ANALİZİ VE TASARIMI",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2000,7 +2000,7 @@
   {
    "kod": "2601002142023",
    "ad": "HİDROLİK PNOMATİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2014,7 +2014,7 @@
   {
    "kod": "2601002202023",
    "ad": "PROGRAMLANABİLİR DENETLEYİCİLER",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2028,7 +2028,7 @@
   {
    "kod": "2601002242024",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM-II",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2042,7 +2042,7 @@
   {
    "kod": "2601002262024",
    "ad": "ÖZEL TESİSAT",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2056,7 +2056,7 @@
   {
    "kod": "2601002282024",
    "ad": "ROBOTİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2070,7 +2070,7 @@
   {
    "kod": "2601002302024",
    "ad": "SCADA SİSTEMLERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2084,7 +2084,7 @@
   {
    "kod": "2601002322024",
    "ad": "MİKROİŞLEMCİLER VE MİKRODENETLEYİCİLER",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2098,7 +2098,7 @@
   {
    "kod": "9028002042010",
    "ad": "ÖZEL TASARIMLI MOTORLAR",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2112,7 +2112,7 @@
   {
    "kod": "9028002082010",
    "ad": "ELEKTRİK ENERJİSİ İLETİM VE DAĞITIMI",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2126,7 +2126,7 @@
   {
    "kod": "2601001282019",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-I - SEÇMELİ DERS GRUBU ELEKTRİK -I",
    "tur": "Seçmeli",
@@ -2140,7 +2140,7 @@
   {
    "kod": "2601001302024",
    "ad": "MESLEK ETİĞİ VE İŞ GÜVENLİĞİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-I - SEÇMELİ DERS GRUBU ELEKTRİK -I",
    "tur": "Seçmeli",
@@ -2154,7 +2154,7 @@
   {
    "kod": "2601001382023",
    "ad": "KALİTE GÜVENCE STANDARTLARI",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-I - SEÇMELİ DERS GRUBU ELEKTRİK -I",
    "tur": "Seçmeli",
@@ -2168,7 +2168,7 @@
   {
    "kod": "2601001402023",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-I - SEÇMELİ DERS GRUBU ELEKTRİK -I",
    "tur": "Seçmeli",
@@ -2182,7 +2182,7 @@
   {
    "kod": "2601002072020",
    "ad": "ENDÜSTRİ 4.0",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-I - SEÇMELİ DERS GRUBU ELEKTRİK -I",
    "tur": "Seçmeli",
@@ -2196,7 +2196,7 @@
   {
    "kod": "2601002432024",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-I - SEÇMELİ DERS GRUBU ELEKTRİK -I",
    "tur": "Seçmeli",
@@ -2210,7 +2210,7 @@
   {
    "kod": "2601002102023",
    "ad": "ALTERNATİF ENERJİ TEKNOLOJİLERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-II - SEÇMELİ DERS GRUBU ELEKTRİK -II",
    "tur": "Seçmeli",
@@ -2224,7 +2224,7 @@
   {
    "kod": "2601002162023",
    "ad": "ARAŞTIRMA YÖNTEM TEKNİKLERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-II - SEÇMELİ DERS GRUBU ELEKTRİK -II",
    "tur": "Seçmeli",
@@ -2238,7 +2238,7 @@
   {
    "kod": "2601002222023",
    "ad": "SIFIR ATIK YÖNETİMİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2024 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-II - SEÇMELİ DERS GRUBU ELEKTRİK -II",
    "tur": "Seçmeli",
@@ -2252,7 +2252,7 @@
   {
    "kod": "2601001032021",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2266,7 +2266,7 @@
   {
    "kod": "2601001072025",
    "ad": "MATEMATİK I",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2280,7 +2280,7 @@
   {
    "kod": "2601001212023",
    "ad": "FİZİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2294,7 +2294,7 @@
   {
    "kod": "2601001292025",
    "ad": "ÖLÇME TEKNİĞİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2308,7 +2308,7 @@
   {
    "kod": "2601001312024",
    "ad": "STAJ-I",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2322,7 +2322,7 @@
   {
    "kod": "2601001352025",
    "ad": "TEMEL ELEKTRONİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2336,7 +2336,7 @@
   {
    "kod": "2601001372020",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2350,7 +2350,7 @@
   {
    "kod": "2601001372025",
    "ad": "İŞ SAĞLIĞI GÜVENLİĞİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2364,7 +2364,7 @@
   {
    "kod": "2601001412020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2378,7 +2378,7 @@
   {
    "kod": "2601001432025",
    "ad": "DOĞRU AKIM DEVRELERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2392,7 +2392,7 @@
   {
    "kod": "9028001012010",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2406,7 +2406,7 @@
   {
    "kod": "9028001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2420,7 +2420,7 @@
   {
    "kod": "2601001182023",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2434,7 +2434,7 @@
   {
    "kod": "2601001222025",
    "ad": "ALTERNATİF AKIM DEVRELERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2448,7 +2448,7 @@
   {
    "kod": "2601001242025",
    "ad": "TRAFO VE DOĞRU AKIM MAKİNALARI",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2462,7 +2462,7 @@
   {
    "kod": "2601001262023",
    "ad": "ARIZA ANALİZİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2476,7 +2476,7 @@
   {
    "kod": "2601001262025",
    "ad": "KALİTE GÜVENCESİ VE STANDARTLARI",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2490,7 +2490,7 @@
   {
    "kod": "2601001342023",
    "ad": "ELEKTRONİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2504,7 +2504,7 @@
   {
    "kod": "2601001362023",
    "ad": "MATEMATİK II",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2518,7 +2518,7 @@
   {
    "kod": "2601001422025",
    "ad": "TESİSATA GİRİŞ",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2532,7 +2532,7 @@
   {
    "kod": "9028000922010",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2546,7 +2546,7 @@
   {
    "kod": "9028000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2560,7 +2560,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2574,7 +2574,7 @@
   {
    "kod": "2601002052025",
    "ad": "ELEKTROMEKANİK KUMANDA SİSTEMLERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2588,7 +2588,7 @@
   {
    "kod": "2601002092020",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2602,7 +2602,7 @@
   {
    "kod": "2601002132025",
    "ad": "GÜÇ ELEKTRONİĞİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2616,7 +2616,7 @@
   {
    "kod": "2601002292025",
    "ad": "ASENKRON VE SENKRON MAKİNALAR",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2630,7 +2630,7 @@
   {
    "kod": "2601002312025",
    "ad": "SAYISAL ELEKTRONİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2644,7 +2644,7 @@
   {
    "kod": "2601002332025",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM-I",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2658,7 +2658,7 @@
   {
    "kod": "2601002352025",
    "ad": "SENSÖRLER VE TRANSDUSERLER",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2672,7 +2672,7 @@
   {
    "kod": "2601002372025",
    "ad": "MESLEKİ TEKNİK YÖNTEMLER",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2686,7 +2686,7 @@
   {
    "kod": "2601002392025",
    "ad": "PROGRAMLAMAYA GİRİŞ",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2700,7 +2700,7 @@
   {
    "kod": "2601002412024",
    "ad": "STAJ-II",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2714,7 +2714,7 @@
   {
    "kod": "9028002092010",
    "ad": "ELEKTRİK ENERJİ SANTRALLERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2728,7 +2728,7 @@
   {
    "kod": "2601002022025",
    "ad": "ÖZEL TASARIMLI MOTORLAR",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2742,7 +2742,7 @@
   {
    "kod": "2601002042025",
    "ad": "PROGRAMLANABİLİR DENETLEYİCİLER",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2756,7 +2756,7 @@
   {
    "kod": "2601002062025",
    "ad": "SİSTEM ANALİZİ VE TASARIMI",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2770,7 +2770,7 @@
   {
    "kod": "2601002082025",
    "ad": "HİDROLİK PNOMATİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2784,7 +2784,7 @@
   {
    "kod": "2601002242024",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM-II",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2798,7 +2798,7 @@
   {
    "kod": "2601002262024",
    "ad": "ÖZEL TESİSAT",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2812,7 +2812,7 @@
   {
    "kod": "2601002322025",
    "ad": "MİKROİŞLEMCİLER VE MİKRODENETLEYİCİLER",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2826,7 +2826,7 @@
   {
    "kod": "9028002082010",
    "ad": "ELEKTRİK ENERJİSİ İLETİM VE DAĞITIMI",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2840,7 +2840,7 @@
   {
    "kod": "2601002072020",
    "ad": "ENDÜSTRİ 4.0",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-III-YY - SEÇMELİ DERS GRUBU ELEKTRİK -III-YY",
    "tur": "Seçmeli",
@@ -2854,7 +2854,7 @@
   {
    "kod": "2601002432024",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-III-YY - SEÇMELİ DERS GRUBU ELEKTRİK -III-YY",
    "tur": "Seçmeli",
@@ -2868,7 +2868,7 @@
   {
    "kod": "2601002452025",
    "ad": "SIFIR ATIK YÖNETİMİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-III-YY - SEÇMELİ DERS GRUBU ELEKTRİK -III-YY",
    "tur": "Seçmeli",
@@ -2882,7 +2882,7 @@
   {
    "kod": "2601002472025",
    "ad": "ALTERNATİF ENERJİ TEKNOLOJİLERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-III-YY - SEÇMELİ DERS GRUBU ELEKTRİK -III-YY",
    "tur": "Seçmeli",
@@ -2896,7 +2896,7 @@
   {
    "kod": "2601002102025",
    "ad": "ROBOTİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-IV-YY - SEÇMELİ DERS GRUBU ELEKTRİK-IV-YY",
    "tur": "Seçmeli",
@@ -2910,7 +2910,7 @@
   {
    "kod": "2601002142025",
    "ad": "MESLEKİ İNGİLİZCE",
-   "mufredat": "Elektrik",
+   "mufredat": "2025 Yılı Müfredatı (Elektrik)",
    "yariyil": null,
    "grup": "SEÇ-ELK-IV-YY - SEÇMELİ DERS GRUBU ELEKTRİK-IV-YY",
    "tur": "Seçmeli",
@@ -2924,7 +2924,7 @@
   {
    "kod": "2601001032021",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2938,7 +2938,7 @@
   {
    "kod": "2601001072025",
    "ad": "MATEMATİK I",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2952,7 +2952,7 @@
   {
    "kod": "2601001292026",
    "ad": "ÖLÇME TEKNİĞİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2966,7 +2966,7 @@
   {
    "kod": "2601001352025",
    "ad": "TEMEL ELEKTRONİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2980,7 +2980,7 @@
   {
    "kod": "2601001372025",
    "ad": "İŞ SAĞLIĞI GÜVENLİĞİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2994,7 +2994,7 @@
   {
    "kod": "2601001412020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3008,7 +3008,7 @@
   {
    "kod": "2601001432026",
    "ad": "DOĞRU AKIM DEVRELERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3022,7 +3022,7 @@
   {
    "kod": "2601001452026",
    "ad": "SAYISAL ELEKTRONİK",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3036,7 +3036,7 @@
   {
    "kod": "2601001472026",
    "ad": "TESİSATA GİRİŞ",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3050,7 +3050,7 @@
   {
    "kod": "9028001012010",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3064,7 +3064,7 @@
   {
    "kod": "9028001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3078,7 +3078,7 @@
   {
    "kod": "2601001182023",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3092,7 +3092,7 @@
   {
    "kod": "2601001222026",
    "ad": "ALTERNATİF AKIM DEVRELERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3106,7 +3106,7 @@
   {
    "kod": "2601001242026",
    "ad": "TRAFO VE DOĞRU AKIM MAKİNALARI",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3120,7 +3120,7 @@
   {
    "kod": "2601001362023",
    "ad": "MATEMATİK II",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3134,7 +3134,7 @@
   {
    "kod": "2601001442026",
    "ad": "ELEKTROMEKANİK KUMANDA SİSTEMLERİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3148,7 +3148,7 @@
   {
    "kod": "2601001462026",
    "ad": "ELEKTRİK ENERJİSİ ÜRETİM, İLETİM VE DAĞITIMI",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3162,7 +3162,7 @@
   {
    "kod": "2601001482026",
    "ad": "ROBOTİK PROGRAMLAMA",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3176,7 +3176,7 @@
   {
    "kod": "9028000922010",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3190,7 +3190,7 @@
   {
    "kod": "9028000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3204,7 +3204,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3218,7 +3218,7 @@
   {
    "kod": "2601002032026",
    "ad": "GÜÇ ELEKTRONİĞİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3232,7 +3232,7 @@
   {
    "kod": "2601002292026",
    "ad": "ASENKRON VE SENKRON MAKİNALAR",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3246,7 +3246,7 @@
   {
    "kod": "2601002352026",
    "ad": "SENSÖRLER VE TRANSDUSERLER",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3260,7 +3260,7 @@
   {
    "kod": "2601002492026",
    "ad": "ÖZEL TASARIMLI MOTORLAR",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3274,7 +3274,7 @@
   {
    "kod": "2601002512026",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3288,7 +3288,7 @@
   {
    "kod": "2601002532026",
    "ad": "PROGRAMLANABİLİR DENETLEYİCİLER",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3302,7 +3302,7 @@
   {
    "kod": "2601002552026",
    "ad": "ARIZA ANALİZİ",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3316,7 +3316,7 @@
   {
    "kod": "2601002572026",
    "ad": "MİKROİŞLEMCİLER VE MİKRODENETLEYECİLER",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3330,7 +3330,7 @@
   {
    "kod": "İŞME222",
    "ad": "İŞLETMEDE MESLEKİ EĞİTİM",
-   "mufredat": "Elektrik",
+   "mufredat": "2026 Yılı Ana Müfredatı (Elektrik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",

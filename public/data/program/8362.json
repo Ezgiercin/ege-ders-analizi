@@ -12,7 +12,7 @@
   {
    "kod": "2804001012022",
    "ad": "TÜRK DİLİ I",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "2804001022022",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "2804001032022",
    "ad": "YABANCI DİL I",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "2804001052022",
    "ad": "BİLİŞİM TEKNOLOJİLERİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "2804001072022",
    "ad": "TIBBİ FİZİK",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "2804001092022",
    "ad": "GENEL ANATOMİ -İŞİTME,DENGE VE KONUŞMA ORGANLARI ANATOMİSİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "2804001112022",
    "ad": "ODYOLOJİYE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "2804001132023",
    "ad": "PSİKOLOJİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "2804001152022",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "2804000922022",
    "ad": "TÜRK DİLİ II",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "2804000942022",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "2804000962022",
    "ad": "YABANCI DİL II",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "2804001002022",
    "ad": "FİZYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "2804001042022",
    "ad": "SES FİZİĞİ VE AKUSTİK PRENSİPLER",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "2804001062022",
    "ad": "KULAK BURUN BOĞAZ HASTALIKLARI",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "2804001082022",
    "ad": "KONUŞMA BİLİMİNE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "2804001102022",
    "ad": "GENETİK VE İŞİTME KAYBI",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "2804001122022",
    "ad": "BİYOİSTATİSTİK",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "2804002012022",
    "ad": "ENSTRÜMANTASYON VE KALİBRASYON",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "2804002032022",
    "ad": "KONUŞMA AKUSTİĞİ VE FONETİK",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "2804002072022",
    "ad": "NORMAL İŞİTENLERDE VE İŞİTME KAYIPLILARDA DİL VE KONUŞMA GELİŞİMİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "2804002092022",
    "ad": "TEMEL ODYOLOJİK TESTLER",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "2804002112022",
    "ad": "ODYOLOJİDE TARAMA YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "2804002272025",
    "ad": "TEMEL OTOLOJİ VE NÖROOTOLOJİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -376,7 +376,7 @@
   {
    "kod": "2804002002022",
    "ad": "PEDİATRİK ODYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "2804002022022",
    "ad": "VESTİBÜLER SİSTEM HASTALIKLARI",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "2804002042022",
    "ad": "TANISAL ODYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "2804002062022",
    "ad": "AMPLİFİKASYON SİSTEMLERİ VE İŞİTME CİHAZLARI",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "2804002082022",
    "ad": "ELEKTROFİZYOLOJİK TESTLER I",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "2804002102022",
    "ad": "TEMEL KLİNİK UYGULAMA I",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -474,7 +474,7 @@
   {
    "kod": "2804003012022",
    "ad": "VESTİBÜLER PATOLOJİLERDE TANILAMA VE DEĞERLENDİRME",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "2804003032022",
    "ad": "İŞİTSEL REHABİLİTASYON I",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "2804003052022",
    "ad": "İŞİTSEL İŞLEMLEME BOZUKLUKLARI",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "2804003072022",
    "ad": "TİNNİTUS VE HİPERAKUZİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "2804003092022",
    "ad": "İŞİTSEL İMPLANTLAR",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "2804003112022",
    "ad": "GERİATRİK ODYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -572,7 +572,7 @@
   {
    "kod": "2804003002022",
    "ad": "VESTİBÜLER REHABİLİTASYON",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "2804003022022",
    "ad": "İŞİTSEL REHABİLİTASYON II",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "2804003042022",
    "ad": "ELEKTROFİZYOLOJİK TESTLER II",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "2804003062022",
    "ad": "SAĞLIK BİLİMLERİNDE ETİK",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -628,7 +628,7 @@
   {
    "kod": "2804003082022",
    "ad": "ENDÜSTRİYEL ODYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "2804003102022",
    "ad": "TEMEL KLİNİK UYGULAMA II",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -670,7 +670,7 @@
   {
    "kod": "2804004012022",
    "ad": "ODYOLOJİDE SEMİNER I",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "2804004032022",
    "ad": "ODYOLOJİDE ELEKTROFİZYOLOJİ UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -698,7 +698,7 @@
   {
    "kod": "2804004052022",
    "ad": "PEDİATRİK ODYOLOJİ UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -712,7 +712,7 @@
   {
    "kod": "2804004072022",
    "ad": "ODYOLOJİDE KLİNİK UYGULAMA I",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -726,7 +726,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -740,7 +740,7 @@
   {
    "kod": "2804004002022",
    "ad": "ODYOLOJİDE SEMİNER II",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -754,7 +754,7 @@
   {
    "kod": "2804004022022",
    "ad": "İŞİTME CİHAZLARI VE İMPLANTLAR UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "2804004042022",
    "ad": "VESTİBÜLER SİSTEM UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -782,7 +782,7 @@
   {
    "kod": "2804004062022",
    "ad": "ODYOLOJİDE KLİNİK UYGULAMA II",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -796,7 +796,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -810,7 +810,7 @@
   {
    "kod": "2804002152022",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİDERS.3.YY(a) - SEÇMELİ DERS GRUBU 3.YARIYIL(a)",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "2804002172022",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİDERS.3.YY(a) - SEÇMELİ DERS GRUBU 3.YARIYIL(a)",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "2804002192022",
    "ad": "ETKİLİ İLETİŞİM",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİDERS.3.YY(a) - SEÇMELİ DERS GRUBU 3.YARIYIL(a)",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "2804002122022",
    "ad": "İŞARET DİLİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.3-YY(b) - SEÇMELİ DERS GRUBU 3-YARIYIL(b)",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "2804002142022",
    "ad": "BİLİNÇLİ FARKINDALIK VE YOGA",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.3-YY(b) - SEÇMELİ DERS GRUBU 3-YARIYIL(b)",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "2804002162022",
    "ad": "BEDEN DİLİ VE DİKSİYON",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.3-YY(b) - SEÇMELİ DERS GRUBU 3-YARIYIL(b)",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.3-YY(b) - SEÇMELİ DERS GRUBU 3-YARIYIL(b)",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "2804002212022",
    "ad": "BİYOFİZİK",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.4YY(a) - SEÇMELİ DERS GRUBU 4-YARIYIL(a)",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "2804002232022",
    "ad": "İSTATİSTİK PROGRAMLARI",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.4YY(a) - SEÇMELİ DERS GRUBU 4-YARIYIL(a)",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "2804002252022",
    "ad": "SAĞLIK BİLİMLERİNDE BİLİMSEL ARAŞTIRMA TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.4YY(a) - SEÇMELİ DERS GRUBU 4-YARIYIL(a)",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.4YY(a) - SEÇMELİ DERS GRUBU 4-YARIYIL(a)",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "2804002182022",
    "ad": "İŞİTSEL ALGI",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.4YY(b) - SEÇMELİ DERS GRUBU 4-YARIYIL(b)",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "2804002202022",
    "ad": "ODYOLOJİDE ICF UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.4YY(b) - SEÇMELİ DERS GRUBU 4-YARIYIL(b)",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "2804002222022",
    "ad": "ODYOLOJİK TERMİNOLOJİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.4YY(b) - SEÇMELİ DERS GRUBU 4-YARIYIL(b)",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.4YY(b) - SEÇMELİ DERS GRUBU 4-YARIYIL(b)",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "2804003132022",
    "ad": "İŞİTME KAYIPLI ÇOCUKLARDA ERKEN OKURYAZARLIK",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.5YY - SEÇMELİ DERS GRUBU 5-YARIYIL",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "2804003152022",
    "ad": "EK ENGELİ OLAN İŞİTME KAYIPLILARA YAKLAŞIM",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.5YY - SEÇMELİ DERS GRUBU 5-YARIYIL",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "2804003172022",
    "ad": "BİLİMSEL MAKALE OKUMA",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.5YY - SEÇMELİ DERS GRUBU 5-YARIYIL",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "2804003192024",
    "ad": "ÜREME SAĞLIĞI",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.5YY - SEÇMELİ DERS GRUBU 5-YARIYIL",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "2804003212024",
    "ad": "YOGA VE NEFES",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.5YY - SEÇMELİ DERS GRUBU 5-YARIYIL",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "2804003232024",
    "ad": "GÖRSEL SANATLAR",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.5YY - SEÇMELİ DERS GRUBU 5-YARIYIL",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "2804003252024",
    "ad": "SAĞLIKLI YAŞAM VE EGZERSİZ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.5YY - SEÇMELİ DERS GRUBU 5-YARIYIL",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "2804003272024",
    "ad": "SOSYAL SORUMLULUK",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.5YY - SEÇMELİ DERS GRUBU 5-YARIYIL",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "2804003292024",
    "ad": "BAĞIMLILIKLA MÜCADELE ÇALIŞMALARI",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.5YY - SEÇMELİ DERS GRUBU 5-YARIYIL",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.5YY - SEÇMELİ DERS GRUBU 5-YARIYIL",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.5YY - SEÇMELİ DERS GRUBU 5-YARIYIL",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "2804003122022",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.6YY - SEÇMELİ DERS GRUBU 6-YARIYIL",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "2804003142022",
    "ad": "İLETİŞİM BOZUKLUKLARINDA DANIŞMANLIK",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.6YY - SEÇMELİ DERS GRUBU 6-YARIYIL",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "2804003162022",
    "ad": "ALTERNATİF İLETİŞİM YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.6YY - SEÇMELİ DERS GRUBU 6-YARIYIL",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "2804003182024",
    "ad": "BEDEN DİLİ VE İLETİŞİM",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.6YY - SEÇMELİ DERS GRUBU 6-YARIYIL",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "2804003202024",
    "ad": "SOSYAL SORUMLULUK",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.6YY - SEÇMELİ DERS GRUBU 6-YARIYIL",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "2804003222024",
    "ad": "DAVRANIŞ BİLİMLERİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.6YY - SEÇMELİ DERS GRUBU 6-YARIYIL",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "2804003242024",
    "ad": "SAĞLIKLI YAŞAM VE EGZERSİZ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.6YY - SEÇMELİ DERS GRUBU 6-YARIYIL",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.6YY - SEÇMELİ DERS GRUBU 6-YARIYIL",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "2804004092022",
    "ad": "VAKALAR İLE ODYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.7YY - SEÇMELİ DERS GRUBU 7-YARIYIL",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "2804004112022",
    "ad": "DESTEK EĞİTİM PROGRAMLARI İÇİN BİREYSEL EĞİTİM PROGRAMI HAZIRLAMA",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.7YY - SEÇMELİ DERS GRUBU 7-YARIYIL",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "2804004132022",
    "ad": "ODYOLOJİ SEKTÖRÜNDE TEMEL KAVRAMLAR VE PAZARLAMA",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.7YY - SEÇMELİ DERS GRUBU 7-YARIYIL",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.7YY - SEÇMELİ DERS GRUBU 7-YARIYIL",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "2804004082022",
    "ad": "ODYOLOGLAR İÇİN FARMAKOLOJİ",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.8YY - SEÇMELİ DERS GRUBU 8-YARIYIL",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "2804004102022",
    "ad": "İŞİME BOZUKLUKLARINDA MATERYAL VE PROGRAM HAZIRLAMA",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.8YY - SEÇMELİ DERS GRUBU 8-YARIYIL",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "2804004122022",
    "ad": "ODYOLOJİDE ALGI VE BEYİN ÇALIŞMALARI",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.8YY - SEÇMELİ DERS GRUBU 8-YARIYIL",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": null,
+   "mufredat": "2022 Müfredat (Odyoloji)",
    "yariyil": null,
    "grup": "SEÇMELİ-DERS.8YY - SEÇMELİ DERS GRUBU 8-YARIYIL",
    "tur": "Seçmeli",

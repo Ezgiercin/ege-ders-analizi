@@ -12,7 +12,7 @@
   {
    "kod": "2603001012021",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "2603001032021",
    "ad": "STAJ",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "2603001052020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "2603001072020",
    "ad": "FİZİK",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "2603001092020",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "2603001112020",
    "ad": "MATEMATİK",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "2603001132021",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "2603001152021",
    "ad": "TEMEL İMALAT İŞLEMLERİ",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9027001012010",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "9027001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "9027001092010",
    "ad": "TEKNİK RESİM",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "2603001022017",
    "ad": "MAKİNA MESLEK RESMİ",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "2603001042017",
    "ad": "MALZEME TEKNOLOJİSİ",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "2603001082021",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "9027000922010",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "9027000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "9027001062010",
    "ad": "MESLEKİ MATEMATİK",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "9027001082010",
    "ad": "MUKAVEMET",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "9027001122010",
    "ad": "İMALAT İŞLEMLERİ-I",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "2603002052020",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "2603002092020",
    "ad": "BİLGİSAYAR DESTEKLİ ÜRETİM-I",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "8914002032010",
    "ad": "TERMODİNAMİK",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "9027002012010",
    "ad": "MAKİNE ELEMANLARI",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "9027002052010",
    "ad": "İMALAT İŞLEMLERİ- II",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "9027002072010",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM -I",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "2603002002020",
    "ad": "MEKANİK BAKIM ONARIM",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "2603002042020",
    "ad": "HİDROLİK PNÖMATİK",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "9027002022010",
    "ad": "SİSTEM ANALİZİ VE TASARIMI",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "9027002062010",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM -II",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "9027002082010",
    "ad": "BİLGİSAYAR DESTEKLİ ÜRETİM -II",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "9027002102010",
    "ad": "ALIŞILMAMIŞ ÜRETİM YÖNTEMLERİ",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "2603002012019",
    "ad": "YENİLENEBLİR ENERJİ KAYNAKLARI",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "SEÇ-II-MAKİNE-2015 - SEÇ-II-MAKİNE-İKMEP-2015",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "2603002032020",
    "ad": "MESLEK ETİĞİ",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "SEÇ-II-MAKİNE-2015 - SEÇ-II-MAKİNE-İKMEP-2015",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "2603002172022",
    "ad": "MAKİNE TASARIMI",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "SEÇ-II-MAKİNE-2015 - SEÇ-II-MAKİNE-İKMEP-2015",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "2603002212022",
    "ad": "MESLEKİ YABANCI DİL-I",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "SEÇ-II-MAKİNE-2015 - SEÇ-II-MAKİNE-İKMEP-2015",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9027002112010",
    "ad": "CNC TORNA TEKNOLOJİSİ",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "SEÇ-II-MAKİNE-2015 - SEÇ-II-MAKİNE-İKMEP-2015",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9027002132010",
    "ad": "KAYNAK TEKNOLOJİSİ",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "SEÇ-II-MAKİNE-2015 - SEÇ-II-MAKİNE-İKMEP-2015",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "9027002152010",
    "ad": "İLETİŞİM",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "SEÇ-II-MAKİNE-2015 - SEÇ-II-MAKİNE-İKMEP-2015",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "9027002192014",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "SEÇ-II-MAKİNE-2015 - SEÇ-II-MAKİNE-İKMEP-2015",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "2603001062017",
    "ad": "CNC FREZE TEKNOLOJİSİ",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "SEÇ-III-MAKİNE-2015 - SEÇ-III-MAKİNE-İKMEP-2015",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "2603002022019",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "SEÇ-III-MAKİNE-2015 - SEÇ-III-MAKİNE-İKMEP-2015",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "2603002082020",
    "ad": "ENDÜSTRİ 4.0",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "SEÇ-III-MAKİNE-2015 - SEÇ-III-MAKİNE-İKMEP-2015",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "9027002142010",
    "ad": "ÖLÇME KONTROL",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "SEÇ-III-MAKİNE-2015 - SEÇ-III-MAKİNE-İKMEP-2015",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "9027002162015",
    "ad": "KALİTE GÜVENCE SİSTEMİ VE STANDARTLARI",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "SEÇ-III-MAKİNE-2015 - SEÇ-III-MAKİNE-İKMEP-2015",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "9027002182014",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "SEÇ-III-MAKİNE-2015 - SEÇ-III-MAKİNE-İKMEP-2015",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "9027002202014",
    "ad": "MESLEKİ YABANCI DİL II",
-   "mufredat": "Makine",
+   "mufredat": "2019 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "SEÇ-III-MAKİNE-2015 - SEÇ-III-MAKİNE-İKMEP-2015",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "2603001012021",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "2603001032021",
    "ad": "STAJ",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "2603001052020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -698,7 +698,7 @@
   {
    "kod": "2603001072020",
    "ad": "FİZİK",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -712,7 +712,7 @@
   {
    "kod": "2603001092020",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -726,7 +726,7 @@
   {
    "kod": "2603001112020",
    "ad": "MATEMATİK",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -740,7 +740,7 @@
   {
    "kod": "2603001132021",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -754,7 +754,7 @@
   {
    "kod": "2603001152021",
    "ad": "TEMEL İMALAT İŞLEMLERİ",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "9027001012010",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -782,7 +782,7 @@
   {
    "kod": "9027001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -796,7 +796,7 @@
   {
    "kod": "9027001092010",
    "ad": "TEKNİK RESİM",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -810,7 +810,7 @@
   {
    "kod": "2603001022017",
    "ad": "MAKİNA MESLEK RESMİ",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -824,7 +824,7 @@
   {
    "kod": "2603001042017",
    "ad": "MALZEME TEKNOLOJİSİ",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -838,7 +838,7 @@
   {
    "kod": "2603001082023",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -852,7 +852,7 @@
   {
    "kod": "9027000922010",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -866,7 +866,7 @@
   {
    "kod": "9027000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -880,7 +880,7 @@
   {
    "kod": "9027001062010",
    "ad": "MESLEKİ MATEMATİK",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -894,7 +894,7 @@
   {
    "kod": "9027001082010",
    "ad": "MUKAVEMET",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -908,7 +908,7 @@
   {
    "kod": "9027001122010",
    "ad": "İMALAT İŞLEMLERİ-I",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -922,7 +922,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -936,7 +936,7 @@
   {
    "kod": "2603002052020",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -950,7 +950,7 @@
   {
    "kod": "2603002092020",
    "ad": "BİLGİSAYAR DESTEKLİ ÜRETİM-I",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -964,7 +964,7 @@
   {
    "kod": "8914002032010",
    "ad": "TERMODİNAMİK",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -978,7 +978,7 @@
   {
    "kod": "9027002012010",
    "ad": "MAKİNE ELEMANLARI",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -992,7 +992,7 @@
   {
    "kod": "9027002052010",
    "ad": "İMALAT İŞLEMLERİ- II",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1006,7 +1006,7 @@
   {
    "kod": "9027002072010",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM -I",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1020,7 +1020,7 @@
   {
    "kod": "2603002002020",
    "ad": "MEKANİK BAKIM ONARIM",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1034,7 +1034,7 @@
   {
    "kod": "2603002042020",
    "ad": "HİDROLİK PNÖMATİK",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1048,7 +1048,7 @@
   {
    "kod": "9027002022010",
    "ad": "SİSTEM ANALİZİ VE TASARIMI",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1062,7 +1062,7 @@
   {
    "kod": "9027002062010",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM -II",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1076,7 +1076,7 @@
   {
    "kod": "9027002082010",
    "ad": "BİLGİSAYAR DESTEKLİ ÜRETİM -II",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1090,7 +1090,7 @@
   {
    "kod": "9027002102010",
    "ad": "ALIŞILMAMIŞ ÜRETİM YÖNTEMLERİ",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1104,7 +1104,7 @@
   {
    "kod": "2603002012019",
    "ad": "YENİLENEBLİR ENERJİ KAYNAKLARI",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.01 - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "2603002032020",
    "ad": "MESLEK ETİĞİ",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.01 - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "2603002172022",
    "ad": "MAKİNE TASARIMI",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.01 - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "2603002212022",
    "ad": "MESLEKİ YABANCI DİL-I",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.01 - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "9027002112010",
    "ad": "CNC TORNA TEKNOLOJİSİ",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.01 - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "9027002132010",
    "ad": "KAYNAK TEKNOLOJİSİ",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.01 - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "9027002152010",
    "ad": "İLETİŞİM",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.01 - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "9027002192014",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.01 - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "2603001062017",
    "ad": "CNC FREZE TEKNOLOJİSİ",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.02 - SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "2603002022019",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.02 - SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "2603002082020",
    "ad": "ENDÜSTRİ 4.0",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.02 - SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "9027002142010",
    "ad": "ÖLÇME KONTROL",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.02 - SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "9027002162015",
    "ad": "KALİTE GÜVENCE SİSTEMİ VE STANDARTLARI",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.02 - SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "9027002182014",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.02 - SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "9027002202014",
    "ad": "MESLEKİ YABANCI DİL II",
-   "mufredat": "Makine",
+   "mufredat": "2023 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.02 - SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "2603001032024",
    "ad": "STAJ-I",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1328,7 +1328,7 @@
   {
    "kod": "2603001052020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1342,7 +1342,7 @@
   {
    "kod": "2603001072020",
    "ad": "FİZİK",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1356,7 +1356,7 @@
   {
    "kod": "2603001092020",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1370,7 +1370,7 @@
   {
    "kod": "2603001112020",
    "ad": "MATEMATİK",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1384,7 +1384,7 @@
   {
    "kod": "2603001132021",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1398,7 +1398,7 @@
   {
    "kod": "2603001152021",
    "ad": "TEMEL İMALAT İŞLEMLERİ",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1412,7 +1412,7 @@
   {
    "kod": "2603001172024",
    "ad": "TEKNİK RESİM",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1426,7 +1426,7 @@
   {
    "kod": "2603001192024",
    "ad": "ÖLÇME KONTROL",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1440,7 +1440,7 @@
   {
    "kod": "9027001012010",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1454,7 +1454,7 @@
   {
    "kod": "9027001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1468,7 +1468,7 @@
   {
    "kod": "2603001082023",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1482,7 +1482,7 @@
   {
    "kod": "2603001102024",
    "ad": "MAKİNA MESLEK RESMİ",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1496,7 +1496,7 @@
   {
    "kod": "2603001122024",
    "ad": "MALZEME TEKNOLOJİSİ",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1510,7 +1510,7 @@
   {
    "kod": "2603001142024",
    "ad": "MESLEKİ MATEMATİK",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1524,7 +1524,7 @@
   {
    "kod": "2603001162024",
    "ad": "MUKAVEMET",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1538,7 +1538,7 @@
   {
    "kod": "2603001182024",
    "ad": "İMALAT İŞLEMLERİ-I",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1552,7 +1552,7 @@
   {
    "kod": "2603001202024",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM-I",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1566,7 +1566,7 @@
   {
    "kod": "9027000922010",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1580,7 +1580,7 @@
   {
    "kod": "9027000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1594,7 +1594,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1608,7 +1608,7 @@
   {
    "kod": "2603002052020",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1622,7 +1622,7 @@
   {
    "kod": "2603002072024",
    "ad": "STAJ-II",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1636,7 +1636,7 @@
   {
    "kod": "2603002092020",
    "ad": "BİLGİSAYAR DESTEKLİ ÜRETİM-I",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1650,7 +1650,7 @@
   {
    "kod": "2603002112024",
    "ad": "TERMODİNAMİK",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1664,7 +1664,7 @@
   {
    "kod": "2603002132024",
    "ad": "MAKİNE ELEMANLARI",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1678,7 +1678,7 @@
   {
    "kod": "2603002152024",
    "ad": "CNC TORNA TEKNOLOJİSİ",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1692,7 +1692,7 @@
   {
    "kod": "2603002192024",
    "ad": "KAYNAK TEKNOLOJİSİ",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1706,7 +1706,7 @@
   {
    "kod": "2603002232024",
    "ad": "İMALAT İŞLEMLERİ-II",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1720,7 +1720,7 @@
   {
    "kod": "2603002272024",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM-II",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1734,7 +1734,7 @@
   {
    "kod": "2603002002020",
    "ad": "MEKANİK BAKIM ONARIM",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1748,7 +1748,7 @@
   {
    "kod": "2603002042020",
    "ad": "HİDROLİK PNÖMATİK",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1762,7 +1762,7 @@
   {
    "kod": "2603002122024",
    "ad": "SİSTEM ANALİZİ VE TASARIMI",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1776,7 +1776,7 @@
   {
    "kod": "2603002142024",
    "ad": "ALIŞILMAMIŞ ÜRETİM YÖNTEMLERİ",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1790,7 +1790,7 @@
   {
    "kod": "2603002162024",
    "ad": "YENİLENEBİLİR ENERJİ KAYNAKLARI",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1804,7 +1804,7 @@
   {
    "kod": "2603002182024",
    "ad": "CNC FREZE TEKNOLOJİSİ",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1818,7 +1818,7 @@
   {
    "kod": "2603002282024",
    "ad": "BİLGİSAYAR DESTEKLİ ÜRETİM-II",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1832,7 +1832,7 @@
   {
    "kod": "2603002202024",
    "ad": "MESLEK ETİĞİ VE İŞ GÜVENLİĞİ",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.01 - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -1846,7 +1846,7 @@
   {
    "kod": "2603002222024",
    "ad": "MESLEKİ YABANCI DİL",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.01 - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -1860,7 +1860,7 @@
   {
    "kod": "2603002242024",
    "ad": "KALİTE GÜVENCE SİSTEMİ VE STANDARTLARI",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.01 - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -1874,7 +1874,7 @@
   {
    "kod": "2603002262024",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Makine",
+   "mufredat": "2024 Yılı Ana Müfredatı (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.01 - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -1888,7 +1888,7 @@
   {
    "kod": "2603001032024",
    "ad": "STAJ-I",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1902,7 +1902,7 @@
   {
    "kod": "2603001052020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1916,7 +1916,7 @@
   {
    "kod": "2603001072020",
    "ad": "FİZİK",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1930,7 +1930,7 @@
   {
    "kod": "2603001092020",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1944,7 +1944,7 @@
   {
    "kod": "2603001112025",
    "ad": "MATEMATİK",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1958,7 +1958,7 @@
   {
    "kod": "2603001132021",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1972,7 +1972,7 @@
   {
    "kod": "2603001132025",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1986,7 +1986,7 @@
   {
    "kod": "2603001152025",
    "ad": "TEMEL İMALAT İŞLEMLERİ",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2000,7 +2000,7 @@
   {
    "kod": "2603001172025",
    "ad": "TEKNİK RESİM",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2014,7 +2014,7 @@
   {
    "kod": "2603001192025",
    "ad": "ÖLÇME KONTROL",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2028,7 +2028,7 @@
   {
    "kod": "9027001012010",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2042,7 +2042,7 @@
   {
    "kod": "9027001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2056,7 +2056,7 @@
   {
    "kod": "2603001082023",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2070,7 +2070,7 @@
   {
    "kod": "2603001162025",
    "ad": "MUKAVEMET",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2084,7 +2084,7 @@
   {
    "kod": "2603001182025",
    "ad": "İMALAT İŞLEMLERİ",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2098,7 +2098,7 @@
   {
    "kod": "2603001202025",
    "ad": "(CAD-CAM)-1",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2112,7 +2112,7 @@
   {
    "kod": "2603001222025",
    "ad": "MAKİNE MESLEK RESMİ",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2126,7 +2126,7 @@
   {
    "kod": "2603001242025",
    "ad": "MALZEME TEKNOLOJİSİ",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2140,7 +2140,7 @@
   {
    "kod": "2603001262025",
    "ad": "ALIŞILMAMIŞ ÜRETİM YÖNTEMLERİ",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2154,7 +2154,7 @@
   {
    "kod": "9027000922010",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2168,7 +2168,7 @@
   {
    "kod": "9027000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2182,7 +2182,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2196,7 +2196,7 @@
   {
    "kod": "2603002052020",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2210,7 +2210,7 @@
   {
    "kod": "2603002072024",
    "ad": "STAJ-II",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2224,7 +2224,7 @@
   {
    "kod": "2603002072025",
    "ad": "MEKANİK BAKIM ONARIM",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2238,7 +2238,7 @@
   {
    "kod": "2603002092025",
    "ad": "HİDROLİK PNÖMATİK",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2252,7 +2252,7 @@
   {
    "kod": "2603002112025",
    "ad": "MAKİNE ELEMANLARI",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2266,7 +2266,7 @@
   {
    "kod": "2603002132025",
    "ad": "KAYNAK TEKNOLOJİSİ",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2280,7 +2280,7 @@
   {
    "kod": "2603002152025",
    "ad": "(CAD-CAM)-II",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2294,7 +2294,7 @@
   {
    "kod": "2603002172025",
    "ad": "CNC TEKNOLOJİLERİ",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2308,7 +2308,7 @@
   {
    "kod": "2603002192025",
    "ad": "SİSTEM ANALİZİ VE TASARIMI",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2322,7 +2322,7 @@
   {
    "kod": "2603002212025",
    "ad": "KALİTE GÜVENCE VE STANDARTLARI",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2336,7 +2336,7 @@
   {
    "kod": "2603002002025",
    "ad": "İŞLETMEDE MESLEKİ EĞİTİM",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2350,7 +2350,7 @@
   {
    "kod": "2603001302025",
    "ad": "ALTERNATİF ENERJİ KAYNAKLARI",
-   "mufredat": "Makine",
+   "mufredat": "2025 Yılı Müfredatı(Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.2 - SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -2364,7 +2364,7 @@
   {
    "kod": "2603001052020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2378,7 +2378,7 @@
   {
    "kod": "2603001072020",
    "ad": "FİZİK",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2392,7 +2392,7 @@
   {
    "kod": "2603001092020",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2406,7 +2406,7 @@
   {
    "kod": "2603001112025",
    "ad": "MATEMATİK",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2420,7 +2420,7 @@
   {
    "kod": "2603001132021",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2434,7 +2434,7 @@
   {
    "kod": "2603001132025",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2448,7 +2448,7 @@
   {
    "kod": "2603001152025",
    "ad": "TEMEL İMALAT İŞLEMLERİ",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2462,7 +2462,7 @@
   {
    "kod": "2603001172025",
    "ad": "TEKNİK RESİM",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2476,7 +2476,7 @@
   {
    "kod": "2603001192025",
    "ad": "ÖLÇME KONTROL",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2490,7 +2490,7 @@
   {
    "kod": "9027001012010",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2504,7 +2504,7 @@
   {
    "kod": "9027001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2518,7 +2518,7 @@
   {
    "kod": "2603001082023",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2532,7 +2532,7 @@
   {
    "kod": "2603001162025",
    "ad": "MUKAVEMET",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2546,7 +2546,7 @@
   {
    "kod": "2603001182025",
    "ad": "İMALAT İŞLEMLERİ",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2560,7 +2560,7 @@
   {
    "kod": "2603001202025",
    "ad": "(CAD-CAM)-1",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2574,7 +2574,7 @@
   {
    "kod": "2603001222025",
    "ad": "MAKİNE MESLEK RESMİ",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2588,7 +2588,7 @@
   {
    "kod": "2603001242025",
    "ad": "MALZEME TEKNOLOJİSİ",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2602,7 +2602,7 @@
   {
    "kod": "2603001262025",
    "ad": "ALIŞILMAMIŞ ÜRETİM YÖNTEMLERİ",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2616,7 +2616,7 @@
   {
    "kod": "9027000922010",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2630,7 +2630,7 @@
   {
    "kod": "9027000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2644,7 +2644,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2658,7 +2658,7 @@
   {
    "kod": "2603002052020",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2672,7 +2672,7 @@
   {
    "kod": "2603002072025",
    "ad": "MEKANİK BAKIM ONARIM",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2686,7 +2686,7 @@
   {
    "kod": "2603002092025",
    "ad": "HİDROLİK PNÖMATİK",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2700,7 +2700,7 @@
   {
    "kod": "2603002112025",
    "ad": "MAKİNE ELEMANLARI",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2714,7 +2714,7 @@
   {
    "kod": "2603002132025",
    "ad": "KAYNAK TEKNOLOJİSİ",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2728,7 +2728,7 @@
   {
    "kod": "2603002152025",
    "ad": "(CAD-CAM)-II",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2742,7 +2742,7 @@
   {
    "kod": "2603002172025",
    "ad": "CNC TEKNOLOJİLERİ",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2756,7 +2756,7 @@
   {
    "kod": "2603002192025",
    "ad": "SİSTEM ANALİZİ VE TASARIMI",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2770,7 +2770,7 @@
   {
    "kod": "2603002212025",
    "ad": "KALİTE GÜVENCE VE STANDARTLARI",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2784,7 +2784,7 @@
   {
    "kod": "2603002002025",
    "ad": "İŞLETMEDE MESLEKİ EĞİTİM",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2798,7 +2798,7 @@
   {
    "kod": "2603001302025",
    "ad": "ALTERNATİF ENERJİ KAYNAKLARI",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.2 - SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -2812,7 +2812,7 @@
   {
    "kod": "2603002232025",
    "ad": "SIFIR ATIK VE YÖNETİMİ",
-   "mufredat": "Makine",
+   "mufredat": "2026 Yılı Ana Müfredat (Makine)",
    "yariyil": null,
    "grup": "MAK.SEC.3 - SEÇMELİ DERS GRUBU III",
    "tur": "Seçmeli",

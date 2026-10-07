@@ -12,7 +12,7 @@
   {
    "kod": "9404005012019",
    "ad": "Öğretım Teknolojısınde Kuram",
-   "mufredat": null,
+   "mufredat": "2019 Bilgisayar ve Öğretim Teknolojileri Eğitimi Tezli Yüksek Lisans Programı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9404005032021",
    "ad": "Bılımsel Araştırma Teknıklerı ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2019 Bilgisayar ve Öğretim Teknolojileri Eğitimi Tezli Yüksek Lisans Programı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "94SE040052023",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2019 Bilgisayar ve Öğretim Teknolojileri Eğitimi Tezli Yüksek Lisans Programı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2019 Bilgisayar ve Öğretim Teknolojileri Eğitimi Tezli Yüksek Lisans Programı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2019 Bilgisayar ve Öğretim Teknolojileri Eğitimi Tezli Yüksek Lisans Programı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2019 Bilgisayar ve Öğretim Teknolojileri Eğitimi Tezli Yüksek Lisans Programı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2019 Bilgisayar ve Öğretim Teknolojileri Eğitimi Tezli Yüksek Lisans Programı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "9404005052019",
    "ad": "İnsan-Bılgısayar Etkıleşımı",
-   "mufredat": null,
+   "mufredat": "2019 Bilgisayar ve Öğretim Teknolojileri Eğitimi Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "BİL.veÖĞR.TEKN.SDG1 - Bilgisayar ve Öğretim Teknolojileri eğitimi Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -124,7 +124,7 @@
   {
    "kod": "9404005112019",
    "ad": "Verı Toplama ve Çözümleme",
-   "mufredat": null,
+   "mufredat": "2019 Bilgisayar ve Öğretim Teknolojileri Eğitimi Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "BİL.veÖĞR.TEKN.SDG1 - Bilgisayar ve Öğretim Teknolojileri eğitimi Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9404005132019",
    "ad": "Harmanlanmış Öğrenme Tasarımları ve Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2019 Bilgisayar ve Öğretim Teknolojileri Eğitimi Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "BİL.veÖĞR.TEKN.SDG1 - Bilgisayar ve Öğretim Teknolojileri eğitimi Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9404005172020",
    "ad": "Öğretım Teknolojılerınde Yenı Eğılımler I",
-   "mufredat": null,
+   "mufredat": "2019 Bilgisayar ve Öğretim Teknolojileri Eğitimi Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "BİL.veÖĞR.TEKN.SDG1 - Bilgisayar ve Öğretim Teknolojileri eğitimi Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9404005192021",
    "ad": "Nıtel Araştırma Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2019 Bilgisayar ve Öğretim Teknolojileri Eğitimi Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "BİL.veÖĞR.TEKN.SDG1 - Bilgisayar ve Öğretim Teknolojileri eğitimi Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9404005232023",
    "ad": "Teknolojı ve Yetışkın Öğrenen",
-   "mufredat": null,
+   "mufredat": "2019 Bilgisayar ve Öğretim Teknolojileri Eğitimi Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "BİL.veÖĞR.TEKN.SDG1 - Bilgisayar ve Öğretim Teknolojileri eğitimi Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9404005042019",
    "ad": "Bılgısayar Desteklı Eğıtım ve Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2019 Bilgisayar ve Öğretim Teknolojileri Eğitimi Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "BİL.veÖĞR.TEKN.SDG2 - Bilgisayar ve Öğretim Teknolojileri eğitimi Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9404005062019",
    "ad": "Bılgısayar Bılımı Eğıtımı ve Algorıtmık Düşünme",
-   "mufredat": null,
+   "mufredat": "2019 Bilgisayar ve Öğretim Teknolojileri Eğitimi Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "BİL.veÖĞR.TEKN.SDG2 - Bilgisayar ve Öğretim Teknolojileri eğitimi Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9404005082021",
    "ad": "Uzaktan Eğıtımde Kuram",
-   "mufredat": null,
+   "mufredat": "2019 Bilgisayar ve Öğretim Teknolojileri Eğitimi Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "BİL.veÖĞR.TEKN.SDG2 - Bilgisayar ve Öğretim Teknolojileri eğitimi Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9404005142019",
    "ad": "Çokluortam Temellı Öğretım Tasarımı",
-   "mufredat": null,
+   "mufredat": "2019 Bilgisayar ve Öğretim Teknolojileri Eğitimi Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "BİL.veÖĞR.TEKN.SDG2 - Bilgisayar ve Öğretim Teknolojileri eğitimi Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9404005202020",
    "ad": "Öğretım Teknolojılerınde Yenı Eğılımler II",
-   "mufredat": null,
+   "mufredat": "2019 Bilgisayar ve Öğretim Teknolojileri Eğitimi Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "BİL.veÖĞR.TEKN.SDG2 - Bilgisayar ve Öğretim Teknolojileri eğitimi Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9404005222020",
    "ad": "Öğretım Teknolojılerıne Yönelık Proje Gelıştırme",
-   "mufredat": null,
+   "mufredat": "2019 Bilgisayar ve Öğretim Teknolojileri Eğitimi Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "BİL.veÖĞR.TEKN.SDG2 - Bilgisayar ve Öğretim Teknolojileri eğitimi Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",

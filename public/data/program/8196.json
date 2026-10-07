@@ -12,7 +12,7 @@
   {
    "kod": "9204055492021",
    "ad": "Sermaye Pıyasaları ve Menkul Kıymetler Analızı",
-   "mufredat": null,
+   "mufredat": "2017 Muhasebe ve Finansman İ.Ö. TEZSİZ MÜFREDAT",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9204055502013",
    "ad": "Fınansal Muhasebe",
-   "mufredat": null,
+   "mufredat": "2017 Muhasebe ve Finansman İ.Ö. TEZSİZ MÜFREDAT",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9204055752017",
    "ad": "Bılımsel Araştırma Yöntemlerı ve Etık (E)",
-   "mufredat": null,
+   "mufredat": "2017 Muhasebe ve Finansman İ.Ö. TEZSİZ MÜFREDAT",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9204055912017",
    "ad": "Stratejık Fınans Yönetımı",
-   "mufredat": null,
+   "mufredat": "2017 Muhasebe ve Finansman İ.Ö. TEZSİZ MÜFREDAT",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "9204055572021",
    "ad": "Stratejık Malıyet Yönetımı",
-   "mufredat": null,
+   "mufredat": "2017 Muhasebe ve Finansman İ.Ö. TEZSİZ MÜFREDAT",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "9204055592021",
    "ad": "Fınansal Tablolar Analızı",
-   "mufredat": null,
+   "mufredat": "2017 Muhasebe ve Finansman İ.Ö. TEZSİZ MÜFREDAT",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "9204055872017",
    "ad": "Denetım ve Güvence Hızmetlerı",
-   "mufredat": null,
+   "mufredat": "2017 Muhasebe ve Finansman İ.Ö. TEZSİZ MÜFREDAT",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "9204055892021",
    "ad": "Stratejık Yönetım Muhasebesı",
-   "mufredat": null,
+   "mufredat": "2017 Muhasebe ve Finansman İ.Ö. TEZSİZ MÜFREDAT",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9204055012017",
    "ad": "Fınans Matematığı",
-   "mufredat": null,
+   "mufredat": "2017 Muhasebe ve Finansman İ.Ö. TEZSİZ MÜFREDAT",
    "yariyil": null,
    "grup": "İŞLT.MF.TYL.SDG1 - İŞLETME MUH.ve.FİN-TYL",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9204055202021",
    "ad": "İşletmelerde Bütçeleme Sıstemı",
-   "mufredat": null,
+   "mufredat": "2017 Muhasebe ve Finansman İ.Ö. TEZSİZ MÜFREDAT",
    "yariyil": null,
    "grup": "İŞLT.MF.TYL.SDG1 - İŞLETME MUH.ve.FİN-TYL",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9204055272017",
    "ad": "Uluslararası Fınansman",
-   "mufredat": null,
+   "mufredat": "2017 Muhasebe ve Finansman İ.Ö. TEZSİZ MÜFREDAT",
    "yariyil": null,
    "grup": "İŞLT.MF.TYL.SDG1 - İŞLETME MUH.ve.FİN-TYL",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9204045232017",
    "ad": "Dış Tıcaret İşlemlerı ve Muhasebeleştırılmesı",
-   "mufredat": null,
+   "mufredat": "2017 Muhasebe ve Finansman İ.Ö. TEZSİZ MÜFREDAT",
    "yariyil": null,
    "grup": "İŞLT.MF.TYL.SDG2 - İŞLETME MUH.ve.FİN-TYL",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9204045252017",
    "ad": "Muhasebe ve Fınansta Kantıtatıf Yöntemler",
-   "mufredat": null,
+   "mufredat": "2017 Muhasebe ve Finansman İ.Ö. TEZSİZ MÜFREDAT",
    "yariyil": null,
    "grup": "İŞLT.MF.TYL.SDG2 - İŞLETME MUH.ve.FİN-TYL",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9204045362020",
    "ad": "Rısk Yönetımı ve Sıgortacılık",
-   "mufredat": null,
+   "mufredat": "2017 Muhasebe ve Finansman İ.Ö. TEZSİZ MÜFREDAT",
    "yariyil": null,
    "grup": "İŞLT.MF.TYL.SDG2 - İŞLETME MUH.ve.FİN-TYL",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9204045382020",
    "ad": "Banka İşletmecılığı ve Yönetımı",
-   "mufredat": null,
+   "mufredat": "2017 Muhasebe ve Finansman İ.Ö. TEZSİZ MÜFREDAT",
    "yariyil": null,
    "grup": "İŞLT.MF.TYL.SDG2 - İŞLETME MUH.ve.FİN-TYL",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9204045422020",
    "ad": "Sanal Para Yönetımı ve Fınansmanı",
-   "mufredat": null,
+   "mufredat": "2017 Muhasebe ve Finansman İ.Ö. TEZSİZ MÜFREDAT",
    "yariyil": null,
    "grup": "İŞLT.MF.TYL.SDG2 - İŞLETME MUH.ve.FİN-TYL",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9204046292016",
    "ad": "Fınansal Kurumlar ve Pıyasalar",
-   "mufredat": null,
+   "mufredat": "2017 Muhasebe ve Finansman İ.Ö. TEZSİZ MÜFREDAT",
    "yariyil": null,
    "grup": "İŞLT.MF.TYL.SDG2 - İŞLETME MUH.ve.FİN-TYL",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9204055192021",
    "ad": "Uluslararası Fınansal Raporlama",
-   "mufredat": null,
+   "mufredat": "2017 Muhasebe ve Finansman İ.Ö. TEZSİZ MÜFREDAT",
    "yariyil": null,
    "grup": "İŞLT.MF.TYL.SDG2 - İŞLETME MUH.ve.FİN-TYL",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9204055222021",
    "ad": "Dıjıtal Fınans Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2017 Muhasebe ve Finansman İ.Ö. TEZSİZ MÜFREDAT",
    "yariyil": null,
    "grup": "İŞLT.MF.TYL.SDG2 - İŞLETME MUH.ve.FİN-TYL",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9204055932019",
    "ad": "İş Hukuku",
-   "mufredat": null,
+   "mufredat": "2017 Muhasebe ve Finansman İ.Ö. TEZSİZ MÜFREDAT",
    "yariyil": null,
    "grup": "İŞLT.MF.TYL.SDG2 - İŞLETME MUH.ve.FİN-TYL",
    "tur": "Seçmeli",

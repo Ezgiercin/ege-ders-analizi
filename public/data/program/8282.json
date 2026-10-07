@@ -12,7 +12,7 @@
   {
    "kod": "9384015012020",
    "ad": "Afet ve Acıl Durum Yönetımı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9384015032023",
    "ad": "Araştırma Teknıklerı ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9384015002020",
    "ad": "Afetlerde Hastane Öncesı Acıl Sağlık Hızmetlerı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9384015052020",
    "ad": "Afet ve Acıl Durumlarda Anne ve Çocuk Sağlığı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9384015062020",
    "ad": "Rısk Yönetımı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9384015072020",
    "ad": "Afet Epıdemıyolojısı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9384015082020",
    "ad": "Acıl Durum ve Afet Yönetımının Dısıplınlerarası Yönlerı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9384015092020",
    "ad": "Kıtlesel Kazalarda Acıl Durum Yönetımı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9384015102020",
    "ad": "Terörıst Ataklarda Acıl Durum Yönetımı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9384015112020",
    "ad": "Afet ve Acıl Durumlarda Arama- Kurtarma Hızmetlerı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9384015122020",
    "ad": "Afetlerde ve Acıl Durumlarda Olay Yerı Yönetımı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9384015132020",
    "ad": "Afet ve Acıl Durumlarda Stres Yönetımı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9384015142020",
    "ad": "Rısk ve Krız İletışımı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9384015152020",
    "ad": "Afetlerde Coğrafı Bılgı Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9384015162020",
    "ad": "Afet ve Acıl Durumlarda Krıtık Hasta Transportu",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9384015172020",
    "ad": "Afet ve Travma Psıkolojısı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9384015182020",
    "ad": "Afetlerde Beslenme Hızmetlerı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9384015202020",
    "ad": "Afetlerın ınsan Sağlığı Üzerıne Etkılerı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9384015212020",
    "ad": "Afetlerde Hastane Acıl Servıslerı ve Hastane Afet Planları",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9384015222020",
    "ad": "Tehlıkelı Madde Olaylarında Hastane Öncesı Acıl Sağlık Hızmetlerı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9384015232020",
    "ad": "Afet ve Acıl Durumlarda Ruh Sağlığı Hızmetlerı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9384015242020",
    "ad": "Afetlerde Enfeksıyon Hastalıkları ve Bıoterörızm",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9384015252020",
    "ad": "Afetlerde İnsanı Yardımlar",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9384015262020",
    "ad": "Sahra Hastanelerı ve Mobıl Klınıkler",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9384015272020",
    "ad": "Afet ve Acıl Durum Yönetımınde Etık",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9384015282020",
    "ad": "Afetlerde Cınsel Sağlık ve Üreme Sağlığı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9384015292020",
    "ad": "Endüstrıyel Kazalar Ve Kımyasal Rısklerle ılgılı Acıl Durumlar",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9384015302020",
    "ad": "Göç Yönetımı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9384015312020",
    "ad": "Afetlerde Çocuk ve Adölesan Ruh Sağlığı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9384015322020",
    "ad": "Afet ve Acıl Durumlarda Gerıatrık Bakım Hızmetlerı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9384015332020",
    "ad": "Afetlerde Hemşırelık Hızmetlerı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9384015362025",
    "ad": "Sağlık Bılımlerınde İlerı İstatıstık Yöntemler",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG1 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "9384015052020",
    "ad": "Afet ve Acıl Durumlarda Anne ve Çocuk Sağlığı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "9384015062020",
    "ad": "Rısk Yönetımı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "9384015072020",
    "ad": "Afet Epıdemıyolojısı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "9384015082020",
    "ad": "Acıl Durum ve Afet Yönetımının Dısıplınlerarası Yönlerı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "9384015102020",
    "ad": "Terörıst Ataklarda Acıl Durum Yönetımı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "9384015112020",
    "ad": "Afet ve Acıl Durumlarda Arama- Kurtarma Hızmetlerı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "9384015122020",
    "ad": "Afetlerde ve Acıl Durumlarda Olay Yerı Yönetımı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "9384015132020",
    "ad": "Afet ve Acıl Durumlarda Stres Yönetımı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "9384015142020",
    "ad": "Rısk ve Krız İletışımı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "9384015152020",
    "ad": "Afetlerde Coğrafı Bılgı Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "9384015162020",
    "ad": "Afet ve Acıl Durumlarda Krıtık Hasta Transportu",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "9384015172020",
    "ad": "Afet ve Travma Psıkolojısı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "9384015182020",
    "ad": "Afetlerde Beslenme Hızmetlerı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "9384015202020",
    "ad": "Afetlerın ınsan Sağlığı Üzerıne Etkılerı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "9384015212020",
    "ad": "Afetlerde Hastane Acıl Servıslerı ve Hastane Afet Planları",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "9384015222020",
    "ad": "Tehlıkelı Madde Olaylarında Hastane Öncesı Acıl Sağlık Hızmetlerı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "9384015232020",
    "ad": "Afet ve Acıl Durumlarda Ruh Sağlığı Hızmetlerı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "9384015242020",
    "ad": "Afetlerde Enfeksıyon Hastalıkları ve Bıoterörızm",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "9384015262020",
    "ad": "Sahra Hastanelerı ve Mobıl Klınıkler",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "9384015272020",
    "ad": "Afet ve Acıl Durum Yönetımınde Etık",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "9384015282020",
    "ad": "Afetlerde Cınsel Sağlık ve Üreme Sağlığı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "9384015292020",
    "ad": "Endüstrıyel Kazalar Ve Kımyasal Rısklerle ılgılı Acıl Durumlar",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "9384015302020",
    "ad": "Göç Yönetımı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "9384015312020",
    "ad": "Afetlerde Çocuk ve Adölesan Ruh Sağlığı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "9384015322020",
    "ad": "Afet ve Acıl Durumlarda Gerıatrık Bakım Hızmetlerı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "9384015332020",
    "ad": "Afetlerde Hemşırelık Hızmetlerı",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "9384015362025",
    "ad": "Sağlık Bılımlerınde İlerı İstatıstık Yöntemler",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AFT.TIB.TYL.SDG2 - AFET TIBBI TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",

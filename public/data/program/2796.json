@@ -12,7 +12,7 @@
   {
    "kod": "ATA101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "THO107",
    "ad": "RİTM BİLGİSİ I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "THO137",
    "ad": "BALE I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "THO139",
    "ad": "KİNESİYOLOJİK ANATOMİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "THO147",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (ZEYBEK)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "THO149",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (DENİZLİ)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "THO151",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "TUR101",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "YDI101",
    "ad": "YABANCI DİL I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "ATA102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "THO108",
    "ad": "RİTM BİLGİSİ II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "THO138",
    "ad": "BALE II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "THO140",
    "ad": "EGZERSİZ FİZYOLOJİSİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "THO150",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (AFYON)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "THO152",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "THO154",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (KAŞIK)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "TUR102",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "YDI102",
    "ad": "YABANCI DİL II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -278,7 +278,7 @@
   {
    "kod": "THO207",
    "ad": "RİTM BİLGİSİ III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "THO213",
    "ad": "TÜRK HALK OYUNLARI TARİHİ I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "THO239",
    "ad": "TM SOLFEJ VE KURAMI I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "THO247",
    "ad": "ANT. BİLGİSİ VE CİMNASTİK",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "THO253",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (KIVRAK ZEYBEK)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "THO255",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (MUĞLA)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "THO257",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "THO259",
    "ad": "BENESH HAREKET NOTASYONU MÜZİK VE SAHNE KULLANIMI I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "THO261",
    "ad": "DANS VE MÜZİK PRODÜKSİYONU I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -418,7 +418,7 @@
   {
    "kod": "THO208",
    "ad": "RİTM BİLGİSİ IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "THO214",
    "ad": "TÜRK HALK OYUNLARI TARİHİ II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "THO240",
    "ad": "TM SOLFEJ VE KURAMI II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "THO254",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (BAR)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "THO256",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (TOKAT)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "THO258",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "THO260",
    "ad": "BENESH HAREKET NOTASYONU MÜZİK VE SAHNE KULLANIMI II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "THO262",
    "ad": "DANS VE MÜZİK PRODÜKSİYONU II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -544,7 +544,7 @@
   {
    "kod": "THO305",
    "ad": "DANSÇILAR İÇİN OYUNCULUK I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "THO307",
    "ad": "RİTM BİLGİSİ V",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -572,7 +572,7 @@
   {
    "kod": "THO309",
    "ad": "GELENEKSEL GİYİM KUŞAM I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "THO311",
    "ad": "TM SOLFEJ VE KURAMI III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "THO315",
    "ad": "HALK BİLİMİNE GİRİŞ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "THO321",
    "ad": "BİLİMSEL ARAŞTIRMA YÖNTEM TEKNİKLERİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -628,7 +628,7 @@
   {
    "kod": "THO365",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (HORON)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "THO367",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (AZERİ)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "THO369",
    "ad": "BENESH HAREKET NOTASYONU MÜZİK VE SAHNE KULLANIMI III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "THO371",
    "ad": "DANS VE MÜZİK PRODÜKSİYONU III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -698,7 +698,7 @@
   {
    "kod": "THO306",
    "ad": "DANSÇILAR İÇİN OYUNCULUK II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -712,7 +712,7 @@
   {
    "kod": "THO308",
    "ad": "RİTM BİLGİSİ VI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -726,7 +726,7 @@
   {
    "kod": "THO310",
    "ad": "GELENEKSEL GİYİM KUŞAM II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -740,7 +740,7 @@
   {
    "kod": "THO312",
    "ad": "TM SOLFEJ VE KURAMI IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -754,7 +754,7 @@
   {
    "kod": "THO316",
    "ad": "ANTROPOLOJİYE GİRİŞ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "THO324",
    "ad": "TH OYUNLARINDA TÜR VE TAVIR I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -782,7 +782,7 @@
   {
    "kod": "THO366",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (KAFKAS)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -796,7 +796,7 @@
   {
    "kod": "THO368",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (ARTVİN)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -810,7 +810,7 @@
   {
    "kod": "THO370",
    "ad": "BENESH HAREKET NOTASYONU MÜZİK VE SAHNE KULLANIMI IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -824,7 +824,7 @@
   {
    "kod": "THO372",
    "ad": "DANS VE MÜZİK PRODÜKSİYONU IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -838,7 +838,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -852,7 +852,7 @@
   {
    "kod": "THO405",
    "ad": "DANSTA ÇALIŞMA ALANLARI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -866,7 +866,7 @@
   {
    "kod": "THO407",
    "ad": "RİTM BİLGİSİ VII",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -880,7 +880,7 @@
   {
    "kod": "THO411",
    "ad": "TM SOLFEJ VE KURAMI V",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -894,7 +894,7 @@
   {
    "kod": "THO415",
    "ad": "THO MÜZİĞİ REPERTUARI I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -908,7 +908,7 @@
   {
    "kod": "THO419",
    "ad": "DANS VE MÜZİK PRODÜKSİYONU V",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -922,7 +922,7 @@
   {
    "kod": "THO497",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (ÜSKÜP)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -936,7 +936,7 @@
   {
    "kod": "THO499",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (KARŞILAMA-HORA)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -950,7 +950,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -964,7 +964,7 @@
   {
    "kod": "THO408",
    "ad": "RİTM BİLGİSİ VIII",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -978,7 +978,7 @@
   {
    "kod": "THO412",
    "ad": "TM SOLFEJ VE KURAMI VI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -992,7 +992,7 @@
   {
    "kod": "THO416",
    "ad": "THO MÜZİĞİ REPERTUARI II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -1006,7 +1006,7 @@
   {
    "kod": "THO420",
    "ad": "DANS VE MÜZİK PRODÜKSİYONU VI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -1020,7 +1020,7 @@
   {
    "kod": "THO484",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (HALAY)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -1034,7 +1034,7 @@
   {
    "kod": "THO498",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (GAZİANTEP)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -1048,7 +1048,7 @@
   {
    "kod": "THO115",
    "ad": "ZURNA I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.I - SEÇMELİ ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "THO125",
    "ad": "BAĞLAMA",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.I - SEÇMELİ ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "THO127",
    "ad": "KABAK KEMANE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.I - SEÇMELİ ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "THO129",
    "ad": "KAVAL",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.I - SEÇMELİ ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "THO133",
    "ad": "AKORDEON",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.I - SEÇMELİ ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "THO135",
    "ad": "KLARNET",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.I - SEÇMELİ ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "THO145",
    "ad": "KEMENÇE I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.I - SEÇMELİ ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "BLG107",
    "ad": "BİLGİSAYARA GİRİŞ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.1.YY - THO (a) Seçmeli 1 yy.",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "THO141",
    "ad": "PİYANO I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.1.YY - THO (a) Seçmeli 1 yy.",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "THO143",
    "ad": "HAREKET TEKNİĞİ I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.1.YY - THO (a) Seçmeli 1 yy.",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "THO116",
    "ad": "ZURNA II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.II - SEÇMELİ ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "THO126",
    "ad": "BAĞLAMA",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.II - SEÇMELİ ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "THO128",
    "ad": "KABAK KEMANE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.II - SEÇMELİ ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "THO130",
    "ad": "KAVAL",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.II - SEÇMELİ ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "THO134",
    "ad": "AKORDEON",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.II - SEÇMELİ ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "THO136",
    "ad": "KLARNET",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.II - SEÇMELİ ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "THO146",
    "ad": "KEMENÇE II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.II - SEÇMELİ ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "AT001",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.2.YY - THO (a) Seçmeli 2. yy",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "THO142",
    "ad": "PİYANO II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.2.YY - THO (a) Seçmeli 2. yy",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "THO144",
    "ad": "HAREKET TEKNİĞİ II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.2.YY - THO (a) Seçmeli 2. yy",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "UYG104",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.2.YY - THO (a) Seçmeli 2. yy",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "THO225",
    "ad": "BAĞLAMA",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.III - SEÇMELİ ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "THO227",
    "ad": "KABAK KEMANE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.III - SEÇMELİ ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "THO229",
    "ad": "KAVAL",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.III - SEÇMELİ ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "THO233",
    "ad": "AKORDEON",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.III - SEÇMELİ ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "THO235",
    "ad": "KLARNET",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.III - SEÇMELİ ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "THO249",
    "ad": "KEMENÇE III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.III - SEÇMELİ ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "THO251",
    "ad": "ZURNA III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.III - SEÇMELİ ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.3.YY - THO (a) Seçmeli 3. yy",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "THO243",
    "ad": "PİYANO III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.3.YY - THO (a) Seçmeli 3. yy",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "THO245",
    "ad": "BALE III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.3.YY - THO (a) Seçmeli 3. yy",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "THO226",
    "ad": "BAĞLAMA",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.IV - SEÇMELİ ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "THO228",
    "ad": "KABAK KEMANE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.IV - SEÇMELİ ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1510,7 +1510,7 @@
   {
    "kod": "THO230",
    "ad": "KAVAL",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.IV - SEÇMELİ ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1524,7 +1524,7 @@
   {
    "kod": "THO234",
    "ad": "AKORDEON",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.IV - SEÇMELİ ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1538,7 +1538,7 @@
   {
    "kod": "THO236",
    "ad": "KLARNET",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.IV - SEÇMELİ ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1552,7 +1552,7 @@
   {
    "kod": "THO250",
    "ad": "KEMENÇE IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.IV - SEÇMELİ ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1566,7 +1566,7 @@
   {
    "kod": "THO252",
    "ad": "ZURNA IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.IV - SEÇMELİ ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1580,7 +1580,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.4.YY - THO (a) Seçmeli 4.yy",
    "tur": "Seçmeli",
@@ -1594,7 +1594,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.4.YY - THO (a) Seçmeli 4.yy",
    "tur": "Seçmeli",
@@ -1608,7 +1608,7 @@
   {
    "kod": "THO244",
    "ad": "PİYANO IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.4.YY - THO (a) Seçmeli 4.yy",
    "tur": "Seçmeli",
@@ -1622,7 +1622,7 @@
   {
    "kod": "THO246",
    "ad": "BALE IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.4.YY - THO (a) Seçmeli 4.yy",
    "tur": "Seçmeli",
@@ -1636,7 +1636,7 @@
   {
    "kod": "THO248",
    "ad": "KADIN ZEYBEK OYUNLARINDA TAVIR",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.4.YY - THO (a) Seçmeli 4.yy",
    "tur": "Seçmeli",
@@ -1650,7 +1650,7 @@
   {
    "kod": "THU202",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.4.YY - THO (a) Seçmeli 4.yy",
    "tur": "Seçmeli",
@@ -1664,7 +1664,7 @@
   {
    "kod": "THO325",
    "ad": "BAĞLAMA",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.V - SEÇMELİ ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1678,7 +1678,7 @@
   {
    "kod": "THO327",
    "ad": "KABAK KEMANE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.V - SEÇMELİ ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1692,7 +1692,7 @@
   {
    "kod": "THO329",
    "ad": "KAVAL",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.V - SEÇMELİ ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1706,7 +1706,7 @@
   {
    "kod": "THO333",
    "ad": "AKORDEON",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.V - SEÇMELİ ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1720,7 +1720,7 @@
   {
    "kod": "THO335",
    "ad": "KLARNET",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.V - SEÇMELİ ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1734,7 +1734,7 @@
   {
    "kod": "THO359",
    "ad": "KEMENÇE V",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.V - SEÇMELİ ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1748,7 +1748,7 @@
   {
    "kod": "THO363",
    "ad": "ZURNA V",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.V - SEÇMELİ ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1762,7 +1762,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -1776,7 +1776,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -1790,7 +1790,7 @@
   {
    "kod": "THO339",
    "ad": "PİYANO V",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -1804,7 +1804,7 @@
   {
    "kod": "THO341",
    "ad": "TÜRK MÜZİĞİ REPERTUVARI I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -1818,7 +1818,7 @@
   {
    "kod": "THO343",
    "ad": "YARDIMCI ÇALGI I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -1832,7 +1832,7 @@
   {
    "kod": "THO345",
    "ad": "MAKYAJ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -1846,7 +1846,7 @@
   {
    "kod": "THO351",
    "ad": "THO SAHNELEME TASARIM I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -1860,7 +1860,7 @@
   {
    "kod": "THO353",
    "ad": "RİTM SAZ (DOLİ) I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -1874,7 +1874,7 @@
   {
    "kod": "THO355",
    "ad": "BEDEN DİLİ EĞİTİMİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -1888,7 +1888,7 @@
   {
    "kod": "THO361",
    "ad": "TEMEL FOTOĞRAFCILIK",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -1902,7 +1902,7 @@
   {
    "kod": "THO326",
    "ad": "BAĞLAMA",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VI - SEÇMELİ ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -1916,7 +1916,7 @@
   {
    "kod": "THO328",
    "ad": "KABAK KEMANE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VI - SEÇMELİ ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -1930,7 +1930,7 @@
   {
    "kod": "THO330",
    "ad": "KAVAL",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VI - SEÇMELİ ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -1944,7 +1944,7 @@
   {
    "kod": "THO334",
    "ad": "AKORDEON",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VI - SEÇMELİ ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -1958,7 +1958,7 @@
   {
    "kod": "THO336",
    "ad": "KLARNET",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VI - SEÇMELİ ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -1972,7 +1972,7 @@
   {
    "kod": "THO360",
    "ad": "KEMENÇE VI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VI - SEÇMELİ ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -1986,7 +1986,7 @@
   {
    "kod": "THO364",
    "ad": "ZURNA VI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VI - SEÇMELİ ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -2000,7 +2000,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.6.YY - THO(a) SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -2014,7 +2014,7 @@
   {
    "kod": "THO340",
    "ad": "PİYANO VI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.6.YY - THO(a) SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -2028,7 +2028,7 @@
   {
    "kod": "THO342",
    "ad": "TÜRK MÜZİĞİ REPERTUVARI II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.6.YY - THO(a) SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -2042,7 +2042,7 @@
   {
    "kod": "THO344",
    "ad": "YARDIMCI ÇALGI II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.6.YY - THO(a) SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -2056,7 +2056,7 @@
   {
    "kod": "THO346",
    "ad": "KARAKTER MAKYAJI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.6.YY - THO(a) SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -2070,7 +2070,7 @@
   {
    "kod": "THO348",
    "ad": "MODERN DANS",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.6.YY - THO(a) SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -2084,7 +2084,7 @@
   {
    "kod": "THO352",
    "ad": "THO SAHNELEME TASARIM II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.6.YY - THO(a) SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -2098,7 +2098,7 @@
   {
    "kod": "THO354",
    "ad": "RİTM SAZ (DOLİ) II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.6.YY - THO(a) SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -2112,7 +2112,7 @@
   {
    "kod": "THO362",
    "ad": "TEMEL KAMERA UYGULAMALARI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.6.YY - THO(a) SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -2126,7 +2126,7 @@
   {
    "kod": "THO425",
    "ad": "BAĞLAMA",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VII - SEÇMELİ ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2140,7 +2140,7 @@
   {
    "kod": "THO427",
    "ad": "KABAK KEMANE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VII - SEÇMELİ ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2154,7 +2154,7 @@
   {
    "kod": "THO429",
    "ad": "KAVAL",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VII - SEÇMELİ ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2168,7 +2168,7 @@
   {
    "kod": "THO433",
    "ad": "AKORDEON",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VII - SEÇMELİ ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2182,7 +2182,7 @@
   {
    "kod": "THO435",
    "ad": "KLARNET",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VII - SEÇMELİ ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2196,7 +2196,7 @@
   {
    "kod": "THO491",
    "ad": "KEMENÇE VII",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VII - SEÇMELİ ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2210,7 +2210,7 @@
   {
    "kod": "THO493",
    "ad": "ZURNA VII",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VII - SEÇMELİ ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2224,7 +2224,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.I - THO(a) SEÇMELİ I",
    "tur": "Seçmeli",
@@ -2238,7 +2238,7 @@
   {
    "kod": "THO439",
    "ad": "PİYANO VII",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.I - THO(a) SEÇMELİ I",
    "tur": "Seçmeli",
@@ -2252,7 +2252,7 @@
   {
    "kod": "THO443",
    "ad": "YARDIMCI ÇALGI III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.I - THO(a) SEÇMELİ I",
    "tur": "Seçmeli",
@@ -2266,7 +2266,7 @@
   {
    "kod": "THO445",
    "ad": "ZEYBEK",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.I - THO(a) SEÇMELİ I",
    "tur": "Seçmeli",
@@ -2280,7 +2280,7 @@
   {
    "kod": "THO447",
    "ad": "THO ÖĞRETİM YÖNTEM TEKNİKLERİ I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.I - THO(a) SEÇMELİ I",
    "tur": "Seçmeli",
@@ -2294,7 +2294,7 @@
   {
    "kod": "THO475",
    "ad": "RİTM SAZ (BENDİR) I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.I - THO(a) SEÇMELİ I",
    "tur": "Seçmeli",
@@ -2308,7 +2308,7 @@
   {
    "kod": "THO477",
    "ad": "SAHNELEME VE PRODÜKSİYON I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.I - THO(a) SEÇMELİ I",
    "tur": "Seçmeli",
@@ -2322,7 +2322,7 @@
   {
    "kod": "THO441",
    "ad": "TÜRK MÜZİĞİ REPERTUVARI III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.III - THO(a) SEÇMELİ III",
    "tur": "Seçmeli",
@@ -2336,7 +2336,7 @@
   {
    "kod": "THO451",
    "ad": "OKUL MÜZİĞİ I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.III - THO(a) SEÇMELİ III",
    "tur": "Seçmeli",
@@ -2350,7 +2350,7 @@
   {
    "kod": "THO455",
    "ad": "KAŞIK",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.III - THO(a) SEÇMELİ III",
    "tur": "Seçmeli",
@@ -2364,7 +2364,7 @@
   {
    "kod": "THO479",
    "ad": "DANS TARİHİ I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.III - THO(a) SEÇMELİ III",
    "tur": "Seçmeli",
@@ -2378,7 +2378,7 @@
   {
    "kod": "THO481",
    "ad": "SAHNE KOSTÜMÜ I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.III - THO(a) SEÇMELİ III",
    "tur": "Seçmeli",
@@ -2392,7 +2392,7 @@
   {
    "kod": "ISR401",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.V - THO(a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -2406,7 +2406,7 @@
   {
    "kod": "THO461",
    "ad": "BİLGİSAYARLI NOTA YAZIMI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.V - THO(a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -2420,7 +2420,7 @@
   {
    "kod": "THO465",
    "ad": "HORA-KARŞILAMA",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.V - THO(a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -2434,7 +2434,7 @@
   {
    "kod": "THO469",
    "ad": "DİKTE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.V - THO(a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -2448,7 +2448,7 @@
   {
    "kod": "THO471",
    "ad": "KOSTÜM TASARIM I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.V - THO(a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -2462,7 +2462,7 @@
   {
    "kod": "THO483",
    "ad": "DANSLA ANLATIM",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.V - THO(a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -2476,7 +2476,7 @@
   {
    "kod": "THO485",
    "ad": "SANATSAL İLETİŞİM",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.V - THO(a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -2490,7 +2490,7 @@
   {
    "kod": "THO487",
    "ad": "DANS VE SPOR",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.V - THO(a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -2504,7 +2504,7 @@
   {
    "kod": "THO426",
    "ad": "BAĞLAMA",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VIII - SEÇMELİ ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2518,7 +2518,7 @@
   {
    "kod": "THO428",
    "ad": "KABAK KEMANE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VIII - SEÇMELİ ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2532,7 +2532,7 @@
   {
    "kod": "THO430",
    "ad": "KAVAL",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VIII - SEÇMELİ ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2546,7 +2546,7 @@
   {
    "kod": "THO434",
    "ad": "AKORDEON",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VIII - SEÇMELİ ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2560,7 +2560,7 @@
   {
    "kod": "THO436",
    "ad": "KLARNET",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VIII - SEÇMELİ ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2574,7 +2574,7 @@
   {
    "kod": "THO492",
    "ad": "KEMENÇE VIII",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VIII - SEÇMELİ ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2588,7 +2588,7 @@
   {
    "kod": "THO494",
    "ad": "ZURNA VIII",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VIII - SEÇMELİ ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2602,7 +2602,7 @@
   {
    "kod": "THO440",
    "ad": "PİYANO VIII",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.II - THO(a) SEÇMELİ II",
    "tur": "Seçmeli",
@@ -2616,7 +2616,7 @@
   {
    "kod": "THO444",
    "ad": "YARDIMCI ÇALGI IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.II - THO(a) SEÇMELİ II",
    "tur": "Seçmeli",
@@ -2630,7 +2630,7 @@
   {
    "kod": "THO446",
    "ad": "HALAY",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.II - THO(a) SEÇMELİ II",
    "tur": "Seçmeli",
@@ -2644,7 +2644,7 @@
   {
    "kod": "THO448",
    "ad": "THO ÖĞRETİM YÖNTEM TEKNİKLERİ II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.II - THO(a) SEÇMELİ II",
    "tur": "Seçmeli",
@@ -2658,7 +2658,7 @@
   {
    "kod": "THO476",
    "ad": "RİTM SAZ (BENDİR) II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.II - THO(a) SEÇMELİ II",
    "tur": "Seçmeli",
@@ -2672,7 +2672,7 @@
   {
    "kod": "THO478",
    "ad": "SAHNELEME VE PRODÜKSİYON II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.II - THO(a) SEÇMELİ II",
    "tur": "Seçmeli",
@@ -2686,7 +2686,7 @@
   {
    "kod": "THO442",
    "ad": "TÜRK MÜZİĞİ REPERTUVARI IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.IV - THO(a) SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -2700,7 +2700,7 @@
   {
    "kod": "THO452",
    "ad": "OKUL MÜZİĞİ II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.IV - THO(a) SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -2714,7 +2714,7 @@
   {
    "kod": "THO456",
    "ad": "TEKE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.IV - THO(a) SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -2728,7 +2728,7 @@
   {
    "kod": "THO474",
    "ad": "THO ALAN ARAŞTIRMASI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.IV - THO(a) SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -2742,7 +2742,7 @@
   {
    "kod": "THO480",
    "ad": "DANS TARİHİ II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.IV - THO(a) SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -2756,7 +2756,7 @@
   {
    "kod": "THO482",
    "ad": "SAHNE KOSTÜMÜ II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.IV - THO(a) SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -2770,7 +2770,7 @@
   {
    "kod": "GRK402",
    "ad": "GİRİŞİMCİLİK VE KALİTE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.VI - THO(a) SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -2784,7 +2784,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.VI - THO(a) SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -2798,7 +2798,7 @@
   {
    "kod": "THO464",
    "ad": "BAR",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.VI - THO(a) SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -2812,7 +2812,7 @@
   {
    "kod": "THO472",
    "ad": "KOSTÜM TASARIMI II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.VI - THO(a) SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -2826,7 +2826,7 @@
   {
    "kod": "THO486",
    "ad": "SANAT VE ORGANİZASYON",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.VI - THO(a) SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -2840,7 +2840,7 @@
   {
    "kod": "THO488",
    "ad": "KOREOGRAFİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.VI - THO(a) SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -2854,7 +2854,7 @@
   {
    "kod": "THO490",
    "ad": "SEYİRLİK OYUNLAR",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2011 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.VI - THO(a) SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -2868,7 +2868,7 @@
   {
    "kod": "ATA101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2882,7 +2882,7 @@
   {
    "kod": "KP101",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2896,7 +2896,7 @@
   {
    "kod": "THO137",
    "ad": "BALE I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2910,7 +2910,7 @@
   {
    "kod": "THO139",
    "ad": "KİNESİYOLOJİK ANATOMİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2924,7 +2924,7 @@
   {
    "kod": "THO147",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (ZEYBEK)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2938,7 +2938,7 @@
   {
    "kod": "THO149",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (DENİZLİ)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2952,7 +2952,7 @@
   {
    "kod": "THO151",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2966,7 +2966,7 @@
   {
    "kod": "THO155",
    "ad": "RİTM BİLGİSİ I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2980,7 +2980,7 @@
   {
    "kod": "TUR101",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2994,7 +2994,7 @@
   {
    "kod": "YDI101",
    "ad": "YABANCI DİL I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3008,7 +3008,7 @@
   {
    "kod": "ATA102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3022,7 +3022,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3036,7 +3036,7 @@
   {
    "kod": "THO138",
    "ad": "BALE II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3050,7 +3050,7 @@
   {
    "kod": "THO140",
    "ad": "EGZERSİZ FİZYOLOJİSİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3064,7 +3064,7 @@
   {
    "kod": "THO150",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (AFYON)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3078,7 +3078,7 @@
   {
    "kod": "THO152",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3092,7 +3092,7 @@
   {
    "kod": "THO154",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (KAŞIK)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3106,7 +3106,7 @@
   {
    "kod": "THO156",
    "ad": "RİTM BİLGİSİ II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3120,7 +3120,7 @@
   {
    "kod": "TUR102",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3134,7 +3134,7 @@
   {
    "kod": "YDI102",
    "ad": "YABANCI DİL II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3148,7 +3148,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -3162,7 +3162,7 @@
   {
    "kod": "THO207",
    "ad": "RİTM BİLGİSİ III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3176,7 +3176,7 @@
   {
    "kod": "THO213",
    "ad": "TÜRK HALK OYUNLARI TARİHİ I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3190,7 +3190,7 @@
   {
    "kod": "THO239",
    "ad": "TM SOLFEJ VE KURAMI I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3204,7 +3204,7 @@
   {
    "kod": "THO247",
    "ad": "ANT. BİLGİSİ VE CİMNASTİK",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3218,7 +3218,7 @@
   {
    "kod": "THO253",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (KIVRAK ZEYBEK)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3232,7 +3232,7 @@
   {
    "kod": "THO255",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (MUĞLA)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3246,7 +3246,7 @@
   {
    "kod": "THO257",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3260,7 +3260,7 @@
   {
    "kod": "THO259",
    "ad": "BENESH HAREKET NOTASYONU MÜZİK VE SAHNE KULLANIMI I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3274,7 +3274,7 @@
   {
    "kod": "THO261",
    "ad": "DANS VE MÜZİK PRODÜKSİYONU I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3288,7 +3288,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -3302,7 +3302,7 @@
   {
    "kod": "THO208",
    "ad": "RİTM BİLGİSİ IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3316,7 +3316,7 @@
   {
    "kod": "THO214",
    "ad": "TÜRK HALK OYUNLARI TARİHİ II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3330,7 +3330,7 @@
   {
    "kod": "THO240",
    "ad": "TM SOLFEJ VE KURAMI II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3344,7 +3344,7 @@
   {
    "kod": "THO254",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (BAR)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3358,7 +3358,7 @@
   {
    "kod": "THO256",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (TOKAT)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3372,7 +3372,7 @@
   {
    "kod": "THO258",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3386,7 +3386,7 @@
   {
    "kod": "THO260",
    "ad": "BENESH HAREKET NOTASYONU MÜZİK VE SAHNE KULLANIMI II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3400,7 +3400,7 @@
   {
    "kod": "THO262",
    "ad": "DANS VE MÜZİK PRODÜKSİYONU II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3414,7 +3414,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -3428,7 +3428,7 @@
   {
    "kod": "THO305",
    "ad": "DANSÇILAR İÇİN OYUNCULUK I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3442,7 +3442,7 @@
   {
    "kod": "THO307",
    "ad": "RİTM BİLGİSİ V",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3456,7 +3456,7 @@
   {
    "kod": "THO309",
    "ad": "GELENEKSEL GİYİM KUŞAM I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3470,7 +3470,7 @@
   {
    "kod": "THO311",
    "ad": "TM SOLFEJ VE KURAMI III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3484,7 +3484,7 @@
   {
    "kod": "THO315",
    "ad": "HALK BİLİMİNE GİRİŞ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3498,7 +3498,7 @@
   {
    "kod": "THO321",
    "ad": "BİLİMSEL ARAŞTIRMA YÖNTEM TEKNİKLERİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3512,7 +3512,7 @@
   {
    "kod": "THO365",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (HORON)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3526,7 +3526,7 @@
   {
    "kod": "THO367",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (AZERİ)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3540,7 +3540,7 @@
   {
    "kod": "THO369",
    "ad": "BENESH HAREKET NOTASYONU MÜZİK VE SAHNE KULLANIMI III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3554,7 +3554,7 @@
   {
    "kod": "THO371",
    "ad": "DANS VE MÜZİK PRODÜKSİYONU III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3568,7 +3568,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -3582,7 +3582,7 @@
   {
    "kod": "THO306",
    "ad": "DANSÇILAR İÇİN OYUNCULUK II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3596,7 +3596,7 @@
   {
    "kod": "THO308",
    "ad": "RİTM BİLGİSİ VI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3610,7 +3610,7 @@
   {
    "kod": "THO310",
    "ad": "GELENEKSEL GİYİM KUŞAM II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3624,7 +3624,7 @@
   {
    "kod": "THO312",
    "ad": "TM SOLFEJ VE KURAMI IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3638,7 +3638,7 @@
   {
    "kod": "THO316",
    "ad": "ANTROPOLOJİYE GİRİŞ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3652,7 +3652,7 @@
   {
    "kod": "THO324",
    "ad": "TH OYUNLARINDA TÜR VE TAVIR I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3666,7 +3666,7 @@
   {
    "kod": "THO366",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (KAFKAS)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3680,7 +3680,7 @@
   {
    "kod": "THO368",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (ARTVİN)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3694,7 +3694,7 @@
   {
    "kod": "THO370",
    "ad": "BENESH HAREKET NOTASYONU MÜZİK VE SAHNE KULLANIMI IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3708,7 +3708,7 @@
   {
    "kod": "THO372",
    "ad": "DANS VE MÜZİK PRODÜKSİYONU IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3722,7 +3722,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -3736,7 +3736,7 @@
   {
    "kod": "THO405",
    "ad": "DANSTA ÇALIŞMA ALANLARI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -3750,7 +3750,7 @@
   {
    "kod": "THO407",
    "ad": "RİTM BİLGİSİ VII",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -3764,7 +3764,7 @@
   {
    "kod": "THO411",
    "ad": "TM SOLFEJ VE KURAMI V",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -3778,7 +3778,7 @@
   {
    "kod": "THO415",
    "ad": "THO MÜZİĞİ REPERTUARI I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -3792,7 +3792,7 @@
   {
    "kod": "THO419",
    "ad": "DANS VE MÜZİK PRODÜKSİYONU V",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -3806,7 +3806,7 @@
   {
    "kod": "THO495",
    "ad": "MÜZİK ÖĞRETMENLİĞİ UYGULAMASI I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -3820,7 +3820,7 @@
   {
    "kod": "THO497",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (ÜSKÜP)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -3834,7 +3834,7 @@
   {
    "kod": "THO499",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (KARŞILAMA-HORA)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -3848,7 +3848,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -3862,7 +3862,7 @@
   {
    "kod": "THO408",
    "ad": "RİTM BİLGİSİ VIII",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -3876,7 +3876,7 @@
   {
    "kod": "THO412",
    "ad": "TM SOLFEJ VE KURAMI VI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -3890,7 +3890,7 @@
   {
    "kod": "THO416",
    "ad": "THO MÜZİĞİ REPERTUARI II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -3904,7 +3904,7 @@
   {
    "kod": "THO420",
    "ad": "DANS VE MÜZİK PRODÜKSİYONU VI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -3918,7 +3918,7 @@
   {
    "kod": "THO484",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (HALAY)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -3932,7 +3932,7 @@
   {
    "kod": "THO496",
    "ad": "MÜZİK ÖĞRETMENLİĞİ UYGULAMASI II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -3946,7 +3946,7 @@
   {
    "kod": "THO498",
    "ad": "TÜRK HALK OYUNLARI VE MÜZİĞİ (GAZİANTEP)",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -3960,7 +3960,7 @@
   {
    "kod": "THO115",
    "ad": "ZURNA I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.I - SEÇMELİ ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -3974,7 +3974,7 @@
   {
    "kod": "THO125",
    "ad": "BAĞLAMA",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.I - SEÇMELİ ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -3988,7 +3988,7 @@
   {
    "kod": "THO127",
    "ad": "KABAK KEMANE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.I - SEÇMELİ ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -4002,7 +4002,7 @@
   {
    "kod": "THO129",
    "ad": "KAVAL",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.I - SEÇMELİ ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -4016,7 +4016,7 @@
   {
    "kod": "THO133",
    "ad": "AKORDEON",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.I - SEÇMELİ ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -4030,7 +4030,7 @@
   {
    "kod": "THO135",
    "ad": "KLARNET",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.I - SEÇMELİ ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -4044,7 +4044,7 @@
   {
    "kod": "THO145",
    "ad": "KEMENÇE I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.I - SEÇMELİ ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -4058,7 +4058,7 @@
   {
    "kod": "BLG107",
    "ad": "BİLGİSAYARA GİRİŞ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.1.YY - THO (a) Seçmeli 1 yy.",
    "tur": "Seçmeli",
@@ -4072,7 +4072,7 @@
   {
    "kod": "THO141",
    "ad": "PİYANO I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.1.YY - THO (a) Seçmeli 1 yy.",
    "tur": "Seçmeli",
@@ -4086,7 +4086,7 @@
   {
    "kod": "THO143",
    "ad": "HAREKET TEKNİĞİ I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.1.YY - THO (a) Seçmeli 1 yy.",
    "tur": "Seçmeli",
@@ -4100,7 +4100,7 @@
   {
    "kod": "THO116",
    "ad": "ZURNA II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.II - SEÇMELİ ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -4114,7 +4114,7 @@
   {
    "kod": "THO126",
    "ad": "BAĞLAMA",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.II - SEÇMELİ ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -4128,7 +4128,7 @@
   {
    "kod": "THO128",
    "ad": "KABAK KEMANE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.II - SEÇMELİ ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -4142,7 +4142,7 @@
   {
    "kod": "THO130",
    "ad": "KAVAL",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.II - SEÇMELİ ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -4156,7 +4156,7 @@
   {
    "kod": "THO134",
    "ad": "AKORDEON",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.II - SEÇMELİ ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -4170,7 +4170,7 @@
   {
    "kod": "THO136",
    "ad": "KLARNET",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.II - SEÇMELİ ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -4184,7 +4184,7 @@
   {
    "kod": "THO146",
    "ad": "KEMENÇE II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.II - SEÇMELİ ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -4198,7 +4198,7 @@
   {
    "kod": "AT001",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.2.YY - THO (a) Seçmeli 2. yy",
    "tur": "Seçmeli",
@@ -4212,7 +4212,7 @@
   {
    "kod": "THO142",
    "ad": "PİYANO II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.2.YY - THO (a) Seçmeli 2. yy",
    "tur": "Seçmeli",
@@ -4226,7 +4226,7 @@
   {
    "kod": "THO144",
    "ad": "HAREKET TEKNİĞİ II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.2.YY - THO (a) Seçmeli 2. yy",
    "tur": "Seçmeli",
@@ -4240,7 +4240,7 @@
   {
    "kod": "UYG104",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.2.YY - THO (a) Seçmeli 2. yy",
    "tur": "Seçmeli",
@@ -4254,7 +4254,7 @@
   {
    "kod": "THO225",
    "ad": "BAĞLAMA",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.III - SEÇMELİ ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -4268,7 +4268,7 @@
   {
    "kod": "THO227",
    "ad": "KABAK KEMANE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.III - SEÇMELİ ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -4282,7 +4282,7 @@
   {
    "kod": "THO229",
    "ad": "KAVAL",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.III - SEÇMELİ ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -4296,7 +4296,7 @@
   {
    "kod": "THO233",
    "ad": "AKORDEON",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.III - SEÇMELİ ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -4310,7 +4310,7 @@
   {
    "kod": "THO235",
    "ad": "KLARNET",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.III - SEÇMELİ ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -4324,7 +4324,7 @@
   {
    "kod": "THO249",
    "ad": "KEMENÇE III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.III - SEÇMELİ ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -4338,7 +4338,7 @@
   {
    "kod": "THO251",
    "ad": "ZURNA III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.III - SEÇMELİ ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -4352,7 +4352,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.3.YY - THO (a) Seçmeli 3. yy",
    "tur": "Seçmeli",
@@ -4366,7 +4366,7 @@
   {
    "kod": "THO243",
    "ad": "PİYANO III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.3.YY - THO (a) Seçmeli 3. yy",
    "tur": "Seçmeli",
@@ -4380,7 +4380,7 @@
   {
    "kod": "THO245",
    "ad": "BALE III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.3.YY - THO (a) Seçmeli 3. yy",
    "tur": "Seçmeli",
@@ -4394,7 +4394,7 @@
   {
    "kod": "THO263",
    "ad": "YAPAY ZEKA VE MÜZİK I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.3.YY - THO (a) Seçmeli 3. yy",
    "tur": "Seçmeli",
@@ -4408,7 +4408,7 @@
   {
    "kod": "THO226",
    "ad": "BAĞLAMA",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.IV - SEÇMELİ ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -4422,7 +4422,7 @@
   {
    "kod": "THO228",
    "ad": "KABAK KEMANE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.IV - SEÇMELİ ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -4436,7 +4436,7 @@
   {
    "kod": "THO230",
    "ad": "KAVAL",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.IV - SEÇMELİ ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -4450,7 +4450,7 @@
   {
    "kod": "THO234",
    "ad": "AKORDEON",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.IV - SEÇMELİ ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -4464,7 +4464,7 @@
   {
    "kod": "THO236",
    "ad": "KLARNET",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.IV - SEÇMELİ ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -4478,7 +4478,7 @@
   {
    "kod": "THO250",
    "ad": "KEMENÇE IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.IV - SEÇMELİ ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -4492,7 +4492,7 @@
   {
    "kod": "THO252",
    "ad": "ZURNA IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.IV - SEÇMELİ ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -4506,7 +4506,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.4.YY - THO (a) Seçmeli 4.yy",
    "tur": "Seçmeli",
@@ -4520,7 +4520,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.4.YY - THO (a) Seçmeli 4.yy",
    "tur": "Seçmeli",
@@ -4534,7 +4534,7 @@
   {
    "kod": "THO244",
    "ad": "PİYANO IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.4.YY - THO (a) Seçmeli 4.yy",
    "tur": "Seçmeli",
@@ -4548,7 +4548,7 @@
   {
    "kod": "THO246",
    "ad": "BALE IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.4.YY - THO (a) Seçmeli 4.yy",
    "tur": "Seçmeli",
@@ -4562,7 +4562,7 @@
   {
    "kod": "THO248",
    "ad": "KADIN ZEYBEK OYUNLARINDA TAVIR",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.4.YY - THO (a) Seçmeli 4.yy",
    "tur": "Seçmeli",
@@ -4576,7 +4576,7 @@
   {
    "kod": "THU202",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a)SEÇ.4.YY - THO (a) Seçmeli 4.yy",
    "tur": "Seçmeli",
@@ -4590,7 +4590,7 @@
   {
    "kod": "THO325",
    "ad": "BAĞLAMA",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.V - SEÇMELİ ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -4604,7 +4604,7 @@
   {
    "kod": "THO327",
    "ad": "KABAK KEMANE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.V - SEÇMELİ ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -4618,7 +4618,7 @@
   {
    "kod": "THO329",
    "ad": "KAVAL",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.V - SEÇMELİ ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -4632,7 +4632,7 @@
   {
    "kod": "THO333",
    "ad": "AKORDEON",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.V - SEÇMELİ ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -4646,7 +4646,7 @@
   {
    "kod": "THO335",
    "ad": "KLARNET",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.V - SEÇMELİ ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -4660,7 +4660,7 @@
   {
    "kod": "THO359",
    "ad": "KEMENÇE V",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.V - SEÇMELİ ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -4674,7 +4674,7 @@
   {
    "kod": "THO363",
    "ad": "ZURNA V",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.V - SEÇMELİ ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -4688,7 +4688,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -4702,7 +4702,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -4716,7 +4716,7 @@
   {
    "kod": "THO339",
    "ad": "PİYANO V",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -4730,7 +4730,7 @@
   {
    "kod": "THO341",
    "ad": "TÜRK MÜZİĞİ REPERTUVARI I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -4744,7 +4744,7 @@
   {
    "kod": "THO343",
    "ad": "YARDIMCI ÇALGI I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -4758,7 +4758,7 @@
   {
    "kod": "THO345",
    "ad": "MAKYAJ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -4772,7 +4772,7 @@
   {
    "kod": "THO351",
    "ad": "THO SAHNELEME TASARIM I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -4786,7 +4786,7 @@
   {
    "kod": "THO353",
    "ad": "RİTM SAZ (DOLİ) I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -4800,7 +4800,7 @@
   {
    "kod": "THO355",
    "ad": "BEDEN DİLİ EĞİTİMİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -4814,7 +4814,7 @@
   {
    "kod": "THO357",
    "ad": "TÜRK HALK OYUNLARI I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -4828,7 +4828,7 @@
   {
    "kod": "THO361",
    "ad": "TEMEL FOTOĞRAFCILIK",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.5.YY - THO(a) SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -4842,7 +4842,7 @@
   {
    "kod": "Bİİ305DSG",
    "ad": "DİN SOSYOLOJİSİNE GİRİŞ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -4856,7 +4856,7 @@
   {
    "kod": "DTMK305HALO",
    "ad": "HALK OYUNLARI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -4870,7 +4870,7 @@
   {
    "kod": "DTMK305TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -4884,7 +4884,7 @@
   {
    "kod": "İİB307IGP",
    "ad": "INTRODUCTION TO GLOBAL POLITICS",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -4898,7 +4898,7 @@
   {
    "kod": "YEN305GYKA",
    "ad": "GİRİŞİMCİLİKTE YATIRIM KARAR ANALİZLERİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -4912,7 +4912,7 @@
   {
    "kod": "THO326",
    "ad": "BAĞLAMA",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VI - SEÇMELİ ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -4926,7 +4926,7 @@
   {
    "kod": "THO328",
    "ad": "KABAK KEMANE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VI - SEÇMELİ ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -4940,7 +4940,7 @@
   {
    "kod": "THO330",
    "ad": "KAVAL",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VI - SEÇMELİ ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -4954,7 +4954,7 @@
   {
    "kod": "THO334",
    "ad": "AKORDEON",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VI - SEÇMELİ ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -4968,7 +4968,7 @@
   {
    "kod": "THO336",
    "ad": "KLARNET",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VI - SEÇMELİ ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -4982,7 +4982,7 @@
   {
    "kod": "THO360",
    "ad": "KEMENÇE VI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VI - SEÇMELİ ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -4996,7 +4996,7 @@
   {
    "kod": "THO364",
    "ad": "ZURNA VI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VI - SEÇMELİ ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -5010,7 +5010,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.6.YY - THO(a) SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -5024,7 +5024,7 @@
   {
    "kod": "THO340",
    "ad": "PİYANO VI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.6.YY - THO(a) SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -5038,7 +5038,7 @@
   {
    "kod": "THO342",
    "ad": "TÜRK MÜZİĞİ REPERTUVARI II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.6.YY - THO(a) SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -5052,7 +5052,7 @@
   {
    "kod": "THO344",
    "ad": "YARDIMCI ÇALGI II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.6.YY - THO(a) SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -5066,7 +5066,7 @@
   {
    "kod": "THO346",
    "ad": "KARAKTER MAKYAJI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.6.YY - THO(a) SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -5080,7 +5080,7 @@
   {
    "kod": "THO348",
    "ad": "MODERN DANS",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.6.YY - THO(a) SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -5094,7 +5094,7 @@
   {
    "kod": "THO352",
    "ad": "THO SAHNELEME TASARIM II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.6.YY - THO(a) SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -5108,7 +5108,7 @@
   {
    "kod": "THO354",
    "ad": "RİTM SAZ (DOLİ) II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.6.YY - THO(a) SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -5122,7 +5122,7 @@
   {
    "kod": "THO358",
    "ad": "TÜRK HALK OYUNLARI II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.6.YY - THO(a) SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -5136,7 +5136,7 @@
   {
    "kod": "THO362",
    "ad": "TEMEL KAMERA UYGULAMALARI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.6.YY - THO(a) SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -5150,7 +5150,7 @@
   {
    "kod": "Bİİ305DS",
    "ad": "DİN VE SANAT",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -5164,7 +5164,7 @@
   {
    "kod": "Bİİ306DİVKA",
    "ad": "DİNLER VE KADIN",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -5178,7 +5178,7 @@
   {
    "kod": "DTMK306SAMR",
    "ad": "SANAT MÜZİK VE RİTİM",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -5192,7 +5192,7 @@
   {
    "kod": "ENF305WEB",
    "ad": "WEB TASARIMI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -5206,7 +5206,7 @@
   {
    "kod": "FEN305BİYO",
    "ad": "BİYOTEKNOLOJİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -5220,7 +5220,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -5234,7 +5234,7 @@
   {
    "kod": "MOD306MLB",
    "ad": "MALZEME BİLGİSİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -5248,7 +5248,7 @@
   {
    "kod": "YEN306GTOD",
    "ad": "GİRİŞİMCİLİKTE TASARIM ODAKLI DÜŞÜNME",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -5262,7 +5262,7 @@
   {
    "kod": "THO425",
    "ad": "BAĞLAMA",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VII - SEÇMELİ ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -5276,7 +5276,7 @@
   {
    "kod": "THO427",
    "ad": "KABAK KEMANE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VII - SEÇMELİ ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -5290,7 +5290,7 @@
   {
    "kod": "THO429",
    "ad": "KAVAL",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VII - SEÇMELİ ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -5304,7 +5304,7 @@
   {
    "kod": "THO433",
    "ad": "AKORDEON",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VII - SEÇMELİ ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -5318,7 +5318,7 @@
   {
    "kod": "THO435",
    "ad": "KLARNET",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VII - SEÇMELİ ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -5332,7 +5332,7 @@
   {
    "kod": "THO491",
    "ad": "KEMENÇE VII",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VII - SEÇMELİ ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -5346,7 +5346,7 @@
   {
    "kod": "THO493",
    "ad": "ZURNA VII",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VII - SEÇMELİ ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -5360,7 +5360,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.I - THO(a) SEÇMELİ I",
    "tur": "Seçmeli",
@@ -5374,7 +5374,7 @@
   {
    "kod": "THO439",
    "ad": "PİYANO VII",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.I - THO(a) SEÇMELİ I",
    "tur": "Seçmeli",
@@ -5388,7 +5388,7 @@
   {
    "kod": "THO443",
    "ad": "YARDIMCI ÇALGI III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.I - THO(a) SEÇMELİ I",
    "tur": "Seçmeli",
@@ -5402,7 +5402,7 @@
   {
    "kod": "THO445",
    "ad": "ZEYBEK",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.I - THO(a) SEÇMELİ I",
    "tur": "Seçmeli",
@@ -5416,7 +5416,7 @@
   {
    "kod": "THO447",
    "ad": "THO ÖĞRETİM YÖNTEM TEKNİKLERİ I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.I - THO(a) SEÇMELİ I",
    "tur": "Seçmeli",
@@ -5430,7 +5430,7 @@
   {
    "kod": "THO475",
    "ad": "RİTM SAZ (BENDİR) I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.I - THO(a) SEÇMELİ I",
    "tur": "Seçmeli",
@@ -5444,7 +5444,7 @@
   {
    "kod": "THO477",
    "ad": "SAHNELEME VE PRODÜKSİYON I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.I - THO(a) SEÇMELİ I",
    "tur": "Seçmeli",
@@ -5458,7 +5458,7 @@
   {
    "kod": "THO441",
    "ad": "TÜRK MÜZİĞİ REPERTUVARI III",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.III - THO(a) SEÇMELİ III",
    "tur": "Seçmeli",
@@ -5472,7 +5472,7 @@
   {
    "kod": "THO451",
    "ad": "OKUL MÜZİĞİ I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.III - THO(a) SEÇMELİ III",
    "tur": "Seçmeli",
@@ -5486,7 +5486,7 @@
   {
    "kod": "THO455",
    "ad": "KAŞIK",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.III - THO(a) SEÇMELİ III",
    "tur": "Seçmeli",
@@ -5500,7 +5500,7 @@
   {
    "kod": "THO479",
    "ad": "DANS TARİHİ I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.III - THO(a) SEÇMELİ III",
    "tur": "Seçmeli",
@@ -5514,7 +5514,7 @@
   {
    "kod": "THO481",
    "ad": "SAHNE KOSTÜMÜ I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.III - THO(a) SEÇMELİ III",
    "tur": "Seçmeli",
@@ -5528,7 +5528,7 @@
   {
    "kod": "ISR401",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.V - THO(a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -5542,7 +5542,7 @@
   {
    "kod": "THO461",
    "ad": "BİLGİSAYARLI NOTA YAZIMI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.V - THO(a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -5556,7 +5556,7 @@
   {
    "kod": "THO465",
    "ad": "HORA-KARŞILAMA",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.V - THO(a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -5570,7 +5570,7 @@
   {
    "kod": "THO469",
    "ad": "DİKTE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.V - THO(a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -5584,7 +5584,7 @@
   {
    "kod": "THO471",
    "ad": "KOSTÜM TASARIM I",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.V - THO(a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -5598,7 +5598,7 @@
   {
    "kod": "THO483",
    "ad": "DANSLA ANLATIM",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.V - THO(a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -5612,7 +5612,7 @@
   {
    "kod": "THO485",
    "ad": "SANATSAL İLETİŞİM",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.V - THO(a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -5626,7 +5626,7 @@
   {
    "kod": "THO487",
    "ad": "DANS VE SPOR",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.V - THO(a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -5640,7 +5640,7 @@
   {
    "kod": "THO426",
    "ad": "BAĞLAMA",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VIII - SEÇMELİ ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -5654,7 +5654,7 @@
   {
    "kod": "THO428",
    "ad": "KABAK KEMANE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VIII - SEÇMELİ ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -5668,7 +5668,7 @@
   {
    "kod": "THO430",
    "ad": "KAVAL",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VIII - SEÇMELİ ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -5682,7 +5682,7 @@
   {
    "kod": "THO434",
    "ad": "AKORDEON",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VIII - SEÇMELİ ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -5696,7 +5696,7 @@
   {
    "kod": "THO436",
    "ad": "KLARNET",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VIII - SEÇMELİ ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -5710,7 +5710,7 @@
   {
    "kod": "THO492",
    "ad": "KEMENÇE VIII",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VIII - SEÇMELİ ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -5724,7 +5724,7 @@
   {
    "kod": "THO494",
    "ad": "ZURNA VIII",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SÇ.Ç.E.VIII - SEÇMELİ ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -5738,7 +5738,7 @@
   {
    "kod": "THO440",
    "ad": "PİYANO VIII",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.II - THO(a) SEÇMELİ II",
    "tur": "Seçmeli",
@@ -5752,7 +5752,7 @@
   {
    "kod": "THO444",
    "ad": "YARDIMCI ÇALGI IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.II - THO(a) SEÇMELİ II",
    "tur": "Seçmeli",
@@ -5766,7 +5766,7 @@
   {
    "kod": "THO446",
    "ad": "HALAY",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.II - THO(a) SEÇMELİ II",
    "tur": "Seçmeli",
@@ -5780,7 +5780,7 @@
   {
    "kod": "THO448",
    "ad": "THO ÖĞRETİM YÖNTEM TEKNİKLERİ II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.II - THO(a) SEÇMELİ II",
    "tur": "Seçmeli",
@@ -5794,7 +5794,7 @@
   {
    "kod": "THO476",
    "ad": "RİTM SAZ (BENDİR) II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.II - THO(a) SEÇMELİ II",
    "tur": "Seçmeli",
@@ -5808,7 +5808,7 @@
   {
    "kod": "THO478",
    "ad": "SAHNELEME VE PRODÜKSİYON II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.II - THO(a) SEÇMELİ II",
    "tur": "Seçmeli",
@@ -5822,7 +5822,7 @@
   {
    "kod": "THO442",
    "ad": "TÜRK MÜZİĞİ REPERTUVARI IV",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.IV - THO(a) SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -5836,7 +5836,7 @@
   {
    "kod": "THO452",
    "ad": "OKUL MÜZİĞİ II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.IV - THO(a) SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -5850,7 +5850,7 @@
   {
    "kod": "THO456",
    "ad": "TEKE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.IV - THO(a) SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -5864,7 +5864,7 @@
   {
    "kod": "THO474",
    "ad": "THO ALAN ARAŞTIRMASI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.IV - THO(a) SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -5878,7 +5878,7 @@
   {
    "kod": "THO480",
    "ad": "DANS TARİHİ II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.IV - THO(a) SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -5892,7 +5892,7 @@
   {
    "kod": "THO482",
    "ad": "SAHNE KOSTÜMÜ II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.IV - THO(a) SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -5906,7 +5906,7 @@
   {
    "kod": "GRK402",
    "ad": "GİRİŞİMCİLİK VE KALİTE",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.VI - THO(a) SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -5920,7 +5920,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.VI - THO(a) SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -5934,7 +5934,7 @@
   {
    "kod": "THO464",
    "ad": "BAR",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.VI - THO(a) SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -5948,7 +5948,7 @@
   {
    "kod": "THO472",
    "ad": "KOSTÜM TASARIMI II",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.VI - THO(a) SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -5962,7 +5962,7 @@
   {
    "kod": "THO486",
    "ad": "SANAT VE ORGANİZASYON",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.VI - THO(a) SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -5976,7 +5976,7 @@
   {
    "kod": "THO488",
    "ad": "KOREOGRAFİ",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.VI - THO(a) SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -5990,7 +5990,7 @@
   {
    "kod": "THO490",
    "ad": "SEYİRLİK OYUNLAR",
-   "mufredat": "Türk Halk Oyunları (a)",
+   "mufredat": "2020 Yılı Müfredatı (Türk Halk Oyunları (a))",
    "yariyil": null,
    "grup": "THO(a).SEÇ.VI - THO(a) SEÇMELİ VI",
    "tur": "Seçmeli",

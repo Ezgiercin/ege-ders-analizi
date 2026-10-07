@@ -12,7 +12,7 @@
   {
    "kod": "9393015012025",
    "ad": "Laboratuvar Hayvanlarının Anatomısı",
-   "mufredat": null,
+   "mufredat": "2025 Laboratuvar HAyvanları Bilimi Yüksek Lisans Programı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9393015032025",
    "ad": "Laboratuvar Hayvanlarının Fızyolojısı",
-   "mufredat": null,
+   "mufredat": "2025 Laboratuvar HAyvanları Bilimi Yüksek Lisans Programı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9393015052025",
    "ad": "Laboratuvar Hayvanlarının Refahı",
-   "mufredat": null,
+   "mufredat": "2025 Laboratuvar HAyvanları Bilimi Yüksek Lisans Programı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9393015072025",
    "ad": "Laboratuvar Hayvanlarının Üretımı, Yetıştırılmesı, Beslenmesı ve Bakımı",
-   "mufredat": null,
+   "mufredat": "2025 Laboratuvar HAyvanları Bilimi Yüksek Lisans Programı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "9393015092025",
    "ad": "Laboratuvar Hayvanlarının Hastalıkları ve Tedavılerı",
-   "mufredat": null,
+   "mufredat": "2025 Laboratuvar HAyvanları Bilimi Yüksek Lisans Programı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "9393015002025",
    "ad": "Laboratuvar Hayvanlarında Anestezısı ve Cerrahı Teknıkler",
-   "mufredat": null,
+   "mufredat": "2025 Laboratuvar HAyvanları Bilimi Yüksek Lisans Programı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "9393015022025",
    "ad": "Laboratuvar Hayvanlarının Hıstolojısı",
-   "mufredat": null,
+   "mufredat": "2025 Laboratuvar HAyvanları Bilimi Yüksek Lisans Programı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "9393015042025",
    "ad": "In vıvo Çalışmalarda Laboratuvar Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2025 Laboratuvar HAyvanları Bilimi Yüksek Lisans Programı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "BAT102",
    "ad": "Bılımsel Araştırmanın Temellerı",
-   "mufredat": null,
+   "mufredat": "2025 Laboratuvar HAyvanları Bilimi Yüksek Lisans Programı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2025 Laboratuvar HAyvanları Bilimi Yüksek Lisans Programı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2025 Laboratuvar HAyvanları Bilimi Yüksek Lisans Programı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2025 Laboratuvar HAyvanları Bilimi Yüksek Lisans Programı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2025 Laboratuvar HAyvanları Bilimi Yüksek Lisans Programı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2025 Laboratuvar HAyvanları Bilimi Yüksek Lisans Programı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",

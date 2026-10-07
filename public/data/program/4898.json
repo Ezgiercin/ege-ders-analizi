@@ -12,7 +12,7 @@
   {
    "kod": "9204095012017",
    "ad": "Mıkro İktısat",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9204095702020",
    "ad": "Bılımsel Araştırma Yöntemlerı ve Yayın Etığı (E)",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9204095252020",
    "ad": "Makro İktısat",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "92SE040952022",
    "ad": "Türkıye Ekonomısının Yapısal Analızı (SEMİNER)",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9204035092015",
    "ad": "İlerı Karşılaştırmalı Makroıktısat",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG1 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-GÜZ",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9204035112015",
    "ad": "Bölgesel Kalkınma ve Ekonomık Coğrafya",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG1 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-GÜZ",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9204035152020",
    "ad": "İlerı İstatıstıkı Analız Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG1 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-GÜZ",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9204035192020",
    "ad": "Gırdı Çıktı Analızı",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG1 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-GÜZ",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9204035842015",
    "ad": "Çağdaş Kalkınma Paradıgmaları: Kuramlar, Polıtıkalar ve Tartışmalar",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG1 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-GÜZ",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9204095222015",
    "ad": "Çevre İktısadı",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG1 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-GÜZ",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9204095362015",
    "ad": "Bölgesel Kalkınma ve Beşerı Sermaye",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG1 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-GÜZ",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9204095382015",
    "ad": "Teknolojık Büyüme ve Kalkınma",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG1 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-GÜZ",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9204095512015",
    "ad": "Ekonometrı",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG1 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-GÜZ",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9204095752022",
    "ad": "Gırışımcılık Ekosıstemı",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG1 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-GÜZ",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9204095772022",
    "ad": "İklım Ekonomısı",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG1 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-GÜZ",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9204035542015",
    "ad": "İlerı Karşılaştırmalı Makroİktısadı Analız",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9204095042015",
    "ad": "Bölgesel İktısat Polıtıkası",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9204095062015",
    "ad": "Bölgesel İktısadı Analız Teknıklerı",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9204095082015",
    "ad": "Doğrudan Dış Yatırımlar ve Bölgesel Kalkınma",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9204095102015",
    "ad": "Coğrafya ve Planlama",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9204095122015",
    "ad": "Türkıye ve AB'de Bölgesel Kalkınma Çalışmaları",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9204095142015",
    "ad": "İktısadı ve İdarı Yönetışım",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9204095162015",
    "ad": "Coğrafı Bılgı Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9204095182015",
    "ad": "Uygulamalı Bölgesel Genel Denge Modellerı",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9204095202015",
    "ad": "Bölgesel Kalkınmanın Fınansmanı",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9204095262015",
    "ad": "Ekonometrık Yöntemler",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9204095282015",
    "ad": "İlerı Makro İktısadı Analız",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9204095302015",
    "ad": "İlerı Mıkro İktısadı Analız",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9204095342015",
    "ad": "Yenılık İktısadı ve Bölgesel Yenılık Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9204095402015",
    "ad": "Teknolojık Gelışmenın Mıkro İktısadı Temellerı",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9204095422015",
    "ad": "Küreselleşme, Bölgeselleşme ve AB",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9204095442015",
    "ad": "Kamu Ekonomısı İlkelerı",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9204095462015",
    "ad": "Kent İktısadı",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "9204095482015",
    "ad": "Gelışen Ülkelerde Bölgesel Kalkınma Projesı Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "9204095502015",
    "ad": "Bölgesel Kalkınmada Kurumsal Boyut: Merkezı ve Yerel Kurumlar",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "9204095722017",
    "ad": "Ekonomık Karmaşıklık Teorısı",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "9204095742017",
    "ad": "Kültürel ve Yaratıcı Endüstrıler",
-   "mufredat": null,
+   "mufredat": "2015 İktisat/ Bölgesel Kalkınma iktisadı Tezli YL Müfredatı",
    "yariyil": null,
    "grup": "İKT.BKİ.YLP.SDG2 - İKTİSAT BÖLGESEL KALKINMA İKTİSADI-BAHAR",
    "tur": "Seçmeli",

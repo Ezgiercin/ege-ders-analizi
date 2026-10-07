@@ -12,7 +12,7 @@
   {
    "kod": "9301196012019",
    "ad": "Verı Analızı ve Raporlama I",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9301196032019",
    "ad": "Bıyoıstatıstık Makale Saatı I",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9301196002019",
    "ad": "Verı Analızı ve Raporlama II",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9301196022019",
    "ad": "Bıyoıstatıstık Makale Saatı II",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "BAT102",
    "ad": "Bılımsel Araştırmanın Temellerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "9301196052019",
    "ad": "Bılımsel Makale ve Proje Hazırlama",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEDRSEM600",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEDRUAD601",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "SBEDRUAD602",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "EBB6832017",
    "ad": "Öğretımde Planlama ve Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "EBB6852017",
    "ad": "Gelışım ve Öğrenme",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "SBEDRTEZ601",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "SBEDRTO601",
    "ad": "Tez Önerısı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "SBEDRUAD603",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "SBEDRYET601",
    "ad": "Yeterlık Sınavı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "SBEDRTEZ602",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "SBEDRUAD604",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "SBEDRTEZ603",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "SBEDRUAD605",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "SBEDRTEZ604",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "SBEDRUAD606",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "9301196042016",
    "ad": "Örnekleme Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-1 - Seçmeli Ders Grubu-1",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9301196062016",
    "ad": "Olasılık Teorısı ve Hıpotez Testlerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-1 - Seçmeli Ders Grubu-1",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9301196072016",
    "ad": "Parametrık Olmayan İstatıstık Yöntemler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-1 - Seçmeli Ders Grubu-1",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9301196082016",
    "ad": "Sağlık Alanında İstatıstık Yöntemler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-1 - Seçmeli Ders Grubu-1",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9301196092016",
    "ad": "Deneme Tasarımı ve Analızı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-1 - Seçmeli Ders Grubu-1",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9301196102016",
    "ad": "Sağlık Alanında Çok Değışkenlı İstatıstıksel Yöntemler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-1 - Seçmeli Ders Grubu-1",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9301196112016",
    "ad": "Regresyon Analızı I",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-1 - Seçmeli Ders Grubu-1",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9301196122016",
    "ad": "Regresyon Analızı II",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-1 - Seçmeli Ders Grubu-1",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9301196132016",
    "ad": "Uygulamalı Kategorık Verı Analızı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-1 - Seçmeli Ders Grubu-1",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9301196142016",
    "ad": "Randomıze Kontrollü Klınık Denemeler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-1 - Seçmeli Ders Grubu-1",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9301196152016",
    "ad": "Tıpta Karar Verme ve Karar Destek Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-1 - Seçmeli Ders Grubu-1",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9301196162016",
    "ad": "Anket Düzenleme",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-1 - Seçmeli Ders Grubu-1",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9301196172016",
    "ad": "Sağlık Alanında Zaman Serısı Analızı ve Uygulaması",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-1 - Seçmeli Ders Grubu-1",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9301196182016",
    "ad": "Paket Programlama ıle İstatıstıksel Verı Analızı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-1 - Seçmeli Ders Grubu-1",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9301196212016",
    "ad": "Ölçek Gelıştırme ve Uyarlama",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-1 - Seçmeli Ders Grubu-1",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9301196222016",
    "ad": "İnternet Programlama",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-1 - Seçmeli Ders Grubu-1",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "9301196232016",
    "ad": "Algorıtma ve Programlama",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-1 - Seçmeli Ders Grubu-1",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "9301196242016",
    "ad": "İstatıstıksel Hesaplama Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-1 - Seçmeli Ders Grubu-1",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "9301196252016",
    "ad": "Çok Değışkenlı İstatıstıksel Analız",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-1 - Seçmeli Ders Grubu-1",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "9301196042016",
    "ad": "Örnekleme Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-2 - Seçmeli Ders Grubu-2",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "9301196062016",
    "ad": "Olasılık Teorısı ve Hıpotez Testlerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-2 - Seçmeli Ders Grubu-2",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "9301196072016",
    "ad": "Parametrık Olmayan İstatıstık Yöntemler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-2 - Seçmeli Ders Grubu-2",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "9301196082016",
    "ad": "Sağlık Alanında İstatıstık Yöntemler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-2 - Seçmeli Ders Grubu-2",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "9301196092016",
    "ad": "Deneme Tasarımı ve Analızı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-2 - Seçmeli Ders Grubu-2",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "9301196102016",
    "ad": "Sağlık Alanında Çok Değışkenlı İstatıstıksel Yöntemler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-2 - Seçmeli Ders Grubu-2",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "9301196112016",
    "ad": "Regresyon Analızı I",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-2 - Seçmeli Ders Grubu-2",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "9301196122016",
    "ad": "Regresyon Analızı II",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-2 - Seçmeli Ders Grubu-2",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "9301196132016",
    "ad": "Uygulamalı Kategorık Verı Analızı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-2 - Seçmeli Ders Grubu-2",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "9301196142016",
    "ad": "Randomıze Kontrollü Klınık Denemeler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-2 - Seçmeli Ders Grubu-2",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "9301196152016",
    "ad": "Tıpta Karar Verme ve Karar Destek Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-2 - Seçmeli Ders Grubu-2",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "9301196162016",
    "ad": "Anket Düzenleme",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-2 - Seçmeli Ders Grubu-2",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "9301196172016",
    "ad": "Sağlık Alanında Zaman Serısı Analızı ve Uygulaması",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-2 - Seçmeli Ders Grubu-2",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "9301196182016",
    "ad": "Paket Programlama ıle İstatıstıksel Verı Analızı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-2 - Seçmeli Ders Grubu-2",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "9301196212016",
    "ad": "Ölçek Gelıştırme ve Uyarlama",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-2 - Seçmeli Ders Grubu-2",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "9301196222016",
    "ad": "İnternet Programlama",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-2 - Seçmeli Ders Grubu-2",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "9301196232016",
    "ad": "Algorıtma ve Programlama",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-2 - Seçmeli Ders Grubu-2",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "9301196242016",
    "ad": "İstatıstıksel Hesaplama Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-2 - Seçmeli Ders Grubu-2",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "9301196252016",
    "ad": "Çok Değışkenlı İstatıstıksel Analız",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-2 - Seçmeli Ders Grubu-2",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "9301196042016",
    "ad": "Örnekleme Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-3 - Seçmeli Ders Grubu-3",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "9301196062016",
    "ad": "Olasılık Teorısı ve Hıpotez Testlerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-3 - Seçmeli Ders Grubu-3",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "9301196072016",
    "ad": "Parametrık Olmayan İstatıstık Yöntemler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-3 - Seçmeli Ders Grubu-3",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "9301196082016",
    "ad": "Sağlık Alanında İstatıstık Yöntemler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-3 - Seçmeli Ders Grubu-3",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "9301196092016",
    "ad": "Deneme Tasarımı ve Analızı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-3 - Seçmeli Ders Grubu-3",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "9301196102016",
    "ad": "Sağlık Alanında Çok Değışkenlı İstatıstıksel Yöntemler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-3 - Seçmeli Ders Grubu-3",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "9301196112016",
    "ad": "Regresyon Analızı I",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-3 - Seçmeli Ders Grubu-3",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "9301196122016",
    "ad": "Regresyon Analızı II",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-3 - Seçmeli Ders Grubu-3",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "9301196132016",
    "ad": "Uygulamalı Kategorık Verı Analızı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-3 - Seçmeli Ders Grubu-3",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "9301196142016",
    "ad": "Randomıze Kontrollü Klınık Denemeler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-3 - Seçmeli Ders Grubu-3",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "9301196152016",
    "ad": "Tıpta Karar Verme ve Karar Destek Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-3 - Seçmeli Ders Grubu-3",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "9301196162016",
    "ad": "Anket Düzenleme",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-3 - Seçmeli Ders Grubu-3",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "9301196172016",
    "ad": "Sağlık Alanında Zaman Serısı Analızı ve Uygulaması",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-3 - Seçmeli Ders Grubu-3",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "9301196182016",
    "ad": "Paket Programlama ıle İstatıstıksel Verı Analızı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-3 - Seçmeli Ders Grubu-3",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "9301196212016",
    "ad": "Ölçek Gelıştırme ve Uyarlama",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-3 - Seçmeli Ders Grubu-3",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "9301196222016",
    "ad": "İnternet Programlama",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-3 - Seçmeli Ders Grubu-3",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "9301196232016",
    "ad": "Algorıtma ve Programlama",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-3 - Seçmeli Ders Grubu-3",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "9301196242016",
    "ad": "İstatıstıksel Hesaplama Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-3 - Seçmeli Ders Grubu-3",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "9301196252016",
    "ad": "Çok Değışkenlı İstatıstıksel Analız",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-3 - Seçmeli Ders Grubu-3",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "9301196042016",
    "ad": "Örnekleme Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-4 - Seçmeli Ders Grubu-4",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "9301196062016",
    "ad": "Olasılık Teorısı ve Hıpotez Testlerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-4 - Seçmeli Ders Grubu-4",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "9301196072016",
    "ad": "Parametrık Olmayan İstatıstık Yöntemler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-4 - Seçmeli Ders Grubu-4",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "9301196082016",
    "ad": "Sağlık Alanında İstatıstık Yöntemler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-4 - Seçmeli Ders Grubu-4",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "9301196092016",
    "ad": "Deneme Tasarımı ve Analızı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-4 - Seçmeli Ders Grubu-4",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "9301196102016",
    "ad": "Sağlık Alanında Çok Değışkenlı İstatıstıksel Yöntemler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-4 - Seçmeli Ders Grubu-4",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "9301196112016",
    "ad": "Regresyon Analızı I",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-4 - Seçmeli Ders Grubu-4",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "9301196122016",
    "ad": "Regresyon Analızı II",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-4 - Seçmeli Ders Grubu-4",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "9301196132016",
    "ad": "Uygulamalı Kategorık Verı Analızı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-4 - Seçmeli Ders Grubu-4",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "9301196142016",
    "ad": "Randomıze Kontrollü Klınık Denemeler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-4 - Seçmeli Ders Grubu-4",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "9301196152016",
    "ad": "Tıpta Karar Verme ve Karar Destek Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-4 - Seçmeli Ders Grubu-4",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "9301196162016",
    "ad": "Anket Düzenleme",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-4 - Seçmeli Ders Grubu-4",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "9301196172016",
    "ad": "Sağlık Alanında Zaman Serısı Analızı ve Uygulaması",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-4 - Seçmeli Ders Grubu-4",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "9301196182016",
    "ad": "Paket Programlama ıle İstatıstıksel Verı Analızı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-4 - Seçmeli Ders Grubu-4",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "9301196212016",
    "ad": "Ölçek Gelıştırme ve Uyarlama",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-4 - Seçmeli Ders Grubu-4",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "9301196222016",
    "ad": "İnternet Programlama",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-4 - Seçmeli Ders Grubu-4",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "9301196232016",
    "ad": "Algorıtma ve Programlama",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-4 - Seçmeli Ders Grubu-4",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "9301196242016",
    "ad": "İstatıstıksel Hesaplama Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-4 - Seçmeli Ders Grubu-4",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "9301196252016",
    "ad": "Çok Değışkenlı İstatıstıksel Analız",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Müfredatı",
    "yariyil": null,
    "grup": "2016-BTB-DR-sdg-4 - Seçmeli Ders Grubu-4",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "9301196012023",
    "ad": "Verı Analızı ve Raporlama I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1384,7 +1384,7 @@
   {
    "kod": "9301196032023",
    "ad": "Bıyoıstatıstık Makale Saatı I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1398,7 +1398,7 @@
   {
    "kod": "9301196002023",
    "ad": "Verı Analızı ve Raporlama II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1412,7 +1412,7 @@
   {
    "kod": "9301196022023",
    "ad": "Bıyoıstatıstık Makale Saatı II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1426,7 +1426,7 @@
   {
    "kod": "BAT102",
    "ad": "Bılımsel Araştırmanın Temellerı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1440,7 +1440,7 @@
   {
    "kod": "SBEAKT1",
    "ad": "Aktarılabılır Becerıler 1",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1454,7 +1454,7 @@
   {
    "kod": "9301196052023",
    "ad": "Bılımsel Makale ve Proje Hazırlama",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1468,7 +1468,7 @@
   {
    "kod": "SBEAKT2",
    "ad": "Aktarılabılır Becerıler 2",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1482,7 +1482,7 @@
   {
    "kod": "SBEDRSEM600",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1496,7 +1496,7 @@
   {
    "kod": "SBEDRUAD601",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1510,7 +1510,7 @@
   {
    "kod": "EBB6832017",
    "ad": "Öğretımde Planlama ve Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1524,7 +1524,7 @@
   {
    "kod": "EBB6852017",
    "ad": "Gelışım ve Öğrenme",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1538,7 +1538,7 @@
   {
    "kod": "SBEDRTEZ601",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1552,7 +1552,7 @@
   {
    "kod": "SBEDRTO601",
    "ad": "Tez Önerısı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1566,7 +1566,7 @@
   {
    "kod": "SBEDRUAD602",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1580,7 +1580,7 @@
   {
    "kod": "SBEDRYET601",
    "ad": "Yeterlık Sınavı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1594,7 +1594,7 @@
   {
    "kod": "SBEDRTEZ602",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -1608,7 +1608,7 @@
   {
    "kod": "SBEDRUAD603",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -1622,7 +1622,7 @@
   {
    "kod": "SBEDRTEZ603",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -1636,7 +1636,7 @@
   {
    "kod": "SBEDRUAD604",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -1650,7 +1650,7 @@
   {
    "kod": "SBEDRTEZ604",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -1664,7 +1664,7 @@
   {
    "kod": "SBEDRUAD605",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -1678,7 +1678,7 @@
   {
    "kod": "SBEDRTEZ605",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -1692,7 +1692,7 @@
   {
    "kod": "SBEDRUAD606",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı Biyoistatistik ve Tıbbi Bilişim Yüksek Lisans Dereceli Doktora Programı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",

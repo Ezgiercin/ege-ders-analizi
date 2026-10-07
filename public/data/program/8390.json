@@ -12,7 +12,7 @@
   {
    "kod": "HAZ001",
    "ad": "HAZIRLIK SINIFI",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 0,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "ATİ101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "ING1012023",
    "ad": "MESLEKİ İNGİLİZCE I",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "SGM101",
    "ad": "TEMEL PROGRAMLAMA I",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "SGM103",
    "ad": "FUNDAMENTALS OF INFORMATION AND NETWORK TECHNOLOGY",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SGM107",
    "ad": "MATEMATİK VE MANTIK",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SGM117",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SGM119",
    "ad": "OPERATING SYSTEMS AND SECURITY",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "SGM121",
    "ad": "INTRODUCTION TO CYBER SECURITY",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "TÜR1012023",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "ATİ102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "ING1022023",
    "ad": "MESLEKİ İNGİLİZCE II",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "SGM102",
    "ad": "TEMEL PROGRAMLAMA II",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "SGM104",
    "ad": "DATABASE APPLICATIONS AND SECURITY",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "SGM106",
    "ad": "SECURE NETWORK DESIGN AND DEVICE MANAGEMENT",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "SGM108",
    "ad": "VIRTUALIZATION AND CLOUD TECHNOLOGIES",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "TÜR1022023",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "SGM201",
    "ad": "PENETRATION TESTING",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "SGM203",
    "ad": "MOBİL TEKNOLOJİLER VE GÜVENLİK",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "SGM209",
    "ad": "ETKİLİ İLETİŞİM VE SUNUM TEKNİKLERİ",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "SGM211",
    "ad": "PROJE YÖNETİMİ METODOLOJİSİ VE UYGULAMALARI",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "SGM213",
    "ad": "SİBER GÜVENLİK YÖNETİŞİMİ",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "SGM215",
    "ad": "SECURE SOFTWARE DEVELOPMENT",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "SGM217",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "SGM26SEÇ1",
    "ad": "SEÇMELİ DERS GRUBU I",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "SGM202",
    "ad": "CYBER INCIDENT MANAGEMENT",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "SGM204",
    "ad": "İŞLETMEDE MESLEKİ EĞİTİM",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "SGM25SEÇ2",
    "ad": "SEÇMELİ DERS GRUBU II",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 4,
    "grup": null,
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "SGM245",
    "ad": "YENİ NESİL TEKNOLOJİLER",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM26SEÇ1 - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "SGM247",
    "ad": "NESNE TABANLI PROGRAMLAMA",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM26SEÇ1 - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "SGM249",
    "ad": "ALGORİTMA",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM26SEÇ1 - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "SGM251",
    "ad": "ADLİ BİLİŞİM",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM26SEÇ1 - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "SGM253",
    "ad": "İNTERNET PROGRAMLAMA",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM26SEÇ1 - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "SGM255",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM26SEÇ1 - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "SGM257",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM26SEÇ1 - SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "SGM238",
    "ad": "FUNDAMENTALS OF CRYPTOLOGY",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM25SEÇ2 - SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "SGM240",
    "ad": "MALWARE ANALYSIS AND DETECTION",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM25SEÇ2 - SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "SGM244",
    "ad": "ARTIFICIAL INTELLIGENCE AND CYBER SECURITY",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM25SEÇ2 - SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "SGM248",
    "ad": "SİBER GÜVENLİK HUKUKU",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2023 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM25SEÇ2 - SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "HAZ001",
    "ad": "HAZIRLIK SINIFI",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 0,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "ATİ101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "ING1012026",
    "ad": "MESLEKİ İNGİLİZCE",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "SGM101",
    "ad": "TEMEL PROGRAMLAMA I",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -628,7 +628,7 @@
   {
    "kod": "SGM103",
    "ad": "FUNDAMENTALS OF INFORMATION AND NETWORK TECHNOLOGY",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "SGM107",
    "ad": "MATEMATİK VE MANTIK",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "SGM113",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "SGM117",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "SGM119",
    "ad": "OPERATING SYSTEMS AND SECURITY",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -698,7 +698,7 @@
   {
    "kod": "SGM121",
    "ad": "INTRODUCTION TO CYBER SECURITY",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -712,7 +712,7 @@
   {
    "kod": "TÜR1012023",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -726,7 +726,7 @@
   {
    "kod": "ATİ102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -740,7 +740,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -754,7 +754,7 @@
   {
    "kod": "SGM102",
    "ad": "TEMEL PROGRAMLAMA II",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "SGM104",
    "ad": "DATABASE APPLICATIONS AND SECURITY",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -782,7 +782,7 @@
   {
    "kod": "SGM106",
    "ad": "SECURE NETWORK DESIGN AND DEVICE MANAGEMENT",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -796,7 +796,7 @@
   {
    "kod": "SGM108",
    "ad": "VIRTUALIZATION AND CLOUD TECHNOLOGIES",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -810,7 +810,7 @@
   {
    "kod": "TÜR1022023",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -824,7 +824,7 @@
   {
    "kod": "SGM201",
    "ad": "PENETRATION TESTING",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -838,7 +838,7 @@
   {
    "kod": "SGM203",
    "ad": "MOBİL TEKNOLOJİLER VE GÜVENLİK",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -852,7 +852,7 @@
   {
    "kod": "SGM209",
    "ad": "ETKİLİ İLETİŞİM VE SUNUM TEKNİKLERİ",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -866,7 +866,7 @@
   {
    "kod": "SGM211",
    "ad": "PROJE YÖNETİMİ METODOLOJİSİ VE UYGULAMALARI",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -880,7 +880,7 @@
   {
    "kod": "SGM213",
    "ad": "SİBER GÜVENLİK YÖNETİŞİMİ",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -894,7 +894,7 @@
   {
    "kod": "SGM215",
    "ad": "SECURE SOFTWARE DEVELOPMENT",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -908,7 +908,7 @@
   {
    "kod": "SGM219",
    "ad": "CYBER INCIDENT MANAGEMENT",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -922,7 +922,7 @@
   {
    "kod": "SGM220",
    "ad": "İŞLETMEDE MESLEKİ EĞİTİM",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -936,7 +936,7 @@
   {
    "kod": "SGM115",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM26SEÇ-I - SEÇMELİ DERS GRUBU 1",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "SGM123",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM26SEÇ-I - SEÇMELİ DERS GRUBU 1",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "SGM112",
    "ad": "YENİ NESİL TEKNOLOJİLER",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM26SEÇ-II - SEÇMELİ DERS GRUBU 2",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "SGM114",
    "ad": "NESNE TABANLI PROGRAMLAMA",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM26SEÇ-II - SEÇMELİ DERS GRUBU 2",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "SGM116",
    "ad": "MALWARE ANALYSIS AND DETECTION",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM26SEÇ-II - SEÇMELİ DERS GRUBU 2",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "SGM118",
    "ad": "ADLİ BİLİŞİM",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM26SEÇ-II - SEÇMELİ DERS GRUBU 2",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "SGM120",
    "ad": "İNTERNET PROGRAMLAMA",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM26SEÇ-II - SEÇMELİ DERS GRUBU 2",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "SGM221",
    "ad": "FUNDAMENTALS OF CRYPTOLOGY",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM26SEÇ-III - SEÇMELİ DERS GRUBU 3",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "SGM223",
    "ad": "WEB AND APPLICATION SECURITY",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM26SEÇ-III - SEÇMELİ DERS GRUBU 3",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "SGM225",
    "ad": "SİBER GÜVENLİK HUKUKU",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM26SEÇ-III - SEÇMELİ DERS GRUBU 3",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "SGM227",
    "ad": "ARTIFICIAL INTELLIGENCE AND CYBER SECURITY",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM26SEÇ-III - SEÇMELİ DERS GRUBU 3",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "SGM229",
    "ad": "DATA STRUCTURES AND ALGORITHMS",
-   "mufredat": "Siber Güvenlik Analistliği ve Operatörlüğü",
+   "mufredat": "2026 Yılı Müfredatı (Siber Güvenlik Analistliği ve Operatörlüğü)",
    "yariyil": null,
    "grup": "SGM26SEÇ-III - SEÇMELİ DERS GRUBU 3",
    "tur": "Seçmeli",

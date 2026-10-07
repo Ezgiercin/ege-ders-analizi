@@ -12,7 +12,7 @@
   {
    "kod": "1001001012008",
    "ad": "TÜRK DİLİ-I",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "1001001022008",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "1001001032014",
    "ad": "MATEMATİK",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "1001001052008",
    "ad": "FİZİK",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "1001001072020",
    "ad": "KİMYA",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "1001001212023",
    "ad": "BİYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "1001001252010",
    "ad": "YABANCI DİL I",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "1001001272010",
    "ad": "MÜHENDİSLİK MEKANİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "1001001292015",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ I",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "1001001312023",
    "ad": "SU ÜRÜNLERİ MÜHENDİSLİĞİNE GİRİŞ VE MESLEK ETİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "1001001332020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "1001000922008",
    "ad": "TÜRK DİLİ-II",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "1001000942008",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "1001000962010",
    "ad": "YABANCI DİL II",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "1001001112010",
    "ad": "TEKNİK ÇİZİM",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "1001001142014",
    "ad": "MALZEME BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "1001001202014",
    "ad": "EKOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "1001001262023",
    "ad": "BOTANİK",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "1001001282014",
    "ad": "MUKAVEMET",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "1001001302010",
    "ad": "BİLGİSAYAR",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "1001001322023",
    "ad": "MİKROBİYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "1001001342015",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ II",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "1001002032014",
    "ad": "AKUAKÜLTÜR MÜHENDİSLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "1001002052021",
    "ad": "AKVARYUM BALIKLARI YETİŞTİRİCİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "1001002072023",
    "ad": "ZOOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "1001002092014",
    "ad": "İSTATİSTİK",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "1001002112021",
    "ad": "SU ÜRÜNLERİ GIDA KİMYASI I",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "1001002232021",
    "ad": "BALIK BİYOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "1001002592021",
    "ad": "SU ÜRÜNLERİNDE UYGULAMA (STAJ)",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -432,7 +432,7 @@
   {
    "kod": "1001002022023",
    "ad": "EKONOMİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "1001002042023",
    "ad": "SU ÜRÜNLERİ HASTALIKLARINA GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "1001002062014",
    "ad": "SU KALİTESİ VE KONTROLÜ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "1001002082014",
    "ad": "SU ÜRÜNLERİ İŞLEME TEKNOLOJİSİNDE ÖN İŞLEMLER",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "1001002102018",
    "ad": "METEOROLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "1001002122014",
    "ad": "BALIKÇI GEMİLERİ VE DONANIMI",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "1001002182008",
    "ad": "AKIŞKANLAR MEKANİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -558,7 +558,7 @@
   {
    "kod": "1001003012023",
    "ad": "BALIK SİSTEMATİĞİ I",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -572,7 +572,7 @@
   {
    "kod": "1001003032014",
    "ad": "PLANKTONOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "1001003052014",
    "ad": "SU ÜRÜNLERİ İŞLEME TEKNOLOJİSİ I",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "1001003072014",
    "ad": "İÇ SU BALIKLARI YETİŞTİRİCİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "1001003092014",
    "ad": "BALIK BESLEME I",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -628,7 +628,7 @@
   {
    "kod": "1001003112014",
    "ad": "NAVİGASYON",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "1001003312021",
    "ad": "AV ARAÇLARI VE AVLAMA YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -670,7 +670,7 @@
   {
    "kod": "1001003022014",
    "ad": "LİMNOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "1001003042023",
    "ad": "BALIK SİSTEMATİĞİ II",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -698,7 +698,7 @@
   {
    "kod": "1001003062014",
    "ad": "SU ÜRÜNLERİNDE KALİTE KONTROL I",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -712,7 +712,7 @@
   {
    "kod": "1001003082014",
    "ad": "DENİZ BALIKLARI YETİŞTİRİCİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -726,7 +726,7 @@
   {
    "kod": "1001003102014",
    "ad": "AĞ YAPIM VE DONAM TEKNİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -740,7 +740,7 @@
   {
    "kod": "1001003122014",
    "ad": "SUCUL OMURGASIZLAR YETİŞTİRİCİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -754,7 +754,7 @@
   {
    "kod": "1001003142023",
    "ad": "DENİZ HUKUKU",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -782,7 +782,7 @@
   {
    "kod": "1001014012014",
    "ad": "EKOTOKSİKOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -796,7 +796,7 @@
   {
    "kod": "1001014032014",
    "ad": "DENİZ MEMELİ VE SÜRÜNGENLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -810,7 +810,7 @@
   {
    "kod": "1001014052014",
    "ad": "BALIK YUMURTA VE LARVALARI",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -824,7 +824,7 @@
   {
    "kod": "1001014072014",
    "ad": "BALIKÇILIK BİYOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -838,7 +838,7 @@
   {
    "kod": "1001014092014",
    "ad": "SUCUL EKOSİSTEM YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -852,7 +852,7 @@
   {
    "kod": "1001014112014",
    "ad": "ÇEVRE VE SU KİRLİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -866,7 +866,7 @@
   {
    "kod": "1001014272021",
    "ad": "SU ÜRÜNLERİ MÜHENDİSLİĞİNDE TASARIM",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -880,7 +880,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -894,7 +894,7 @@
   {
    "kod": "1001014022014",
    "ad": "BENTOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -908,7 +908,7 @@
   {
    "kod": "1001014042014",
    "ad": "AKARSU EKOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -922,7 +922,7 @@
   {
    "kod": "1001014062014",
    "ad": "İÇ SULARDA ÖRNEKLEME VE ANALİZ YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -936,7 +936,7 @@
   {
    "kod": "1001014082014",
    "ad": "DENİZEL EGZOTİK TÜRLER",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -950,7 +950,7 @@
   {
    "kod": "1001014102014",
    "ad": "BALIK EKOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -964,7 +964,7 @@
   {
    "kod": "1001014122014",
    "ad": "BALIKÇILIKTA ARAŞTIRMA YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -978,7 +978,7 @@
   {
    "kod": "1001014322021",
    "ad": "LİSANS BİTİRME TEZİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -992,7 +992,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -1006,7 +1006,7 @@
   {
    "kod": "1001002252014",
    "ad": "SU ALTI GÖRÜNTÜLEME TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "1001002272014",
    "ad": "BİTKİSEL SU ÜRÜNLERİ İŞLEME TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "1001002292014",
    "ad": "SU ÜRÜNLERİNDE SEKTÖREL YAPI",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "1001002312014",
    "ad": "GEMİCİLİK BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "1001002512018",
    "ad": "GİRİŞİMCİLİK VE KALİTE I",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "1001002532018",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "1001002552019",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "1001002202014",
    "ad": "İÇ SULARDA SPORTİF BALIKÇILIK",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "1001002222014",
    "ad": "CANLI YEM ÜRETİM TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "1001002242014",
    "ad": "ALETLİ DALMA TEKNİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "1001002262014",
    "ad": "GASTRONOMİDE SU ÜRÜNLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "1001002282014",
    "ad": "BİYOLOJİK ÇEŞİTLİLİK VE KORUMA",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "1001002562018",
    "ad": "GİRİŞİMCİLİK VE KALİTE II",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "1001002582018",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "1001003152014",
    "ad": "DOĞA FOTOĞRAFÇILIĞI",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "1001003172014",
    "ad": "DENİZDE GÜVENLİK",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "1001003192014",
    "ad": "AĞ KAFES TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "1001003212014",
    "ad": "SU ÜRÜNLERİ İŞLETMECİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "1001003232015",
    "ad": "SUCUL OMURGALILARDA DAVRANIŞ BİYOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "1001003252014",
    "ad": "SU ÜRÜNLERİ İŞLEME TESİSİ PLANLAMA VE PROJELENDİRME",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "1001003252024",
    "ad": "BAĞIMLILIK İLE MÜCADELE",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "100103462026",
    "ad": "OSEANOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "Bİİ305DSG",
    "ad": "DİN SOSYOLOJİSİNE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "DTMK305TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ I",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "İİB307IGP",
    "ad": "INTRODUCTION TO GLOBAL POLITICS",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "SUÜ305AKV",
    "ad": "AKVARYUM DÜNYASI",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "SUÜ305TSC",
    "ad": "TEHLİKELİ SUCUL CANLILAR",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "YEN305GYKA",
    "ad": "GİRİŞİMCİLİKTE YATIRIM KARAR ANALİZLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "1001003162014",
    "ad": "SURİMİ VE SURİMİYE DAYALI ÜRÜN TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-6-YY - SEÇMELİ DERS GRUBU 6 -YY",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "1001003182014",
    "ad": "DENİZDE HABERLEŞME",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-6-YY - SEÇMELİ DERS GRUBU 6 -YY",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "1001003202014",
    "ad": "ALTERNATİF İÇ SU BALIKLARI YETİŞTİRİCİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-6-YY - SEÇMELİ DERS GRUBU 6 -YY",
    "tur": "Seçmeli",
@@ -1510,7 +1510,7 @@
   {
    "kod": "1001003222014",
    "ad": "YEM TESİSLERİ PLANLAMA VE YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-6-YY - SEÇMELİ DERS GRUBU 6 -YY",
    "tur": "Seçmeli",
@@ -1524,7 +1524,7 @@
   {
    "kod": "1001003242014",
    "ad": "SULAK ALAN TURİZMİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-6-YY - SEÇMELİ DERS GRUBU 6 -YY",
    "tur": "Seçmeli",
@@ -1538,7 +1538,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-6-YY - SEÇMELİ DERS GRUBU 6 -YY",
    "tur": "Seçmeli",
@@ -1552,7 +1552,7 @@
   {
    "kod": "Bİİ305DS",
    "ad": "DİN VE SANAT",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1566,7 +1566,7 @@
   {
    "kod": "Bİİ306DİVKA",
    "ad": "DİNLER VE KADIN",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1580,7 +1580,7 @@
   {
    "kod": "ENF305WEB",
    "ad": "WEB TASARIMI",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1594,7 +1594,7 @@
   {
    "kod": "FEN305BİYO",
    "ad": "BİYOTEKNOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1608,7 +1608,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1622,7 +1622,7 @@
   {
    "kod": "MOD306MLB",
    "ad": "MALZEME BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1636,7 +1636,7 @@
   {
    "kod": "SUÜ310DCK",
    "ad": "DENİZDE CANLI KALABİLME",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1650,7 +1650,7 @@
   {
    "kod": "YEN306GTOD",
    "ad": "GİRİŞİMCİLİKTE TASARIM ODAKLI DÜŞÜNME",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1664,7 +1664,7 @@
   {
    "kod": "1001004152014",
    "ad": "TÜRKİYE SULARI",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-TEMEL-7.YY - SEÇMELİ DERS GRUBU TEMEL-OPS.7.YY",
    "tur": "Seçmeli",
@@ -1678,7 +1678,7 @@
   {
    "kod": "1001004172014",
    "ad": "ATIKSU ARITMA TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-TEMEL-7.YY - SEÇMELİ DERS GRUBU TEMEL-OPS.7.YY",
    "tur": "Seçmeli",
@@ -1692,7 +1692,7 @@
   {
    "kod": "1001004192014",
    "ad": "LİTERATÜR YAZIMI VE SUNUM TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-TEMEL-7.YY - SEÇMELİ DERS GRUBU TEMEL-OPS.7.YY",
    "tur": "Seçmeli",
@@ -1706,7 +1706,7 @@
   {
    "kod": "1001004212014",
    "ad": "BİYOİSTATİSTİK",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-TEMEL-7.YY - SEÇMELİ DERS GRUBU TEMEL-OPS.7.YY",
    "tur": "Seçmeli",
@@ -1720,7 +1720,7 @@
   {
    "kod": "1001004232014",
    "ad": "SU ÜRÜNLERİNDE SOĞUK MUHAFAZA",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-TEMEL-7.YY - SEÇMELİ DERS GRUBU TEMEL-OPS.7.YY",
    "tur": "Seçmeli",
@@ -1734,7 +1734,7 @@
   {
    "kod": "1001004252014",
    "ad": "SU ÜRÜNLERİNDE KALİTE KONTROL II",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-TEMEL-7.YY - SEÇMELİ DERS GRUBU TEMEL-OPS.7.YY",
    "tur": "Seçmeli",
@@ -1748,7 +1748,7 @@
   {
    "kod": "1001014152014",
    "ad": "DENİZ SUYU KALİTESİ İZLENMESİNDE MİKROPLANKTON",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-TEMEL-7.YY - SEÇMELİ DERS GRUBU TEMEL-OPS.7.YY",
    "tur": "Seçmeli",
@@ -1762,7 +1762,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-TEMEL-7.YY - SEÇMELİ DERS GRUBU TEMEL-OPS.7.YY",
    "tur": "Seçmeli",
@@ -1776,7 +1776,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-TEMEL-7.YY - SEÇMELİ DERS GRUBU TEMEL-OPS.7.YY",
    "tur": "Seçmeli",
@@ -1790,7 +1790,7 @@
   {
    "kod": "YZG501",
    "ad": "YAPAY ZEKAYA GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-TEMEL-7.YY - SEÇMELİ DERS GRUBU TEMEL-OPS.7.YY",
    "tur": "Seçmeli",
@@ -1804,7 +1804,7 @@
   {
    "kod": "1001004182014",
    "ad": "BİYOLOJİK OSEANOGRAFİK SÜREÇLER",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-TEMEL-8.YY - SEÇMELİ DERS GRUBU TEMEL-OPS.8.YY",
    "tur": "Seçmeli",
@@ -1818,7 +1818,7 @@
   {
    "kod": "1001004202014",
    "ad": "DENİZ BİYOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-TEMEL-8.YY - SEÇMELİ DERS GRUBU TEMEL-OPS.8.YY",
    "tur": "Seçmeli",
@@ -1832,7 +1832,7 @@
   {
    "kod": "1001004222014",
    "ad": "ALGAL BİYOTEKNOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-TEMEL-8.YY - SEÇMELİ DERS GRUBU TEMEL-OPS.8.YY",
    "tur": "Seçmeli",
@@ -1846,7 +1846,7 @@
   {
    "kod": "1001004242014",
    "ad": "ÖLÇME BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-TEMEL-8.YY - SEÇMELİ DERS GRUBU TEMEL-OPS.8.YY",
    "tur": "Seçmeli",
@@ -1860,7 +1860,7 @@
   {
    "kod": "1001004262014",
    "ad": "YÜK İSTİFİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-TEMEL-8.YY - SEÇMELİ DERS GRUBU TEMEL-OPS.8.YY",
    "tur": "Seçmeli",
@@ -1874,7 +1874,7 @@
   {
    "kod": "1001004282014",
    "ad": "VARDİYA STANDARTLARI",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-TEMEL-8.YY - SEÇMELİ DERS GRUBU TEMEL-OPS.8.YY",
    "tur": "Seçmeli",
@@ -1888,7 +1888,7 @@
   {
    "kod": "1001004302014",
    "ad": "İŞARET DİLİ",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-TEMEL-8.YY - SEÇMELİ DERS GRUBU TEMEL-OPS.8.YY",
    "tur": "Seçmeli",
@@ -1902,7 +1902,7 @@
   {
    "kod": "1001014142014",
    "ad": "DENİZEL BALIKÇILIK TEKNOLOJİSİ VE OLTA BALIKÇILIĞI",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-TEMEL-8.YY - SEÇMELİ DERS GRUBU TEMEL-OPS.8.YY",
    "tur": "Seçmeli",
@@ -1916,7 +1916,7 @@
   {
    "kod": "1001014162014",
    "ad": "İÇ SULARDA BALIKLANDIRMA",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-TEMEL-8.YY - SEÇMELİ DERS GRUBU TEMEL-OPS.8.YY",
    "tur": "Seçmeli",
@@ -1930,7 +1930,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": null,
+   "mufredat": "2014 Müfredatı \"Su Ürünleri Temel Bilimler\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-TEMEL-8.YY - SEÇMELİ DERS GRUBU TEMEL-OPS.8.YY",
    "tur": "Seçmeli",
@@ -1944,7 +1944,7 @@
   {
    "kod": "1001001012008",
    "ad": "TÜRK DİLİ-I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1958,7 +1958,7 @@
   {
    "kod": "1001001022008",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1972,7 +1972,7 @@
   {
    "kod": "1001001032014",
    "ad": "MATEMATİK",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1986,7 +1986,7 @@
   {
    "kod": "1001001052008",
    "ad": "FİZİK",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2000,7 +2000,7 @@
   {
    "kod": "1001001072020",
    "ad": "KİMYA",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2014,7 +2014,7 @@
   {
    "kod": "1001001212023",
    "ad": "BİYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2028,7 +2028,7 @@
   {
    "kod": "1001001252010",
    "ad": "YABANCI DİL I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2042,7 +2042,7 @@
   {
    "kod": "1001001272010",
    "ad": "MÜHENDİSLİK MEKANİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2056,7 +2056,7 @@
   {
    "kod": "1001001292015",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2070,7 +2070,7 @@
   {
    "kod": "1001001312023",
    "ad": "SU ÜRÜNLERİ MÜHENDİSLİĞİNE GİRİŞ VE MESLEK ETİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2084,7 +2084,7 @@
   {
    "kod": "1001001332020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2098,7 +2098,7 @@
   {
    "kod": "1001000922008",
    "ad": "TÜRK DİLİ-II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2112,7 +2112,7 @@
   {
    "kod": "1001000942008",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2126,7 +2126,7 @@
   {
    "kod": "1001000962010",
    "ad": "YABANCI DİL II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2140,7 +2140,7 @@
   {
    "kod": "1001001112010",
    "ad": "TEKNİK ÇİZİM",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2154,7 +2154,7 @@
   {
    "kod": "1001001142014",
    "ad": "MALZEME BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2168,7 +2168,7 @@
   {
    "kod": "1001001202014",
    "ad": "EKOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2182,7 +2182,7 @@
   {
    "kod": "1001001262023",
    "ad": "BOTANİK",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2196,7 +2196,7 @@
   {
    "kod": "1001001282014",
    "ad": "MUKAVEMET",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2210,7 +2210,7 @@
   {
    "kod": "1001001302010",
    "ad": "BİLGİSAYAR",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2224,7 +2224,7 @@
   {
    "kod": "1001001322023",
    "ad": "MİKROBİYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2238,7 +2238,7 @@
   {
    "kod": "1001001342015",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2252,7 +2252,7 @@
   {
    "kod": "1001002032014",
    "ad": "AKUAKÜLTÜR MÜHENDİSLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2266,7 +2266,7 @@
   {
    "kod": "1001002052021",
    "ad": "AKVARYUM BALIKLARI YETİŞTİRİCİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2280,7 +2280,7 @@
   {
    "kod": "1001002072023",
    "ad": "ZOOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2294,7 +2294,7 @@
   {
    "kod": "1001002092014",
    "ad": "İSTATİSTİK",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2308,7 +2308,7 @@
   {
    "kod": "1001002112021",
    "ad": "SU ÜRÜNLERİ GIDA KİMYASI I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2322,7 +2322,7 @@
   {
    "kod": "1001002232021",
    "ad": "BALIK BİYOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2336,7 +2336,7 @@
   {
    "kod": "1001002592021",
    "ad": "SU ÜRÜNLERİNDE UYGULAMA (STAJ)",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2350,7 +2350,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -2364,7 +2364,7 @@
   {
    "kod": "1001002022023",
    "ad": "EKONOMİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2378,7 +2378,7 @@
   {
    "kod": "1001002042023",
    "ad": "SU ÜRÜNLERİ HASTALIKLARINA GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2392,7 +2392,7 @@
   {
    "kod": "1001002062014",
    "ad": "SU KALİTESİ VE KONTROLÜ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2406,7 +2406,7 @@
   {
    "kod": "1001002082014",
    "ad": "SU ÜRÜNLERİ İŞLEME TEKNOLOJİSİNDE ÖN İŞLEMLER",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2420,7 +2420,7 @@
   {
    "kod": "1001002102018",
    "ad": "METEOROLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2434,7 +2434,7 @@
   {
    "kod": "1001002122014",
    "ad": "BALIKÇI GEMİLERİ VE DONANIMI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2448,7 +2448,7 @@
   {
    "kod": "1001002182008",
    "ad": "AKIŞKANLAR MEKANİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2462,7 +2462,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2476,7 +2476,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -2490,7 +2490,7 @@
   {
    "kod": "1001003012023",
    "ad": "BALIK SİSTEMATİĞİ I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2504,7 +2504,7 @@
   {
    "kod": "1001003032014",
    "ad": "PLANKTONOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2518,7 +2518,7 @@
   {
    "kod": "1001003052014",
    "ad": "SU ÜRÜNLERİ İŞLEME TEKNOLOJİSİ I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2532,7 +2532,7 @@
   {
    "kod": "1001003072014",
    "ad": "İÇ SU BALIKLARI YETİŞTİRİCİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2546,7 +2546,7 @@
   {
    "kod": "1001003092014",
    "ad": "BALIK BESLEME I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2560,7 +2560,7 @@
   {
    "kod": "1001003112014",
    "ad": "NAVİGASYON",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2574,7 +2574,7 @@
   {
    "kod": "1001003312021",
    "ad": "AV ARAÇLARI VE AVLAMA YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2588,7 +2588,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -2602,7 +2602,7 @@
   {
    "kod": "1001003022014",
    "ad": "LİMNOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2616,7 +2616,7 @@
   {
    "kod": "1001003042023",
    "ad": "BALIK SİSTEMATİĞİ II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2630,7 +2630,7 @@
   {
    "kod": "1001003062014",
    "ad": "SU ÜRÜNLERİNDE KALİTE KONTROL I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2644,7 +2644,7 @@
   {
    "kod": "1001003082014",
    "ad": "DENİZ BALIKLARI YETİŞTİRİCİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2658,7 +2658,7 @@
   {
    "kod": "1001003102014",
    "ad": "AĞ YAPIM VE DONAM TEKNİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2672,7 +2672,7 @@
   {
    "kod": "1001003122014",
    "ad": "SUCUL OMURGASIZLAR YETİŞTİRİCİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2686,7 +2686,7 @@
   {
    "kod": "1001003142023",
    "ad": "DENİZ HUKUKU",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2700,7 +2700,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -2714,7 +2714,7 @@
   {
    "kod": "1001024012023",
    "ad": "BİLGİSAYAR DESTEKLİ PLANLAMA VE TASARIM",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2728,7 +2728,7 @@
   {
    "kod": "1001024052014",
    "ad": "ALABALIK YETİŞTİRİCİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2742,7 +2742,7 @@
   {
    "kod": "1001024072014",
    "ad": "KULUÇKAHANE TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2756,7 +2756,7 @@
   {
    "kod": "1001024112014",
    "ad": "YUMUŞAKÇALAR YETİŞTİRİCİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2770,7 +2770,7 @@
   {
    "kod": "1001024152018",
    "ad": "BALIK ISLAHI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2784,7 +2784,7 @@
   {
    "kod": "1001024172018",
    "ad": "PARAZİTER VE FUNGAL BALIK HASTALIKLARI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2798,7 +2798,7 @@
   {
    "kod": "1001024272021",
    "ad": "SU ÜRÜNLERİ MÜHENDİSLİĞİNDE TASARIM",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2812,7 +2812,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -2826,7 +2826,7 @@
   {
    "kod": "1001024022014",
    "ad": "BALIK BESLEME II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2840,7 +2840,7 @@
   {
    "kod": "1001024042014",
    "ad": "PLANKTON KÜLTÜRÜ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2854,7 +2854,7 @@
   {
    "kod": "1001024062014",
    "ad": "ÇİPURA LEVREK YETİŞTİRİCİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2868,7 +2868,7 @@
   {
    "kod": "1001024102014",
    "ad": "EKLEM BACAKLILAR YETİŞTİRİCİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2882,7 +2882,7 @@
   {
    "kod": "1001024162018",
    "ad": "BAKTERİYEL VE VİRAL BALIK HASTALIKLARI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2896,7 +2896,7 @@
   {
    "kod": "1001024182018",
    "ad": "AKUAKÜLTÜR VE ÇEVRE",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2910,7 +2910,7 @@
   {
    "kod": "1001024322021",
    "ad": "LİSANS BİTİRME TEZİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2924,7 +2924,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -2938,7 +2938,7 @@
   {
    "kod": "1001002252014",
    "ad": "SU ALTI GÖRÜNTÜLEME TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -2952,7 +2952,7 @@
   {
    "kod": "1001002272014",
    "ad": "BİTKİSEL SU ÜRÜNLERİ İŞLEME TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -2966,7 +2966,7 @@
   {
    "kod": "1001002292014",
    "ad": "SU ÜRÜNLERİNDE SEKTÖREL YAPI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -2980,7 +2980,7 @@
   {
    "kod": "1001002312014",
    "ad": "GEMİCİLİK BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -2994,7 +2994,7 @@
   {
    "kod": "1001002512018",
    "ad": "GİRİŞİMCİLİK VE KALİTE I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -3008,7 +3008,7 @@
   {
    "kod": "1001002532018",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -3022,7 +3022,7 @@
   {
    "kod": "1001002552019",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -3036,7 +3036,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -3050,7 +3050,7 @@
   {
    "kod": "1001002202014",
    "ad": "İÇ SULARDA SPORTİF BALIKÇILIK",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -3064,7 +3064,7 @@
   {
    "kod": "1001002222014",
    "ad": "CANLI YEM ÜRETİM TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -3078,7 +3078,7 @@
   {
    "kod": "1001002242014",
    "ad": "ALETLİ DALMA TEKNİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -3092,7 +3092,7 @@
   {
    "kod": "1001002262014",
    "ad": "GASTRONOMİDE SU ÜRÜNLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -3106,7 +3106,7 @@
   {
    "kod": "1001002282014",
    "ad": "BİYOLOJİK ÇEŞİTLİLİK VE KORUMA",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -3120,7 +3120,7 @@
   {
    "kod": "1001002562018",
    "ad": "GİRİŞİMCİLİK VE KALİTE II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -3134,7 +3134,7 @@
   {
    "kod": "1001002582018",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -3148,7 +3148,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -3162,7 +3162,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -3176,7 +3176,7 @@
   {
    "kod": "1001003152014",
    "ad": "DOĞA FOTOĞRAFÇILIĞI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -3190,7 +3190,7 @@
   {
    "kod": "1001003172014",
    "ad": "DENİZDE GÜVENLİK",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -3204,7 +3204,7 @@
   {
    "kod": "1001003192014",
    "ad": "AĞ KAFES TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -3218,7 +3218,7 @@
   {
    "kod": "1001003212014",
    "ad": "SU ÜRÜNLERİ İŞLETMECİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -3232,7 +3232,7 @@
   {
    "kod": "1001003232015",
    "ad": "SUCUL OMURGALILARDA DAVRANIŞ BİYOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -3246,7 +3246,7 @@
   {
    "kod": "1001003252014",
    "ad": "SU ÜRÜNLERİ İŞLEME TESİSİ PLANLAMA VE PROJELENDİRME",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -3260,7 +3260,7 @@
   {
    "kod": "1001003252024",
    "ad": "BAĞIMLILIK İLE MÜCADELE",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -3274,7 +3274,7 @@
   {
    "kod": "100103462026",
    "ad": "OSEANOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -3288,7 +3288,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -3302,7 +3302,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -3316,7 +3316,7 @@
   {
    "kod": "Bİİ305DSG",
    "ad": "DİN SOSYOLOJİSİNE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -3330,7 +3330,7 @@
   {
    "kod": "DTMK305TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -3344,7 +3344,7 @@
   {
    "kod": "İİB307IGP",
    "ad": "INTRODUCTION TO GLOBAL POLITICS",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -3358,7 +3358,7 @@
   {
    "kod": "SUÜ305AKV",
    "ad": "AKVARYUM DÜNYASI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -3372,7 +3372,7 @@
   {
    "kod": "SUÜ305TSC",
    "ad": "TEHLİKELİ SUCUL CANLILAR",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -3386,7 +3386,7 @@
   {
    "kod": "YEN305GYKA",
    "ad": "GİRİŞİMCİLİKTE YATIRIM KARAR ANALİZLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -3400,7 +3400,7 @@
   {
    "kod": "1001003162014",
    "ad": "SURİMİ VE SURİMİYE DAYALI ÜRÜN TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-6-YY - SEÇMELİ DERS GRUBU 6 -YY",
    "tur": "Seçmeli",
@@ -3414,7 +3414,7 @@
   {
    "kod": "1001003182014",
    "ad": "DENİZDE HABERLEŞME",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-6-YY - SEÇMELİ DERS GRUBU 6 -YY",
    "tur": "Seçmeli",
@@ -3428,7 +3428,7 @@
   {
    "kod": "1001003202014",
    "ad": "ALTERNATİF İÇ SU BALIKLARI YETİŞTİRİCİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-6-YY - SEÇMELİ DERS GRUBU 6 -YY",
    "tur": "Seçmeli",
@@ -3442,7 +3442,7 @@
   {
    "kod": "1001003222014",
    "ad": "YEM TESİSLERİ PLANLAMA VE YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-6-YY - SEÇMELİ DERS GRUBU 6 -YY",
    "tur": "Seçmeli",
@@ -3456,7 +3456,7 @@
   {
    "kod": "1001003242014",
    "ad": "SULAK ALAN TURİZMİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-6-YY - SEÇMELİ DERS GRUBU 6 -YY",
    "tur": "Seçmeli",
@@ -3470,7 +3470,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-6-YY - SEÇMELİ DERS GRUBU 6 -YY",
    "tur": "Seçmeli",
@@ -3484,7 +3484,7 @@
   {
    "kod": "Bİİ305DS",
    "ad": "DİN VE SANAT",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3498,7 +3498,7 @@
   {
    "kod": "Bİİ306DİVKA",
    "ad": "DİNLER VE KADIN",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3512,7 +3512,7 @@
   {
    "kod": "ENF305WEB",
    "ad": "WEB TASARIMI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3526,7 +3526,7 @@
   {
    "kod": "FEN305BİYO",
    "ad": "BİYOTEKNOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3540,7 +3540,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3554,7 +3554,7 @@
   {
    "kod": "MOD306MLB",
    "ad": "MALZEME BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3568,7 +3568,7 @@
   {
    "kod": "SUÜ310DCK",
    "ad": "DENİZDE CANLI KALABİLME",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3582,7 +3582,7 @@
   {
    "kod": "YEN306GTOD",
    "ad": "GİRİŞİMCİLİKTE TASARIM ODAKLI DÜŞÜNME",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3596,7 +3596,7 @@
   {
    "kod": "1001004152014",
    "ad": "TÜRKİYE SULARI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-YETİŞ.7-YY - SEÇMELİ DERS GRUBU YETİŞTİRİCİLİK OPS. 7 -YY",
    "tur": "Seçmeli",
@@ -3610,7 +3610,7 @@
   {
    "kod": "1001004172014",
    "ad": "ATIKSU ARITMA TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-YETİŞ.7-YY - SEÇMELİ DERS GRUBU YETİŞTİRİCİLİK OPS. 7 -YY",
    "tur": "Seçmeli",
@@ -3624,7 +3624,7 @@
   {
    "kod": "1001004192014",
    "ad": "LİTERATÜR YAZIMI VE SUNUM TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-YETİŞ.7-YY - SEÇMELİ DERS GRUBU YETİŞTİRİCİLİK OPS. 7 -YY",
    "tur": "Seçmeli",
@@ -3638,7 +3638,7 @@
   {
    "kod": "1001004212014",
    "ad": "BİYOİSTATİSTİK",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-YETİŞ.7-YY - SEÇMELİ DERS GRUBU YETİŞTİRİCİLİK OPS. 7 -YY",
    "tur": "Seçmeli",
@@ -3652,7 +3652,7 @@
   {
    "kod": "1001004232014",
    "ad": "SU ÜRÜNLERİNDE SOĞUK MUHAFAZA",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-YETİŞ.7-YY - SEÇMELİ DERS GRUBU YETİŞTİRİCİLİK OPS. 7 -YY",
    "tur": "Seçmeli",
@@ -3666,7 +3666,7 @@
   {
    "kod": "1001004252014",
    "ad": "SU ÜRÜNLERİNDE KALİTE KONTROL II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-YETİŞ.7-YY - SEÇMELİ DERS GRUBU YETİŞTİRİCİLİK OPS. 7 -YY",
    "tur": "Seçmeli",
@@ -3680,7 +3680,7 @@
   {
    "kod": "1001024152014",
    "ad": "YETİŞTİRİCİLİKTE BALIK DAVRANIŞLARI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-YETİŞ.7-YY - SEÇMELİ DERS GRUBU YETİŞTİRİCİLİK OPS. 7 -YY",
    "tur": "Seçmeli",
@@ -3694,7 +3694,7 @@
   {
    "kod": "1001024172015",
    "ad": "DAMIZLIK YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-YETİŞ.7-YY - SEÇMELİ DERS GRUBU YETİŞTİRİCİLİK OPS. 7 -YY",
    "tur": "Seçmeli",
@@ -3708,7 +3708,7 @@
   {
    "kod": "YZG501",
    "ad": "YAPAY ZEKAYA GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-YETİŞ.7-YY - SEÇMELİ DERS GRUBU YETİŞTİRİCİLİK OPS. 7 -YY",
    "tur": "Seçmeli",
@@ -3722,7 +3722,7 @@
   {
    "kod": "1001004182014",
    "ad": "BİYOLOJİK OSEANOGRAFİK SÜREÇLER",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-YETİŞ.8-YY - SEÇMELİ DERS GRUBU YETİŞTİRİCİLİK OPS. 8 -YY",
    "tur": "Seçmeli",
@@ -3736,7 +3736,7 @@
   {
    "kod": "1001004202014",
    "ad": "DENİZ BİYOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-YETİŞ.8-YY - SEÇMELİ DERS GRUBU YETİŞTİRİCİLİK OPS. 8 -YY",
    "tur": "Seçmeli",
@@ -3750,7 +3750,7 @@
   {
    "kod": "1001004222014",
    "ad": "ALGAL BİYOTEKNOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-YETİŞ.8-YY - SEÇMELİ DERS GRUBU YETİŞTİRİCİLİK OPS. 8 -YY",
    "tur": "Seçmeli",
@@ -3764,7 +3764,7 @@
   {
    "kod": "1001004242014",
    "ad": "ÖLÇME BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-YETİŞ.8-YY - SEÇMELİ DERS GRUBU YETİŞTİRİCİLİK OPS. 8 -YY",
    "tur": "Seçmeli",
@@ -3778,7 +3778,7 @@
   {
    "kod": "1001004262014",
    "ad": "YÜK İSTİFİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-YETİŞ.8-YY - SEÇMELİ DERS GRUBU YETİŞTİRİCİLİK OPS. 8 -YY",
    "tur": "Seçmeli",
@@ -3792,7 +3792,7 @@
   {
    "kod": "1001004282014",
    "ad": "VARDİYA STANDARTLARI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-YETİŞ.8-YY - SEÇMELİ DERS GRUBU YETİŞTİRİCİLİK OPS. 8 -YY",
    "tur": "Seçmeli",
@@ -3806,7 +3806,7 @@
   {
    "kod": "1001024142014",
    "ad": "ALTERNATİF DENİZ BALIKLARI YETİŞTİRİCİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-YETİŞ.8-YY - SEÇMELİ DERS GRUBU YETİŞTİRİCİLİK OPS. 8 -YY",
    "tur": "Seçmeli",
@@ -3820,7 +3820,7 @@
   {
    "kod": "1001024162015",
    "ad": "LARVAL ONTOGENİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-YETİŞ.8-YY - SEÇMELİ DERS GRUBU YETİŞTİRİCİLİK OPS. 8 -YY",
    "tur": "Seçmeli",
@@ -3834,7 +3834,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı \"Su Ürünleri Yetiştiriciliği\" Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-YETİŞ.8-YY - SEÇMELİ DERS GRUBU YETİŞTİRİCİLİK OPS. 8 -YY",
    "tur": "Seçmeli",
@@ -3848,7 +3848,7 @@
   {
    "kod": "1001001012008",
    "ad": "TÜRK DİLİ-I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3862,7 +3862,7 @@
   {
    "kod": "1001001022008",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3876,7 +3876,7 @@
   {
    "kod": "1001001032014",
    "ad": "MATEMATİK",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3890,7 +3890,7 @@
   {
    "kod": "1001001052008",
    "ad": "FİZİK",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3904,7 +3904,7 @@
   {
    "kod": "1001001072020",
    "ad": "KİMYA",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3918,7 +3918,7 @@
   {
    "kod": "1001001212023",
    "ad": "BİYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3932,7 +3932,7 @@
   {
    "kod": "1001001252010",
    "ad": "YABANCI DİL I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3946,7 +3946,7 @@
   {
    "kod": "1001001272010",
    "ad": "MÜHENDİSLİK MEKANİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3960,7 +3960,7 @@
   {
    "kod": "1001001292015",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3974,7 +3974,7 @@
   {
    "kod": "1001001312023",
    "ad": "SU ÜRÜNLERİ MÜHENDİSLİĞİNE GİRİŞ VE MESLEK ETİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3988,7 +3988,7 @@
   {
    "kod": "1001001332020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -4002,7 +4002,7 @@
   {
    "kod": "1001000922008",
    "ad": "TÜRK DİLİ-II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -4016,7 +4016,7 @@
   {
    "kod": "1001000942008",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -4030,7 +4030,7 @@
   {
    "kod": "1001000962010",
    "ad": "YABANCI DİL II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -4044,7 +4044,7 @@
   {
    "kod": "1001001112010",
    "ad": "TEKNİK ÇİZİM",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -4058,7 +4058,7 @@
   {
    "kod": "1001001142014",
    "ad": "MALZEME BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -4072,7 +4072,7 @@
   {
    "kod": "1001001202014",
    "ad": "EKOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -4086,7 +4086,7 @@
   {
    "kod": "1001001262023",
    "ad": "BOTANİK",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -4100,7 +4100,7 @@
   {
    "kod": "1001001282014",
    "ad": "MUKAVEMET",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -4114,7 +4114,7 @@
   {
    "kod": "1001001302010",
    "ad": "BİLGİSAYAR",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -4128,7 +4128,7 @@
   {
    "kod": "1001001322023",
    "ad": "MİKROBİYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -4142,7 +4142,7 @@
   {
    "kod": "1001001342015",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -4156,7 +4156,7 @@
   {
    "kod": "1001002032014",
    "ad": "AKUAKÜLTÜR MÜHENDİSLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -4170,7 +4170,7 @@
   {
    "kod": "1001002052021",
    "ad": "AKVARYUM BALIKLARI YETİŞTİRİCİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -4184,7 +4184,7 @@
   {
    "kod": "1001002072023",
    "ad": "ZOOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -4198,7 +4198,7 @@
   {
    "kod": "1001002092014",
    "ad": "İSTATİSTİK",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -4212,7 +4212,7 @@
   {
    "kod": "1001002112021",
    "ad": "SU ÜRÜNLERİ GIDA KİMYASI I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -4226,7 +4226,7 @@
   {
    "kod": "1001002232021",
    "ad": "BALIK BİYOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -4240,7 +4240,7 @@
   {
    "kod": "1001002592021",
    "ad": "SU ÜRÜNLERİNDE UYGULAMA (STAJ)",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -4254,7 +4254,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -4268,7 +4268,7 @@
   {
    "kod": "1001002022023",
    "ad": "EKONOMİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -4282,7 +4282,7 @@
   {
    "kod": "1001002042023",
    "ad": "SU ÜRÜNLERİ HASTALIKLARINA GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -4296,7 +4296,7 @@
   {
    "kod": "1001002062014",
    "ad": "SU KALİTESİ VE KONTROLÜ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -4310,7 +4310,7 @@
   {
    "kod": "1001002082014",
    "ad": "SU ÜRÜNLERİ İŞLEME TEKNOLOJİSİNDE ÖN İŞLEMLER",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -4324,7 +4324,7 @@
   {
    "kod": "1001002102018",
    "ad": "METEOROLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -4338,7 +4338,7 @@
   {
    "kod": "1001002122014",
    "ad": "BALIKÇI GEMİLERİ VE DONANIMI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -4352,7 +4352,7 @@
   {
    "kod": "1001002182008",
    "ad": "AKIŞKANLAR MEKANİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -4366,7 +4366,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -4380,7 +4380,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -4394,7 +4394,7 @@
   {
    "kod": "1001003012023",
    "ad": "BALIK SİSTEMATİĞİ I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -4408,7 +4408,7 @@
   {
    "kod": "1001003032014",
    "ad": "PLANKTONOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -4422,7 +4422,7 @@
   {
    "kod": "1001003052014",
    "ad": "SU ÜRÜNLERİ İŞLEME TEKNOLOJİSİ I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -4436,7 +4436,7 @@
   {
    "kod": "1001003072014",
    "ad": "İÇ SU BALIKLARI YETİŞTİRİCİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -4450,7 +4450,7 @@
   {
    "kod": "1001003092014",
    "ad": "BALIK BESLEME I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -4464,7 +4464,7 @@
   {
    "kod": "1001003112014",
    "ad": "NAVİGASYON",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -4478,7 +4478,7 @@
   {
    "kod": "1001003312021",
    "ad": "AV ARAÇLARI VE AVLAMA YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -4492,7 +4492,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -4506,7 +4506,7 @@
   {
    "kod": "1001003022014",
    "ad": "LİMNOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -4520,7 +4520,7 @@
   {
    "kod": "1001003042023",
    "ad": "BALIK SİSTEMATİĞİ II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -4534,7 +4534,7 @@
   {
    "kod": "1001003062014",
    "ad": "SU ÜRÜNLERİNDE KALİTE KONTROL I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -4548,7 +4548,7 @@
   {
    "kod": "1001003082014",
    "ad": "DENİZ BALIKLARI YETİŞTİRİCİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -4562,7 +4562,7 @@
   {
    "kod": "1001003102014",
    "ad": "AĞ YAPIM VE DONAM TEKNİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -4576,7 +4576,7 @@
   {
    "kod": "1001003122014",
    "ad": "SUCUL OMURGASIZLAR YETİŞTİRİCİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -4590,7 +4590,7 @@
   {
    "kod": "1001003142023",
    "ad": "DENİZ HUKUKU",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -4604,7 +4604,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -4618,7 +4618,7 @@
   {
    "kod": "1001034012014",
    "ad": "BALIKÇILIK OPERASYONLARI VE YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -4632,7 +4632,7 @@
   {
    "kod": "1001034032014",
    "ad": "SU ÜRÜNLERİ İŞLEME TEKNOLOJİSİ II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -4646,7 +4646,7 @@
   {
    "kod": "1001034052014",
    "ad": "BALIKÇILIKTA UZAKTAN ALGILAMA",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -4660,7 +4660,7 @@
   {
    "kod": "1001034072014",
    "ad": "BALIKÇILIKTA POPULASYON DİNAMİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -4674,7 +4674,7 @@
   {
    "kod": "1001034092014",
    "ad": "SU ÜRÜNLERİ GIDA MİKROBİYOLOJİSİ I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -4688,7 +4688,7 @@
   {
    "kod": "1001034112014",
    "ad": "BALIKÇILIK YAN ÜRÜN TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -4702,7 +4702,7 @@
   {
    "kod": "1001034272021",
    "ad": "SU ÜRÜNLERİ MÜHENDİSLİĞİNDE TASARIM",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -4716,7 +4716,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -4730,7 +4730,7 @@
   {
    "kod": "1001034022015",
    "ad": "SU ÜRÜNLERİ İŞLEME TEKNOLOJİSİ ALET VE EKİPMANLARI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -4744,7 +4744,7 @@
   {
    "kod": "1001034042014",
    "ad": "BALIKÇILIK YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -4758,7 +4758,7 @@
   {
    "kod": "1001034062014",
    "ad": "GIDA GÜVENLİĞİ VE KALİTE KONTROL SİSTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -4772,7 +4772,7 @@
   {
    "kod": "1001034082014",
    "ad": "BALIKÇILIK MÜHENDİSLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -4786,7 +4786,7 @@
   {
    "kod": "1001034102014",
    "ad": "SU ÜRÜNLERİNDE AMBALAJ TEKNİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -4800,7 +4800,7 @@
   {
    "kod": "1001034122014",
    "ad": "BALIK DAVRANIŞLARI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -4814,7 +4814,7 @@
   {
    "kod": "1001034322021",
    "ad": "LİSANS BİTİRME TEZİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -4828,7 +4828,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -4842,7 +4842,7 @@
   {
    "kod": "1001002252014",
    "ad": "SU ALTI GÖRÜNTÜLEME TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -4856,7 +4856,7 @@
   {
    "kod": "1001002272014",
    "ad": "BİTKİSEL SU ÜRÜNLERİ İŞLEME TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -4870,7 +4870,7 @@
   {
    "kod": "1001002292014",
    "ad": "SU ÜRÜNLERİNDE SEKTÖREL YAPI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -4884,7 +4884,7 @@
   {
    "kod": "1001002312014",
    "ad": "GEMİCİLİK BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -4898,7 +4898,7 @@
   {
    "kod": "1001002512018",
    "ad": "GİRİŞİMCİLİK VE KALİTE I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -4912,7 +4912,7 @@
   {
    "kod": "1001002532018",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -4926,7 +4926,7 @@
   {
    "kod": "1001002552019",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -4940,7 +4940,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-3-YY - SEÇMELİ DERS GRUBU 3 -YY",
    "tur": "Seçmeli",
@@ -4954,7 +4954,7 @@
   {
    "kod": "1001002202014",
    "ad": "İÇ SULARDA SPORTİF BALIKÇILIK",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -4968,7 +4968,7 @@
   {
    "kod": "1001002222014",
    "ad": "CANLI YEM ÜRETİM TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -4982,7 +4982,7 @@
   {
    "kod": "1001002242014",
    "ad": "ALETLİ DALMA TEKNİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -4996,7 +4996,7 @@
   {
    "kod": "1001002262014",
    "ad": "GASTRONOMİDE SU ÜRÜNLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -5010,7 +5010,7 @@
   {
    "kod": "1001002282014",
    "ad": "BİYOLOJİK ÇEŞİTLİLİK VE KORUMA",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -5024,7 +5024,7 @@
   {
    "kod": "1001002562018",
    "ad": "GİRİŞİMCİLİK VE KALİTE II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -5038,7 +5038,7 @@
   {
    "kod": "1001002582018",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -5052,7 +5052,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -5066,7 +5066,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-4-YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -5080,7 +5080,7 @@
   {
    "kod": "1001003152014",
    "ad": "DOĞA FOTOĞRAFÇILIĞI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -5094,7 +5094,7 @@
   {
    "kod": "1001003172014",
    "ad": "DENİZDE GÜVENLİK",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -5108,7 +5108,7 @@
   {
    "kod": "1001003192014",
    "ad": "AĞ KAFES TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -5122,7 +5122,7 @@
   {
    "kod": "1001003212014",
    "ad": "SU ÜRÜNLERİ İŞLETMECİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -5136,7 +5136,7 @@
   {
    "kod": "1001003232015",
    "ad": "SUCUL OMURGALILARDA DAVRANIŞ BİYOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -5150,7 +5150,7 @@
   {
    "kod": "1001003252014",
    "ad": "SU ÜRÜNLERİ İŞLEME TESİSİ PLANLAMA VE PROJELENDİRME",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -5164,7 +5164,7 @@
   {
    "kod": "1001003252024",
    "ad": "BAĞIMLILIK İLE MÜCADELE",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -5178,7 +5178,7 @@
   {
    "kod": "100103462026",
    "ad": "OSEANOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -5192,7 +5192,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -5206,7 +5206,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-5-YY - SEÇMELİ DERS GRUBU 5 -YY",
    "tur": "Seçmeli",
@@ -5220,7 +5220,7 @@
   {
    "kod": "Bİİ305DSG",
    "ad": "DİN SOSYOLOJİSİNE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -5234,7 +5234,7 @@
   {
    "kod": "DTMK305TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -5248,7 +5248,7 @@
   {
    "kod": "İİB307IGP",
    "ad": "INTRODUCTION TO GLOBAL POLITICS",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -5262,7 +5262,7 @@
   {
    "kod": "SUÜ305AKV",
    "ad": "AKVARYUM DÜNYASI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -5276,7 +5276,7 @@
   {
    "kod": "SUÜ305TSC",
    "ad": "TEHLİKELİ SUCUL CANLILAR",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -5290,7 +5290,7 @@
   {
    "kod": "YEN305GYKA",
    "ad": "GİRİŞİMCİLİKTE YATIRIM KARAR ANALİZLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -5304,7 +5304,7 @@
   {
    "kod": "1001003162014",
    "ad": "SURİMİ VE SURİMİYE DAYALI ÜRÜN TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-6-YY - SEÇMELİ DERS GRUBU 6 -YY",
    "tur": "Seçmeli",
@@ -5318,7 +5318,7 @@
   {
    "kod": "1001003182014",
    "ad": "DENİZDE HABERLEŞME",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-6-YY - SEÇMELİ DERS GRUBU 6 -YY",
    "tur": "Seçmeli",
@@ -5332,7 +5332,7 @@
   {
    "kod": "1001003202014",
    "ad": "ALTERNATİF İÇ SU BALIKLARI YETİŞTİRİCİLİĞİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-6-YY - SEÇMELİ DERS GRUBU 6 -YY",
    "tur": "Seçmeli",
@@ -5346,7 +5346,7 @@
   {
    "kod": "1001003222014",
    "ad": "YEM TESİSLERİ PLANLAMA VE YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-6-YY - SEÇMELİ DERS GRUBU 6 -YY",
    "tur": "Seçmeli",
@@ -5360,7 +5360,7 @@
   {
    "kod": "1001003242014",
    "ad": "SULAK ALAN TURİZMİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-6-YY - SEÇMELİ DERS GRUBU 6 -YY",
    "tur": "Seçmeli",
@@ -5374,7 +5374,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-DERS-6-YY - SEÇMELİ DERS GRUBU 6 -YY",
    "tur": "Seçmeli",
@@ -5388,7 +5388,7 @@
   {
    "kod": "Bİİ305DS",
    "ad": "DİN VE SANAT",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -5402,7 +5402,7 @@
   {
    "kod": "Bİİ306DİVKA",
    "ad": "DİNLER VE KADIN",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -5416,7 +5416,7 @@
   {
    "kod": "ENF305WEB",
    "ad": "WEB TASARIMI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -5430,7 +5430,7 @@
   {
    "kod": "FEN305BİYO",
    "ad": "BİYOTEKNOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -5444,7 +5444,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -5458,7 +5458,7 @@
   {
    "kod": "MOD306MLB",
    "ad": "MALZEME BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -5472,7 +5472,7 @@
   {
    "kod": "SUÜ310DCK",
    "ad": "DENİZDE CANLI KALABİLME",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -5486,7 +5486,7 @@
   {
    "kod": "YEN306GTOD",
    "ad": "GİRİŞİMCİLİKTE TASARIM ODAKLI DÜŞÜNME",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -5500,7 +5500,7 @@
   {
    "kod": "1001004152014",
    "ad": "TÜRKİYE SULARI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-AVLAMA.7-YY - SEÇMELİ DERS GRUBU AVLAMA OPS. 7 -YY",
    "tur": "Seçmeli",
@@ -5514,7 +5514,7 @@
   {
    "kod": "1001004172014",
    "ad": "ATIKSU ARITMA TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-AVLAMA.7-YY - SEÇMELİ DERS GRUBU AVLAMA OPS. 7 -YY",
    "tur": "Seçmeli",
@@ -5528,7 +5528,7 @@
   {
    "kod": "1001004192014",
    "ad": "LİTERATÜR YAZIMI VE SUNUM TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-AVLAMA.7-YY - SEÇMELİ DERS GRUBU AVLAMA OPS. 7 -YY",
    "tur": "Seçmeli",
@@ -5542,7 +5542,7 @@
   {
    "kod": "1001004212014",
    "ad": "BİYOİSTATİSTİK",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-AVLAMA.7-YY - SEÇMELİ DERS GRUBU AVLAMA OPS. 7 -YY",
    "tur": "Seçmeli",
@@ -5556,7 +5556,7 @@
   {
    "kod": "1001004232014",
    "ad": "SU ÜRÜNLERİNDE SOĞUK MUHAFAZA",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-AVLAMA.7-YY - SEÇMELİ DERS GRUBU AVLAMA OPS. 7 -YY",
    "tur": "Seçmeli",
@@ -5570,7 +5570,7 @@
   {
    "kod": "1001004252014",
    "ad": "SU ÜRÜNLERİNDE KALİTE KONTROL II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-AVLAMA.7-YY - SEÇMELİ DERS GRUBU AVLAMA OPS. 7 -YY",
    "tur": "Seçmeli",
@@ -5584,7 +5584,7 @@
   {
    "kod": "1001034152014",
    "ad": "AMATÖR BALIKÇILIK",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-AVLAMA.7-YY - SEÇMELİ DERS GRUBU AVLAMA OPS. 7 -YY",
    "tur": "Seçmeli",
@@ -5598,7 +5598,7 @@
   {
    "kod": "1001034172014",
    "ad": "BALIKÇILIKTA BİLGİSAYAR UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-AVLAMA.7-YY - SEÇMELİ DERS GRUBU AVLAMA OPS. 7 -YY",
    "tur": "Seçmeli",
@@ -5612,7 +5612,7 @@
   {
    "kod": "YZG501",
    "ad": "YAPAY ZEKAYA GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-AVLAMA.7-YY - SEÇMELİ DERS GRUBU AVLAMA OPS. 7 -YY",
    "tur": "Seçmeli",
@@ -5626,7 +5626,7 @@
   {
    "kod": "1001004182014",
    "ad": "BİYOLOJİK OSEANOGRAFİK SÜREÇLER",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-AVLAMA.8-YY - SEÇMELİ DERS GRUBU AVLAMA OPS. 8 -YY",
    "tur": "Seçmeli",
@@ -5640,7 +5640,7 @@
   {
    "kod": "1001004202014",
    "ad": "DENİZ BİYOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-AVLAMA.8-YY - SEÇMELİ DERS GRUBU AVLAMA OPS. 8 -YY",
    "tur": "Seçmeli",
@@ -5654,7 +5654,7 @@
   {
    "kod": "1001004222014",
    "ad": "ALGAL BİYOTEKNOLOJİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-AVLAMA.8-YY - SEÇMELİ DERS GRUBU AVLAMA OPS. 8 -YY",
    "tur": "Seçmeli",
@@ -5668,7 +5668,7 @@
   {
    "kod": "1001004242014",
    "ad": "ÖLÇME BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-AVLAMA.8-YY - SEÇMELİ DERS GRUBU AVLAMA OPS. 8 -YY",
    "tur": "Seçmeli",
@@ -5682,7 +5682,7 @@
   {
    "kod": "1001004262014",
    "ad": "YÜK İSTİFİ",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-AVLAMA.8-YY - SEÇMELİ DERS GRUBU AVLAMA OPS. 8 -YY",
    "tur": "Seçmeli",
@@ -5696,7 +5696,7 @@
   {
    "kod": "1001004282014",
    "ad": "VARDİYA STANDARTLARI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-AVLAMA.8-YY - SEÇMELİ DERS GRUBU AVLAMA OPS. 8 -YY",
    "tur": "Seçmeli",
@@ -5710,7 +5710,7 @@
   {
    "kod": "1001034142014",
    "ad": "SU ÜRÜNLERİ GIDA KİMYASI II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-AVLAMA.8-YY - SEÇMELİ DERS GRUBU AVLAMA OPS. 8 -YY",
    "tur": "Seçmeli",
@@ -5724,7 +5724,7 @@
   {
    "kod": "1001034162014",
    "ad": "SU ÜRÜNLERİ GIDA MİKROBİYOLOJİSİ II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-AVLAMA.8-YY - SEÇMELİ DERS GRUBU AVLAMA OPS. 8 -YY",
    "tur": "Seçmeli",
@@ -5738,7 +5738,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Müfredatı '' Su Ürünleri Avlama ve İşleme Teknolojisi '' Ağırlıklı",
    "yariyil": null,
    "grup": "SEÇ-AVLAMA.8-YY - SEÇMELİ DERS GRUBU AVLAMA OPS. 8 -YY",
    "tur": "Seçmeli",

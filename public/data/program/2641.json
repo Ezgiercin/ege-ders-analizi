@@ -12,7 +12,7 @@
   {
    "kod": "509001012006",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "509001022006",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "509001032002",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "509001042010",
    "ad": "MATHEMATICS I",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "509001052020",
    "ad": "PHYSICS I",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "509001062010",
    "ad": "CHEMISTRY I",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "509001072020",
    "ad": "GENEL BİYOLOJİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "509001212020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "509001232021",
    "ad": "BİYOMÜHENDİSLİKTE ETİK",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "509000922006",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "509000942006",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "509001092010",
    "ad": "MATHEMATICS II",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "509001112022",
    "ad": "CHEMISTRY II",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "509001122010",
    "ad": "ORGANIC CHEMISTRY",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "509001152020",
    "ad": "TEMEL LABORATUVAR",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "509001202022",
    "ad": "INTRODUCTION TO BIOENGINEERING",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "509001222022",
    "ad": "PHYSICS II",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "509002022016",
    "ad": "BİYOKİMYA",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "509002062022",
    "ad": "HESAPLAMALI BİYOLOJİK VERİ ANALİZİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "509002072020",
    "ad": "FLUID MECHANICS",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "509002192004",
    "ad": "TERMODİNAMİK",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "509002232022",
    "ad": "MATHEMATICS III",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "509002252022",
    "ad": "PROSESLERDE KÜTLE VE ENERJİ DENKLİKLERİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -348,7 +348,7 @@
   {
    "kod": "509002112020",
    "ad": "MOLECULAR BIOLOGY",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "509002122021",
    "ad": "MÜHENDİSLİK LABORATUVARI",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "509002142020",
    "ad": "FİZYOLOJİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "509002182022",
    "ad": "BIOMATERIALS",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "509002202022",
    "ad": "BIOANALYTICAL INSTRUMENTATION",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "509002222022",
    "ad": "MASS AND HEAT TRANSFER",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "509002242022",
    "ad": "MİKROBİYOLOJİK SİSTEMLER",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -460,7 +460,7 @@
   {
    "kod": "509003132015",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ I",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "509003152022",
    "ad": "BİYOMÜH.LAB.I",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "509003212002",
    "ad": "STAJ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "509003292022",
    "ad": "BIOMECHANICS",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "509003312022",
    "ad": "BIOPROCESS ENGINEERING I",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "509003332022",
    "ad": "HÜCRE VE DOKU MUHENDİSLİĞİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "509003352022",
    "ad": "SİNYAL İŞLEME VE DEVRELER",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -572,7 +572,7 @@
   {
    "kod": "509003082010",
    "ad": "BIOTRANSPORT PHENOMENA",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "509003102002",
    "ad": "GENETİK MÜHENDİSLİĞİNE GİRİŞ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "509003142020",
    "ad": "BİYOMÜH.LAB.II",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "509003212002",
    "ad": "STAJ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -628,7 +628,7 @@
   {
    "kod": "509003242022",
    "ad": "BIONANOSCIENCE AND BIONANOTECHNOLOGY",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "509003262022",
    "ad": "BIOPROCESS ENGINEERING II",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "509003282022",
    "ad": "HESAPLAMALI DÜŞÜNME VE VERİ BİLİMİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -684,7 +684,7 @@
   {
    "kod": "509004002018",
    "ad": "BİTİRME TEZİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -698,7 +698,7 @@
   {
    "kod": "509004112021",
    "ad": "BİYOMÜHENDİSLİK LAB.III",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -712,7 +712,7 @@
   {
    "kod": "509004532012",
    "ad": "BİYOMÜHENDİSLİK TASARIMI",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -726,7 +726,7 @@
   {
    "kod": "509004732021",
    "ad": "BİYOMÜHENDİSLİK İÇİN BİYOİNFORMATİK",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -740,7 +740,7 @@
   {
    "kod": "509004952022",
    "ad": "BIOMEDICAL DEVICES AND BIOIMAGING",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -754,7 +754,7 @@
   {
    "kod": "509004972022",
    "ad": "ENGINEERING ECONOMICS",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "509008472018",
    "ad": "BİTİRME TEZİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -782,7 +782,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -796,7 +796,7 @@
   {
    "kod": "509004002018",
    "ad": "BİTİRME TEZİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -810,7 +810,7 @@
   {
    "kod": "509004532012",
    "ad": "BİYOMÜHENDİSLİK TASARIMI",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -824,7 +824,7 @@
   {
    "kod": "509004542015",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ II",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -838,7 +838,7 @@
   {
    "kod": "509004962022",
    "ad": "SİSTEMLER VE SENTETİK BİYOLOJİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -852,7 +852,7 @@
   {
    "kod": "509004982022",
    "ad": "PROCESS DYNAMICS AND CONTROL",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -866,7 +866,7 @@
   {
    "kod": "509008002018",
    "ad": "BİTİRME TEZİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -880,7 +880,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -894,7 +894,7 @@
   {
    "kod": "TSCGRP",
    "ad": "TEKNİK SEÇMELİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": 8,
    "grup": null,
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "509003372022",
    "ad": "PROTEİN YAPILARI VE MODELLEME",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP5.YY - TEKNİK SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "509003392022",
    "ad": "IMMUNOLOJI",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP5.YY - TEKNİK SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "509003412022",
    "ad": "BUSINESS PLAN FOR LIFE SCIENCES",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP5.YY - TEKNİK SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "509003432022",
    "ad": "GEN TERAPISI I",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP5.YY - TEKNİK SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "509003452022",
    "ad": "DNA DIZILEME TEKNIKLERI",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP5.YY - TEKNİK SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "509003572023",
    "ad": "ENVIRONMENTAL BIOTECHNOLOGY",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP5.YY - TEKNİK SEÇMELİ 5.YY",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "Bİİ305DSG",
    "ad": "DİN SOSYOLOJİSİNE GİRİŞ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "DTMK305TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ I",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "İİB307IGP",
    "ad": "INTRODUCTION TO GLOBAL POLITICS",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "YEN305GYKA",
    "ad": "GİRİŞİMCİLİKTE YATIRIM KARAR ANALİZLERİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "509003302022",
    "ad": "BIOINFORMATICS CHALLENGE PROJECT",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.6YY - TEKNİK SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "509003322022",
    "ad": "GENEL HİSTOLOJİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.6YY - TEKNİK SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "509003342022",
    "ad": "BUSINESS AND ACADEMIC ENGLISH",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.6YY - TEKNİK SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "509003362022",
    "ad": "GEN TERAPİSİ II",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.6YY - TEKNİK SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "509003382022",
    "ad": "GENOM SEVİYE MODELLER",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.6YY - TEKNİK SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "509003402022",
    "ad": "BIYOSEPERASYON",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.6YY - TEKNİK SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "509003982023",
    "ad": "BİYOMEDİKAL MÜHENDİSLİĞİNDE AKUATİK AJANLAR",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.6YY - TEKNİK SEÇMELİ 6.YY",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "Bİİ305DS",
    "ad": "DİN VE SANAT",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "Bİİ306DİVKA",
    "ad": "DİNLER VE KADIN",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "ENF305WEB",
    "ad": "WEB TASARIMI",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "FEN305BİYO",
    "ad": "BİYOTEKNOLOJİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "MOD306MLB",
    "ad": "MALZEME BİLGİSİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "YEN306GTOD",
    "ad": "GİRİŞİMCİLİKTE TASARIM ODAKLI DÜŞÜNME",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "BIO403",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TOSGRP.7.YY - TEKNİK OLMAYAN SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "FSM404",
    "ad": "GİRİŞİMCİLİK, FİKRİ VE SINAİ MÜLKİYET HAKLARINA GİRİŞ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TOSGRP.7.YY - TEKNİK OLMAYAN SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "INV401",
    "ad": "İNOVASYON, TEKNOLOJİ VE GİRİŞİMCİLİK",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TOSGRP.7.YY - TEKNİK OLMAYAN SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "MTY401",
    "ad": "MÜHENDİSLER İÇİN TEMEL YÖNETİM VE YÖNETİCİLİK BECERİLERİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TOSGRP.7.YY - TEKNİK OLMAYAN SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "10520906T11459",
    "ad": "ARCHAEA BİYOTEKNOLOJİSİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.7YY - TEKNİK SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "509004192003",
    "ad": "ENDÜSTRİYEL EKOLOJİ VE GERİ KAZANIM",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.7YY - TEKNİK SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "509004212003",
    "ad": "BİTKİLERDE TRANSFORMASYON TEKNİKLERİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.7YY - TEKNİK SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "509004232003",
    "ad": "MİKROBİYAL FİZYOLOJİ (MİKROBİYAL METABOL",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.7YY - TEKNİK SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "509004332004",
    "ad": "ANAEROBİK BİYOTEKNOLOJİ TEMEL ESASLARI VE UYGULAMALARI",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.7YY - TEKNİK SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "509004652015",
    "ad": "BİYOBENZERLERİN GELİŞTİRİLMESİ VE ÜRETİMİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.7YY - TEKNİK SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "509004672015",
    "ad": "ALTERNATİF BİR YENİLENEBİLİR ENERJİ KAYNAĞI OLARAK MİKROALG",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.7YY - TEKNİK SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "509004752021",
    "ad": "OPTIMIZATION IN ENGINEERING",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.7YY - TEKNİK SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "509004772021",
    "ad": "INTRODUCTION TO BIOCHEMICAL ENGINEERING",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.7YY - TEKNİK SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "509004792016",
    "ad": "MÜHENDİSLİKTE TASARIM VE YENİLİKÇİ YAKLAŞIMLAR",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.7YY - TEKNİK SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "509004892019",
    "ad": "MOLEKÜLER MÜHENDİSLİK VE TASARIM",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.7YY - TEKNİK SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "509004912019",
    "ad": "MOLEKÜLER DİZAYN, MODELLEME VE İNFORMATİK",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.7YY - TEKNİK SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "509004992022",
    "ad": "İLAÇ TAŞIYICI NANOSİSTEMLER VE TERANOSTİK",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.7YY - TEKNİK SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "509008492022",
    "ad": "FUNDAMENTALS OF SUPERCRITICAL FLUID TECHNOLOGIES",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP.7YY - TEKNİK SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "BIO406",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TOSGRP. - TEKNİK OLMAYAN SEÇMELİ",
    "tur": "Seçmeli",
@@ -1510,7 +1510,7 @@
   {
    "kod": "DER404",
    "ad": "TEKNİK İNGİLİZCE-II",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TOSGRP. - TEKNİK OLMAYAN SEÇMELİ",
    "tur": "Seçmeli",
@@ -1524,7 +1524,7 @@
   {
    "kod": "DER406",
    "ad": "MAKALE VE SUNUM HAZIRLAMA TEKNİKLERİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TOSGRP. - TEKNİK OLMAYAN SEÇMELİ",
    "tur": "Seçmeli",
@@ -1538,7 +1538,7 @@
   {
    "kod": "GIP402",
    "ad": "GİRİŞİMCİLİK VE İŞ PLANI HAZIRLAMA",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TOSGRP. - TEKNİK OLMAYAN SEÇMELİ",
    "tur": "Seçmeli",
@@ -1552,7 +1552,7 @@
   {
    "kod": "INT404",
    "ad": "İNOVASYONUN TİCARİLEŞTİRİLMESİ VE GİRİŞİMCİLİK",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TOSGRP. - TEKNİK OLMAYAN SEÇMELİ",
    "tur": "Seçmeli",
@@ -1566,7 +1566,7 @@
   {
    "kod": "509004102003",
    "ad": "TEHLİKELİ ATIK BERTARAFINDA BİYOLOJİK UYGULAMALAR",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP - TEKNİK SEÇMELİ",
    "tur": "Seçmeli",
@@ -1580,7 +1580,7 @@
   {
    "kod": "509004122005",
    "ad": "UYGULAMALI BİYOİSTATİSTİK",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP - TEKNİK SEÇMELİ",
    "tur": "Seçmeli",
@@ -1594,7 +1594,7 @@
   {
    "kod": "509004202003",
    "ad": "TIBBİ GENETİK",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP - TEKNİK SEÇMELİ",
    "tur": "Seçmeli",
@@ -1608,7 +1608,7 @@
   {
    "kod": "509004282003",
    "ad": "ENZİM UYGULAMALARI",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP - TEKNİK SEÇMELİ",
    "tur": "Seçmeli",
@@ -1622,7 +1622,7 @@
   {
    "kod": "509004402005",
    "ad": "İNVİTRO KOŞULLARDA ÜRETİLEN SEKONDER BİTKİ METABOLİTLERİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP - TEKNİK SEÇMELİ",
    "tur": "Seçmeli",
@@ -1636,7 +1636,7 @@
   {
    "kod": "509004422004",
    "ad": "UYGULAMALI FİKOLOJİ (ALGOLOJİ)",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP - TEKNİK SEÇMELİ",
    "tur": "Seçmeli",
@@ -1650,7 +1650,7 @@
   {
    "kod": "509004502009",
    "ad": "DENEY TASARIMI VE OPTİMİZASYON",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP - TEKNİK SEÇMELİ",
    "tur": "Seçmeli",
@@ -1664,7 +1664,7 @@
   {
    "kod": "509004522016",
    "ad": "SENTETİK BİYOLOJİYE GİRİŞ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP - TEKNİK SEÇMELİ",
    "tur": "Seçmeli",
@@ -1678,7 +1678,7 @@
   {
    "kod": "509004662015",
    "ad": "BİYOMÜHENDİSLİKTE MİKROÇİP UYGULAMALARI",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP - TEKNİK SEÇMELİ",
    "tur": "Seçmeli",
@@ -1692,7 +1692,7 @@
   {
    "kod": "509004682014",
    "ad": "BİYOMÜHENDİSLER İÇİN GİRİŞİMCİLİK",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP - TEKNİK SEÇMELİ",
    "tur": "Seçmeli",
@@ -1706,7 +1706,7 @@
   {
    "kod": "509004762015",
    "ad": "FOTOBİYOREAKTÖR TASARIMI VE UYGULAMALARI",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP - TEKNİK SEÇMELİ",
    "tur": "Seçmeli",
@@ -1720,7 +1720,7 @@
   {
    "kod": "509004802016",
    "ad": "ENERJİ, MÜHENDİSLİK, PİYASA VE POLİTİKA İLİŞKİSİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP - TEKNİK SEÇMELİ",
    "tur": "Seçmeli",
@@ -1734,7 +1734,7 @@
   {
    "kod": "509004822016",
    "ad": "SÜRDÜRÜLEBİLİR GELİŞMENİN ANLAMI VE MÜHENDİSLİĞİN ROLÜ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP - TEKNİK SEÇMELİ",
    "tur": "Seçmeli",
@@ -1748,7 +1748,7 @@
   {
    "kod": "509004862018",
    "ad": "BİYOLOJİK AJANLAR VE BİYOTERÖRİZM",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP - TEKNİK SEÇMELİ",
    "tur": "Seçmeli",
@@ -1762,7 +1762,7 @@
   {
    "kod": "509004882018",
    "ad": "METAGENOMİK VE UYGULAMALARI",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP - TEKNİK SEÇMELİ",
    "tur": "Seçmeli",
@@ -1776,7 +1776,7 @@
   {
    "kod": "509004902019",
    "ad": "BİOANALİTİK KİMYA VE BİYOMÜHENDİSLİK UYGULAMALARI",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP - TEKNİK SEÇMELİ",
    "tur": "Seçmeli",
@@ -1790,7 +1790,7 @@
   {
    "kod": "509004922021",
    "ad": "AŞI TEKNOLOJİSİ",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP - TEKNİK SEÇMELİ",
    "tur": "Seçmeli",
@@ -1804,7 +1804,7 @@
   {
    "kod": "509004942021",
    "ad": "MICROREACTION ENGINEERING",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP - TEKNİK SEÇMELİ",
    "tur": "Seçmeli",
@@ -1818,7 +1818,7 @@
   {
    "kod": "509008022022",
    "ad": "BIODEVICES FOR DISEASE DIAGNOSIS",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP - TEKNİK SEÇMELİ",
    "tur": "Seçmeli",
@@ -1832,7 +1832,7 @@
   {
    "kod": "509008522022",
    "ad": "ADLİ LABORATUARLARDA BİYOMUHENDİSLİK UYGULAMALARI",
-   "mufredat": "Biyomühendislik",
+   "mufredat": "2011 Yılı Müfredatı (Biyomühendislik)",
    "yariyil": null,
    "grup": "TSCGRP - TEKNİK SEÇMELİ",
    "tur": "Seçmeli",

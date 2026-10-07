@@ -12,7 +12,7 @@
   {
    "kod": "9101015012017",
    "ad": "Işıkölçüm",
-   "mufredat": null,
+   "mufredat": "Astrofizik Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FENETKFEN2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "Astrofizik Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "Astrofizik Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9101015022017",
    "ad": "Çokrenk Işıkölçüm",
-   "mufredat": null,
+   "mufredat": "Astrofizik Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "FENYLSEM",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "Astrofizik Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLTEZ591",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "Astrofizik Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "Astrofizik Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "Astrofizik Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "Astrofizik Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "9101015091998",
    "ad": "Zonklama Teorısı",
-   "mufredat": null,
+   "mufredat": "Astrofizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUB2014-SG-YL-G - AUB2014-SG-YL-G",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9101015172004",
    "ad": "Astrofızıksel Akışkanların Dınamığı",
-   "mufredat": null,
+   "mufredat": "Astrofizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUB2014-SG-YL-G - AUB2014-SG-YL-G",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9101015192004",
    "ad": "Yakın Çıft Yıldızların Dınamığı",
-   "mufredat": null,
+   "mufredat": "Astrofizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUB2014-SG-YL-G - AUB2014-SG-YL-G",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9101015292018",
    "ad": "Pratık Sısmolojı",
-   "mufredat": null,
+   "mufredat": "Astrofizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUB2014-SG-YL-G - AUB2014-SG-YL-G",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9101015312016",
    "ad": "Plazma Astrofızığı",
-   "mufredat": null,
+   "mufredat": "Astrofizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUB2014-SG-YL-G - AUB2014-SG-YL-G",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9101015352018",
    "ad": "Kromosferık Aktıvıte I",
-   "mufredat": null,
+   "mufredat": "Astrofizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUB2014-SG-YL-G - AUB2014-SG-YL-G",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9101015372019",
    "ad": "X-Işın Astronomısı",
-   "mufredat": null,
+   "mufredat": "Astrofizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUB2014-SG-YL-G - AUB2014-SG-YL-G",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9101015121998",
    "ad": "Yıldız Sısmolojısı",
-   "mufredat": null,
+   "mufredat": "Astrofizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUB2014-SG-YL-B - AUB2014-SG-YL-B",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9101015302014",
    "ad": "Astronomıde Tayfbılım",
-   "mufredat": null,
+   "mufredat": "Astrofizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUB2014-SG-YL-B - AUB2014-SG-YL-B",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9101015362018",
    "ad": "Kromosferık Aktıvıte II",
-   "mufredat": null,
+   "mufredat": "Astrofizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUB2014-SG-YL-B - AUB2014-SG-YL-B",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9101015402023",
    "ad": "Ötegezegen Atmosferlerı",
-   "mufredat": null,
+   "mufredat": "Astrofizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUB2014-SG-YL-B - AUB2014-SG-YL-B",
    "tur": "Seçmeli",

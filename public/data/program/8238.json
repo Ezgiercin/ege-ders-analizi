@@ -12,7 +12,7 @@
   {
    "kod": "9135105012019",
    "ad": "Radyasyon Fızığının Temellerı I",
-   "mufredat": null,
+   "mufredat": "2019 Nükleer Bilimler-Radyasyon Güvenliği ve Korunma Tezli YL",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FENETKCOK2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2019 Nükleer Bilimler-Radyasyon Güvenliği ve Korunma Tezli YL",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "2019 Nükleer Bilimler-Radyasyon Güvenliği ve Korunma Tezli YL",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9105105002019",
    "ad": "Radyasyon Fızığının Temellerı II",
-   "mufredat": null,
+   "mufredat": "2019 Nükleer Bilimler-Radyasyon Güvenliği ve Korunma Tezli YL",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "FENYLSEM",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2019 Nükleer Bilimler-Radyasyon Güvenliği ve Korunma Tezli YL",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2019 Nükleer Bilimler-Radyasyon Güvenliği ve Korunma Tezli YL",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2019 Nükleer Bilimler-Radyasyon Güvenliği ve Korunma Tezli YL",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2019 Nükleer Bilimler-Radyasyon Güvenliği ve Korunma Tezli YL",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2019 Nükleer Bilimler-Radyasyon Güvenliği ve Korunma Tezli YL",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "9135105052019",
    "ad": "Radyasyon Dedeksıyonun Prensıplerı",
-   "mufredat": null,
+   "mufredat": "2019 Nükleer Bilimler-Radyasyon Güvenliği ve Korunma Tezli YL",
    "yariyil": null,
    "grup": "NÜK-RAD.KOR.SG-YL-G - Nükleer Bilimler-Rad.ve Koruma Seçmeli Ders YL-G",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9135105072019",
    "ad": "İyonlaştırıcı Radyasyonun Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2019 Nükleer Bilimler-Radyasyon Güvenliği ve Korunma Tezli YL",
    "yariyil": null,
    "grup": "NÜK-RAD.KOR.SG-YL-G - Nükleer Bilimler-Rad.ve Koruma Seçmeli Ders YL-G",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9135105092019",
    "ad": "Endüstrıyel Uygulamalarda Radyasyon Güvenlığı ve Korunma",
-   "mufredat": null,
+   "mufredat": "2019 Nükleer Bilimler-Radyasyon Güvenliği ve Korunma Tezli YL",
    "yariyil": null,
    "grup": "NÜK-RAD.KOR.SG-YL-G - Nükleer Bilimler-Rad.ve Koruma Seçmeli Ders YL-G",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9135105112019",
    "ad": "Radyasyon Güvenlığı ve Teknolojılerı I",
-   "mufredat": null,
+   "mufredat": "2019 Nükleer Bilimler-Radyasyon Güvenliği ve Korunma Tezli YL",
    "yariyil": null,
    "grup": "NÜK-RAD.KOR.SG-YL-G - Nükleer Bilimler-Rad.ve Koruma Seçmeli Ders YL-G",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9105045082019",
    "ad": "Radyasyon Kazaları ve Acıl Durum Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2019 Nükleer Bilimler-Radyasyon Güvenliği ve Korunma Tezli YL",
    "yariyil": null,
    "grup": "NÜK-RAD.KOR.SG-YL-B - Nükleer Bilimler-Rad.ve Koruma Seçmeli Ders YL-B",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9135105022019",
    "ad": "Medıkal Uygulamalarda Radyasyondan Korunma",
-   "mufredat": null,
+   "mufredat": "2019 Nükleer Bilimler-Radyasyon Güvenliği ve Korunma Tezli YL",
    "yariyil": null,
    "grup": "NÜK-RAD.KOR.SG-YL-B - Nükleer Bilimler-Rad.ve Koruma Seçmeli Ders YL-B",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9135105042019",
    "ad": "Radyasyon Güvenlığı ve Korunma Mevzuatı",
-   "mufredat": null,
+   "mufredat": "2019 Nükleer Bilimler-Radyasyon Güvenliği ve Korunma Tezli YL",
    "yariyil": null,
    "grup": "NÜK-RAD.KOR.SG-YL-B - Nükleer Bilimler-Rad.ve Koruma Seçmeli Ders YL-B",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9135105102019",
    "ad": "Radyasyon Güvenlığı ve Teknolojılerı II",
-   "mufredat": null,
+   "mufredat": "2019 Nükleer Bilimler-Radyasyon Güvenliği ve Korunma Tezli YL",
    "yariyil": null,
    "grup": "NÜK-RAD.KOR.SG-YL-B - Nükleer Bilimler-Rad.ve Koruma Seçmeli Ders YL-B",
    "tur": "Seçmeli",

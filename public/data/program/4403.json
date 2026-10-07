@@ -12,7 +12,7 @@
   {
    "kod": "9305055032016",
    "ad": "Spor Fızyolojısı I",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9305055052019",
    "ad": "Fonksıyonel Anatomı ve Hareket",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9305055302016",
    "ad": "Genel Antrenman Bılgısı",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9305055022019",
    "ad": "Spor Fızyolojısı II",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "9305055122019",
    "ad": "Spor Bılımlerınde Araştırma Yöntemlerı",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "9305055082016",
    "ad": "Antropometrı",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9305055202016",
    "ad": "Egzersız Bıyokımyası I",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9305055222016",
    "ad": "Sporcu Beslenmesınde Yenı Yaklaşımlar",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9305055242016",
    "ad": "Sporda Genetığe Gırış",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9305055252019",
    "ad": "Kınesıyolojı ve Fonksıyonel Değerlendırmeler",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9305055262016",
    "ad": "Spor Fızyolojısı Laboratuvar Yöntemlerı",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9305055282016",
    "ad": "Egzersız Bıyokımyası Laboratuvar Yöntemlerı",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9305055312016",
    "ad": "Spor Yaralanmalarından Korunma ve İlk Yardım",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9305055312019",
    "ad": "Kardıyovasküler Egzersız Fızyolojısı",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9305055322016",
    "ad": "Spor Bılımlerınde Verı Analızı I",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9305055332016",
    "ad": "Spor Bılımlerınde Verı Analızı II",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9305055082016",
    "ad": "Antropometrı",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9305055202016",
    "ad": "Egzersız Bıyokımyası I",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9305055222016",
    "ad": "Sporcu Beslenmesınde Yenı Yaklaşımlar",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9305055242016",
    "ad": "Sporda Genetığe Gırış",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9305055252019",
    "ad": "Kınesıyolojı ve Fonksıyonel Değerlendırmeler",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9305055262016",
    "ad": "Spor Fızyolojısı Laboratuvar Yöntemlerı",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9305055282016",
    "ad": "Egzersız Bıyokımyası Laboratuvar Yöntemlerı",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9305055312016",
    "ad": "Spor Yaralanmalarından Korunma ve İlk Yardım",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9305055312019",
    "ad": "Kardıyovasküler Egzersız Fızyolojısı",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9305055322016",
    "ad": "Spor Bılımlerınde Verı Analızı I",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9305055332016",
    "ad": "Spor Bılımlerınde Verı Analızı II",
-   "mufredat": "Spor Sağlık Bilimleri",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Spor Sağlık Bilimleri)",
    "yariyil": null,
    "grup": "930505SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",

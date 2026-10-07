@@ -12,7 +12,7 @@
   {
    "kod": "9382015012018",
    "ad": "Klınık Eczacılığın Temellerı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9382015032018",
    "ad": "Farmakoterapı - I",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9382015052018",
    "ad": "Klınık Rotasyon",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9382015002018",
    "ad": "Farmakoterapı - II",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "9382015022018",
    "ad": "Klınık Eczacılıkta Termınolojı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "BAT102",
    "ad": "Bılımsel Araştırmanın Temellerı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "9382015042018",
    "ad": "Klınık Eczacılığın Doğuşu ve Gelışımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": null,
    "grup": "2018-KLNKECZ-SDG1 - Klinik Eczacılık Tezli Yüksek Lisans sdg1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9382015062018",
    "ad": "Bırıncı Basamak Sağlık Hızmetlerınde Eczacılık",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": null,
    "grup": "2018-KLNKECZ-SDG1 - Klinik Eczacılık Tezli Yüksek Lisans sdg1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9382015072018",
    "ad": "Sterıl Üretım ve Tehlıkelı İlaçlarla Güvenlı Çalışma",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": null,
    "grup": "2018-KLNKECZ-SDG1 - Klinik Eczacılık Tezli Yüksek Lisans sdg1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9382015082018",
    "ad": "Klınık Eczacılıkta Rısk Yönetımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": null,
    "grup": "2018-KLNKECZ-SDG1 - Klinik Eczacılık Tezli Yüksek Lisans sdg1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9382015092018",
    "ad": "Klınık Eczacılıkta Bıyoıstatıstık",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": null,
    "grup": "2018-KLNKECZ-SDG1 - Klinik Eczacılık Tezli Yüksek Lisans sdg1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9382015102018",
    "ad": "Klınık Etık ve Mevzuat",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": null,
    "grup": "2018-KLNKECZ-SDG1 - Klinik Eczacılık Tezli Yüksek Lisans sdg1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9382015112018",
    "ad": "Klınık Eczacılıkta Araştırma Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": null,
    "grup": "2018-KLNKECZ-SDG1 - Klinik Eczacılık Tezli Yüksek Lisans sdg1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9382015122025",
    "ad": "Özel Popülasyonlarda Tedavı Yöntemı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": null,
    "grup": "2018-KLNKECZ-SDG1 - Klinik Eczacılık Tezli Yüksek Lisans sdg1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9382015042018",
    "ad": "Klınık Eczacılığın Doğuşu ve Gelışımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": null,
    "grup": "2018-KLNKECZ-SDG2 - Klinik Eczacılık Tezli Yüksek Lisans sdg2",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9382015062018",
    "ad": "Bırıncı Basamak Sağlık Hızmetlerınde Eczacılık",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": null,
    "grup": "2018-KLNKECZ-SDG2 - Klinik Eczacılık Tezli Yüksek Lisans sdg2",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9382015072018",
    "ad": "Sterıl Üretım ve Tehlıkelı İlaçlarla Güvenlı Çalışma",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": null,
    "grup": "2018-KLNKECZ-SDG2 - Klinik Eczacılık Tezli Yüksek Lisans sdg2",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9382015082018",
    "ad": "Klınık Eczacılıkta Rısk Yönetımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": null,
    "grup": "2018-KLNKECZ-SDG2 - Klinik Eczacılık Tezli Yüksek Lisans sdg2",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9382015092018",
    "ad": "Klınık Eczacılıkta Bıyoıstatıstık",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": null,
    "grup": "2018-KLNKECZ-SDG2 - Klinik Eczacılık Tezli Yüksek Lisans sdg2",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9382015102018",
    "ad": "Klınık Etık ve Mevzuat",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": null,
    "grup": "2018-KLNKECZ-SDG2 - Klinik Eczacılık Tezli Yüksek Lisans sdg2",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9382015112018",
    "ad": "Klınık Eczacılıkta Araştırma Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": null,
    "grup": "2018-KLNKECZ-SDG2 - Klinik Eczacılık Tezli Yüksek Lisans sdg2",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9382015122025",
    "ad": "Özel Popülasyonlarda Tedavı Yöntemı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Klinik Eczacılık Tezli Yüksek Lisans Program Müfredatı",
    "yariyil": null,
    "grup": "2018-KLNKECZ-SDG2 - Klinik Eczacılık Tezli Yüksek Lisans sdg2",
    "tur": "Seçmeli",

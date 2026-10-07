@@ -12,7 +12,7 @@
   {
    "kod": "9201445132022",
    "ad": "Karadenız-Hazar Türk Lehçelerı (Karaçay-Balkar)",
-   "mufredat": "Tezli Yüksek Lisans",
+   "mufredat": "2015 Yeni Türk Dili Müfredatı(Tezli Yüksek Lisans)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9201445492020",
    "ad": "Araştırma Teknıklerı ve Etık (E)",
-   "mufredat": "Tezli Yüksek Lisans",
+   "mufredat": "2015 Yeni Türk Dili Müfredatı(Tezli Yüksek Lisans)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "YTD2015SDG1",
    "ad": "SEÇMELİ DERS GRUBU",
-   "mufredat": "Tezli Yüksek Lisans",
+   "mufredat": "2015 Yeni Türk Dili Müfredatı(Tezli Yüksek Lisans)",
    "yariyil": 1,
    "grup": null,
    "tur": "Seçmeli",
@@ -54,7 +54,7 @@
   {
    "kod": "9201445422022",
    "ad": "Karadenız-Hazar Türk Lehçelerı (Kumuk)",
-   "mufredat": "Tezli Yüksek Lisans",
+   "mufredat": "2015 Yeni Türk Dili Müfredatı(Tezli Yüksek Lisans)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "92SE014452022",
    "ad": "Semıner Çalışmaları",
-   "mufredat": "Tezli Yüksek Lisans",
+   "mufredat": "2015 Yeni Türk Dili Müfredatı(Tezli Yüksek Lisans)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YTD2015SDG2",
    "ad": "SEÇMELİ DERS GRUBU",
-   "mufredat": "Tezli Yüksek Lisans",
+   "mufredat": "2015 Yeni Türk Dili Müfredatı(Tezli Yüksek Lisans)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -96,7 +96,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": "Tezli Yüksek Lisans",
+   "mufredat": "2015 Yeni Türk Dili Müfredatı(Tezli Yüksek Lisans)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tezli Yüksek Lisans",
+   "mufredat": "2015 Yeni Türk Dili Müfredatı(Tezli Yüksek Lisans)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": "Tezli Yüksek Lisans",
+   "mufredat": "2015 Yeni Türk Dili Müfredatı(Tezli Yüksek Lisans)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tezli Yüksek Lisans",
+   "mufredat": "2015 Yeni Türk Dili Müfredatı(Tezli Yüksek Lisans)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "9201445172022",
    "ad": "Türk Dılı Tarıhı (Orhon Yazıtları, Eskı Uygurca, Karahanlıca)",
-   "mufredat": "Tezli Yüksek Lisans",
+   "mufredat": "2015 Yeni Türk Dili Müfredatı(Tezli Yüksek Lisans)",
    "yariyil": null,
    "grup": "YTD2015SDG1 - SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9201445372022",
    "ad": "Karakalpak Türkçesı Söz Varlığı (Ses Bılgısı)",
-   "mufredat": "Tezli Yüksek Lisans",
+   "mufredat": "2015 Yeni Türk Dili Müfredatı(Tezli Yüksek Lisans)",
    "yariyil": null,
    "grup": "YTD2015SDG1 - SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9201445452015",
    "ad": "Türk Dılının Ses Bılgısı Tarıhı",
-   "mufredat": "Tezli Yüksek Lisans",
+   "mufredat": "2015 Yeni Türk Dili Müfredatı(Tezli Yüksek Lisans)",
    "yariyil": null,
    "grup": "YTD2015SDG1 - SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9201445472022",
    "ad": "Tarıhî Türkçe Metınler Üzerınde Söz Dızımı İncelemelerı",
-   "mufredat": "Tezli Yüksek Lisans",
+   "mufredat": "2015 Yeni Türk Dili Müfredatı(Tezli Yüksek Lisans)",
    "yariyil": null,
    "grup": "YTD2015SDG1 - SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9201445182022",
    "ad": "Türk Dılı Tarıhı (Eskı Anadolu Türkçesı, Harezm Türkçesı)",
-   "mufredat": "Tezli Yüksek Lisans",
+   "mufredat": "2015 Yeni Türk Dili Müfredatı(Tezli Yüksek Lisans)",
    "yariyil": null,
    "grup": "YTD2015SDG2 - SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9201445362022",
    "ad": "Karakalpak Türkçesı Söz Varlığı (Şekıl Bılgısı)",
-   "mufredat": "Tezli Yüksek Lisans",
+   "mufredat": "2015 Yeni Türk Dili Müfredatı(Tezli Yüksek Lisans)",
    "yariyil": null,
    "grup": "YTD2015SDG2 - SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9201445442015",
    "ad": "Türk Dılının Şekıl Bılgısı Tarıhı",
-   "mufredat": "Tezli Yüksek Lisans",
+   "mufredat": "2015 Yeni Türk Dili Müfredatı(Tezli Yüksek Lisans)",
    "yariyil": null,
    "grup": "YTD2015SDG2 - SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9201445462022",
    "ad": "Çağdaş Türkçe Metınler Üzerınde Söz Dızımı İncelemelerı",
-   "mufredat": "Tezli Yüksek Lisans",
+   "mufredat": "2015 Yeni Türk Dili Müfredatı(Tezli Yüksek Lisans)",
    "yariyil": null,
    "grup": "YTD2015SDG2 - SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",

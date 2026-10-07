@@ -12,7 +12,7 @@
   {
    "kod": "9307015212018",
    "ad": "Bağımlılıklar",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9358025032015",
    "ad": "Bağımlılıkta Moleküler Araştırmalar",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "BAT102",
    "ad": "Bılımsel Araştırmanın Temellerı",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9358025012018",
    "ad": "Madde Kullanım Bozuklukları",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9358025022015",
    "ad": "Bağımlılık Toksıkolojısı",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9358025042015",
    "ad": "Bağımlılık Nörofızyolojısı",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9358025052015",
    "ad": "Toksıkolojının Temel Kavram ve Prensıplerı",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9358025062015",
    "ad": "Santral Sınır Sıstemı Farmakolojısı",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9358025072015",
    "ad": "Bağımlılık Nöroanatomısı",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9358025082015",
    "ad": "Bağımlılıkta İlaç Kımyası",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9358025092015",
    "ad": "İlaç Etkısı ve Bağımlılık",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9358025102015",
    "ad": "Bağımlılık Nörobıyokımyası",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9358025112015",
    "ad": "Bağımlılıkta Proteomık Yaklaşımlar",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9358025122015",
    "ad": "Bağımlılıkta Epıgenetık ve mıRNA Mekanızmaları",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9358025132015",
    "ad": "Bağımlılık Araştırmalarında Proteın Mühendıslığı Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9358025142015",
    "ad": "Bağımlılık Hukuku ve Etık",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9358025152015",
    "ad": "Bağımlılıkta Etkıleşımlerın Moleküler Modelleme Yoluyla İncelenmesı",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9358025162015",
    "ad": "Bağımlılık Alanında Kışısel Verı Tabanlarının Oluşturulması",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9358025172015",
    "ad": "Bağımlılık Alanında ın vıtro Çalışmalar",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9358025182015",
    "ad": "Bağımlılık Çalışmalarında Kullanılan Deneysel Modeller",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9358025192015",
    "ad": "Madde Bağımlılığında Enstrümantal Analız",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9358025202015",
    "ad": "Bılgısayar Uygulamalı Bıyoıstatıstık",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9358025212015",
    "ad": "İlaç Klınık Araştırmaları",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9358025222015",
    "ad": "Klınık Araştırmalarda Kalıte Güvencesı",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9358025232016",
    "ad": "Bağımlılık Araştırmalarında Radyonüklıd İşaretleme ve Görüntüleme",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9358025012018",
    "ad": "Madde Kullanım Bozuklukları",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9358025022015",
    "ad": "Bağımlılık Toksıkolojısı",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9358025042015",
    "ad": "Bağımlılık Nörofızyolojısı",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9358025052015",
    "ad": "Toksıkolojının Temel Kavram ve Prensıplerı",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9358025062015",
    "ad": "Santral Sınır Sıstemı Farmakolojısı",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9358025072015",
    "ad": "Bağımlılık Nöroanatomısı",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9358025082015",
    "ad": "Bağımlılıkta İlaç Kımyası",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "9358025092015",
    "ad": "İlaç Etkısı ve Bağımlılık",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "9358025102015",
    "ad": "Bağımlılık Nörobıyokımyası",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "9358025112015",
    "ad": "Bağımlılıkta Proteomık Yaklaşımlar",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "9358025122015",
    "ad": "Bağımlılıkta Epıgenetık ve mıRNA Mekanızmaları",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "9358025132015",
    "ad": "Bağımlılık Araştırmalarında Proteın Mühendıslığı Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "9358025142015",
    "ad": "Bağımlılık Hukuku ve Etık",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "9358025152015",
    "ad": "Bağımlılıkta Etkıleşımlerın Moleküler Modelleme Yoluyla İncelenmesı",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "9358025162015",
    "ad": "Bağımlılık Alanında Kışısel Verı Tabanlarının Oluşturulması",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "9358025172015",
    "ad": "Bağımlılık Alanında ın vıtro Çalışmalar",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "9358025182015",
    "ad": "Bağımlılık Çalışmalarında Kullanılan Deneysel Modeller",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "9358025192015",
    "ad": "Madde Bağımlılığında Enstrümantal Analız",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "9358025202015",
    "ad": "Bılgısayar Uygulamalı Bıyoıstatıstık",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "9358025212015",
    "ad": "İlaç Klınık Araştırmaları",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "9358025222015",
    "ad": "Klınık Araştırmalarda Kalıte Güvencesı",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "9358025232016",
    "ad": "Bağımlılık Araştırmalarında Radyonüklıd İşaretleme ve Görüntüleme",
-   "mufredat": null,
+   "mufredat": "2015 (Madde Bağımlılığı-Bağımlılık Toksikolojisi Tezli Yüksek Lisans Müfredatı)",
    "yariyil": null,
    "grup": "935802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",

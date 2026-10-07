@@ -12,7 +12,7 @@
   {
    "kod": "HAZ001",
    "ad": "HAZIRLIK SINIFI",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 0,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "7601001012021",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "7601001022021",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "7601001052021",
    "ad": "ÇOCUK GELİŞİMİ I",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "7601001072021",
    "ad": "MATEMATİK",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "7601001092021",
    "ad": "ANATOMİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "7601001112021",
    "ad": "PSİKOLOJİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "7601001132021",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "7601001152021",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "7601001252021",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "7601000922021",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "7601000942021",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "7601000962021",
    "ad": "YABANCI DİL II",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "7601001042021",
    "ad": "ÇOCUK GELİŞİMİ II",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "7601001062021",
    "ad": "AİLE YAŞAMI VE AİLE İÇİ İLİŞKİLER",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "7601001082021",
    "ad": "SOSYOLOJİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "7601001122021",
    "ad": "FİZYOLOJİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "7601001222026",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "7601002012021",
    "ad": "TIBBİ BİYOLOJİ VE GENETİK",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "7601002032021",
    "ad": "BEBEKLİK DÖNEMİNDE GELİŞİM",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "7601002052021",
    "ad": "ÇOCUKLARDA NÖROLOJİK GELİŞİM",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "7601002092021",
    "ad": "ÇOCUK RUH SAĞLIĞI",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "7601002112021",
    "ad": "ÇOCUKLARDA GELİŞİMSEL YAKLAŞIM VE OYUN",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -348,7 +348,7 @@
   {
    "kod": "7601002022021",
    "ad": "ÇOCUKLARDA GELİŞİMSEL PSİKOPATOLOJİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "7601002042021",
    "ad": "ÇOCUKLARDA SAĞLIKLI BESLENME",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "7601002122021",
    "ad": "ÇOCUK GELİŞİMİNDE ALAN ÇALIŞMASI I",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "7601002142021",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "7601002242021",
    "ad": "ERKEN MÜDAHALE",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "7601002262021",
    "ad": "ÖZEL GEREKSİNİMİ OLAN ÇOCUKLARA YAKLAŞIM",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -446,7 +446,7 @@
   {
    "kod": "7601003012021",
    "ad": "GELİŞİMSEL DEĞERLENDİRME YÖNTEMLERİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "7601003052021",
    "ad": "ÖZEL EĞİTİME GİRİŞ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "7601003072021",
    "ad": "ÇOCUK GELİŞİMİNDE ALAN ÇALIŞMASI II",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "7601003112021",
    "ad": "BİYOİSTATİSTİK",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "7601003232021",
    "ad": "ÇOCUK YAŞAM ALANLARI VE DÜZENLEMESİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "7601003292026",
    "ad": "GELİŞİMİ DESTEKLEYİCİ MATERYAL TASARLAMA",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -544,7 +544,7 @@
   {
    "kod": "7601003062021",
    "ad": "ÇOCUĞU TANIMA TEKNİKLERİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "7601003082021",
    "ad": "KAYNAŞTIRMA EĞİTİMİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -572,7 +572,7 @@
   {
    "kod": "7601003102021",
    "ad": "ARAŞTIRMA YÖNTEMLERİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "7601003122021",
    "ad": "OKUL ÖNCESİ DÖNEMİ UYGULAMALARI",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "7601003222021",
    "ad": "ÇOCUK GELİŞİMİNDE GÜNCEL KONULAR",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "7601003302026",
    "ad": "GELİŞİMSEL DESTEK PROGRAMLARI",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -628,7 +628,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -656,7 +656,7 @@
   {
    "kod": "7601004032020",
    "ad": "ERGENLİK PSİKOLOJİSİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "7601004052021",
    "ad": "ÖZEL EĞİTİM KURUMLARI UYGULAMASI",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "7601004152021",
    "ad": "ÇOCUK SAĞLIĞI VE HASTALIKLARI",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -698,7 +698,7 @@
   {
    "kod": "7601004172023",
    "ad": "ÇOCUK HAKLARI",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -712,7 +712,7 @@
   {
    "kod": "7601004272026",
    "ad": "SAĞLIK KURULUŞLARINDA ÇOCUK",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -726,7 +726,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -740,7 +740,7 @@
   {
    "kod": "7601004062021",
    "ad": "MESLEKİ MEVZUAT VE YÖNETİM",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -754,7 +754,7 @@
   {
    "kod": "7601004242021",
    "ad": "ÇOCUK GELİŞİMİ KURAMLARI",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "7601004322023",
    "ad": "AİLE,ÇOCUK HİZMETLERİ VE SOSYAL POLİTİKALAR",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -782,7 +782,7 @@
   {
    "kod": "7601004342023",
    "ad": "RİSK ALTINDAKİ ÇOCUKLAR",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -796,7 +796,7 @@
   {
    "kod": "7601004362024",
    "ad": "SAĞLIK KURULUŞLARINDA KLİNİK UYGULAMA",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -810,7 +810,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -824,7 +824,7 @@
   {
    "kod": "7601001172021",
    "ad": "ÇOCUKLA İLETİŞİM BECERİLERİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-I - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "7601001192021",
    "ad": "ELEŞTİREL DÜŞÜNME VE YARATICILIK",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-I - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "7601001232021",
    "ad": "AKADEMİK TÜRKÇE(Yab.Uyruklu Öğr.ıçın)",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-I - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "7601001272021",
    "ad": "ANTROPOLOJİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-I - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "7601001162021",
    "ad": "MESLEK ETİĞİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-II - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "7601001202021",
    "ad": "MEDYA VE ÇOCUK",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-II - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "7601002132021",
    "ad": "ÇOCUK VE ÇEVRE",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-III - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU III",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "7601002152021",
    "ad": "ÇOCUKLARDA YARATICI DRAMA",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-III - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU III",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "7601002172021",
    "ad": "FOTOĞRAFÇILIK",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-III - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU III",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "7601002192021",
    "ad": "FARKLI KÜLTÜRLERDE ÇOCUK",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-III - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU III",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "PF201",
    "ad": "EĞİTİME GİRİŞ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-III - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU III",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-III - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU III",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "7601002222021",
    "ad": "ÇOCUKLARDA SANAT VE YARATICILIK",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-IV - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU IV",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "7601002282021",
    "ad": "ERKEN ÇOCUKLUKTA BİLİM EĞİTİMİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-IV - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU IV",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "7601002302021",
    "ad": "KUKLA VE OYUNCAK YAPIMI",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-IV - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU IV",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-IV - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU IV",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-IV - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU IV",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "7601003152021",
    "ad": "ÇOCUKLARDA TEKNOLOJİ VE BİLGİSAYAR KULLANIMI",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-V - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU V",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "7601003192021",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-V - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU V",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "7601003252021",
    "ad": "ÇOCUK İHMALİ VE İSTİSMARI",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-V - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU V",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "7601003272023",
    "ad": "ÇOCUK VE EDEBİYAT",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-V - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU V",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-V - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU V",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-V - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU V",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "7601003242021",
    "ad": "ERKEN ÇOCUKLUK EĞİTİMİ YAKLAŞIMLARI",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-VI - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU VI",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "7601003262021",
    "ad": "BİREYSELLEŞTİRİLMİŞ EĞİTİM PLANI HAZIRLAMA",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-VI - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU VI",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "7601003282021",
    "ad": "DAVRANIŞ PROBLEMLERİ VE YÖNETİMİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-VI - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU VI",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-VI - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU VI",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "7601004112021",
    "ad": "ÇOCUK VE MÜZİK",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-VII - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU VII",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "7601004212023",
    "ad": "ÇOCUK, SPOR VE GENÇLİK HİZMETLERİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-VII - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU VII",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "7601004232023",
    "ad": "ÇOCUK GELİŞİMİNDE GİRİŞİMCİLİK",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-VII - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU VII",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-VII - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU VII",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "7601004142021",
    "ad": "ÇOCUĞU TANIMADA TEST DIŞI TEKNİKLER",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-VIII - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU VIII",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "7601004162021",
    "ad": "ÖĞRENME PSİKOLOJİSİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-VIII - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU VIII",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "7601004202021",
    "ad": "ANİ YAŞAM OLAYLARI VE ÇOCUK",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-VIII - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU VIII",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "7601004262021",
    "ad": "DUYU EĞİTİMİ",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-VIII - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU VIII",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": "Çocuk Gelişimi",
+   "mufredat": "2021 Yılı Müfredatı (Çocuk Gelişimi)",
    "yariyil": null,
    "grup": "Ç.G.SÇMDERS-VIII - (ÇOCUK GELİŞİMİ )SEÇMELİ DERS GRUBU VIII",
    "tur": "Seçmeli",

@@ -12,7 +12,7 @@
   {
    "kod": "9385005012020",
    "ad": "Ortopedık Fızyoterapı ve Rehabılıtasyon I",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9385005032020",
    "ad": "Nörolojık Fızyoterapı ve Rehabılıtasyon I",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9385005052020",
    "ad": "Sağlık Bılımlerınde Araştırma Yöntemlerı ve Etığı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9385005002020",
    "ad": "Ortopedık Fızyoterapı ve Rehabılıtasyon II",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "9385005022020",
    "ad": "Nörolojık Fızyoterapı ve Rehabılıtasyon II",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "9385005042020",
    "ad": "Sağlıklı Yaşam ve Egzersız",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.1 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9385005062020",
    "ad": "Ağrı Kontrolünde Fızyoterapı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.1 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9385005072020",
    "ad": "Artroplastıde Fızyoterapı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.1 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9385005082020",
    "ad": "İnme ve Fızyoterapısı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.1 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9385005092020",
    "ad": "Kardıyopulmoner Fızyoterapı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.1 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9385005102020",
    "ad": "Spor Yaralanmaları ve Fızyoterapısı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.1 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9385005112020",
    "ad": "Tamamlayıcı Terapıler",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.1 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9385005122020",
    "ad": "Üst Ekstremıte Yaralanmalarında Fızyoterapı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.1 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9385005132020",
    "ad": "Ortez ve Protezde Özel Konular",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.1 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9385005142020",
    "ad": "Gerıatrık Fızyoterapı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.1 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9385005152020",
    "ad": "Bıyoıstatıstık",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.1 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 1",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9385005162020",
    "ad": "Kanıta Dayalı Egzersız Tedavısı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.1 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 1",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9385005172020",
    "ad": "Obstetrık ve Jınekolojık Fızyoterapı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.1 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 1",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9385005192020",
    "ad": "Romatolojık Fızyoterapı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.1 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 1",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9385005202020",
    "ad": "Alt Ekstremıte Yaralanmalarında Fızyoterapı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.1 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 1",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9385005062020",
    "ad": "Ağrı Kontrolünde Fızyoterapı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.2 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 2",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9385005072020",
    "ad": "Artroplastıde Fızyoterapı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.2 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 2",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9385005092020",
    "ad": "Kardıyopulmoner Fızyoterapı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.2 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 2",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9385005102020",
    "ad": "Spor Yaralanmaları ve Fızyoterapısı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.2 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 2",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9385005112020",
    "ad": "Tamamlayıcı Terapıler",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.2 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 2",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9385005122020",
    "ad": "Üst Ekstremıte Yaralanmalarında Fızyoterapı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.2 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 2",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9385005132020",
    "ad": "Ortez ve Protezde Özel Konular",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.2 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 2",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9385005142020",
    "ad": "Gerıatrık Fızyoterapı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.2 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 2",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9385005152020",
    "ad": "Bıyoıstatıstık",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.2 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 2",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9385005162020",
    "ad": "Kanıta Dayalı Egzersız Tedavısı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.2 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 2",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9385005172020",
    "ad": "Obstetrık ve Jınekolojık Fızyoterapı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.2 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 2",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9385005202020",
    "ad": "Alt Ekstremıte Yaralanmalarında Fızyoterapı",
-   "mufredat": null,
+   "mufredat": "Fizyoterapi ve Rehabilitasyon 2020 Yılı Tezli Yüksek Lisans",
    "yariyil": null,
    "grup": "FIZ.VE.REH.TYL.SDG.2 - Fizyoterapi ve Rehabilitasyon Tezli Yüksek Lisans SDG 2",
    "tur": "Seçmeli",

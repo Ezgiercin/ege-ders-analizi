@@ -12,7 +12,7 @@
   {
    "kod": "1910001012024",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "1910001032024",
    "ad": "YABANCI DİL I",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "1910001052024",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "1910001072024",
    "ad": "MATEMATİK",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "1910001092024",
    "ad": "WEB TASARIMI",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "1910001112024",
    "ad": "JAVASCRIPT PROGRAMLAMA",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "1910001132024",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "1910001022024",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "1910001042024",
    "ad": "YABANCI DİL II",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "1910001062024",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "1910001082024",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "1910001102024",
    "ad": "JAVASCRIPT ÇERÇEVELERİ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "1910001122024",
    "ad": "MOBİL UYGULAMA GELİŞTİRME",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "1910001142024",
    "ad": "VERİTABANI SORGULAMA DİLLERİ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "1910002012024",
    "ad": "WEB GÜVENLİĞİ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "1910002032024",
    "ad": "SANALLAŞTIRMA VE BULUT TEKNOLOJİLERİ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "1910002052024",
    "ad": "İLERİ WEB TASARIMI",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "1910002072024",
    "ad": "YAPAY ZEKA UYGULAMALARI",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "1910002092024",
    "ad": "GRAFİK TASARIM",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "1910002112024",
    "ad": "WEB TABANLI MOBİL UYGULAMA GELİŞTİRME",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "1910002022024",
    "ad": "UX/UI TASARIMI VE WEB ERİŞEBİLİRLİĞİ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "1910002042024",
    "ad": "BİTİRME PROJESİ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "1910002082024",
    "ad": "STAJ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "1910002102024",
    "ad": "İLERİ CSS",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "1910002122024",
    "ad": "GRAFİK ANİMASYON",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "191002062024",
    "ad": "ÇEVİK YAZILIM GELİŞTİRME",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "1910001172024",
    "ad": "BULUT BİLİŞİM UYGULAMALARI",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "TEK.SEÇ.1 - TEKNİK SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "1910001192024",
    "ad": "WEB TABANLI SUNUM HAZIRLAMA",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "TEK.SEÇ.1 - TEKNİK SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "1910001162024",
    "ad": "WEB TABANLI OYUN TASARIMI VE KODLAMA",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "TEK.SEÇ.2 - TEKNİK SEÇMELİ 2",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "1910001182024",
    "ad": "WEB SUNUCULARININ KURULUMU VE KONFİGÜRASYONU",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "TEK.SEÇ.2 - TEKNİK SEÇMELİ 2",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "1910001202024",
    "ad": "WEB TABANLI ARTIRILMIŞ VE SANAL GERÇEKLİK",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "TEK.SEÇ.2 - TEKNİK SEÇMELİ 2",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "1910001222024",
    "ad": "ÇOKLU ORTAM YAZILIM GELİŞTİRME",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "TEK.SEÇ.2 - TEKNİK SEÇMELİ 2",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "1910001242024",
    "ad": "SANAL MAKİNELER OLUŞTURMA VE KONFİGÜRASYONU",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "TEK.SEÇ.2 - TEKNİK SEÇMELİ 2",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "1910002132024",
    "ad": "VERİ ALMA VE GEÇERLEME",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "TEK.SEÇ.3 - TEKNİK SEÇMELİ 3",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "1910002152024",
    "ad": "WEB SERVİSLERİ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "TEK.SEÇ.3 - TEKNİK SEÇMELİ 3",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "1910002172024",
    "ad": "WEB MADENCİLİĞİ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "TEK.SEÇ.3 - TEKNİK SEÇMELİ 3",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "1910002312024",
    "ad": "ETİK DAVRANIŞ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "ÜS1 - ÜNİVERSİTE SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "1910002332024",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "ÜS1 - ÜNİVERSİTE SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "1910002352024",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "ÜS1 - ÜNİVERSİTE SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "1910002372024",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "ÜS1 - ÜNİVERSİTE SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "1910002162024",
    "ad": "İLETİŞİM VE ETİK",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2024 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "ÜS2 - ÜNİVERSİTE SEÇMELİ 2",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "1910001012024",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "1910001032024",
    "ad": "YABANCI DİL I",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -628,7 +628,7 @@
   {
    "kod": "1910001052024",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "1910001082024",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "1910001092024",
    "ad": "WEB TASARIMI",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "1910001132024",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "1910001252026",
    "ad": "GENEL MATEMATİK",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -698,7 +698,7 @@
   {
    "kod": "1910001272026",
    "ad": "ÖN YÜZ PROGRAMLAMAYA GİRİŞ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -712,7 +712,7 @@
   {
    "kod": "1910001292026",
    "ad": "GRAFİK TASARIM",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -726,7 +726,7 @@
   {
    "kod": "1910001022024",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -740,7 +740,7 @@
   {
    "kod": "1910001042024",
    "ad": "YABANCI DİL II",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -754,7 +754,7 @@
   {
    "kod": "1910001062024",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "1910001122024",
    "ad": "MOBİL UYGULAMA GELİŞTİRME",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -782,7 +782,7 @@
   {
    "kod": "1910001262026",
    "ad": "İLERİ ÖN YÜZ PROGRAMLAMA",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -796,7 +796,7 @@
   {
    "kod": "1910001282026",
    "ad": "İLERİ CSS",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -810,7 +810,7 @@
   {
    "kod": "1910001302026",
    "ad": "GRAFİK ANİMASYON",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -824,7 +824,7 @@
   {
    "kod": "1910001322026",
    "ad": "OFİS YAZILIMLARI",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -838,7 +838,7 @@
   {
    "kod": "1910002032024",
    "ad": "SANALLAŞTIRMA VE BULUT TEKNOLOJİLERİ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -852,7 +852,7 @@
   {
    "kod": "1910002112024",
    "ad": "WEB TABANLI MOBİL UYGULAMA GELİŞTİRME",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -866,7 +866,7 @@
   {
    "kod": "1910002432026",
    "ad": "YAPAY ZEKA UYGULAMALARI",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -880,7 +880,7 @@
   {
    "kod": "1910002452026",
    "ad": "UX/UI TASARIMI VE WEB ERİŞEBİLİRLİĞİ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -894,7 +894,7 @@
   {
    "kod": "1910002472026",
    "ad": "VERİ TABANI VE YÖNETİMİ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -908,7 +908,7 @@
   {
    "kod": "1910002492026",
    "ad": "SİSTEM ANALİZİ VE TASARIMI",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -922,7 +922,7 @@
   {
    "kod": "1910002612026",
    "ad": "ÇEVİK YAZILIM GELİŞTİRME",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -936,7 +936,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -950,7 +950,7 @@
   {
    "kod": "İŞME202",
    "ad": "İŞLETMEDE MESLEKİ EĞİTİM",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -964,7 +964,7 @@
   {
    "kod": "1910001332026",
    "ad": "GİRİŞİMCİLİK VE İŞLETME YÖNETİMİ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "ÖN.YÜZ.SEÇ.DERS.I - SEÇMELİ DERS GRUBU I (ÖN YÜZ YAZILIM GELİŞTİRME)",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "1910001352026",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "ÖN.YÜZ.SEÇ.DERS.I - SEÇMELİ DERS GRUBU I (ÖN YÜZ YAZILIM GELİŞTİRME)",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "1910001372026",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "ÖN.YÜZ.SEÇ.DERS.I - SEÇMELİ DERS GRUBU I (ÖN YÜZ YAZILIM GELİŞTİRME)",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "1910001392026",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "ÖN.YÜZ.SEÇ.DERS.I - SEÇMELİ DERS GRUBU I (ÖN YÜZ YAZILIM GELİŞTİRME)",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "BM001",
    "ad": "BAĞIMLILIKLA MÜCADELE",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "ÖN.YÜZ.SEÇ.DERS.I - SEÇMELİ DERS GRUBU I (ÖN YÜZ YAZILIM GELİŞTİRME)",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "1910001342026",
    "ad": "SUNUCU İŞLETİM SİSTEMLERİ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "ÖN.YÜZ.SEÇ.DERS.II - SEÇMELİ DERS GRUBU II (ÖN YÜZ YAZILIM GELİŞTİRME)",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "1910001362026",
    "ad": "WEB GÜVENLİĞİ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "ÖN.YÜZ.SEÇ.DERS.II - SEÇMELİ DERS GRUBU II (ÖN YÜZ YAZILIM GELİŞTİRME)",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "1910002512026",
    "ad": "BULUT BİLİŞİM UYGULAMALARI",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "ÖN.YÜZ.SEÇ.DERS.III - SEÇMELİ DERS GRUBU III (ÖN YÜZ YAZILIM GELİŞTİRME)",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "1910002532026",
    "ad": "WEB TABANLI SUNUM HAZIRLAMA",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "ÖN.YÜZ.SEÇ.DERS.III - SEÇMELİ DERS GRUBU III (ÖN YÜZ YAZILIM GELİŞTİRME)",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "1910002552026",
    "ad": "WEB SERVİSLERİ",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "ÖN.YÜZ.SEÇ.DERS.III - SEÇMELİ DERS GRUBU III (ÖN YÜZ YAZILIM GELİŞTİRME)",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "1910002212024",
    "ad": "BİLİŞİM HUKUKU",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "ÖN.YÜZ.SEÇ.DERS.IV - SEÇMELİ DERS GRUBU IV (ÖN YÜZ YAZILIM GELİŞTİRME)",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "1910002572026",
    "ad": "OYUN GELİŞTİRME",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "ÖN.YÜZ.SEÇ.DERS.IV - SEÇMELİ DERS GRUBU IV (ÖN YÜZ YAZILIM GELİŞTİRME)",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "1910002592026",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Ön-Yüz Yazılım Geliştirme",
+   "mufredat": "2026 Müfredatı (Ön-Yüz Yazılım Geliştirme)",
    "yariyil": null,
    "grup": "ÖN.YÜZ.SEÇ.DERS.IV - SEÇMELİ DERS GRUBU IV (ÖN YÜZ YAZILIM GELİŞTİRME)",
    "tur": "Seçmeli",

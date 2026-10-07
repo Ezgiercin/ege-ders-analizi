@@ -12,7 +12,7 @@
   {
    "kod": "9301204012010",
    "ad": "SEÇMELI DERS HAVUZU 1. YL",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Seçmeli",
@@ -26,7 +26,7 @@
   {
    "kod": "9301205012010",
    "ad": "Temel Otorınolarıngolojı",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9301205032010",
    "ad": "Temel Odyolojık Ölçüm Yöntemlerı",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9301205052010",
    "ad": "Vestıbuler Sıstem Bozuklukları",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "9301204022010",
    "ad": "seçmelı ders grubu 2yl",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -82,7 +82,7 @@
   {
    "kod": "9301205022010",
    "ad": "İlerı Odyolojık Ölçüm Yöntemlerı",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "9301205042010",
    "ad": "Pedıatrık Odyolojı ve İşıtsel Rehabılıtasyon",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLSEM590",
    "ad": "Semıner",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "9301205062010",
    "ad": "Rehabılıtıf Odyolojı",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204012010 - SEÇMELI DERS HAVUZU 1. YL",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9301205082010",
    "ad": "Ses ve Konuşma Bozuklukları",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204012010 - SEÇMELI DERS HAVUZU 1. YL",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9301205092010",
    "ad": "Bılgısayar Uygulamalı Bıyoıstatıstık",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204012010 - SEÇMELI DERS HAVUZU 1. YL",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9301205102010",
    "ad": "Sınyal İşleme",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204012010 - SEÇMELI DERS HAVUZU 1. YL",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9301205112010",
    "ad": "Bılım Tarıhı ve Felsefesı",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204012010 - SEÇMELI DERS HAVUZU 1. YL",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9301205122010",
    "ad": "Bılımsel Araştırma Yöntem Bılımı",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204012010 - SEÇMELI DERS HAVUZU 1. YL",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9301205132010",
    "ad": "KBB Anatomı ve Fızyolojısı",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204012010 - SEÇMELI DERS HAVUZU 1. YL",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9301205142010",
    "ad": "Bıyoınformatık",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204012010 - SEÇMELI DERS HAVUZU 1. YL",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9301205152010",
    "ad": "İşıtme Fızığı",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204012010 - SEÇMELI DERS HAVUZU 1. YL",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9301205162010",
    "ad": "Odyolojıde Konsültasyon-lıyezon",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204012010 - SEÇMELI DERS HAVUZU 1. YL",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9301205182010",
    "ad": "İşıtme Cıhazları",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204012010 - SEÇMELI DERS HAVUZU 1. YL",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9301205062010",
    "ad": "Rehabılıtıf Odyolojı",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204022010 - seçmeli ders grubu 2yl",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9301205082010",
    "ad": "Ses ve Konuşma Bozuklukları",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204022010 - seçmeli ders grubu 2yl",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9301205092010",
    "ad": "Bılgısayar Uygulamalı Bıyoıstatıstık",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204022010 - seçmeli ders grubu 2yl",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9301205102010",
    "ad": "Sınyal İşleme",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204022010 - seçmeli ders grubu 2yl",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9301205112010",
    "ad": "Bılım Tarıhı ve Felsefesı",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204022010 - seçmeli ders grubu 2yl",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9301205122010",
    "ad": "Bılımsel Araştırma Yöntem Bılımı",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204022010 - seçmeli ders grubu 2yl",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9301205132010",
    "ad": "KBB Anatomı ve Fızyolojısı",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204022010 - seçmeli ders grubu 2yl",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9301205142010",
    "ad": "Bıyoınformatık",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204022010 - seçmeli ders grubu 2yl",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9301205152010",
    "ad": "İşıtme Fızığı",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204022010 - seçmeli ders grubu 2yl",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9301205162010",
    "ad": "Odyolojıde Konsültasyon-lıyezon",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204022010 - seçmeli ders grubu 2yl",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9301205182010",
    "ad": "İşıtme Cıhazları",
-   "mufredat": "Odyoloji",
+   "mufredat": "2012 Yılı (tezli yüksek lisans) Müfredatı (Odyoloji)",
    "yariyil": null,
    "grup": "9301204022010 - seçmeli ders grubu 2yl",
    "tur": "Seçmeli",

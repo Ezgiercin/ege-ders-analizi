@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { HARFLER, HARF_TABLOSU, basariliMi } from './lib/grades';
-import { dizinYukle, mufredatlar, programYukle, type ProgramDetay, type ProgramOzet } from './lib/katalog';
+import { dizinYukle, mufredatlar, mufredatOrtusmesi, programYukle, varsayilanMufredat, type ProgramDetay, type ProgramOzet } from './lib/katalog';
 import { programBul } from './lib/eslestir';
 import {
   istatistik,
@@ -35,6 +35,9 @@ export default function App() {
   /** Transkriptten program bulunduğunda / bulunamadığında gösterilen not */
   const [programNotu, setProgramNotu] = useState<{ bulundu: boolean; metin: string } | null>(null);
   const girdiRef = useRef<HTMLInputElement>(null);
+  // Program yuklenirken en guncel transkripte bakabilmek icin
+  const sonucRef = useRef<TranskriptSonuc | null>(null);
+  sonucRef.current = sonuc;
 
   // Gomulu modda iframe'in yuksekligini ust sayfaya bildiriyoruz.
   useEffect(() => {
@@ -76,9 +79,10 @@ export default function App() {
       .then((p) => {
         if (iptal) return;
         setProgram(p);
-        // Sayfada birden fazla mufredat olabilir; en genis olani varsayilan.
-        const liste = mufredatlar(p.dersler);
-        setMufredat(liste.length ? liste[0].ad || null : null);
+        // Sayfada birden fazla mufredat olabilir (2011/2024 yili, yandal...).
+        // Transkript varsa onunla en cok ortusen, yoksa en yeni mufredat secilir.
+        const kodlar = sonucRef.current?.dersler.map((d) => d.kod) ?? [];
+        setMufredat(varsayilanMufredat(p.dersler, kodlar));
       })
       .catch((e) => !iptal && setProgramHatasi(e.message));
     return () => {
@@ -131,6 +135,30 @@ export default function App() {
     return { tutuyor: fark < 0.005, beyan: sonuc.beyanEdilenAgno };
   }, [sonuc, ist, degistirilmis]);
 
+  /**
+   * Program elle seçildi. PDF yüklüyse ve seçilen program transkriptle uyuşmuyorsa
+   * kullanıcı yeni bir seçim yapıyor demektir: PDF bırakılır, PDF'siz kullanım gibi
+   * davranılır (notlar ve belge kaynağı temizlenir).
+   */
+  async function programSecildi(p: ProgramOzet | null) {
+    setProgramOzet(p);
+    setProgramNotu(null);
+    if (!p || !sonuc) return;
+    const kodlar = [...new Set(sonuc.dersler.map((d) => d.kod))];
+    const detay = await programYukle(p.id).catch(() => null);
+    const uyuyor =
+      !!detay &&
+      mufredatlar(detay.dersler).some(
+        (m) => mufredatOrtusmesi(detay.dersler, m.ad || null, kodlar) >= Math.max(3, kodlar.length * 0.5)
+      );
+    if (!uyuyor) {
+      setSonuc(null);
+      setNotlar({});
+      setElleEklenen([]);
+      setHata(null);
+    }
+  }
+
   async function dosyaSec(file: File | undefined) {
     if (!file) return;
     setHata(null);
@@ -142,13 +170,31 @@ export default function App() {
       setDersEkleAcik(false);
       setNotlar(transkriptNotlari(r.dersler));
       setSonuc(r);
-      setProgramOzet(null);
 
       // Transkriptteki program/fakülte bilgisini katalogla eşleştir
+      const kodlar = r.dersler.map((d) => d.kod);
       const dizin = await dizinYukle().catch(() => null);
-      const bulunan = dizin
-        ? await programBul(dizin.programlar, r.ogrenci, r.dersler.map((d) => d.kod))
-        : null;
+      const bulunan = dizin ? await programBul(dizin.programlar, r.ogrenci, kodlar) : null;
+
+      // Önce elle bir program seçilmişse ve transkript o programa uyuyorsa programı
+      // değiştirme: PDF'teki notlar mevcut derslere yerleşsin, diğerleri düzenlenebilir kalsın.
+      const ayniProgram =
+        !!programOzet && !!bulunan && bulunan.id === programOzet.id && bulunan.ad === programOzet.ad;
+      const derslerUyuyor =
+        !!program &&
+        mufredatlar(program.dersler).some(
+          (m) => mufredatOrtusmesi(program.dersler, m.ad || null, kodlar) >= Math.max(3, kodlar.length * 0.5)
+        );
+      if (programOzet && program && (ayniProgram || derslerUyuyor)) {
+        setMufredat(varsayilanMufredat(program.dersler, kodlar));
+        setProgramNotu({
+          bulundu: true,
+          metin: 'Seçtiğin program transkriptinle uyuşuyor; notların ilgili derslere yerleştirildi.',
+        });
+        return;
+      }
+
+      setProgramOzet(null);
       setProgramOzet(bulunan);
       if (bulunan) {
         setProgramNotu({ bulundu: true, metin: `Programın transkriptten bulundu: ${bulunan.ad}` });
@@ -252,10 +298,7 @@ export default function App() {
 
         <ProgramSecici
           secili={programOzet}
-          onSec={(p) => {
-            setProgramOzet(p);
-            setProgramNotu(null);
-          }}
+          onSec={programSecildi}
         />
 
         {programNotu && (
@@ -283,7 +326,7 @@ export default function App() {
             <div className="min-w-0 flex-1">
               <h2 className="font-semibold">Müfredat</h2>
               <p className="mt-1 text-sm" style={{ color: 'var(--soluk)' }}>
-                Bu programda birden fazla müfredat var (ağırlık seçenekleri, yan dal gibi). Hangisine
+                Bu programda birden fazla müfredat var (farklı yılların müfredatları, ağırlık seçenekleri, yan dal gibi). Hangisine
                 göre hesaplayalım?
               </p>
             </div>
@@ -338,7 +381,7 @@ export default function App() {
                   Kazanılan AKTS
                 </div>
                 <div className="mt-1 text-4xl font-bold">
-                  {ondalik(ist.kazanilanAkts, 0)}
+                  {ondalik(program ? ist.mufredatKazanilan : ist.kazanilanAkts, 0)}
                   {ist.mufredatAkts > 0 && (
                     <span className="text-xl font-normal" style={{ color: 'var(--soluk)' }}>
                       {' '}
@@ -351,9 +394,14 @@ export default function App() {
                     <div
                       className="h-full rounded-full bg-deniz-600"
                       style={{
-                        width: `${Math.min(100, (ist.kazanilanAkts / ist.mufredatAkts) * 100)}%`,
+                        width: `${Math.min(100, (ist.mufredatKazanilan / ist.mufredatAkts) * 100)}%`,
                       }}
                     />
+                  </div>
+                )}
+                {program && ist.kazanilanAkts > ist.mufredatKazanilan && (
+                  <div className="mt-1 text-xs" style={{ color: 'var(--soluk)' }}>
+                    + {ondalik(ist.kazanilanAkts - ist.mufredatKazanilan, 0)} AKTS müfredat dışı
                   </div>
                 )}
               </div>
@@ -554,7 +602,15 @@ function Bolum({
         </span>
       </div>
       <div className="overflow-x-auto">
-        <table className="w-full text-sm">
+        {/* Sabit sütun genişlikleri: tüm dönem/grup tablolarında sütunlar alt alta hizalı dursun */}
+        <table className="w-full min-w-[600px] table-fixed text-sm">
+          <colgroup>
+            <col />
+            <col className="w-28" />
+            <col className="w-20" />
+            <col className="w-32" />
+            <col className="w-32" />
+          </colgroup>
           <thead>
             <tr style={{ color: 'var(--soluk)' }}>
               <th className="px-5 py-2 text-left font-medium">Ders</th>

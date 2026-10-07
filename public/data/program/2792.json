@@ -1,18 +1,18 @@
 {
  "id": "2792",
- "bolumId": "198",
+ "bolumId": "199",
  "yil": "932004",
  "derece": 1,
  "fakulte": "Devlet Türk Musikisi Konservatuvarı",
  "bolum": "Temel Bilimler (a)",
- "tur": "Temel Bilimler (a) (T.S.M) Lisans",
- "ad": "Temel Bilimler (a) — Temel Bilimler (a) (T.S.M) Lisans",
- "yol": "/DereceProgramlari/Detay/1/198/2792/932004",
+ "tur": "Temel Bilimler (a) (T.H.M) Lisans",
+ "ad": "Temel Bilimler (a) — Temel Bilimler (a) (T.H.M) Lisans",
+ "yol": "/DereceProgramlari/Detay/1/199/2792/932004",
  "dersler": [
   {
    "kod": "ATA101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "PİY101",
    "ad": "PİYANO I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "TBO101",
    "ad": "SES EĞİTİMİ I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "TBO115",
    "ad": "TÜRK MÜZİĞİ SOLFEJ VE KURAMI I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "TBO117",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "TUR101",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YDI101",
    "ad": "YABANCI DİL I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "ATA102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "PİY102",
    "ad": "PİYANO II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "TBO102",
    "ad": "SES EĞİTİMİ II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "TBO116",
    "ad": "TÜRK MÜZİĞİ SOLFEJ VE KURAMI II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "TBO118",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "TUR102",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "YDI102",
    "ad": "YABANCI DİL II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -222,7 +222,7 @@
   {
    "kod": "PİY201",
    "ad": "PİYANO III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "TBO201",
    "ad": "SES EĞİTİMİ III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "TBO207",
    "ad": "TÜRK HALK MÜZİĞİ BİLGİLERİ I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "TBO223",
    "ad": "TÜRK MÜZİĞİ SOLFEJ VE KURAMI III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "TBO225",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "TBS225",
    "ad": "REPERTUVAR I TSM",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -320,7 +320,7 @@
   {
    "kod": "PİY202",
    "ad": "PİYANO IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "TBO202",
    "ad": "SES EĞİTİMİ IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "TBO208",
    "ad": "TÜRK HALK MÜZİĞİ BİLGİLERİ II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "TBO224",
    "ad": "TÜRK MÜZİĞİ SOLFEJ VE KURAMI IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "TBO226",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "TBS226",
    "ad": "REPERTUVAR II TSM",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "ARM301",
    "ad": "ARMONİ I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -432,7 +432,7 @@
   {
    "kod": "TBO301",
    "ad": "TÜR VE BİÇİM BİLGİSİ I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "TBO303",
    "ad": "ÇALGI BİLGİSİ VE TARİHİ I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "TBS303",
    "ad": "TÜRK SANAT MÜZİĞİ SOLFEJ VE KURAMI I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "TBS309",
    "ad": "YARDIMCI REPERTUVAR I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "TBS333",
    "ad": "REPERTUVAR III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "TBS335",
    "ad": "MAKAM VE GEÇKİ UYGULAMALARI I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "ARM302",
    "ad": "ARMONİ II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -544,7 +544,7 @@
   {
    "kod": "TBO302",
    "ad": "TÜR VE BİÇİM BİLGİSİ II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "TBO304",
    "ad": "ÇALGI BİLGİSİ VE TARİHİ II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -572,7 +572,7 @@
   {
    "kod": "TBS304",
    "ad": "TÜRK SANAT MÜZİĞİ SOLFEJ VE KURAMI II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "TBS310",
    "ad": "YARDIMCI REPERTUVAR II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "TBS336",
    "ad": "MAKAM VE GEÇKİ UYGULAMALARI II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "TBS338",
    "ad": "REPERTUVAR IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -628,7 +628,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -642,7 +642,7 @@
   {
    "kod": "TBO401",
    "ad": "TÜR VE BİÇİM BİLGİSİ III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "TBO403",
    "ad": "TÜRK MÜZİĞİ'NDE ÇOK SESLİLİK UYGULAMALARI I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "TBO405",
    "ad": "MÜZİK TARİHİ I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "TBS431",
    "ad": "REPERTUVAR V",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -698,7 +698,7 @@
   {
    "kod": "TBS433",
    "ad": "MAKAM VE GEÇKİ UYGULAMALARI III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -712,7 +712,7 @@
   {
    "kod": "TBS457",
    "ad": "TÜRK SANAT MÜZİĞİ SOLFEJ VE KURAMI III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -726,7 +726,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -740,7 +740,7 @@
   {
    "kod": "TBO402",
    "ad": "TÜR VE BİÇİM BİLGİSİ IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -754,7 +754,7 @@
   {
    "kod": "TBO404",
    "ad": "TÜRK MÜZİĞİ'NDE ÇOK SESLİLİK UYGULAMALARI II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "TBO406",
    "ad": "MÜZİK TARİHİ II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -782,7 +782,7 @@
   {
    "kod": "TBS432",
    "ad": "REPERTUVAR VI",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -796,7 +796,7 @@
   {
    "kod": "TBS434",
    "ad": "MAKAM VE GEÇKİ UYGULAMALARI IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -810,7 +810,7 @@
   {
    "kod": "TBS458",
    "ad": "TÜRK SANAT MÜZİĞİ SOLFEJ VE KURAMI IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -824,7 +824,7 @@
   {
    "kod": "TBO119",
    "ad": "RİTİM 1",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.I - T.B(a)TSM. ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "TBS127",
    "ad": "UD I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.I - T.B(a)TSM. ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "TBS129",
    "ad": "TANBUR I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.I - T.B(a)TSM. ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "TBS131",
    "ad": "KEMAN I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.I - T.B(a)TSM. ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "TBS133",
    "ad": "KANUN I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.I - T.B(a)TSM. ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "TBS135",
    "ad": "NEY I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.I - T.B(a)TSM. ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "TBS137",
    "ad": "KEMENÇE I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.I - T.B(a)TSM. ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "TBS139",
    "ad": "VİYOLONSEL I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.I - T.B(a)TSM. ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "TBS141",
    "ad": "KLARNET I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.I - T.B(a)TSM. ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "AT001",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.SEÇ.1YY - T.B(a)TSM SEÇMELİ 1.YY",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "TBO111",
    "ad": "BİLGİSAYARDA NOTA YAZIM UYGULAMALARI I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.SEÇ.1YY - T.B(a)TSM SEÇMELİ 1.YY",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "TBO113",
    "ad": "KABARTMA NOTA UYGULAMALARI I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.SEÇ.1YY - T.B(a)TSM SEÇMELİ 1.YY",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "UYG104",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.SEÇ.1YY - T.B(a)TSM SEÇMELİ 1.YY",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "TBO120",
    "ad": "RİTİM II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.II - T.B(a)TSM. ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "TBS128",
    "ad": "UD II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.II - T.B(a)TSM. ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "TBS130",
    "ad": "TANBUR II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.II - T.B(a)TSM. ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "TBS132",
    "ad": "KEMAN II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.II - T.B(a)TSM. ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "TBS134",
    "ad": "KANUN II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.II - T.B(a)TSM. ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "TBS136",
    "ad": "NEY II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.II - T.B(a)TSM. ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "TBS138",
    "ad": "KEMENÇE II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.II - T.B(a)TSM. ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "TBS140",
    "ad": "VİYOLONSEL II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.II - T.B(a)TSM. ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "TBS142",
    "ad": "KLARNET II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.II - T.B(a)TSM. ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "BLG107",
    "ad": "BİLGİSAYARA GİRİŞ",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.SEÇ.2YY - T.B(a)TSM SEÇMELİ 2.YY",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "TBO124",
    "ad": "BİLGİSAYARDA NOTA YAZIM UYGULAMALARI II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.SEÇ.2YY - T.B(a)TSM SEÇMELİ 2.YY",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "TBO126",
    "ad": "KABARTMA NOTA UYGULAMALARI II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.SEÇ.2YY - T.B(a)TSM SEÇMELİ 2.YY",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "THU202",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.SEÇ.2YY - T.B(a)TSM SEÇMELİ 2.YY",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.I - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "TBO211",
    "ad": "TÜRK DİN MUSİKİSİ I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.I - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "TBO215",
    "ad": "GÖRÜNTÜ VE MÜZİK I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.I - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "TBO217",
    "ad": "MESLEKİ İNGİLİZCE I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.I - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "TBO219",
    "ad": "MÜZİK TEKNOLOJİLERİNE GİRİŞ I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.I - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "TBO221",
    "ad": "DİKSİYON I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.I - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "TBS227",
    "ad": "ODA MÜZİĞİ I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.I - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "TBS229",
    "ad": "TSM SEÇMELİ REPERTUVAR I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.I - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "TBO209",
    "ad": "RİTİM III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.III - T.B(a)TSM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "TBS209",
    "ad": "UD III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.III - T.B(a)TSM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "TBS211",
    "ad": "TANBUR III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.III - T.B(a)TSM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "TBS213",
    "ad": "KEMAN III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.III - T.B(a)TSM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "TBS215",
    "ad": "KANUN III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.III - T.B(a)TSM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "TBS217",
    "ad": "NEY III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.III - T.B(a)TSM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "TBS219",
    "ad": "KEMENÇE III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.III - T.B(a)TSM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "TBS221",
    "ad": "VİYOLONSEL III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.III - T.B(a)TSM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "TBS223",
    "ad": "KLARNET III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.III - T.B(a)TSM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.II - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.II - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "TBO212",
    "ad": "TÜRK DİN MUSİKİSİ II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.II - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "TBO214",
    "ad": "TÜRK HALK OYUNLARI II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.II - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "TBO216",
    "ad": "GÖRÜNTÜ VE MÜZİK II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.II - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "TBO218",
    "ad": "MESLEKİ İNGİLİZCE II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.II - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -1510,7 +1510,7 @@
   {
    "kod": "TBO220",
    "ad": "MÜZİK TEKNOLOJİLERİNE GİRİŞ II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.II - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -1524,7 +1524,7 @@
   {
    "kod": "TBO222",
    "ad": "DİKSİYON II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.II - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -1538,7 +1538,7 @@
   {
    "kod": "TBS228",
    "ad": "ODA MÜZİĞİ II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.II - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -1552,7 +1552,7 @@
   {
    "kod": "TBS230",
    "ad": "TSM SEÇMELİ REPERTUVAR II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.II - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -1566,7 +1566,7 @@
   {
    "kod": "TBO210",
    "ad": "RİTİM IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.IV - T.B(a)TSM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1580,7 +1580,7 @@
   {
    "kod": "TBS210",
    "ad": "UD IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.IV - T.B(a)TSM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1594,7 +1594,7 @@
   {
    "kod": "TBS212",
    "ad": "TANBUR IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.IV - T.B(a)TSM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1608,7 +1608,7 @@
   {
    "kod": "TBS214",
    "ad": "KEMAN IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.IV - T.B(a)TSM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1622,7 +1622,7 @@
   {
    "kod": "TBS216",
    "ad": "KANUN IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.IV - T.B(a)TSM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1636,7 +1636,7 @@
   {
    "kod": "TBS218",
    "ad": "NEY IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.IV - T.B(a)TSM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1650,7 +1650,7 @@
   {
    "kod": "TBS220",
    "ad": "KEMENÇE IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.IV - T.B(a)TSM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1664,7 +1664,7 @@
   {
    "kod": "TBS222",
    "ad": "VİYOLONSEL IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.IV - T.B(a)TSM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1678,7 +1678,7 @@
   {
    "kod": "TBS224",
    "ad": "KLARNET IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.IV - T.B(a)TSM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1692,7 +1692,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.III - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -III",
    "tur": "Seçmeli",
@@ -1706,7 +1706,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.III - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -III",
    "tur": "Seçmeli",
@@ -1720,7 +1720,7 @@
   {
    "kod": "TBO305",
    "ad": "SEÇMELİ PİYANO I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.III - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -III",
    "tur": "Seçmeli",
@@ -1734,7 +1734,7 @@
   {
    "kod": "TBO309",
    "ad": "PROZODİ I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.III - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -III",
    "tur": "Seçmeli",
@@ -1748,7 +1748,7 @@
   {
    "kod": "TBO311",
    "ad": "TÜRK MÜZİĞİNDE NOTA YAZILARI I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.III - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -III",
    "tur": "Seçmeli",
@@ -1762,7 +1762,7 @@
   {
    "kod": "TBO313",
    "ad": "MESLEKİ İNGİLİZCE III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.III - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -III",
    "tur": "Seçmeli",
@@ -1776,7 +1776,7 @@
   {
    "kod": "TBS331",
    "ad": "USUL UYGULAMALARI I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.III - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -III",
    "tur": "Seçmeli",
@@ -1790,7 +1790,7 @@
   {
    "kod": "TBS337",
    "ad": "ODA MÜZİĞİ III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.III - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -III",
    "tur": "Seçmeli",
@@ -1804,7 +1804,7 @@
   {
    "kod": "TBS339",
    "ad": "TSM SEÇMELİ REPERTUVAR III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.III - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -III",
    "tur": "Seçmeli",
@@ -1818,7 +1818,7 @@
   {
    "kod": "TBS311",
    "ad": "TANBUR V",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.V - T.B(a)TSM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1832,7 +1832,7 @@
   {
    "kod": "TBS313",
    "ad": "KEMAN V",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.V - T.B(a)TSM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1846,7 +1846,7 @@
   {
    "kod": "TBS315",
    "ad": "KANUN V",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.V - T.B(a)TSM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1860,7 +1860,7 @@
   {
    "kod": "TBS317",
    "ad": "NEY V",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.V - T.B(a)TSM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1874,7 +1874,7 @@
   {
    "kod": "TBS319",
    "ad": "KEMENÇE V",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.V - T.B(a)TSM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1888,7 +1888,7 @@
   {
    "kod": "TBS321",
    "ad": "VİYOLONSEL V",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.V - T.B(a)TSM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1902,7 +1902,7 @@
   {
    "kod": "TBS323",
    "ad": "KLARNET V",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.V - T.B(a)TSM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1916,7 +1916,7 @@
   {
    "kod": "TBS325",
    "ad": "RİTİM V",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.V - T.B(a)TSM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1930,7 +1930,7 @@
   {
    "kod": "TBS327",
    "ad": "UD V",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.V - T.B(a)TSM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1944,7 +1944,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.IV - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -IV",
    "tur": "Seçmeli",
@@ -1958,7 +1958,7 @@
   {
    "kod": "TBO306",
    "ad": "SEÇMELİ PİYANO II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.IV - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -IV",
    "tur": "Seçmeli",
@@ -1972,7 +1972,7 @@
   {
    "kod": "TBO310",
    "ad": "PROZODİ II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.IV - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -IV",
    "tur": "Seçmeli",
@@ -1986,7 +1986,7 @@
   {
    "kod": "TBO312",
    "ad": "TÜRK MÜZİĞİNDE NOTA YAZILARI II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.IV - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -IV",
    "tur": "Seçmeli",
@@ -2000,7 +2000,7 @@
   {
    "kod": "TBO314",
    "ad": "MESLEKİ İNGİLİZCE IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.IV - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -IV",
    "tur": "Seçmeli",
@@ -2014,7 +2014,7 @@
   {
    "kod": "TBS334",
    "ad": "USUL UYGULAMALARI II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.IV - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -IV",
    "tur": "Seçmeli",
@@ -2028,7 +2028,7 @@
   {
    "kod": "TBS340",
    "ad": "ODA MÜZİĞİ IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.IV - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -IV",
    "tur": "Seçmeli",
@@ -2042,7 +2042,7 @@
   {
    "kod": "TBS342",
    "ad": "TSM SEÇMELİ REPERTUVAR IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.IV - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -IV",
    "tur": "Seçmeli",
@@ -2056,7 +2056,7 @@
   {
    "kod": "TBS314",
    "ad": "KEMAN VI",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VI - T.B(a)TSM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -2070,7 +2070,7 @@
   {
    "kod": "TBS316",
    "ad": "KANUN VI",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VI - T.B(a)TSM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -2084,7 +2084,7 @@
   {
    "kod": "TBS318",
    "ad": "NEY VI",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VI - T.B(a)TSM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -2098,7 +2098,7 @@
   {
    "kod": "TBS320",
    "ad": "KEMENÇE VI",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VI - T.B(a)TSM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -2112,7 +2112,7 @@
   {
    "kod": "TBS322",
    "ad": "VİYOLONSEL VI",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VI - T.B(a)TSM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -2126,7 +2126,7 @@
   {
    "kod": "TBS324",
    "ad": "KLARNET VI",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VI - T.B(a)TSM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -2140,7 +2140,7 @@
   {
    "kod": "TBS326",
    "ad": "RİTİM VI",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VI - T.B(a)TSM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -2154,7 +2154,7 @@
   {
    "kod": "TBS328",
    "ad": "UD VI",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VI - T.B(a)TSM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -2168,7 +2168,7 @@
   {
    "kod": "TBS330",
    "ad": "TANBUR VI",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VI - T.B(a)TSM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -2182,7 +2182,7 @@
   {
    "kod": "ISR401",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ-V - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -V",
    "tur": "Seçmeli",
@@ -2196,7 +2196,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ-V - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -V",
    "tur": "Seçmeli",
@@ -2210,7 +2210,7 @@
   {
    "kod": "TBO407",
    "ad": "OSMANLICA I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ-V - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -V",
    "tur": "Seçmeli",
@@ -2224,7 +2224,7 @@
   {
    "kod": "TBO411",
    "ad": "SEÇMELİ PİYANO III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ-V - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -V",
    "tur": "Seçmeli",
@@ -2238,7 +2238,7 @@
   {
    "kod": "TBO413",
    "ad": "OKUL MÜZİĞİ REPERTUVARI I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ-V - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -V",
    "tur": "Seçmeli",
@@ -2252,7 +2252,7 @@
   {
    "kod": "TBO417",
    "ad": "POPÜLER KÜLTÜR VE MÜZİK I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ-V - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -V",
    "tur": "Seçmeli",
@@ -2266,7 +2266,7 @@
   {
    "kod": "TBO419",
    "ad": "HALK BİLİMİ KURAMLARI I",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ-V - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -V",
    "tur": "Seçmeli",
@@ -2280,7 +2280,7 @@
   {
    "kod": "TBS429",
    "ad": "USUL UYGULAMALARI III",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ-V - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -V",
    "tur": "Seçmeli",
@@ -2294,7 +2294,7 @@
   {
    "kod": "TBS453",
    "ad": "ODA MÜZİĞİ V",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ-V - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -V",
    "tur": "Seçmeli",
@@ -2308,7 +2308,7 @@
   {
    "kod": "TBS455",
    "ad": "TSM SEÇMELİ REPERTUVAR V",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ-V - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -V",
    "tur": "Seçmeli",
@@ -2322,7 +2322,7 @@
   {
    "kod": "TBS435",
    "ad": "UD VII",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VII - T.B(a)TSM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2336,7 +2336,7 @@
   {
    "kod": "TBS437",
    "ad": "TANBUR VII",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VII - T.B(a)TSM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2350,7 +2350,7 @@
   {
    "kod": "TBS439",
    "ad": "KEMAN VII",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VII - T.B(a)TSM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2364,7 +2364,7 @@
   {
    "kod": "TBS441",
    "ad": "KANUN VII",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VII - T.B(a)TSM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2378,7 +2378,7 @@
   {
    "kod": "TBS443",
    "ad": "NEY VII",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VII - T.B(a)TSM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2392,7 +2392,7 @@
   {
    "kod": "TBS445",
    "ad": "KEMENÇE VII",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VII - T.B(a)TSM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2406,7 +2406,7 @@
   {
    "kod": "TBS447",
    "ad": "VİYOLONSEL VII",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VII - T.B(a)TSM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2420,7 +2420,7 @@
   {
    "kod": "TBS449",
    "ad": "KLARNET VII",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VII - T.B(a)TSM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2434,7 +2434,7 @@
   {
    "kod": "TBS451",
    "ad": "RİTİM VII",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VII - T.B(a)TSM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2448,7 +2448,7 @@
   {
    "kod": "GRK402",
    "ad": "GİRİŞİMCİLİK VE KALİTE",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.VI - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -VI",
    "tur": "Seçmeli",
@@ -2462,7 +2462,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.VI - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -VI",
    "tur": "Seçmeli",
@@ -2476,7 +2476,7 @@
   {
    "kod": "TBO408",
    "ad": "OSMANLICA II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.VI - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -VI",
    "tur": "Seçmeli",
@@ -2490,7 +2490,7 @@
   {
    "kod": "TBO410",
    "ad": "KORO EĞİTİMİ VE YÖNETİM TEKNİKLERİ II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.VI - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -VI",
    "tur": "Seçmeli",
@@ -2504,7 +2504,7 @@
   {
    "kod": "TBO412",
    "ad": "SEÇMELİ PİYANO IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.VI - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -VI",
    "tur": "Seçmeli",
@@ -2518,7 +2518,7 @@
   {
    "kod": "TBO414",
    "ad": "OKUL MÜZİĞİ REPERTUVARI II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.VI - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -VI",
    "tur": "Seçmeli",
@@ -2532,7 +2532,7 @@
   {
    "kod": "TBO418",
    "ad": "POPÜLER KÜLTÜR VE MÜZİK II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.VI - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -VI",
    "tur": "Seçmeli",
@@ -2546,7 +2546,7 @@
   {
    "kod": "TBO420",
    "ad": "HALK BİLİMİ KURAMLARI II",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.VI - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -VI",
    "tur": "Seçmeli",
@@ -2560,7 +2560,7 @@
   {
    "kod": "TBO422",
    "ad": "İLKÖĞRETİM ÖNCESİ MÜZİK EĞİTİMİ",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.VI - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -VI",
    "tur": "Seçmeli",
@@ -2574,7 +2574,7 @@
   {
    "kod": "TBS430",
    "ad": "USUL UYGULAMALARI IV",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.VI - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -VI",
    "tur": "Seçmeli",
@@ -2588,7 +2588,7 @@
   {
    "kod": "TBS454",
    "ad": "ODA MÜZİĞİ VI",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.VI - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -VI",
    "tur": "Seçmeli",
@@ -2602,7 +2602,7 @@
   {
    "kod": "TBS456",
    "ad": "TSM SEÇMELİ REPERTUVAR VI",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.VI - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -VI",
    "tur": "Seçmeli",
@@ -2616,7 +2616,7 @@
   {
    "kod": "TBS436",
    "ad": "UD VIII",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİTVIII - T.B(a)TSM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2630,7 +2630,7 @@
   {
    "kod": "TBS438",
    "ad": "TANBUR VIII",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİTVIII - T.B(a)TSM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2644,7 +2644,7 @@
   {
    "kod": "TBS440",
    "ad": "KEMAN VIII",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİTVIII - T.B(a)TSM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2658,7 +2658,7 @@
   {
    "kod": "TBS442",
    "ad": "KANUN VIII",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİTVIII - T.B(a)TSM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2672,7 +2672,7 @@
   {
    "kod": "TBS444",
    "ad": "NEY VIII",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİTVIII - T.B(a)TSM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2686,7 +2686,7 @@
   {
    "kod": "TBS446",
    "ad": "KEMENÇE VIII",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİTVIII - T.B(a)TSM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2700,7 +2700,7 @@
   {
    "kod": "TBS448",
    "ad": "VİYOLONSEL VIII",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİTVIII - T.B(a)TSM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2714,7 +2714,7 @@
   {
    "kod": "TBS450",
    "ad": "KLARNET VIII",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİTVIII - T.B(a)TSM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2728,7 +2728,7 @@
   {
    "kod": "TBS452",
    "ad": "RİTİM VIII",
-   "mufredat": "Temel Bilimler (a) (T.S.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.S.M))",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİTVIII - T.B(a)TSM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2742,7 +2742,7 @@
   {
    "kod": "ATA101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2756,7 +2756,7 @@
   {
    "kod": "PİY101",
    "ad": "PİYANO I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2770,7 +2770,7 @@
   {
    "kod": "TBO101",
    "ad": "SES EĞİTİMİ I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2784,7 +2784,7 @@
   {
    "kod": "TBO115",
    "ad": "TÜRK MÜZİĞİ SOLFEJ VE KURAMI I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2798,7 +2798,7 @@
   {
    "kod": "TBO117",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2812,7 +2812,7 @@
   {
    "kod": "TUR101",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2826,7 +2826,7 @@
   {
    "kod": "YDI101",
    "ad": "YABANCI DİL I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2840,7 +2840,7 @@
   {
    "kod": "ATA102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2854,7 +2854,7 @@
   {
    "kod": "PİY102",
    "ad": "PİYANO II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2868,7 +2868,7 @@
   {
    "kod": "TBO102",
    "ad": "SES EĞİTİMİ II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2882,7 +2882,7 @@
   {
    "kod": "TBO116",
    "ad": "TÜRK MÜZİĞİ SOLFEJ VE KURAMI II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2896,7 +2896,7 @@
   {
    "kod": "TBO118",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2910,7 +2910,7 @@
   {
    "kod": "TUR102",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2924,7 +2924,7 @@
   {
    "kod": "YDI102",
    "ad": "YABANCI DİL II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2938,7 +2938,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -2952,7 +2952,7 @@
   {
    "kod": "PİY201",
    "ad": "PİYANO III",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2966,7 +2966,7 @@
   {
    "kod": "TBH217",
    "ad": "REPERTUVAR I THM",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2980,7 +2980,7 @@
   {
    "kod": "TBO201",
    "ad": "SES EĞİTİMİ III",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2994,7 +2994,7 @@
   {
    "kod": "TBO207",
    "ad": "TÜRK HALK MÜZİĞİ BİLGİLERİ I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3008,7 +3008,7 @@
   {
    "kod": "TBO223",
    "ad": "TÜRK MÜZİĞİ SOLFEJ VE KURAMI III",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3022,7 +3022,7 @@
   {
    "kod": "TBO225",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI III",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3036,7 +3036,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -3050,7 +3050,7 @@
   {
    "kod": "PİY202",
    "ad": "PİYANO IV",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3064,7 +3064,7 @@
   {
    "kod": "TBH218",
    "ad": "REPERTUVAR II THM",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3078,7 +3078,7 @@
   {
    "kod": "TBO202",
    "ad": "SES EĞİTİMİ IV",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3092,7 +3092,7 @@
   {
    "kod": "TBO208",
    "ad": "TÜRK HALK MÜZİĞİ BİLGİLERİ II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3106,7 +3106,7 @@
   {
    "kod": "TBO224",
    "ad": "TÜRK MÜZİĞİ SOLFEJ VE KURAMI IV",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3120,7 +3120,7 @@
   {
    "kod": "TBO226",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI IV",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3134,7 +3134,7 @@
   {
    "kod": "ARM301",
    "ad": "ARMONİ I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3148,7 +3148,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -3162,7 +3162,7 @@
   {
    "kod": "TBH303",
    "ad": "TÜRK HALK MÜZİĞİ SOLFEJ VE KURAMI I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3176,7 +3176,7 @@
   {
    "kod": "TBH309",
    "ad": "YARDIMCI REPERTUVAR I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3190,7 +3190,7 @@
   {
    "kod": "TBH329",
    "ad": "REPERTUVAR III",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3204,7 +3204,7 @@
   {
    "kod": "TBH331",
    "ad": "TOPLU UYGULAMA I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3218,7 +3218,7 @@
   {
    "kod": "TBO301",
    "ad": "TÜR VE BİÇİM BİLGİSİ I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3232,7 +3232,7 @@
   {
    "kod": "TBO303",
    "ad": "ÇALGI BİLGİSİ VE TARİHİ I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3246,7 +3246,7 @@
   {
    "kod": "ARM302",
    "ad": "ARMONİ II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3260,7 +3260,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -3274,7 +3274,7 @@
   {
    "kod": "TBH304",
    "ad": "TÜRK HALK MÜZİĞİ SOLFEJ VE KURAMI II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3288,7 +3288,7 @@
   {
    "kod": "TBH310",
    "ad": "YARDIMCI REPERTUVAR II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3302,7 +3302,7 @@
   {
    "kod": "TBH330",
    "ad": "REPERTUVAR IV",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3316,7 +3316,7 @@
   {
    "kod": "TBO302",
    "ad": "TÜR VE BİÇİM BİLGİSİ II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3330,7 +3330,7 @@
   {
    "kod": "TBO304",
    "ad": "ÇALGI BİLGİSİ VE TARİHİ II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3344,7 +3344,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -3358,7 +3358,7 @@
   {
    "kod": "TBH425",
    "ad": "REPERTUVAR V",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -3372,7 +3372,7 @@
   {
    "kod": "TBH427",
    "ad": "TOPLU UYGULAMA III",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -3386,7 +3386,7 @@
   {
    "kod": "TBH439",
    "ad": "TÜRK HALK MÜZİĞİ SOLFEJ KURAMI III",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -3400,7 +3400,7 @@
   {
    "kod": "TBO401",
    "ad": "TÜR VE BİÇİM BİLGİSİ III",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -3414,7 +3414,7 @@
   {
    "kod": "TBO403",
    "ad": "TÜRK MÜZİĞİ'NDE ÇOK SESLİLİK UYGULAMALARI I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -3428,7 +3428,7 @@
   {
    "kod": "TBO405",
    "ad": "MÜZİK TARİHİ I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -3442,7 +3442,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -3456,7 +3456,7 @@
   {
    "kod": "TBH426",
    "ad": "REPERTUVAR VI",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -3470,7 +3470,7 @@
   {
    "kod": "TBH428",
    "ad": "TOPLU UYGULAMA IV",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -3484,7 +3484,7 @@
   {
    "kod": "TBH440",
    "ad": "TÜRK HALK MÜZİĞİ SOLFEJ KURAMI IV",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -3498,7 +3498,7 @@
   {
    "kod": "TBO402",
    "ad": "TÜR VE BİÇİM BİLGİSİ IV",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -3512,7 +3512,7 @@
   {
    "kod": "TBO404",
    "ad": "TÜRK MÜZİĞİ'NDE ÇOK SESLİLİK UYGULAMALARI II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -3526,7 +3526,7 @@
   {
    "kod": "TBO406",
    "ad": "MÜZİK TARİHİ II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -3540,7 +3540,7 @@
   {
    "kod": "TBH117",
    "ad": "BAĞLAMA I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.I - T.B(a)THM.ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -3554,7 +3554,7 @@
   {
    "kod": "TBH119",
    "ad": "KABAK KEMANE I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.I - T.B(a)THM.ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -3568,7 +3568,7 @@
   {
    "kod": "TBH121",
    "ad": "ÜFLEMELİ SAZLAR 1",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.I - T.B(a)THM.ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -3582,7 +3582,7 @@
   {
    "kod": "TBH123",
    "ad": "TAR I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.I - T.B(a)THM.ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -3596,7 +3596,7 @@
   {
    "kod": "TBH125",
    "ad": "KARADENİZ KEMENÇESİ I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.I - T.B(a)THM.ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -3610,7 +3610,7 @@
   {
    "kod": "TBO119",
    "ad": "RİTİM 1",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.I - T.B(a)THM.ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -3624,7 +3624,7 @@
   {
    "kod": "AT001",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.SEÇ.1YY - T.B(a)THM SEÇMELİ 1.YY",
    "tur": "Seçmeli",
@@ -3638,7 +3638,7 @@
   {
    "kod": "TBO111",
    "ad": "BİLGİSAYARDA NOTA YAZIM UYGULAMALARI I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.SEÇ.1YY - T.B(a)THM SEÇMELİ 1.YY",
    "tur": "Seçmeli",
@@ -3652,7 +3652,7 @@
   {
    "kod": "TBO113",
    "ad": "KABARTMA NOTA UYGULAMALARI I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.SEÇ.1YY - T.B(a)THM SEÇMELİ 1.YY",
    "tur": "Seçmeli",
@@ -3666,7 +3666,7 @@
   {
    "kod": "UYG104",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.SEÇ.1YY - T.B(a)THM SEÇMELİ 1.YY",
    "tur": "Seçmeli",
@@ -3680,7 +3680,7 @@
   {
    "kod": "TBH118",
    "ad": "BAĞLAMA II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.II - T.B(a)THM.ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -3694,7 +3694,7 @@
   {
    "kod": "TBH120",
    "ad": "KABAK KEMANE II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.II - T.B(a)THM.ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -3708,7 +3708,7 @@
   {
    "kod": "TBH122",
    "ad": "ÜFLEMELİ SAZLAR II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.II - T.B(a)THM.ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -3722,7 +3722,7 @@
   {
    "kod": "TBH124",
    "ad": "TAR II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.II - T.B(a)THM.ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -3736,7 +3736,7 @@
   {
    "kod": "TBH126",
    "ad": "KARADENİZ KEMENÇESİ II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.II - T.B(a)THM.ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -3750,7 +3750,7 @@
   {
    "kod": "TBO120",
    "ad": "RİTİM II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.II - T.B(a)THM.ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -3764,7 +3764,7 @@
   {
    "kod": "BLG107",
    "ad": "BİLGİSAYARA GİRİŞ",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.SEÇ.2YY - T.B(a)THM SEÇMELİ 2.YY",
    "tur": "Seçmeli",
@@ -3778,7 +3778,7 @@
   {
    "kod": "TBO110",
    "ad": "SES SAĞLIĞI II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.SEÇ.2YY - T.B(a)THM SEÇMELİ 2.YY",
    "tur": "Seçmeli",
@@ -3792,7 +3792,7 @@
   {
    "kod": "TBO124",
    "ad": "BİLGİSAYARDA NOTA YAZIM UYGULAMALARI II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.SEÇ.2YY - T.B(a)THM SEÇMELİ 2.YY",
    "tur": "Seçmeli",
@@ -3806,7 +3806,7 @@
   {
    "kod": "TBO126",
    "ad": "KABARTMA NOTA UYGULAMALARI II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.SEÇ.2YY - T.B(a)THM SEÇMELİ 2.YY",
    "tur": "Seçmeli",
@@ -3820,7 +3820,7 @@
   {
    "kod": "THU202",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.SEÇ.2YY - T.B(a)THM SEÇMELİ 2.YY",
    "tur": "Seçmeli",
@@ -3834,7 +3834,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.I - TEMEL BİLİMLER (a) .THM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -3848,7 +3848,7 @@
   {
    "kod": "TBH203",
    "ad": "TÜRK HALK EDEBİYATINA GİRİŞ I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.I - TEMEL BİLİMLER (a) .THM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -3862,7 +3862,7 @@
   {
    "kod": "TBH205",
    "ad": "İLERİ ÇALGI REPERTUVARI I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.I - TEMEL BİLİMLER (a) .THM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -3876,7 +3876,7 @@
   {
    "kod": "TBH207",
    "ad": "BÖLGESEL REPERTUVAR I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.I - TEMEL BİLİMLER (a) .THM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -3890,7 +3890,7 @@
   {
    "kod": "TBO211",
    "ad": "TÜRK DİN MUSİKİSİ I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.I - TEMEL BİLİMLER (a) .THM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -3904,7 +3904,7 @@
   {
    "kod": "TBO213",
    "ad": "TÜRK HALK OYUNLARI I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.I - TEMEL BİLİMLER (a) .THM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -3918,7 +3918,7 @@
   {
    "kod": "TBO215",
    "ad": "GÖRÜNTÜ VE MÜZİK I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.I - TEMEL BİLİMLER (a) .THM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -3932,7 +3932,7 @@
   {
    "kod": "TBO217",
    "ad": "MESLEKİ İNGİLİZCE I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.I - TEMEL BİLİMLER (a) .THM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -3946,7 +3946,7 @@
   {
    "kod": "TBO219",
    "ad": "MÜZİK TEKNOLOJİLERİNE GİRİŞ I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.I - TEMEL BİLİMLER (a) .THM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -3960,7 +3960,7 @@
   {
    "kod": "TBO221",
    "ad": "DİKSİYON I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.I - TEMEL BİLİMLER (a) .THM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -3974,7 +3974,7 @@
   {
    "kod": "TBH209",
    "ad": "BAĞLAMA III",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.III - T.B(a)THM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -3988,7 +3988,7 @@
   {
    "kod": "TBH211",
    "ad": "KABAK KEMANE III",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.III - T.B(a)THM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -4002,7 +4002,7 @@
   {
    "kod": "TBH213",
    "ad": "ÜFLEMELİ SAZLAR III",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.III - T.B(a)THM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -4016,7 +4016,7 @@
   {
    "kod": "TBH215",
    "ad": "TAR III",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.III - T.B(a)THM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -4030,7 +4030,7 @@
   {
    "kod": "TBH219",
    "ad": "KARADENİZ KEMENÇESİ III",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.III - T.B(a)THM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -4044,7 +4044,7 @@
   {
    "kod": "TBO209",
    "ad": "RİTİM III",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.III - T.B(a)THM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -4058,7 +4058,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.II - TEMEL BİLİMLER (a). THM. SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -4072,7 +4072,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.II - TEMEL BİLİMLER (a). THM. SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -4086,7 +4086,7 @@
   {
    "kod": "TBH204",
    "ad": "TÜRK HALK EDEBİYATINA GİRİŞ II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.II - TEMEL BİLİMLER (a). THM. SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -4100,7 +4100,7 @@
   {
    "kod": "TBH206",
    "ad": "İLERİ ÇALGI REPERTUVARI II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.II - TEMEL BİLİMLER (a). THM. SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -4114,7 +4114,7 @@
   {
    "kod": "TBH208",
    "ad": "BÖLGESEL REPERTUVAR II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.II - TEMEL BİLİMLER (a). THM. SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -4128,7 +4128,7 @@
   {
    "kod": "TBO212",
    "ad": "TÜRK DİN MUSİKİSİ II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.II - TEMEL BİLİMLER (a). THM. SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -4142,7 +4142,7 @@
   {
    "kod": "TBO216",
    "ad": "GÖRÜNTÜ VE MÜZİK II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.II - TEMEL BİLİMLER (a). THM. SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -4156,7 +4156,7 @@
   {
    "kod": "TBO218",
    "ad": "MESLEKİ İNGİLİZCE II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.II - TEMEL BİLİMLER (a). THM. SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -4170,7 +4170,7 @@
   {
    "kod": "TBO220",
    "ad": "MÜZİK TEKNOLOJİLERİNE GİRİŞ II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.II - TEMEL BİLİMLER (a). THM. SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -4184,7 +4184,7 @@
   {
    "kod": "TBH210",
    "ad": "BAĞLAMA IV",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.IV - T.B(a)THM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -4198,7 +4198,7 @@
   {
    "kod": "TBH212",
    "ad": "KABAK KEMANE IV",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.IV - T.B(a)THM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -4212,7 +4212,7 @@
   {
    "kod": "TBH214",
    "ad": "ÜFLEMELİ SAZLAR IV",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.IV - T.B(a)THM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -4226,7 +4226,7 @@
   {
    "kod": "TBH216",
    "ad": "TAR IV",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.IV - T.B(a)THM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -4240,7 +4240,7 @@
   {
    "kod": "TBO210",
    "ad": "RİTİM IV",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.IV - T.B(a)THM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -4254,7 +4254,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.III - TEMEL BİLİMLER (a).THM.SEÇMELİ-III",
    "tur": "Seçmeli",
@@ -4268,7 +4268,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.III - TEMEL BİLİMLER (a).THM.SEÇMELİ-III",
    "tur": "Seçmeli",
@@ -4282,7 +4282,7 @@
   {
    "kod": "TBH323",
    "ad": "DERLEME YÖNTEM VE TEKNİKLERİ I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.III - TEMEL BİLİMLER (a).THM.SEÇMELİ-III",
    "tur": "Seçmeli",
@@ -4296,7 +4296,7 @@
   {
    "kod": "TBH327",
    "ad": "USUL UYGULAMALARI I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.III - TEMEL BİLİMLER (a).THM.SEÇMELİ-III",
    "tur": "Seçmeli",
@@ -4310,7 +4310,7 @@
   {
    "kod": "TBH333",
    "ad": "İLERİ ÇALGI REPERTUVARI III",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.III - TEMEL BİLİMLER (a).THM.SEÇMELİ-III",
    "tur": "Seçmeli",
@@ -4324,7 +4324,7 @@
   {
    "kod": "TBH335",
    "ad": "BÖLGESEL REPERTUVAR III",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.III - TEMEL BİLİMLER (a).THM.SEÇMELİ-III",
    "tur": "Seçmeli",
@@ -4338,7 +4338,7 @@
   {
    "kod": "TBO305",
    "ad": "SEÇMELİ PİYANO I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.III - TEMEL BİLİMLER (a).THM.SEÇMELİ-III",
    "tur": "Seçmeli",
@@ -4352,7 +4352,7 @@
   {
    "kod": "TBO309",
    "ad": "PROZODİ I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.III - TEMEL BİLİMLER (a).THM.SEÇMELİ-III",
    "tur": "Seçmeli",
@@ -4366,7 +4366,7 @@
   {
    "kod": "TBO311",
    "ad": "TÜRK MÜZİĞİNDE NOTA YAZILARI I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.III - TEMEL BİLİMLER (a).THM.SEÇMELİ-III",
    "tur": "Seçmeli",
@@ -4380,7 +4380,7 @@
   {
    "kod": "TBO313",
    "ad": "MESLEKİ İNGİLİZCE III",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.III - TEMEL BİLİMLER (a).THM.SEÇMELİ-III",
    "tur": "Seçmeli",
@@ -4394,7 +4394,7 @@
   {
    "kod": "TBH311",
    "ad": "KABAK KEMANE V",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.V - T.B(a)THM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -4408,7 +4408,7 @@
   {
    "kod": "TBH313",
    "ad": "ÜFLEMELİ SAZLAR V",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.V - T.B(a)THM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -4422,7 +4422,7 @@
   {
    "kod": "TBH315",
    "ad": "TAR V",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.V - T.B(a)THM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -4436,7 +4436,7 @@
   {
    "kod": "TBH317",
    "ad": "RİTİM V",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.V - T.B(a)THM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -4450,7 +4450,7 @@
   {
    "kod": "TBH319",
    "ad": "BAĞLAMA V",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.V - T.B(a)THM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -4464,7 +4464,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.IV - TEMEL BİLİMLER (a).THM.SEÇMELİ- IV",
    "tur": "Seçmeli",
@@ -4478,7 +4478,7 @@
   {
    "kod": "TBH324",
    "ad": "DERLEME YÖNTEM VE TEKNİKLERİ II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.IV - TEMEL BİLİMLER (a).THM.SEÇMELİ- IV",
    "tur": "Seçmeli",
@@ -4492,7 +4492,7 @@
   {
    "kod": "TBH328",
    "ad": "USUL UYGULAMALARI II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.IV - TEMEL BİLİMLER (a).THM.SEÇMELİ- IV",
    "tur": "Seçmeli",
@@ -4506,7 +4506,7 @@
   {
    "kod": "TBH334",
    "ad": "İLERİ ÇALGI REPERTUVARI IV",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.IV - TEMEL BİLİMLER (a).THM.SEÇMELİ- IV",
    "tur": "Seçmeli",
@@ -4520,7 +4520,7 @@
   {
    "kod": "TBH336",
    "ad": "BÖLGESEL REPERTUVAR IV",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.IV - TEMEL BİLİMLER (a).THM.SEÇMELİ- IV",
    "tur": "Seçmeli",
@@ -4534,7 +4534,7 @@
   {
    "kod": "TBO306",
    "ad": "SEÇMELİ PİYANO II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.IV - TEMEL BİLİMLER (a).THM.SEÇMELİ- IV",
    "tur": "Seçmeli",
@@ -4548,7 +4548,7 @@
   {
    "kod": "TBO310",
    "ad": "PROZODİ II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.IV - TEMEL BİLİMLER (a).THM.SEÇMELİ- IV",
    "tur": "Seçmeli",
@@ -4562,7 +4562,7 @@
   {
    "kod": "TBO312",
    "ad": "TÜRK MÜZİĞİNDE NOTA YAZILARI II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.IV - TEMEL BİLİMLER (a).THM.SEÇMELİ- IV",
    "tur": "Seçmeli",
@@ -4576,7 +4576,7 @@
   {
    "kod": "TBO314",
    "ad": "MESLEKİ İNGİLİZCE IV",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.IV - TEMEL BİLİMLER (a).THM.SEÇMELİ- IV",
    "tur": "Seçmeli",
@@ -4590,7 +4590,7 @@
   {
    "kod": "TBH312",
    "ad": "KABAK KEMANE VI",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.VI - T.B(a)THM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -4604,7 +4604,7 @@
   {
    "kod": "TBH314",
    "ad": "ÜFLEMELİ SAZLAR VI",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.VI - T.B(a)THM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -4618,7 +4618,7 @@
   {
    "kod": "TBH316",
    "ad": "TAR VI",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.VI - T.B(a)THM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -4632,7 +4632,7 @@
   {
    "kod": "TBH318",
    "ad": "RİTİM VI",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.VI - T.B(a)THM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -4646,7 +4646,7 @@
   {
    "kod": "TBH320",
    "ad": "BAĞLAMA VI",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.VI - T.B(a)THM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -4660,7 +4660,7 @@
   {
    "kod": "ISR401",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.V - TEMEL BİLİMLER (a).THM.SEÇMELİ .V",
    "tur": "Seçmeli",
@@ -4674,7 +4674,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.V - TEMEL BİLİMLER (a).THM.SEÇMELİ .V",
    "tur": "Seçmeli",
@@ -4688,7 +4688,7 @@
   {
    "kod": "TBH423",
    "ad": "USUL UYGULAMALARI III",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.V - TEMEL BİLİMLER (a).THM.SEÇMELİ .V",
    "tur": "Seçmeli",
@@ -4702,7 +4702,7 @@
   {
    "kod": "TBH441",
    "ad": "İLERİ ÇALGI REPERTUVARI V",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.V - TEMEL BİLİMLER (a).THM.SEÇMELİ .V",
    "tur": "Seçmeli",
@@ -4716,7 +4716,7 @@
   {
    "kod": "TBH443",
    "ad": "BÖLGESEL REPERTUVAR V",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.V - TEMEL BİLİMLER (a).THM.SEÇMELİ .V",
    "tur": "Seçmeli",
@@ -4730,7 +4730,7 @@
   {
    "kod": "TBO407",
    "ad": "OSMANLICA I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.V - TEMEL BİLİMLER (a).THM.SEÇMELİ .V",
    "tur": "Seçmeli",
@@ -4744,7 +4744,7 @@
   {
    "kod": "TBO409",
    "ad": "KORO EĞİTİMİ VE YÖNETİM TEKNİKLERİ I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.V - TEMEL BİLİMLER (a).THM.SEÇMELİ .V",
    "tur": "Seçmeli",
@@ -4758,7 +4758,7 @@
   {
    "kod": "TBO411",
    "ad": "SEÇMELİ PİYANO III",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.V - TEMEL BİLİMLER (a).THM.SEÇMELİ .V",
    "tur": "Seçmeli",
@@ -4772,7 +4772,7 @@
   {
    "kod": "TBO413",
    "ad": "OKUL MÜZİĞİ REPERTUVARI I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.V - TEMEL BİLİMLER (a).THM.SEÇMELİ .V",
    "tur": "Seçmeli",
@@ -4786,7 +4786,7 @@
   {
    "kod": "TBO417",
    "ad": "POPÜLER KÜLTÜR VE MÜZİK I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.V - TEMEL BİLİMLER (a).THM.SEÇMELİ .V",
    "tur": "Seçmeli",
@@ -4800,7 +4800,7 @@
   {
    "kod": "TBO419",
    "ad": "HALK BİLİMİ KURAMLARI I",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.V - TEMEL BİLİMLER (a).THM.SEÇMELİ .V",
    "tur": "Seçmeli",
@@ -4814,7 +4814,7 @@
   {
    "kod": "TBH429",
    "ad": "BAĞLAMA VII",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.VII - T.B(a)THM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -4828,7 +4828,7 @@
   {
    "kod": "TBH431",
    "ad": "KABAK KEMANE VII",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.VII - T.B(a)THM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -4842,7 +4842,7 @@
   {
    "kod": "TBH433",
    "ad": "ÜFLEMELİ SAZLAR VII",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.VII - T.B(a)THM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -4856,7 +4856,7 @@
   {
    "kod": "TBH435",
    "ad": "TAR VII",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.VII - T.B(a)THM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -4870,7 +4870,7 @@
   {
    "kod": "TBH437",
    "ad": "RİTİM VII",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİT.VII - T.B(a)THM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -4884,7 +4884,7 @@
   {
    "kod": "GRK402",
    "ad": "GİRİŞİMCİLİK VE KALİTE",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.VI - TEMEL BİLİMLER (a).THM.SEÇMELİ- VI",
    "tur": "Seçmeli",
@@ -4898,7 +4898,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.VI - TEMEL BİLİMLER (a).THM.SEÇMELİ- VI",
    "tur": "Seçmeli",
@@ -4912,7 +4912,7 @@
   {
    "kod": "TBH424",
    "ad": "USUL UYGULAMALARI IV",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.VI - TEMEL BİLİMLER (a).THM.SEÇMELİ- VI",
    "tur": "Seçmeli",
@@ -4926,7 +4926,7 @@
   {
    "kod": "TBH442",
    "ad": "İLERİ ÇALGI REPERTUVARI VI",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.VI - TEMEL BİLİMLER (a).THM.SEÇMELİ- VI",
    "tur": "Seçmeli",
@@ -4940,7 +4940,7 @@
   {
    "kod": "TBH444",
    "ad": "BÖLGESEL REPERTUVAR VI",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.VI - TEMEL BİLİMLER (a).THM.SEÇMELİ- VI",
    "tur": "Seçmeli",
@@ -4954,7 +4954,7 @@
   {
    "kod": "TBO408",
    "ad": "OSMANLICA II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.VI - TEMEL BİLİMLER (a).THM.SEÇMELİ- VI",
    "tur": "Seçmeli",
@@ -4968,7 +4968,7 @@
   {
    "kod": "TBO410",
    "ad": "KORO EĞİTİMİ VE YÖNETİM TEKNİKLERİ II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.VI - TEMEL BİLİMLER (a).THM.SEÇMELİ- VI",
    "tur": "Seçmeli",
@@ -4982,7 +4982,7 @@
   {
    "kod": "TBO412",
    "ad": "SEÇMELİ PİYANO IV",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.VI - TEMEL BİLİMLER (a).THM.SEÇMELİ- VI",
    "tur": "Seçmeli",
@@ -4996,7 +4996,7 @@
   {
    "kod": "TBO414",
    "ad": "OKUL MÜZİĞİ REPERTUVARI II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.VI - TEMEL BİLİMLER (a).THM.SEÇMELİ- VI",
    "tur": "Seçmeli",
@@ -5010,7 +5010,7 @@
   {
    "kod": "TBO418",
    "ad": "POPÜLER KÜLTÜR VE MÜZİK II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.VI - TEMEL BİLİMLER (a).THM.SEÇMELİ- VI",
    "tur": "Seçmeli",
@@ -5024,7 +5024,7 @@
   {
    "kod": "TBO420",
    "ad": "HALK BİLİMİ KURAMLARI II",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.VI - TEMEL BİLİMLER (a).THM.SEÇMELİ- VI",
    "tur": "Seçmeli",
@@ -5038,7 +5038,7 @@
   {
    "kod": "TBO422",
    "ad": "İLKÖĞRETİM ÖNCESİ MÜZİK EĞİTİMİ",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a).THM.SEÇ.VI - TEMEL BİLİMLER (a).THM.SEÇMELİ- VI",
    "tur": "Seçmeli",
@@ -5052,7 +5052,7 @@
   {
    "kod": "TBH430",
    "ad": "BAĞLAMA VIII",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİTVIII - T.B(a)THM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -5066,7 +5066,7 @@
   {
    "kod": "TBH432",
    "ad": "KABAK KEMANE VIII",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİTVIII - T.B(a)THM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -5080,7 +5080,7 @@
   {
    "kod": "TBH434",
    "ad": "ÜFLEMELİ SAZLAR VIII",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİTVIII - T.B(a)THM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -5094,7 +5094,7 @@
   {
    "kod": "TBH436",
    "ad": "TAR VIII",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİTVIII - T.B(a)THM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -5108,7 +5108,7 @@
   {
    "kod": "TBH438",
    "ad": "RİTİM VIII",
-   "mufredat": "Temel Bilimler (a) (T.H.M)",
+   "mufredat": "2011 Yılı Müfredatı (Temel Bilimler (a) (T.H.M))",
    "yariyil": null,
    "grup": "T.B(a)THM.Ç.EĞİTVIII - T.B(a)THM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",

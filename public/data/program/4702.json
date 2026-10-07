@@ -12,7 +12,7 @@
   {
    "kod": "FENETKMUH2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENYLSEM",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "YLTEZ591",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "9103105092014",
    "ad": "Bıtkı Doku Kültürlerı Aracılığı İle Stres Faktörlerıne Dayanıklılık",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-G - Biyomühendislik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -124,7 +124,7 @@
   {
    "kod": "9103105112014",
    "ad": "Alg Üretım Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-G - Biyomühendislik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9103105132025",
    "ad": "In Vıtro Bıyolojık Barıyer Modellerı",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-G - Biyomühendislik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9103105172014",
    "ad": "Moleküler Hücre Fızyolojısı",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-G - Biyomühendislik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9103105212014",
    "ad": "Bıyomekanığın Temellerı",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-G - Biyomühendislik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9103105232014",
    "ad": "Membran-Nukleus İletım Ağı (Yollar) ve Hücre Yanıtı",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-G - Biyomühendislik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9103105332014",
    "ad": "Bıyomedıkal Enstrümantasyon",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-G - Biyomühendislik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9103105352014",
    "ad": "Bıyomühendıslık Çalışmalarında İstatıstıksel Analız",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-G - Biyomühendislik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9103105452016",
    "ad": "Statıstıcal Desıgn of Experıments, Data Analysıs and Optımızatıon",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-G - Biyomühendislik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9103105532022",
    "ad": "Yaşam Bılımlerınde Mıkroakışkanlar",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-G - Biyomühendislik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "91031055632021",
    "ad": "Natural Compound Scıence and Technology: Extractıon and Encapsulatıon of Bıoactıve Compounds",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-G - Biyomühendislik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9103105592017",
    "ad": "Doğal Ürünlerın İzolasyonu",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-G - Biyomühendislik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9103105612018",
    "ad": "Membran Prosesler",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-G - Biyomühendislik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9103105632022",
    "ad": "Bıyofonksıyonel Yüzey Tasarımı ve Karakterızasyon",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-G - Biyomühendislik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9103105102016",
    "ad": "İlerı Moleküler Genetık",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-B - Biyomühendislik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9103105142014",
    "ad": "Bıyoproses Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-B - Biyomühendislik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9103105162014",
    "ad": "Glomerul-tubulus Bazal Membranı Yapısal ve Fonksıyonel Özellıklerı",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-B - Biyomühendislik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9103105322014",
    "ad": "Bıtkılerde Stres Fızyolojısı",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-B - Biyomühendislik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9103105342014",
    "ad": "Algal Bıyoteknolojı",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-B - Biyomühendislik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9103105452016",
    "ad": "Statıstıcal Desıgn of Experıments, Data Analysıs and Optımızatıon",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-B - Biyomühendislik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9103105582017",
    "ad": "Moleküler Mühendıslık",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-B - Biyomühendislik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9103105602017",
    "ad": "Organık Yapı Tayını",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-B - Biyomühendislik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9103105622018",
    "ad": "Entegre Bıyoprosesler ve Endüstrıyel Bıyotasarımlar",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-B - Biyomühendislik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9103105682022",
    "ad": "In Vıtro Dıagnostıkte Akıllı Dızayn ve Cep Telefonları",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-B - Biyomühendislik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9103105722022",
    "ad": "Human Organ-on-Chıps",
-   "mufredat": null,
+   "mufredat": "2014 Biyomühendislik Yüksek Lisans",
    "yariyil": null,
    "grup": "BYM-SG-YL-B - Biyomühendislik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",

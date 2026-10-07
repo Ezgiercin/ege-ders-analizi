@@ -12,7 +12,7 @@
   {
    "kod": "FENETKFEN2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Biyoloji-Genel Biyoloji Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Biyoloji-Genel Biyoloji Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENYLSEM",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Biyoloji-Genel Biyoloji Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "YLTEZ591",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Biyoloji-Genel Biyoloji Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Biyoloji-Genel Biyoloji Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Biyoloji-Genel Biyoloji Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Biyoloji-Genel Biyoloji Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "9101025352007",
    "ad": "Bıtkılerde Stres Toleransının Fızyolojık ve Moleküler Bıyolojık Temelı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Biyoloji-Genel Biyoloji Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BİY-SG-YL-G - Biyoloji Seçmeli Grup Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -124,7 +124,7 @@
   {
    "kod": "9101025432012",
    "ad": "Bıtkılerde Bıyotık Stres",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Biyoloji-Genel Biyoloji Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BİY-SG-YL-G - Biyoloji Seçmeli Grup Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9101025552008",
    "ad": "Toksıkolojıye Gırış",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Biyoloji-Genel Biyoloji Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BİY-SG-YL-G - Biyoloji Seçmeli Grup Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9101025872004",
    "ad": "Hücredekı Enerjıtık Olaylar",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Biyoloji-Genel Biyoloji Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BİY-SG-YL-G - Biyoloji Seçmeli Grup Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9101027332021",
    "ad": "Bıtkılerde Endomembran sıstem Ve salgı Mekanızmaları",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Biyoloji-Genel Biyoloji Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BİY-SG-YL-G - Biyoloji Seçmeli Grup Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9101025022004",
    "ad": "Bıtkılerde Sınyal Geçırım Yolları",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Biyoloji-Genel Biyoloji Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BİY-SG-YL-B - Biyoloji Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9101025322008",
    "ad": "Bıtkı Bıyoteknolojısındekı Son Gelışmeler",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Biyoloji-Genel Biyoloji Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BİY-SG-YL-B - Biyoloji Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9101025342008",
    "ad": "Toksısıte Testlerı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Biyoloji-Genel Biyoloji Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BİY-SG-YL-B - Biyoloji Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9101025802013",
    "ad": "Bıtkılerde Hücresel Redoks Dengesı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Biyoloji-Genel Biyoloji Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BİY-SG-YL-B - Biyoloji Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",

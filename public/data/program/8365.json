@@ -12,7 +12,7 @@
   {
    "kod": "9389005012022",
    "ad": "Uygulamalı Klınık Çalışma I",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9389005032023",
    "ad": "Sağlık Bılımlerınde Araştırma Yöntemlerı ve Etığı",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9389005052023",
    "ad": "Otolojı ve Nöro-otolojı",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "938900SDG1",
    "ad": "Odyolojı Tezlı Yüksek Lısans SDG1",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": 1,
    "grup": null,
    "tur": "Seçmeli",
@@ -68,7 +68,7 @@
   {
    "kod": "9389005002022",
    "ad": "Uygulamalı Klınık Çalışma II",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "9389005022022",
    "ad": "Makale ve Vaka Toplantısı",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "938900SDG2",
    "ad": "Odyolojı Tezlı Yüksek Lısans SDG2",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "9389005072022",
    "ad": "Odyolojıde Ses ve Konuşma Bozuklukları",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "938900SDG1 - Odyoloji Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9389005112022",
    "ad": "Odyolojıde İlerı Tanısal Yorumlama",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "938900SDG1 - Odyoloji Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9389005132022",
    "ad": "Pedıatrık Odyolojıde Değerlendırme ve Rehabılıtasyon Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "938900SDG1 - Odyoloji Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9389005152022",
    "ad": "Yetışkınlerde İşıtsel İşlemleme ve Müdahale",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "938900SDG1 - Odyoloji Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9389005172022",
    "ad": "İşıtsel Algı ve Bılışsel Süreçler",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "938900SDG1 - Odyoloji Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9389005192022",
    "ad": "Tınnıtus ve Azalmış Ses Toleransının Değerlendırme ve Tedavısı",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "938900SDG1 - Odyoloji Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9389005212022",
    "ad": "Vestıbüler Değerlendırme ve Yorumlama",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "938900SDG1 - Odyoloji Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9389005232026",
    "ad": "Yetışkınlerde İşıtme Kayıpları ve İletışım Bozuklukları",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "938900SDG1 - Odyoloji Tezli Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9389005042022",
    "ad": "İşıtsel Algı Test Bataryası Gelıştırme",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "938900SDG2 - Odyoloji Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9389005062022",
    "ad": "Çocuk ve Yetışkın Grupta Amplıfıkasyon, İşıtme Cıhazları ve Yardımcı Dınleme Cıhazları",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "938900SDG2 - Odyoloji Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9389005082022",
    "ad": "Pedıatrık Popülasyonda Klınık Uygulamalar",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "938900SDG2 - Odyoloji Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9389005102022",
    "ad": "Ek Engelde Odyolojık Değerlendırme ve Müdahale",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "938900SDG2 - Odyoloji Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9389005122022",
    "ad": "Çocuklarda İşıtsel İşlemleme Bozuklukları ve Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "938900SDG2 - Odyoloji Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9389005142022",
    "ad": "Koklear İmplantasyon ve Dığer İmplante Edılebılen Cıhazlar",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "938900SDG2 - Odyoloji Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9389005162022",
    "ad": "İşıtme Sıstemınde İlerı Elektrofızyolojık Ölçümler ve Klınık Uygulama",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "938900SDG2 - Odyoloji Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9389005182022",
    "ad": "Baş dönmesı ve Denge Bozukluklarında Klınık Uygulamalar",
-   "mufredat": null,
+   "mufredat": "2022 Odyoloji Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "938900SDG2 - Odyoloji Tezli Yüksek Lisans SDG2",
    "tur": "Seçmeli",

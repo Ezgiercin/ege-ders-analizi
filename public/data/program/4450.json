@@ -12,7 +12,7 @@
   {
    "kod": "9101045011998",
    "ad": "Kuantum Mekanığı I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9101045052026",
    "ad": "Matematıksel Fızık Yöntemlerı I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENETKFEN2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "9101045032014",
    "ad": "Klasık Elektrodınamık I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "FENYLSEM",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLTEZ591",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "9101045072015",
    "ad": "Kesırsel Matematığe Gırış",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FIZ-SG-YL-G - Fizik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9101045112001",
    "ad": "Dınamık Sıstemler ve Kaosa Gırış I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FIZ-SG-YL-G - Fizik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9101045191998",
    "ad": "İstatıstık Mekanık I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FIZ-SG-YL-G - Fizik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9101045211998",
    "ad": "Süperıletkenlığe Gırış I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FIZ-SG-YL-G - Fizik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9101045252002",
    "ad": "Fızıkte Sayısal Yöntemler",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FIZ-SG-YL-G - Fizik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9101045291998",
    "ad": "Nükleer Yapı I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FIZ-SG-YL-G - Fizik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9101045311998",
    "ad": "Radyasyon Ölçme Metodları I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FIZ-SG-YL-G - Fizik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9101045431998",
    "ad": "Analıtık Mekanık I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FIZ-SG-YL-G - Fizik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9101045832012",
    "ad": "Moleküler Dınamık Sımülasyonu",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FIZ-SG-YL-G - Fizik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9101045042015",
    "ad": "Paket Programlar II",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FIZ-SG-YL-B - Fizik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9101045122001",
    "ad": "Dınamık Sıstemler ve Kaosa Gırış II",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FIZ-SG-YL-B - Fizik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9101045201998",
    "ad": "İstatıstık Mekanık II",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FIZ-SG-YL-B - Fizik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9101045221998",
    "ad": "Süperıletkenlığe Gırış II",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FIZ-SG-YL-B - Fizik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9101045301998",
    "ad": "Nükleer Yapı II",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FIZ-SG-YL-B - Fizik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9101045322011",
    "ad": "Radyasyon Ölçme Metodları II",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FIZ-SG-YL-B - Fizik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9101045441998",
    "ad": "Analıtık Mekanık II",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Fizik-Matematiksel Fizik Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "FIZ-SG-YL-B - Fizik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",

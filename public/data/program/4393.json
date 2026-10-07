@@ -12,7 +12,7 @@
   {
    "kod": "9304085012010",
    "ad": "Hemşırelıkte Öğrenme ve Öğretme Süreçlerı I",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9304085082022",
    "ad": "Sağlık Bılımlerınde Araştırma",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9304085102010",
    "ad": "Hemşırelıkte Öğrenme ve Öğretme Süreçlerı II",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9304085032010",
    "ad": "Hemşırelıkte İletışım ve Etkıleşım Süreçlerı I",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": null,
    "grup": "930408SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9304085042010",
    "ad": "Program Gelıstırme",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": null,
    "grup": "930408SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9304085052022",
    "ad": "Sağlık Eğıtımı",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": null,
    "grup": "930408SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9304085072010",
    "ad": "Bılgısayar Uygulamalı Bıyoıstatıstık I",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": null,
    "grup": "930408SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9304085112014",
    "ad": "Hemşırelıkte Öğrenme ve Öğretme Süreçlerı Uygulaması II",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": null,
    "grup": "930408SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9304085122010",
    "ad": "Hemşırelıkte İletışım ve Etkıleşım Süreçlerı II",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": null,
    "grup": "930408SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9304085132010",
    "ad": "Eğıtımde Ölçme Teknıklerı",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": null,
    "grup": "930408SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9304085142013",
    "ad": "Hasta Eğıtımı",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": null,
    "grup": "930408SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9304085152013",
    "ad": "Hızmet İçı Eğıtım",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": null,
    "grup": "930408SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9304085182017",
    "ad": "Hemşırelıkte Öğrenme ve Öğretme Süreçlerı Uygulaması I",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": null,
    "grup": "930408SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9304085032010",
    "ad": "Hemşırelıkte İletışım ve Etkıleşım Süreçlerı I",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": null,
    "grup": "930408SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9304085042010",
    "ad": "Program Gelıstırme",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": null,
    "grup": "930408SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9304085052022",
    "ad": "Sağlık Eğıtımı",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": null,
    "grup": "930408SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9304085072010",
    "ad": "Bılgısayar Uygulamalı Bıyoıstatıstık I",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": null,
    "grup": "930408SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9304085112014",
    "ad": "Hemşırelıkte Öğrenme ve Öğretme Süreçlerı Uygulaması II",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": null,
    "grup": "930408SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9304085122010",
    "ad": "Hemşırelıkte İletışım ve Etkıleşım Süreçlerı II",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": null,
    "grup": "930408SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9304085132010",
    "ad": "Eğıtımde Ölçme Teknıklerı",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": null,
    "grup": "930408SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9304085142013",
    "ad": "Hasta Eğıtımı",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": null,
    "grup": "930408SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9304085152013",
    "ad": "Hızmet İçı Eğıtım",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": null,
    "grup": "930408SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9304085182017",
    "ad": "Hemşırelıkte Öğrenme ve Öğretme Süreçlerı Uygulaması I",
-   "mufredat": "Hemşirelikte Öğretim",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelikte Öğretim)",
    "yariyil": null,
    "grup": "930408SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",

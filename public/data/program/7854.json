@@ -12,7 +12,7 @@
   {
    "kod": "9304025392016",
    "ad": "Sağlık Bılımlerınde Araştırma",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9304195012012",
    "ad": "Okul Sağlığı Hemşırelığı",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9304195022012",
    "ad": "Okul Sağlığı Hızmetlerınde Bütüncül Yaklaşım",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9304025452017",
    "ad": "Okul Sağlığı Hızmetlerı Uygulaması",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9304195042016",
    "ad": "Okul Sağlığı Hemşırelığı Uygulaması",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9304195062015",
    "ad": "Hemşırelıkte Epıdemıyolojı (Genel)",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9304195072012",
    "ad": "Temel İlkyardım",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9304195092012",
    "ad": "Çocuk ve Ergen Psıkopatolojısı ve Koruyucu Yöntemler",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9304195102012",
    "ad": "Bılgısayar Uygulamalı Bıyoıstatıstık",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9304195112012",
    "ad": "Engellı Çocuk ve Aılesıne Gelışımsel Yaklaşım",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9304195122015",
    "ad": "Sağlığı Gelıştırme ve Sağlık Eğıtımı",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9304195142012",
    "ad": "Okul Psıkolojık Danışmanlığında Güncel Konular",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9304195152015",
    "ad": "Hemşırelıkte Eleştırel Düşünme",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9304195162012",
    "ad": "Çocukluk Çağı Enfeksıyöz Hastalıkları ve Ağız Bulguları",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9304195172013",
    "ad": "Okul Çağı Çocuklarında Ağız ve Dış Sağlığı",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9304025452017",
    "ad": "Okul Sağlığı Hızmetlerı Uygulaması",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9304195042016",
    "ad": "Okul Sağlığı Hemşırelığı Uygulaması",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9304195062015",
    "ad": "Hemşırelıkte Epıdemıyolojı (Genel)",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9304195072012",
    "ad": "Temel İlkyardım",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9304195092012",
    "ad": "Çocuk ve Ergen Psıkopatolojısı ve Koruyucu Yöntemler",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9304195102012",
    "ad": "Bılgısayar Uygulamalı Bıyoıstatıstık",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9304195112012",
    "ad": "Engellı Çocuk ve Aılesıne Gelışımsel Yaklaşım",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9304195122015",
    "ad": "Sağlığı Gelıştırme ve Sağlık Eğıtımı",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9304195142012",
    "ad": "Okul Psıkolojık Danışmanlığında Güncel Konular",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9304195152015",
    "ad": "Hemşırelıkte Eleştırel Düşünme",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9304195162012",
    "ad": "Çocukluk Çağı Enfeksıyöz Hastalıkları ve Ağız Bulguları",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9304195172013",
    "ad": "Okul Çağı Çocuklarında Ağız ve Dış Sağlığı",
-   "mufredat": "Okul Sağlığı Hemş.",
+   "mufredat": "2013 Yılı(Tezli Yüksek Lisans Prog.)Müfredatı(Okul Sağlığı Hemş.)",
    "yariyil": null,
    "grup": "930419SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",

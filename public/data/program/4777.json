@@ -12,7 +12,7 @@
   {
    "kod": "FENETKCOK2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Tabiat Tarihi Yüksek Lisans",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Tabiat Tarihi Yüksek Lisans",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENYLSEM",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2012 yılı Tabiat Tarihi Yüksek Lisans",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "YLTEZ591",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2012 yılı Tabiat Tarihi Yüksek Lisans",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Tabiat Tarihi Yüksek Lisans",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2012 yılı Tabiat Tarihi Yüksek Lisans",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Tabiat Tarihi Yüksek Lisans",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "9105065112022",
    "ad": "Osteolojıden Seçme Konular",
-   "mufredat": null,
+   "mufredat": "2012 yılı Tabiat Tarihi Yüksek Lisans",
    "yariyil": null,
    "grup": "TAT-SG-YL-G - Tabiat Tarihi Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -124,7 +124,7 @@
   {
    "kod": "9105065152013",
    "ad": "Paleontolojıde Adlama Kuralları",
-   "mufredat": null,
+   "mufredat": "2012 yılı Tabiat Tarihi Yüksek Lisans",
    "yariyil": null,
    "grup": "TAT-SG-YL-G - Tabiat Tarihi Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9105065192014",
    "ad": "Taksonomının Esasları",
-   "mufredat": null,
+   "mufredat": "2012 yılı Tabiat Tarihi Yüksek Lisans",
    "yariyil": null,
    "grup": "TAT-SG-YL-G - Tabiat Tarihi Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9105065211998",
    "ad": "Omurgalılar Paleontolojısı ve Evrımı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Tabiat Tarihi Yüksek Lisans",
    "yariyil": null,
    "grup": "TAT-SG-YL-G - Tabiat Tarihi Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9105065251998",
    "ad": "Senozoyık Paleobıocoğrafyası",
-   "mufredat": null,
+   "mufredat": "2012 yılı Tabiat Tarihi Yüksek Lisans",
    "yariyil": null,
    "grup": "TAT-SG-YL-G - Tabiat Tarihi Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9105065292019",
    "ad": "Evrımsel Ekolojı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Tabiat Tarihi Yüksek Lisans",
    "yariyil": null,
    "grup": "TAT-SG-YL-G - Tabiat Tarihi Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9105065022024",
    "ad": "Doğal Anıtlar ve Yaban Hayatı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Tabiat Tarihi Yüksek Lisans",
    "yariyil": null,
    "grup": "TAT-SG-YL-B - Tabiat Tarihi Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9105065102022",
    "ad": "Bıyologlar ıçın Fotoğraf Teknığı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Tabiat Tarihi Yüksek Lisans",
    "yariyil": null,
    "grup": "TAT-SG-YL-B - Tabiat Tarihi Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9105065161998",
    "ad": "Tortullaşma Ortamları",
-   "mufredat": null,
+   "mufredat": "2012 yılı Tabiat Tarihi Yüksek Lisans",
    "yariyil": null,
    "grup": "TAT-SG-YL-B - Tabiat Tarihi Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9105065282019",
    "ad": "Geometrık Morfometrıye Gırış",
-   "mufredat": null,
+   "mufredat": "2012 yılı Tabiat Tarihi Yüksek Lisans",
    "yariyil": null,
    "grup": "TAT-SG-YL-B - Tabiat Tarihi Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",

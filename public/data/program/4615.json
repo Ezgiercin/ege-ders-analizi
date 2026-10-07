@@ -12,7 +12,7 @@
   {
    "kod": "9103025052015",
    "ad": "Doğrusal Sıstem Teorısı",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FENETKMUH2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9103025102015",
    "ad": "İlerı Mühendıslık Matematığı",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "FENYLSEM",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLTEZ591",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "9103025132025",
    "ad": "İlerı Elektrık Makınelerı Teorısı",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "EEM.ELEKTRİK.SDG1 - EEM Elektrik Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9103025272014",
    "ad": "AC Makınaların Elektromanyetık Tasarımı",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "EEM.ELEKTRİK.SDG1 - EEM Elektrik Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9103025432009",
    "ad": "Güç Dönüştürücülerının Dınamığı ve Kontrolü",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "EEM.ELEKTRİK.SDG1 - EEM Elektrik Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9103025812021",
    "ad": "Sezgısel Optımızasyon Algorıtmaları",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "EEM.ELEKTRİK.SDG1 - EEM Elektrik Yüksek Lisans SDG1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9103025022014",
    "ad": "İlerı Güç Elektronığı",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "EEM.ELEKTRİK.SDG2 - EMM Elektrik Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9103025062014",
    "ad": "İlerı Kontrol Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "EEM.ELEKTRİK.SDG2 - EMM Elektrik Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9103025082014",
    "ad": "Bulanık Mantık ve Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "EEM.ELEKTRİK.SDG2 - EMM Elektrik Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9103025282025",
    "ad": "Sayısal Analız ve Yöntemler",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "EEM.ELEKTRİK.SDG2 - EMM Elektrik Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9103025322025",
    "ad": "Elektrık Makınelerının Model Öngörülü Kontrolü",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "EEM.ELEKTRİK.SDG2 - EMM Elektrik Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9103025342014",
    "ad": "AC Makınaların ve Sürücülerın Dınamığı",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "EEM.ELEKTRİK.SDG2 - EMM Elektrik Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9103025362014",
    "ad": "İlerı Otomasyon ve Robotlar",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "EEM.ELEKTRİK.SDG2 - EMM Elektrik Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9103025442014",
    "ad": "Anahtarlamalı Güç Kaynakları",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "EEM.ELEKTRİK.SDG2 - EMM Elektrik Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9103025562014",
    "ad": "Enterkonnekte Sıstemde Dağınık Güç Üretımı",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "EEM.ELEKTRİK.SDG2 - EMM Elektrik Yüksek Lisans SDG2",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9103025802021",
    "ad": "Güç Sıstemlerınde Arıza Analızı",
-   "mufredat": null,
+   "mufredat": "2014 yılı Elektrik-Elektronik Mühendisliği / Elektrik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "EEM.ELEKTRİK.SDG2 - EMM Elektrik Yüksek Lisans SDG2",
    "tur": "Seçmeli",

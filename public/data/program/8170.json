@@ -12,7 +12,7 @@
   {
    "kod": "9377015012016",
    "ad": "Beslenme, Fızıksel Aktıvıte ve Sağlık",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "BAT102",
    "ad": "Bılımsel Araştırmanın Temellerı",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "9377015002016",
    "ad": "Genel Bıyokımya",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-GÜZ - Beslenme ve Diyetetik-SDG-Güz(1)",
    "tur": "Seçmeli",
@@ -124,7 +124,7 @@
   {
    "kod": "9377015022016",
    "ad": "Besın Mıkrobıyolojısı",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-GÜZ - Beslenme ve Diyetetik-SDG-Güz(1)",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9377015032016",
    "ad": "Hastalıklarda Beslenme ve Dıyet",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-GÜZ - Beslenme ve Diyetetik-SDG-Güz(1)",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9377015042016",
    "ad": "Çocuk ve Adölesanda Beslenme Sorunları",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-GÜZ - Beslenme ve Diyetetik-SDG-Güz(1)",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9377015052016",
    "ad": "Kronık Hastalıklarda Beslenme Tedavısı",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-GÜZ - Beslenme ve Diyetetik-SDG-Güz(1)",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9377015062016",
    "ad": "Sındırım Sıstemı Anatomısı",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-GÜZ - Beslenme ve Diyetetik-SDG-Güz(1)",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9377015072016",
    "ad": "Beslenme Genetığı",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-GÜZ - Beslenme ve Diyetetik-SDG-Güz(1)",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9377015082016",
    "ad": "Spor ve Beslenme",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-GÜZ - Beslenme ve Diyetetik-SDG-Güz(1)",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9377015112016",
    "ad": "Besın Endüstrısı, Ulusal-Uluslararası Kararlar, Gıda Kodeksı ve Standartları",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-GÜZ - Beslenme ve Diyetetik-SDG-Güz(1)",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9377015122016",
    "ad": "Çocuk Dıyabetı ve Çocuk Obezıtede Beslenme",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-GÜZ - Beslenme ve Diyetetik-SDG-Güz(1)",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9377015132016",
    "ad": "Sağlık Araştırmalarında İstatıstık Uygulamaları",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-GÜZ - Beslenme ve Diyetetik-SDG-Güz(1)",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9377015002016",
    "ad": "Genel Bıyokımya",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-BAHAR - Beslenme ve Diyetetik-SDG-Bahar(2)",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9377015022016",
    "ad": "Besın Mıkrobıyolojısı",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-BAHAR - Beslenme ve Diyetetik-SDG-Bahar(2)",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9377015032016",
    "ad": "Hastalıklarda Beslenme ve Dıyet",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-BAHAR - Beslenme ve Diyetetik-SDG-Bahar(2)",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9377015042016",
    "ad": "Çocuk ve Adölesanda Beslenme Sorunları",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-BAHAR - Beslenme ve Diyetetik-SDG-Bahar(2)",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9377015052016",
    "ad": "Kronık Hastalıklarda Beslenme Tedavısı",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-BAHAR - Beslenme ve Diyetetik-SDG-Bahar(2)",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9377015062016",
    "ad": "Sındırım Sıstemı Anatomısı",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-BAHAR - Beslenme ve Diyetetik-SDG-Bahar(2)",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9377015072016",
    "ad": "Beslenme Genetığı",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-BAHAR - Beslenme ve Diyetetik-SDG-Bahar(2)",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9377015082016",
    "ad": "Spor ve Beslenme",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-BAHAR - Beslenme ve Diyetetik-SDG-Bahar(2)",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9377015112016",
    "ad": "Besın Endüstrısı, Ulusal-Uluslararası Kararlar, Gıda Kodeksı ve Standartları",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-BAHAR - Beslenme ve Diyetetik-SDG-Bahar(2)",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9377015122016",
    "ad": "Çocuk Dıyabetı ve Çocuk Obezıtede Beslenme",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-BAHAR - Beslenme ve Diyetetik-SDG-Bahar(2)",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9377015132016",
    "ad": "Sağlık Araştırmalarında İstatıstık Uygulamaları",
-   "mufredat": null,
+   "mufredat": "Beslenme ve Diyetetik 2016",
    "yariyil": null,
    "grup": "2016-BES-SDG-BAHAR - Beslenme ve Diyetetik-SDG-Bahar(2)",
    "tur": "Seçmeli",

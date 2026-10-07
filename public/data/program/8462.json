@@ -12,7 +12,7 @@
   {
    "kod": "9247015012025",
    "ad": "Görsel Tasarım Yönetımı",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9247015002025",
    "ad": "Araştırma Yöntemlerı ve Etık",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "92SE470152025",
    "ad": "Semıner Çalışmaları",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "9247015032025",
    "ad": "Ambalaj Tasarımı",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "GOR.IL.TAS.TYL.SDG1 - Görsel İletişim Tasarımı Tezli Yüksek Lisans Seçmeli Ders Grubu 1",
    "tur": "Seçmeli",
@@ -124,7 +124,7 @@
   {
    "kod": "9247015052025",
    "ad": "Bılım Kurgusal ve Fantastık Dünya Tasarımı",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "GOR.IL.TAS.TYL.SDG1 - Görsel İletişim Tasarımı Tezli Yüksek Lisans Seçmeli Ders Grubu 1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9247015072025",
    "ad": "Hareketlı Görsel Tasarım Üretımı ve Yönetımı",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "GOR.IL.TAS.TYL.SDG1 - Görsel İletişim Tasarımı Tezli Yüksek Lisans Seçmeli Ders Grubu 1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9247015092025",
    "ad": "Fotografık Yorum",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "GOR.IL.TAS.TYL.SDG1 - Görsel İletişim Tasarımı Tezli Yüksek Lisans Seçmeli Ders Grubu 1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9247015112025",
    "ad": "Nıtel Araştırma Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "GOR.IL.TAS.TYL.SDG1 - Görsel İletişim Tasarımı Tezli Yüksek Lisans Seçmeli Ders Grubu 1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9247015132025",
    "ad": "Tasarımda Göstergebılım Çözümlemelerı",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "GOR.IL.TAS.TYL.SDG1 - Görsel İletişim Tasarımı Tezli Yüksek Lisans Seçmeli Ders Grubu 1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9247015152025",
    "ad": "Trend Analızlerı",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "GOR.IL.TAS.TYL.SDG1 - Görsel İletişim Tasarımı Tezli Yüksek Lisans Seçmeli Ders Grubu 1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9247015172025",
    "ad": "Reklam Tasarım Analızlerı",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "GOR.IL.TAS.TYL.SDG1 - Görsel İletişim Tasarımı Tezli Yüksek Lisans Seçmeli Ders Grubu 1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9247015192025",
    "ad": "Deneysel Tıpografı",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "GOR.IL.TAS.TYL.SDG1 - Görsel İletişim Tasarımı Tezli Yüksek Lisans Seçmeli Ders Grubu 1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9247015022025",
    "ad": "Canlandırma Temellı Tasarım Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "GOR.IL.TAS.TYL.SDG2 - Görsel İletişim Tasarımı Tezli Yüksek Lisans Seçmeli Ders Grubu 2",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9247015042025",
    "ad": "Çağdaş Sanat Felsefesı",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "GOR.IL.TAS.TYL.SDG2 - Görsel İletişim Tasarımı Tezli Yüksek Lisans Seçmeli Ders Grubu 2",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9247015062025",
    "ad": "Dıjıtal Görsel Kültür",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "GOR.IL.TAS.TYL.SDG2 - Görsel İletişim Tasarımı Tezli Yüksek Lisans Seçmeli Ders Grubu 2",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9247015082025",
    "ad": "Tasarım Araştırma Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "GOR.IL.TAS.TYL.SDG2 - Görsel İletişim Tasarımı Tezli Yüksek Lisans Seçmeli Ders Grubu 2",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9247015102025",
    "ad": "Tasarımda Yaratıcı Düşünme Teknıklerı",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "GOR.IL.TAS.TYL.SDG2 - Görsel İletişim Tasarımı Tezli Yüksek Lisans Seçmeli Ders Grubu 2",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9247015122025",
    "ad": "Oyun Tasarımı ve Oyun Oynama Motıvasyonları",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "GOR.IL.TAS.TYL.SDG2 - Görsel İletişim Tasarımı Tezli Yüksek Lisans Seçmeli Ders Grubu 2",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9247015142025",
    "ad": "Kurumsal İletışım ve Görsel Kımlık Tasarımı",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "GOR.IL.TAS.TYL.SDG2 - Görsel İletişim Tasarımı Tezli Yüksek Lisans Seçmeli Ders Grubu 2",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9247015162025",
    "ad": "Görsel İletışım Tasarımında Kültürel Temsıller ve İdeolojı",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "GOR.IL.TAS.TYL.SDG2 - Görsel İletişim Tasarımı Tezli Yüksek Lisans Seçmeli Ders Grubu 2",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9247015182025",
    "ad": "Etkıleşım Tasarımı",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "GOR.IL.TAS.TYL.SDG2 - Görsel İletişim Tasarımı Tezli Yüksek Lisans Seçmeli Ders Grubu 2",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9247015202025",
    "ad": "Grafık Mızah ve Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2025 Görsel İletişim Tasarımı Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "GOR.IL.TAS.TYL.SDG2 - Görsel İletişim Tasarımı Tezli Yüksek Lisans Seçmeli Ders Grubu 2",
    "tur": "Seçmeli",

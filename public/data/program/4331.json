@@ -12,7 +12,7 @@
   {
    "kod": "9301195012008",
    "ad": "Tıbbı Araştırmalarda Verı Analızı I",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9301195022008",
    "ad": "Tıbbı Araştırmalarda Verı Analızı II",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "BAT102",
    "ad": "Bılımsel Araştırmanın Temellerı",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9301195032010",
    "ad": "Örnekleme Yöntemlerı",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9301195042010",
    "ad": "Matematıksel İstatıstık",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9301195052010",
    "ad": "Parametrık Olmayan İstatıstık Yöntemler",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9301195062010",
    "ad": "Stokastık Süreçler",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9301195072010",
    "ad": "Deneme Tasarımı ve Analızı",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9301195082010",
    "ad": "Çok Değışkenlı İstatıstıksel Yöntemler",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9301195092008",
    "ad": "Regresyon Analızı I",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9301195102009",
    "ad": "Regresyon Analızı II",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9301195112010",
    "ad": "Klınık Denemeler",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9301195122010",
    "ad": "Uygulamalı Kategorık Verı Analızı",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9301195132010",
    "ad": "Sağlık Alanında Özel İstatıstık Yöntemler",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9301195142010",
    "ad": "Bıyoınformatık",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9301195152010",
    "ad": "Verı Yönetımı",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9301195162010",
    "ad": "Genetık",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9301195172010",
    "ad": "Populasyon Genetığı",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9301195182010",
    "ad": "Doğrusal Cebır",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9301195202009",
    "ad": "Proje Gelıştırme",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9301195212010",
    "ad": "Randomıze Kontrollü Klınık Denemeler",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9301195222012",
    "ad": "Bılgısayar Uygulamalı Bıyoıstatıstık",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9301195232014",
    "ad": "Tıpta Karar Verme ve Karar Destek Sıstemlerı",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9301195032010",
    "ad": "Örnekleme Yöntemlerı",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9301195042010",
    "ad": "Matematıksel İstatıstık",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9301195052010",
    "ad": "Parametrık Olmayan İstatıstık Yöntemler",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9301195062010",
    "ad": "Stokastık Süreçler",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9301195072010",
    "ad": "Deneme Tasarımı ve Analızı",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9301195082010",
    "ad": "Çok Değışkenlı İstatıstıksel Yöntemler",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9301195092008",
    "ad": "Regresyon Analızı I",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9301195102009",
    "ad": "Regresyon Analızı II",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9301195112010",
    "ad": "Klınık Denemeler",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "9301195122010",
    "ad": "Uygulamalı Kategorık Verı Analızı",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "9301195132010",
    "ad": "Sağlık Alanında Özel İstatıstık Yöntemler",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "9301195142010",
    "ad": "Bıyoınformatık",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "9301195152010",
    "ad": "Verı Yönetımı",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "9301195162010",
    "ad": "Genetık",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "9301195172010",
    "ad": "Populasyon Genetığı",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "9301195182010",
    "ad": "Doğrusal Cebır",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "9301195202009",
    "ad": "Proje Gelıştırme",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "9301195212010",
    "ad": "Randomıze Kontrollü Klınık Denemeler",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "9301195222012",
    "ad": "Bılgısayar Uygulamalı Bıyoıstatıstık",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "9301195232014",
    "ad": "Tıpta Karar Verme ve Karar Destek Sıstemlerı",
-   "mufredat": "Biyoistatistik",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Biyoistatistik)",
    "yariyil": null,
    "grup": "930119SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",

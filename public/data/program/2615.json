@@ -1,18 +1,18 @@
 {
  "id": "2615",
- "bolumId": "21",
+ "bolumId": "23",
  "yil": "932004",
  "derece": 1,
  "fakulte": "Fen Fakültesi",
  "bolum": "Matematik",
- "tur": "Bilgisayar Bilimleri Ağırlıklı Matematik Lisans",
- "ad": "Matematik — Bilgisayar Bilimleri Ağırlıklı Matematik Lisans",
- "yol": "/DereceProgramlari/Detay/1/21/2615/932004",
+ "tur": "Uygulamalı Matematik Ağırlıklı Matematik Lisans",
+ "ad": "Matematik — Uygulamalı Matematik Ağırlıklı Matematik Lisans",
+ "yol": "/DereceProgramlari/Detay/1/23/2615/932004",
  "dersler": [
   {
    "kod": "ATA101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FEN101",
    "ad": "SCIENTIFIC ENGLISH I",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FİZ109",
    "ad": "FİZİK",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "MAT101",
    "ad": "ANALİTİK GEOMETRİ I",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "MAT103",
    "ad": "MATEMATİĞİN TEMELLERİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "MAT105",
    "ad": "MATEMATİK I",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "MAT107",
    "ad": "SOYUT MATEMATİK I",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "MKP101",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "TUR101",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "ÜYG109",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "ATA102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "FEN102",
    "ad": "SCIENTIFIC ENGLISH II",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "FEN106",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "MAT102",
    "ad": "ANALYTIC GEOMETRY II",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "MAT104",
    "ad": "MATHEMATICS II",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "MAT106",
    "ad": "SOYUT MATEMATİK II",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "TUR102",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "İST211",
    "ad": "INTRODUCTION TO STATISTICS AND PROBABILITY",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "MAT201",
    "ad": "ANALYSIS I",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "MAT203",
    "ad": "BİLGİSAYAR BİLİMLERİ I",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "MAT205",
    "ad": "GENEL TOPOLOJİYE GİRİŞ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "MAT207",
    "ad": "LİNEER CEBİR I",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -334,7 +334,7 @@
   {
    "kod": "MAT202",
    "ad": "ANALİZ II",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "MAT204",
    "ad": "COMPUTER SCIENCES II",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "MAT206",
    "ad": "INTRODUCTION TO DIFFERENTIAL EQUATIONS",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "MAT208",
    "ad": "LİNEER CEBİR II",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -404,7 +404,7 @@
   {
    "kod": "THU202",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "MAT3301",
    "ad": "COMPUTER SCIENCES III",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "MAT3305",
    "ad": "LOJİK TASARIMI I",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "MAT3321",
    "ad": "SAYISAL ANALİZ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "MAT3327",
    "ad": "AYRIK MATEMATİK",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -488,7 +488,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "MAT3302",
    "ad": "BİLGİSAYAR BİLİMLERİ IV",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "MAT3308",
    "ad": "UYGULAMALI MATEMATİKSEL PROGRAMLAMA",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "MAT3326",
    "ad": "KOMPLEKS FONKSİYONLAR TEORİSİNE GİRİŞ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "MAT3328",
    "ad": "SAYILAR KURAMI VE ŞİFRELEME ALGORİTMALARI",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -572,7 +572,7 @@
   {
    "kod": "MAT3403",
    "ad": "NESNE TABANLI PROGRAMLAMA I",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "MAT3405",
    "ad": "PARALEL HESAPLAMA",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "MAT3407",
    "ad": "VERİ YAPILARI",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "MAT3421",
    "ad": "FUNCTIONAL ANALYSIS",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -628,7 +628,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -642,7 +642,7 @@
   {
    "kod": "MAT3404",
    "ad": "GRAF TEORİSİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "MAT3406",
    "ad": "NESNE TABANLI PROGRAMLAMA II",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "MAT3408",
    "ad": "UYGULAMALI HESAPEDİLEBİRLİK TEORİSİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "MAT3426",
    "ad": "BİTİRME TEZİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -698,7 +698,7 @@
   {
    "kod": "MAT3434",
    "ad": "OTOMATA TEORİSİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -712,7 +712,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -726,7 +726,7 @@
   {
    "kod": "PF201",
    "ad": "EĞİTİME GİRİŞ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN-PFSDG-I - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU I (3.YY)",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN-PFSDG-I - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU I (3.YY)",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN-PFSDG-II - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU II (4.YY)",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN-PFSDG-II - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU II (4.YY)",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "MAT210",
    "ad": "COMMUTATIVE ALGEBRA",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "MAT212",
    "ad": "TRANSFORMATIONS IN GEOMETRY",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "MAT214",
    "ad": "RIEMANN-STIELTJES INTEGRAL",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "MAT216",
    "ad": "INTRODUCTION TO FUZZY LOGIC WITH MATLAB",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "MAT218",
    "ad": "INTRODUCTION TO SUMMABILITY THEORY",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "MAT220",
    "ad": "MATHEMATICAL SOFTWARES",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "MAT222",
    "ad": "SET THEORY",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "MAT224",
    "ad": "LATEX PACKAGE",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "MAT226",
    "ad": "BASICS OF FINANCIAL MATHEMATICS",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN-PFSDG-III - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU III (5.YY)",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN-PFSDG-III - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU III (5.YY)",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "MAT3309",
    "ad": "İŞLETİM SİSTEMLERİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.I - MESLEKİ SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "MAT3311",
    "ad": "PROGRAMLAMA TEKNİKLERİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.I - MESLEKİ SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "MAT3313",
    "ad": "VERİ MADENCİLİĞİNDE MATEMATİKSEL YÖNTEMLER",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.I - MESLEKİ SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "MAT3315",
    "ad": "KARAR DESTEK SİSTEMLERİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.I - MESLEKİ SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "MAT3317",
    "ad": "HESAPLAMALI TOPOLOJİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.I - MESLEKİ SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "MAT3319",
    "ad": "BİLGİSAYAR DESTEKLİ GEOMETRİK EĞRİ TASARIMI",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.I - MESLEKİ SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "Bİİ305DSG",
    "ad": "DİN SOSYOLOJİSİNE GİRİŞ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "Bİİ315İDİT",
    "ad": "İLK DÖNEM İSLAM TARİHİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "DTMK305TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ I",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "İİB307IGP",
    "ad": "INTRODUCTION TO GLOBAL POLITICS",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "YEN305GYKA",
    "ad": "GİRİŞİMCİLİKTE YATIRIM KARAR ANALİZLERİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "AST002",
    "ad": "MODERN ASTROFİZİK",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "İST002",
    "ad": "EKONOMETRİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "İST004",
    "ad": "TOPLAM KALİTE KONTROL",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN-PFSDG-IV - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU IV (6.YY)",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "MAT1322",
    "ad": "STAJ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "MAT3310",
    "ad": "LOJİK TASARIMI II",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "MAT3312",
    "ad": "NETWORK VE İNTERNET",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "MAT3314",
    "ad": "KOMBİNATORİK",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "MAT3316",
    "ad": "DOĞRUSAL OLMAYAN PROGRAMLAMA",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "MAT3320",
    "ad": "HESAPLAMALI GEOMETRİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "MAT3322",
    "ad": "BİLGİSAYAR DESTEKLİ GEOMETRİK YÜZEY TASARIMI",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "Bİİ305DS",
    "ad": "DİN VE SANAT",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "Bİİ306DİVKA",
    "ad": "DİNLER VE KADIN",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "ENF305WEB",
    "ad": "WEB TASARIMI",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "FEN305BİYO",
    "ad": "BİYOTEKNOLOJİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "MOD306MLB",
    "ad": "MALZEME BİLGİSİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "YEN306GTOD",
    "ad": "GİRİŞİMCİLİKTE TASARIM ODAKLI DÜŞÜNME",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "AST003",
    "ad": "TEMEL ASTRONOMİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "FİZ328",
    "ad": "BİYOLOJİ VE TIPTA FİZİK",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "FİZ411",
    "ad": "ENERJİ KAYNAKLARI FİZİĞİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "İST001",
    "ad": "İSTATİSTİKSEL GRAFİK YÖNTEMLER",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN-PFSDG-V - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU V (7.YY)",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "MAT3409",
    "ad": "SİSTEM ANALİZİ VE TASARIMI",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.III - MESLEKİ SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "MAT3411",
    "ad": "UYGULAMALI GEOMETRİK TASARIM",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.III - MESLEKİ SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "MAT3413",
    "ad": "BİLGİSAYAR OYUNLARI TASARIMI",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.III - MESLEKİ SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "MAT3415",
    "ad": "ESNEK HESAPLAMA TEKNİKLERİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.III - MESLEKİ SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "MAT3423",
    "ad": "KAYNAK TARAMA TEKNİKLERİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.III - MESLEKİ SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN-PFSDG-VI - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU VI (8.YY)",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "MAT3410",
    "ad": "TAMSAYILI PROGRAMLAMA",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.IV - MESLEKİ SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -1510,7 +1510,7 @@
   {
    "kod": "MAT3412",
    "ad": "YAPAY ZEKA",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.IV - MESLEKİ SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -1524,7 +1524,7 @@
   {
    "kod": "MAT3428",
    "ad": "VERİ TABANI VE DİLLERİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.IV - MESLEKİ SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -1538,7 +1538,7 @@
   {
    "kod": "MAT3430",
    "ad": "VERİ GÜVENLİĞİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.IV - MESLEKİ SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -1552,7 +1552,7 @@
   {
    "kod": "MAT3432",
    "ad": "TOPOLOJİNİN BİLGİSAYARA UYGULAMALARI",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.IV - MESLEKİ SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -1566,7 +1566,7 @@
   {
    "kod": "MAT3420",
    "ad": "KRİPTOLOJİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.V - BİLG.MESLEKİ SEÇMELİ DERSLER V",
    "tur": "Seçmeli",
@@ -1580,7 +1580,7 @@
   {
    "kod": "MAT3422",
    "ad": "UZAKTAN EĞİTİM ARAÇLARI",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.V - BİLG.MESLEKİ SEÇMELİ DERSLER V",
    "tur": "Seçmeli",
@@ -1594,7 +1594,7 @@
   {
    "kod": "MAT3424",
    "ad": "BÜYÜK VERİ ANALİZİ",
-   "mufredat": "Bilgisayar Bilimleri Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Bilgisayar Bilimleri Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.BİLG.MESL.V - BİLG.MESLEKİ SEÇMELİ DERSLER V",
    "tur": "Seçmeli",
@@ -1608,7 +1608,7 @@
   {
    "kod": "ATA101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1622,7 +1622,7 @@
   {
    "kod": "FEN101",
    "ad": "SCIENTIFIC ENGLISH I",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1636,7 +1636,7 @@
   {
    "kod": "FİZ109",
    "ad": "FİZİK",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1650,7 +1650,7 @@
   {
    "kod": "MAT101",
    "ad": "ANALİTİK GEOMETRİ I",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1664,7 +1664,7 @@
   {
    "kod": "MAT103",
    "ad": "MATEMATİĞİN TEMELLERİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1678,7 +1678,7 @@
   {
    "kod": "MAT105",
    "ad": "MATEMATİK I",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1692,7 +1692,7 @@
   {
    "kod": "MAT107",
    "ad": "SOYUT MATEMATİK I",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1706,7 +1706,7 @@
   {
    "kod": "MKP101",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1720,7 +1720,7 @@
   {
    "kod": "TUR101",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1734,7 +1734,7 @@
   {
    "kod": "ÜYG109",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1748,7 +1748,7 @@
   {
    "kod": "ATA102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1762,7 +1762,7 @@
   {
    "kod": "FEN102",
    "ad": "SCIENTIFIC ENGLISH II",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1776,7 +1776,7 @@
   {
    "kod": "FEN106",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1790,7 +1790,7 @@
   {
    "kod": "MAT102",
    "ad": "ANALYTIC GEOMETRY II",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1804,7 +1804,7 @@
   {
    "kod": "MAT104",
    "ad": "MATHEMATICS II",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1818,7 +1818,7 @@
   {
    "kod": "MAT106",
    "ad": "SOYUT MATEMATİK II",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1832,7 +1832,7 @@
   {
    "kod": "TUR102",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1846,7 +1846,7 @@
   {
    "kod": "İST211",
    "ad": "INTRODUCTION TO STATISTICS AND PROBABILITY",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1860,7 +1860,7 @@
   {
    "kod": "MAT201",
    "ad": "ANALYSIS I",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1874,7 +1874,7 @@
   {
    "kod": "MAT203",
    "ad": "BİLGİSAYAR BİLİMLERİ I",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1888,7 +1888,7 @@
   {
    "kod": "MAT205",
    "ad": "GENEL TOPOLOJİYE GİRİŞ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1902,7 +1902,7 @@
   {
    "kod": "MAT207",
    "ad": "LİNEER CEBİR I",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1916,7 +1916,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -1930,7 +1930,7 @@
   {
    "kod": "MAT202",
    "ad": "ANALİZ II",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1944,7 +1944,7 @@
   {
    "kod": "MAT204",
    "ad": "COMPUTER SCIENCES II",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1958,7 +1958,7 @@
   {
    "kod": "MAT206",
    "ad": "INTRODUCTION TO DIFFERENTIAL EQUATIONS",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1972,7 +1972,7 @@
   {
    "kod": "MAT208",
    "ad": "LİNEER CEBİR II",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1986,7 +1986,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -2000,7 +2000,7 @@
   {
    "kod": "THU202",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2014,7 +2014,7 @@
   {
    "kod": "MAT1301",
    "ad": "DİFERANSİYEL GEOMETRİ I",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2028,7 +2028,7 @@
   {
    "kod": "MAT1303",
    "ad": "GENEL TOPOLOJİ I",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2042,7 +2042,7 @@
   {
    "kod": "MAT1305",
    "ad": "INTRODUCTION TO NUMBER THEORY",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2056,7 +2056,7 @@
   {
    "kod": "MAT1307",
    "ad": "KOMPLEKS FONKSİYONLAR TEORİSİ I",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2070,7 +2070,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -2084,7 +2084,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2098,7 +2098,7 @@
   {
    "kod": "MAT1302",
    "ad": "DİFERANSİYEL GEOMETRİ II",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2112,7 +2112,7 @@
   {
    "kod": "MAT1304",
    "ad": "KOMPLEKS FONKSİYONLARI TEORİSİ II",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2126,7 +2126,7 @@
   {
    "kod": "MAT1306",
    "ad": "GENERAL TOPOLOGY II",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2140,7 +2140,7 @@
   {
    "kod": "MAT1308",
    "ad": "SOYUT CEBİR",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2154,7 +2154,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -2168,7 +2168,7 @@
   {
    "kod": "MAT1401",
    "ad": "CEBİRSEL TOPOLOJİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2182,7 +2182,7 @@
   {
    "kod": "MAT1403",
    "ad": "İLERİ CEBİR I",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2196,7 +2196,7 @@
   {
    "kod": "MAT1405",
    "ad": "MATEMATİK LOJİK",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2210,7 +2210,7 @@
   {
    "kod": "MAT1429",
    "ad": "FONKSİYONEL ANALİZ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2224,7 +2224,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -2238,7 +2238,7 @@
   {
    "kod": "MAT1402",
    "ad": "FOURIER VE LAPLACE DÖNÜŞÜMLERİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2252,7 +2252,7 @@
   {
    "kod": "MAT1404",
    "ad": "GEOMETRİK TOPOLOJİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2266,7 +2266,7 @@
   {
    "kod": "MAT1406",
    "ad": "HAREKET GEOMETRİSİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2280,7 +2280,7 @@
   {
    "kod": "MAT1408",
    "ad": "İLERİ CEBİR II",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2294,7 +2294,7 @@
   {
    "kod": "MAT1442",
    "ad": "BİTİRME TEZİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2308,7 +2308,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -2322,7 +2322,7 @@
   {
    "kod": "PF201",
    "ad": "EĞİTİME GİRİŞ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "FEN-PFSDG-I - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU I (3.YY)",
    "tur": "Seçmeli",
@@ -2336,7 +2336,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "FEN-PFSDG-I - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU I (3.YY)",
    "tur": "Seçmeli",
@@ -2350,7 +2350,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "FEN-PFSDG-II - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU II (4.YY)",
    "tur": "Seçmeli",
@@ -2364,7 +2364,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "FEN-PFSDG-II - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU II (4.YY)",
    "tur": "Seçmeli",
@@ -2378,7 +2378,7 @@
   {
    "kod": "MAT210",
    "ad": "COMMUTATIVE ALGEBRA",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -2392,7 +2392,7 @@
   {
    "kod": "MAT212",
    "ad": "TRANSFORMATIONS IN GEOMETRY",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -2406,7 +2406,7 @@
   {
    "kod": "MAT214",
    "ad": "RIEMANN-STIELTJES INTEGRAL",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -2420,7 +2420,7 @@
   {
    "kod": "MAT216",
    "ad": "INTRODUCTION TO FUZZY LOGIC WITH MATLAB",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -2434,7 +2434,7 @@
   {
    "kod": "MAT218",
    "ad": "INTRODUCTION TO SUMMABILITY THEORY",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -2448,7 +2448,7 @@
   {
    "kod": "MAT220",
    "ad": "MATHEMATICAL SOFTWARES",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -2462,7 +2462,7 @@
   {
    "kod": "MAT222",
    "ad": "SET THEORY",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -2476,7 +2476,7 @@
   {
    "kod": "MAT224",
    "ad": "LATEX PACKAGE",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -2490,7 +2490,7 @@
   {
    "kod": "MAT226",
    "ad": "BASICS OF FINANCIAL MATHEMATICS",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -2504,7 +2504,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "FEN-PFSDG-III - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU III (5.YY)",
    "tur": "Seçmeli",
@@ -2518,7 +2518,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "FEN-PFSDG-III - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU III (5.YY)",
    "tur": "Seçmeli",
@@ -2532,7 +2532,7 @@
   {
    "kod": "MAT1309",
    "ad": "GRUP TEORİSİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.I - MESLEKİ SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -2546,7 +2546,7 @@
   {
    "kod": "MAT1311",
    "ad": "DÖNÜŞÜMLER VE GEOMETRİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.I - MESLEKİ SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -2560,7 +2560,7 @@
   {
    "kod": "MAT1313",
    "ad": "ANALİZDE KARŞIT ÖRNEKLER",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.I - MESLEKİ SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -2574,7 +2574,7 @@
   {
    "kod": "MAT1315",
    "ad": "DİFERANSİYEL TOPOLOJİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.I - MESLEKİ SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -2588,7 +2588,7 @@
   {
    "kod": "MAT1317",
    "ad": "TOPOLOJİK VEKTÖR UZAYLAR",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.I - MESLEKİ SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -2602,7 +2602,7 @@
   {
    "kod": "MAT1319",
    "ad": "KÜMELER TEORİSİNE GİRİŞ I",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.I - MESLEKİ SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -2616,7 +2616,7 @@
   {
    "kod": "MAT1321",
    "ad": "TEMEL DISCRETE MATEMATİK",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.I - MESLEKİ SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -2630,7 +2630,7 @@
   {
    "kod": "MAT1323",
    "ad": "TEMEL SAYISAL ANALİZ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.I - MESLEKİ SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -2644,7 +2644,7 @@
   {
    "kod": "MAT1325",
    "ad": "GEOMETRİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.I - MESLEKİ SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -2658,7 +2658,7 @@
   {
    "kod": "Bİİ305DSG",
    "ad": "DİN SOSYOLOJİSİNE GİRİŞ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2672,7 +2672,7 @@
   {
    "kod": "Bİİ315İDİT",
    "ad": "İLK DÖNEM İSLAM TARİHİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2686,7 +2686,7 @@
   {
    "kod": "DTMK305TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ I",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2700,7 +2700,7 @@
   {
    "kod": "EĞT305BUMFE",
    "ad": "BASİT VE UCUZ MALZEMELERLE FEN ETKİNLİKLERİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2714,7 +2714,7 @@
   {
    "kod": "EĞT305DE",
    "ad": "DÜNYA EDEBİYATI",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2728,7 +2728,7 @@
   {
    "kod": "EĞT305TYÖ",
    "ad": "TERS YÜZ ÖĞRENME",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2742,7 +2742,7 @@
   {
    "kod": "FEN305MAHY",
    "ad": "MATEMATİK HER YERDE",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2756,7 +2756,7 @@
   {
    "kod": "GZL224TEKNO",
    "ad": "TEKNOKÜLTÜR VE SANAL DÜNYALAR",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2770,7 +2770,7 @@
   {
    "kod": "İİB307IGP",
    "ad": "INTRODUCTION TO GLOBAL POLITICS",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2784,7 +2784,7 @@
   {
    "kod": "İLE307DZY",
    "ad": "DUYGUSAL ZEKA YÖNETİMİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2798,7 +2798,7 @@
   {
    "kod": "MÜH313PİPG",
    "ad": "PYTHON İLE PROGRAMLAMAYA GİRİŞ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2812,7 +2812,7 @@
   {
    "kod": "YEN305GYKA",
    "ad": "GİRİŞİMCİLİKTE YATIRIM KARAR ANALİZLERİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2826,7 +2826,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "FEN-PFSDG-IV - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU IV (6.YY)",
    "tur": "Seçmeli",
@@ -2840,7 +2840,7 @@
   {
    "kod": "MAT1310",
    "ad": "LİNEER CEBİR III",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -2854,7 +2854,7 @@
   {
    "kod": "MAT1312",
    "ad": "ÖKLİD DIŞI GEOMETRİLER",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -2868,7 +2868,7 @@
   {
    "kod": "MAT1314",
    "ad": "ZAMAN SKALASINDA ANALİZE GİRİŞ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -2882,7 +2882,7 @@
   {
    "kod": "MAT1316",
    "ad": "DİJİTAL TOPOLOJİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -2896,7 +2896,7 @@
   {
    "kod": "MAT1318",
    "ad": "METRİK VE TOPOLOJİK UZAYLAR",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -2910,7 +2910,7 @@
   {
    "kod": "MAT1320",
    "ad": "SIRALI YAPILAR VE KAFESLER",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -2924,7 +2924,7 @@
   {
    "kod": "MAT1322",
    "ad": "STAJ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -2938,7 +2938,7 @@
   {
    "kod": "MAT1324",
    "ad": "PROJEKTİF GEOMETRİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -2952,7 +2952,7 @@
   {
    "kod": "Bİİ305DS",
    "ad": "DİN VE SANAT",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2966,7 +2966,7 @@
   {
    "kod": "Bİİ306DİVKA",
    "ad": "DİNLER VE KADIN",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2980,7 +2980,7 @@
   {
    "kod": "ENF305WEB",
    "ad": "WEB TASARIMI",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2994,7 +2994,7 @@
   {
    "kod": "FEN305BİYO",
    "ad": "BİYOTEKNOLOJİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3008,7 +3008,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3022,7 +3022,7 @@
   {
    "kod": "MOD306MLB",
    "ad": "MALZEME BİLGİSİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3036,7 +3036,7 @@
   {
    "kod": "YEN306GTOD",
    "ad": "GİRİŞİMCİLİKTE TASARIM ODAKLI DÜŞÜNME",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3050,7 +3050,7 @@
   {
    "kod": "AST003",
    "ad": "TEMEL ASTRONOMİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -3064,7 +3064,7 @@
   {
    "kod": "FİZ328",
    "ad": "BİYOLOJİ VE TIPTA FİZİK",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -3078,7 +3078,7 @@
   {
    "kod": "FİZ411",
    "ad": "ENERJİ KAYNAKLARI FİZİĞİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -3092,7 +3092,7 @@
   {
    "kod": "İST001",
    "ad": "İSTATİSTİKSEL GRAFİK YÖNTEMLER",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -3106,7 +3106,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "FEN-PFSDG-V - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU V (7.YY)",
    "tur": "Seçmeli",
@@ -3120,7 +3120,7 @@
   {
    "kod": "MAT1409",
    "ad": "HALKALAR TEORİSİNE GİRİŞ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.III - MESLEKİ SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -3134,7 +3134,7 @@
   {
    "kod": "MAT1411",
    "ad": "GRUP GÖSTERİLİMİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.III - MESLEKİ SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -3148,7 +3148,7 @@
   {
    "kod": "MAT1413",
    "ad": "MATEMATİK TARİHİ I",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.III - MESLEKİ SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -3162,7 +3162,7 @@
   {
    "kod": "MAT1415",
    "ad": "ÖLÇÜM TEORİSİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.III - MESLEKİ SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -3176,7 +3176,7 @@
   {
    "kod": "MAT1417",
    "ad": "KOMBİNATORİK TOPOLOJİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.III - MESLEKİ SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -3190,7 +3190,7 @@
   {
    "kod": "MAT1419",
    "ad": "KÜMELER TEORİSİNE GİRİŞ II",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.III - MESLEKİ SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -3204,7 +3204,7 @@
   {
    "kod": "MAT1423",
    "ad": "FRAKTAL GEOMETRİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.III - MESLEKİ SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -3218,7 +3218,7 @@
   {
    "kod": "MAT1425",
    "ad": "KAYNAK TARAMA TEKNİKLERİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.III - MESLEKİ SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -3232,13 +3232,13 @@
   {
    "kod": "MAT1427",
    "ad": "KATEGORİ TEORİSİNE GİRİŞ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.III - MESLEKİ SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
    "dil": "Türkçe",
-   "teori": null,
-   "uygulama": 3,
+   "teori": 3,
+   "uygulama": null,
    "laboratuvar": null,
    "akts": 7,
    "detayYolu": "/DereceProgramlari/Ders/1/2615/290988/731415/1"
@@ -3246,7 +3246,7 @@
   {
    "kod": "AST002",
    "ad": "MODERN ASTROFİZİK",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -3260,7 +3260,7 @@
   {
    "kod": "İST002",
    "ad": "EKONOMETRİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -3274,7 +3274,7 @@
   {
    "kod": "İST004",
    "ad": "TOPLAM KALİTE KONTROL",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -3288,7 +3288,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "FEN-PFSDG-VI - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU VI (8.YY)",
    "tur": "Seçmeli",
@@ -3302,7 +3302,7 @@
   {
    "kod": "MAT1410",
    "ad": "HALKALAR VE MODÜLLER",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.IV - MESLEKİ SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -3316,7 +3316,7 @@
   {
    "kod": "MAT1414",
    "ad": "MATEMATİK TARİHİ II",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.IV - MESLEKİ SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -3330,7 +3330,7 @@
   {
    "kod": "MAT1418",
    "ad": "FUZZY TOPOLOJİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.IV - MESLEKİ SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -3344,7 +3344,7 @@
   {
    "kod": "MAT1436",
    "ad": "BULANIK MANTIK",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.IV - MESLEKİ SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -3358,7 +3358,7 @@
   {
    "kod": "MAT1444",
    "ad": "İLERİ FONKSİYONEL ANALİZ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.IV - MESLEKİ SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -3372,7 +3372,7 @@
   {
    "kod": "MAT1424",
    "ad": "EVRENSEL CEBİRE GİRİŞ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.V - TEO.MESLEKİ SEÇMELİ DERSLER V",
    "tur": "Seçmeli",
@@ -3386,7 +3386,7 @@
   {
    "kod": "MAT1426",
    "ad": "SAYILAR TEORİSİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.V - TEO.MESLEKİ SEÇMELİ DERSLER V",
    "tur": "Seçmeli",
@@ -3400,7 +3400,7 @@
   {
    "kod": "MAT1428",
    "ad": "CLİFFORD GEOMETİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.V - TEO.MESLEKİ SEÇMELİ DERSLER V",
    "tur": "Seçmeli",
@@ -3414,7 +3414,7 @@
   {
    "kod": "MAT1430",
    "ad": "ÇOK DEĞERLİ LOJİK",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.V - TEO.MESLEKİ SEÇMELİ DERSLER V",
    "tur": "Seçmeli",
@@ -3428,7 +3428,7 @@
   {
    "kod": "MAT1432",
    "ad": "VEKTÖREL ANALİZ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.V - TEO.MESLEKİ SEÇMELİ DERSLER V",
    "tur": "Seçmeli",
@@ -3442,7 +3442,7 @@
   {
    "kod": "MAT1438",
    "ad": "KABA KÜMELER TEORİSİ VE TOPOLOJİSİ",
-   "mufredat": "Teorik Matematik Ağırlıklı Mat",
+   "mufredat": "2014 Yılı Müfredatı (Teorik Matematik Ağırlıklı Mat)",
    "yariyil": null,
    "grup": "MAT.TEO.MESL.V - TEO.MESLEKİ SEÇMELİ DERSLER V",
    "tur": "Seçmeli",
@@ -3456,7 +3456,7 @@
   {
    "kod": "ATA101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3470,7 +3470,7 @@
   {
    "kod": "FEN101",
    "ad": "SCIENTIFIC ENGLISH I",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3484,7 +3484,7 @@
   {
    "kod": "FİZ109",
    "ad": "FİZİK",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3498,7 +3498,7 @@
   {
    "kod": "MAT101",
    "ad": "ANALİTİK GEOMETRİ I",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3512,7 +3512,7 @@
   {
    "kod": "MAT103",
    "ad": "MATEMATİĞİN TEMELLERİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3526,7 +3526,7 @@
   {
    "kod": "MAT105",
    "ad": "MATEMATİK I",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3540,7 +3540,7 @@
   {
    "kod": "MAT107",
    "ad": "SOYUT MATEMATİK I",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3554,7 +3554,7 @@
   {
    "kod": "MKP101",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3568,7 +3568,7 @@
   {
    "kod": "TUR101",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3582,7 +3582,7 @@
   {
    "kod": "ÜYG109",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -3596,7 +3596,7 @@
   {
    "kod": "ATA102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3610,7 +3610,7 @@
   {
    "kod": "FEN102",
    "ad": "SCIENTIFIC ENGLISH II",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3624,7 +3624,7 @@
   {
    "kod": "FEN106",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3638,7 +3638,7 @@
   {
    "kod": "MAT102",
    "ad": "ANALYTIC GEOMETRY II",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3652,7 +3652,7 @@
   {
    "kod": "MAT104",
    "ad": "MATHEMATICS II",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3666,7 +3666,7 @@
   {
    "kod": "MAT106",
    "ad": "SOYUT MATEMATİK II",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3680,7 +3680,7 @@
   {
    "kod": "TUR102",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3694,7 +3694,7 @@
   {
    "kod": "İST211",
    "ad": "INTRODUCTION TO STATISTICS AND PROBABILITY",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3708,7 +3708,7 @@
   {
    "kod": "MAT201",
    "ad": "ANALYSIS I",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3722,7 +3722,7 @@
   {
    "kod": "MAT203",
    "ad": "BİLGİSAYAR BİLİMLERİ I",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3736,7 +3736,7 @@
   {
    "kod": "MAT205",
    "ad": "GENEL TOPOLOJİYE GİRİŞ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3750,7 +3750,7 @@
   {
    "kod": "MAT207",
    "ad": "LİNEER CEBİR I",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3764,7 +3764,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -3778,7 +3778,7 @@
   {
    "kod": "MAT202",
    "ad": "ANALİZ II",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3792,7 +3792,7 @@
   {
    "kod": "MAT204",
    "ad": "COMPUTER SCIENCES II",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3806,7 +3806,7 @@
   {
    "kod": "MAT206",
    "ad": "INTRODUCTION TO DIFFERENTIAL EQUATIONS",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3820,7 +3820,7 @@
   {
    "kod": "MAT208",
    "ad": "LİNEER CEBİR II",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3834,7 +3834,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -3848,7 +3848,7 @@
   {
    "kod": "THU202",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3862,7 +3862,7 @@
   {
    "kod": "MAT2301",
    "ad": "DİFERANSİYEL GEOMETRİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3876,7 +3876,7 @@
   {
    "kod": "MAT2303",
    "ad": "DIFFERENTIAL EQUATIONS",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3890,7 +3890,7 @@
   {
    "kod": "MAT2305",
    "ad": "NUMERICAL ANALYSIS I",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3904,7 +3904,7 @@
   {
    "kod": "MAT2307",
    "ad": "KOMPLEKS FONKSİYONLAR TEORİSİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3918,7 +3918,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -3932,7 +3932,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3946,7 +3946,7 @@
   {
    "kod": "MAT2302",
    "ad": "FONKSİYONEL ANALİZE GİRİŞ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3960,7 +3960,7 @@
   {
    "kod": "MAT2304",
    "ad": "KISMİ TÜREVLİ DİFERANSİYEL DENKLEMLER",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3974,7 +3974,7 @@
   {
    "kod": "MAT2308",
    "ad": "NUMERICAL ANALYSIS II",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3988,7 +3988,7 @@
   {
    "kod": "MAT2320",
    "ad": "TEMEL SAYILAR TEORİSİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -4002,7 +4002,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -4016,7 +4016,7 @@
   {
    "kod": "MAT2401",
    "ad": "FARK DENKLEMLERİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -4030,7 +4030,7 @@
   {
    "kod": "MAT2403",
    "ad": "DİFERANSİYEL DENKLEMLER VE MATEMATİKSEL MODELLEMESİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -4044,7 +4044,7 @@
   {
    "kod": "MAT2405",
    "ad": "OPTİMİZASYON UYGULAMALARI",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -4058,7 +4058,7 @@
   {
    "kod": "MAT2407",
    "ad": "ÖZEL FONKSİYONLAR",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -4072,7 +4072,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -4086,7 +4086,7 @@
   {
    "kod": "MAT2402",
    "ad": "REKÜRSİF FONKSİYONLAR",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -4100,7 +4100,7 @@
   {
    "kod": "MAT2404",
    "ad": "SONLU ELEMANLAR",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -4114,7 +4114,7 @@
   {
    "kod": "MAT2406",
    "ad": "UYGULAMALI MATEMATİK",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -4128,7 +4128,7 @@
   {
    "kod": "MAT2422",
    "ad": "BİTİRME TEZİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -4142,7 +4142,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -4156,7 +4156,7 @@
   {
    "kod": "PF201",
    "ad": "EĞİTİME GİRİŞ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN-PFSDG-I - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU I (3.YY)",
    "tur": "Seçmeli",
@@ -4170,7 +4170,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN-PFSDG-I - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU I (3.YY)",
    "tur": "Seçmeli",
@@ -4184,7 +4184,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN-PFSDG-II - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU II (4.YY)",
    "tur": "Seçmeli",
@@ -4198,7 +4198,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN-PFSDG-II - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU II (4.YY)",
    "tur": "Seçmeli",
@@ -4212,7 +4212,7 @@
   {
    "kod": "MAT210",
    "ad": "COMMUTATIVE ALGEBRA",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -4226,7 +4226,7 @@
   {
    "kod": "MAT212",
    "ad": "TRANSFORMATIONS IN GEOMETRY",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -4240,7 +4240,7 @@
   {
    "kod": "MAT214",
    "ad": "RIEMANN-STIELTJES INTEGRAL",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -4254,7 +4254,7 @@
   {
    "kod": "MAT216",
    "ad": "INTRODUCTION TO FUZZY LOGIC WITH MATLAB",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -4268,7 +4268,7 @@
   {
    "kod": "MAT218",
    "ad": "INTRODUCTION TO SUMMABILITY THEORY",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -4282,7 +4282,7 @@
   {
    "kod": "MAT220",
    "ad": "MATHEMATICAL SOFTWARES",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -4296,7 +4296,7 @@
   {
    "kod": "MAT222",
    "ad": "SET THEORY",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -4310,7 +4310,7 @@
   {
    "kod": "MAT224",
    "ad": "LATEX PACKAGE",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -4324,7 +4324,7 @@
   {
    "kod": "MAT226",
    "ad": "BASICS OF FINANCIAL MATHEMATICS",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "İNG.MES.SEÇ.DERS - İNGİLİZCE MESLEKİ SEÇMELİ DERS HAVUZU",
    "tur": "Seçmeli",
@@ -4338,7 +4338,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN-PFSDG-III - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU III (5.YY)",
    "tur": "Seçmeli",
@@ -4352,7 +4352,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN-PFSDG-III - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU III (5.YY)",
    "tur": "Seçmeli",
@@ -4366,7 +4366,7 @@
   {
    "kod": "MAT2309",
    "ad": "KONTROL TEORİSİNE GİRİŞ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.I - MESLEKİ SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4380,7 +4380,7 @@
   {
    "kod": "MAT2311",
    "ad": "ANAHTAR TEORİSİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.I - MESLEKİ SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4394,7 +4394,7 @@
   {
    "kod": "MAT2315",
    "ad": "BİLGİSAYAR DESTEKLİ GEOMETRİK EĞRİ TASARIMINA GİRİŞ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.I - MESLEKİ SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4408,7 +4408,7 @@
   {
    "kod": "MAT2319",
    "ad": "TOPOLOJİNİN UYGULAMALARI",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.I - MESLEKİ SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4422,7 +4422,7 @@
   {
    "kod": "Bİİ305DSG",
    "ad": "DİN SOSYOLOJİSİNE GİRİŞ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -4436,7 +4436,7 @@
   {
    "kod": "DTMK305TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ I",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -4450,7 +4450,7 @@
   {
    "kod": "İİB307IGP",
    "ad": "INTRODUCTION TO GLOBAL POLITICS",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -4464,7 +4464,7 @@
   {
    "kod": "YEN305GYKA",
    "ad": "GİRİŞİMCİLİKTE YATIRIM KARAR ANALİZLERİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -4478,7 +4478,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN-PFSDG-IV - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU IV (6.YY)",
    "tur": "Seçmeli",
@@ -4492,7 +4492,7 @@
   {
    "kod": "MAT1320",
    "ad": "SIRALI YAPILAR VE KAFESLER",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -4506,7 +4506,7 @@
   {
    "kod": "MAT1322",
    "ad": "STAJ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -4520,7 +4520,7 @@
   {
    "kod": "MAT2312",
    "ad": "LİNEER OLMAYAN DİFERANSİYEL DENKLEMLER",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -4534,7 +4534,7 @@
   {
    "kod": "MAT2314",
    "ad": "DOĞRUSAL OLMAYAN PROGRAMLAMAYA GİRİŞ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -4548,7 +4548,7 @@
   {
    "kod": "MAT2316",
    "ad": "BİLGİSAYAR DESTEKLİ GEOMETRİK YÜZEY TASARIMI",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -4562,7 +4562,7 @@
   {
    "kod": "MAT2318",
    "ad": "AYRIK OPTİMİZASYON",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.SEÇ.II - MESLEKİ SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -4576,7 +4576,7 @@
   {
    "kod": "Bİİ305DS",
    "ad": "DİN VE SANAT",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -4590,7 +4590,7 @@
   {
    "kod": "Bİİ306DİVKA",
    "ad": "DİNLER VE KADIN",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -4604,7 +4604,7 @@
   {
    "kod": "ENF305WEB",
    "ad": "WEB TASARIMI",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -4618,7 +4618,7 @@
   {
    "kod": "FEN305BİYO",
    "ad": "BİYOTEKNOLOJİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -4632,7 +4632,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -4646,7 +4646,7 @@
   {
    "kod": "MOD306MLB",
    "ad": "MALZEME BİLGİSİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -4660,7 +4660,7 @@
   {
    "kod": "YEN306GTOD",
    "ad": "GİRİŞİMCİLİKTE TASARIM ODAKLI DÜŞÜNME",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -4674,7 +4674,7 @@
   {
    "kod": "AST003",
    "ad": "TEMEL ASTRONOMİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4688,7 +4688,7 @@
   {
    "kod": "FİZ328",
    "ad": "BİYOLOJİ VE TIPTA FİZİK",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4702,7 +4702,7 @@
   {
    "kod": "FİZ411",
    "ad": "ENERJİ KAYNAKLARI FİZİĞİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4716,7 +4716,7 @@
   {
    "kod": "İST001",
    "ad": "İSTATİSTİKSEL GRAFİK YÖNTEMLER",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -4730,7 +4730,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN-PFSDG-V - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU V (7.YY)",
    "tur": "Seçmeli",
@@ -4744,7 +4744,7 @@
   {
    "kod": "MAT2323",
    "ad": "MATEMATİK TARİHİNE GİRİŞ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.III - MESLEKİ SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -4758,7 +4758,7 @@
   {
    "kod": "MAT2409",
    "ad": "İNTEGRAL DENKLEMLER",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.III - MESLEKİ SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -4772,7 +4772,7 @@
   {
    "kod": "MAT2411",
    "ad": "MATLAB İLE PROGRAMLAMA",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.III - MESLEKİ SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -4786,7 +4786,7 @@
   {
    "kod": "MAT2413",
    "ad": "OYUN TEORİSİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.III - MESLEKİ SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -4800,7 +4800,7 @@
   {
    "kod": "MAT2415",
    "ad": "ÖLÇÜM TEORİSİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.III - MESLEKİ SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -4814,7 +4814,7 @@
   {
    "kod": "MAT2419",
    "ad": "KAYNAK TARAMA TEKNİKLERİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.III - MESLEKİ SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -4828,7 +4828,7 @@
   {
    "kod": "AST002",
    "ad": "MODERN ASTROFİZİK",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4842,7 +4842,7 @@
   {
    "kod": "İST002",
    "ad": "EKONOMETRİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4856,7 +4856,7 @@
   {
    "kod": "İST004",
    "ad": "TOPLAM KALİTE KONTROL",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -4870,7 +4870,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "FEN-PFSDG-VI - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU VI (8.YY)",
    "tur": "Seçmeli",
@@ -4884,7 +4884,7 @@
   {
    "kod": "MAT1414",
    "ad": "MATEMATİK TARİHİ II",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.IV - MESLEKİ SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -4898,7 +4898,7 @@
   {
    "kod": "MAT2321",
    "ad": "KESİRLİ ANALİZE GİRİŞ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.IV - MESLEKİ SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -4912,7 +4912,7 @@
   {
    "kod": "MAT2322",
    "ad": "UYGULAMALI FONKSİYONEL ANALİZ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.IV - MESLEKİ SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -4926,7 +4926,7 @@
   {
    "kod": "MAT2410",
    "ad": "CHEBYSHEV POLİNOMLARI",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.IV - MESLEKİ SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -4940,7 +4940,7 @@
   {
    "kod": "MAT2424",
    "ad": "UYGULAMALI BİLİMLERDE FUZZY LOJİĞİ",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.IV - MESLEKİ SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -4954,7 +4954,7 @@
   {
    "kod": "MAT3410",
    "ad": "TAMSAYILI PROGRAMLAMA",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.IV - MESLEKİ SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -4968,7 +4968,7 @@
   {
    "kod": "MAT2324",
    "ad": "KESİRLİ DİFERANSİYEL DENKLEMLER VE UYGULAMALARI",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.V - UYG.MESLEKİ SEÇMELİ DERSLER V",
    "tur": "Seçmeli",
@@ -4982,7 +4982,7 @@
   {
    "kod": "MAT2416",
    "ad": "FİNANSAL MATEMATİK",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.V - UYG.MESLEKİ SEÇMELİ DERSLER V",
    "tur": "Seçmeli",
@@ -4996,7 +4996,7 @@
   {
    "kod": "MAT2418",
    "ad": "DİFERANSİYEL DENKLEMLER VE MATEMATİKSEL MODELLEMESİ II",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.V - UYG.MESLEKİ SEÇMELİ DERSLER V",
    "tur": "Seçmeli",
@@ -5010,7 +5010,7 @@
   {
    "kod": "MAT2420",
    "ad": "ÇOK DEĞERLİ LOJİK",
-   "mufredat": "Uygulamalı Matematik Ağırlıklı",
+   "mufredat": "2014 Yılı Müfredatı (Uygulamalı Matematik Ağırlıklı)",
    "yariyil": null,
    "grup": "MAT.UYGU.MESL.V - UYG.MESLEKİ SEÇMELİ DERSLER V",
    "tur": "Seçmeli",

@@ -12,7 +12,7 @@
   {
    "kod": "1962001012009",
    "ad": "TÜRK DİLİ-I",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "1962001022009",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ-I",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "1962001032009",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "1962001052009",
    "ad": "MATEMATİK-I",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "1962001072010",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "1962001092010",
    "ad": "TEKNOLOJİNİN BİLİMSEL İLKELERİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "1962001112009",
    "ad": "KİMYASAL ANALİZ TEKNİKLERİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "1962001152009",
    "ad": "GENEL KİMYA-I",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "1962001192009",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM-I (EDÖ)",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "1962001232011",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "1962001252020",
    "ad": "KİMYASAL TEKNOLOJİLER",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "1962001272020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "11916201T11122",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "1962000922009",
    "ad": "TÜRK DİLİ-II",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "1962000942009",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ-II",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "1962000962009",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "1962001042009",
    "ad": "İNORGANİK KİMYA",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "1962001082009",
    "ad": "MATEMATİK-II",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "1962001122009",
    "ad": "ANALİTİK KİMYA",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "1962001142009",
    "ad": "FİZİKOKİMYA",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "1962001162009",
    "ad": "GENEL KİMYA-II",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "1962001182009",
    "ad": "KİMYASAL PROSES İLKELERİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "1962001192009",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM-I (EDÖ)",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "1962002012009",
    "ad": "TEMEL ENSTRÜMANTASYON",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "1962002032012",
    "ad": "İŞLETME EKİPMANI VE KULLANIMI",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "1962002052009",
    "ad": "AKIŞKANLAR MEKANİĞİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "1962002072009",
    "ad": "ISI AKTARIM İŞLEMLERİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "1962002112009",
    "ad": "ORGANİK KİMYA",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "1962002132009",
    "ad": "MESLEKİ İNGİLİZCE",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "1962002152009",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM-II (E.D.Ö.)",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "1962002022012",
    "ad": "PROSES VE TESİS KONT.",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "1962002062009",
    "ad": "KALİTE YÖNETİM SİSTEMLERİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "1962002082009",
    "ad": "ATIK GİDERME",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "1962002102023",
    "ad": "KÜTLE AKTARIM İŞLEMLERİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "1962002142009",
    "ad": "ÇEVRE TEKNOLOJİLERİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "1962002152009",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM-II (E.D.Ö.)",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "1962002182023",
    "ad": "SİSTEM ANALİZİ VE TASARIMI",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "1962002202009",
    "ad": "ENSTRÜMANTAL ANALİZ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "1962002222012",
    "ad": "KİMYASAL TEKNOLOJİ UYGULAMALARI",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "1962002322017",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -572,7 +572,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "1962002092015",
    "ad": "SU VE ENDÜSTRİDE KULLANIMI",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": null,
    "grup": "SGEMYO-19-62-0 - SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "1962002172015",
    "ad": "TEMEL BOYA BİLGİLERİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": null,
    "grup": "SGEMYO-19-62-0 - SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "1962002162014",
    "ad": "BİYOKİMYA TEKNOLOJİLERİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": null,
    "grup": "SGEMYO-19-62-1 - SEÇMELİ DERS GRUBU 1",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "1962002302015",
    "ad": "BOYA ÜRETİM TEKNOLOJİSİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2020 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": null,
    "grup": "SGEMYO-19-62-1 - SEÇMELİ DERS GRUBU 1",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "1962001012009",
    "ad": "TÜRK DİLİ-I",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "1962001022009",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ-I",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "1962001032009",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "1962001112025",
    "ad": "KİMYASAL ANALİZ TEKNİKLERİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -698,7 +698,7 @@
   {
    "kod": "1962001152025",
    "ad": "GENEL KİMYA-I",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -712,7 +712,7 @@
   {
    "kod": "1962001192009",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM-I (EDÖ)",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -726,7 +726,7 @@
   {
    "kod": "1962001232011",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -740,7 +740,7 @@
   {
    "kod": "1962001252020",
    "ad": "KİMYASAL TEKNOLOJİLER",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -754,7 +754,7 @@
   {
    "kod": "1962001272020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "1962001292025",
    "ad": "GENEL MATEMATİK",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -782,7 +782,7 @@
   {
    "kod": "11916201T11122",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -796,7 +796,7 @@
   {
    "kod": "1962000922009",
    "ad": "TÜRK DİLİ-II",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -810,7 +810,7 @@
   {
    "kod": "1962000942009",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ-II",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -824,7 +824,7 @@
   {
    "kod": "1962000962009",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -838,7 +838,7 @@
   {
    "kod": "1962001162025",
    "ad": "GENEL KİMYA-II",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -852,7 +852,7 @@
   {
    "kod": "1962001182009",
    "ad": "KİMYASAL PROSES İLKELERİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -866,7 +866,7 @@
   {
    "kod": "1962001192009",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM-I (EDÖ)",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -880,7 +880,7 @@
   {
    "kod": "1962001282025",
    "ad": "MESLEKİ MATEMATİK",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -894,7 +894,7 @@
   {
    "kod": "1962001302025",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -908,7 +908,7 @@
   {
    "kod": "1962001322025",
    "ad": "FİZİK",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -922,7 +922,7 @@
   {
    "kod": "1962002012009",
    "ad": "TEMEL ENSTRÜMANTASYON",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -936,7 +936,7 @@
   {
    "kod": "1962002032012",
    "ad": "İŞLETME EKİPMANI VE KULLANIMI",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -950,7 +950,7 @@
   {
    "kod": "1962002052009",
    "ad": "AKIŞKANLAR MEKANİĞİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -964,7 +964,7 @@
   {
    "kod": "1962002072009",
    "ad": "ISI AKTARIM İŞLEMLERİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -978,7 +978,7 @@
   {
    "kod": "1962002132009",
    "ad": "MESLEKİ İNGİLİZCE",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -992,7 +992,7 @@
   {
    "kod": "1962002152009",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM-II (E.D.Ö.)",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1006,7 +1006,7 @@
   {
    "kod": "1962002802025",
    "ad": "KALİTE YÖNETİM SİSTEMLERİ VE STANDARTLARI",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1020,7 +1020,7 @@
   {
    "kod": "1962002812025",
    "ad": "ORGANİK KİMYA",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1034,7 +1034,7 @@
   {
    "kod": "1962002022012",
    "ad": "PROSES VE TESİS KONT.",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1048,7 +1048,7 @@
   {
    "kod": "1962002082009",
    "ad": "ATIK GİDERME",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1062,7 +1062,7 @@
   {
    "kod": "1962002102023",
    "ad": "KÜTLE AKTARIM İŞLEMLERİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1076,7 +1076,7 @@
   {
    "kod": "1962002142009",
    "ad": "ÇEVRE TEKNOLOJİLERİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1090,7 +1090,7 @@
   {
    "kod": "1962002152009",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM-II (E.D.Ö.)",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1104,7 +1104,7 @@
   {
    "kod": "1962002182025",
    "ad": "SİSTEM ANALİZİ VE TASARIMI",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1118,7 +1118,7 @@
   {
    "kod": "1962002202025",
    "ad": "ENSTRÜMANTAL ANALİZ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1132,7 +1132,7 @@
   {
    "kod": "1962002222012",
    "ad": "KİMYASAL TEKNOLOJİ UYGULAMALARI",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1146,7 +1146,7 @@
   {
    "kod": "1962002322017",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1160,7 +1160,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1174,7 +1174,7 @@
   {
    "kod": "1962002092015",
    "ad": "SU VE ENDÜSTRİDE KULLANIMI",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": null,
    "grup": "SGEMYO-19-62-0 - SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "1962002172015",
    "ad": "TEMEL BOYA BİLGİLERİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": null,
    "grup": "SGEMYO-19-62-0 - SEÇMELİ DERS GRUBU",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "1962002162014",
    "ad": "BİYOKİMYA TEKNOLOJİLERİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": null,
    "grup": "SGEMYO-19-62-1 - SEÇMELİ DERS GRUBU 1",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "1962002302015",
    "ad": "BOYA ÜRETİM TEKNOLOJİSİ",
-   "mufredat": "Kimya Teknolojisi",
+   "mufredat": "2025 Yılı Müfredatı (Kimya Teknolojisi)",
    "yariyil": null,
    "grup": "SGEMYO-19-62-1 - SEÇMELİ DERS GRUBU 1",
    "tur": "Seçmeli",

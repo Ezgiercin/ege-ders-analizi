@@ -12,7 +12,7 @@
   {
    "kod": "ATA101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "SHU155",
    "ad": "SİVİL HAVACILIĞA GİRİŞ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "SHU159",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "SHU167",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "SHU189",
    "ad": "YABANCI DİL I",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SHU191",
    "ad": "EKONOMİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SHU193",
    "ad": "HAVACILIKTA İNGİLİZCE İLETİŞİM BECERİLERİ I",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SHU195",
    "ad": "YOLCU HİZMETLERİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "TUR101",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "ATA102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "SHU162",
    "ad": "METEOROLOJİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "SHU186",
    "ad": "YABANCI DİL II",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "SHU188",
    "ad": "HAVA TAŞIMACILIĞI",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "SHU190",
    "ad": "GENEL HAVACILIK",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "SHU192",
    "ad": "İŞLETME YÖNETİMİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "SHU194",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM (STAJ)",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "SHU196",
    "ad": "HAVACILIKTA İNGİLİZCE İLETİŞİM BECERİLERİ II",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "TUR102",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "SHU261",
    "ad": "HAVA KARGO",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "SHU287",
    "ad": "HAVAYOLU YÖNETİMİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "SHU305",
    "ad": "HAVACILIK İŞLETMELERİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "SHU307",
    "ad": "HAVACILIK İNGİLİZCESİ I",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "SHU309",
    "ad": "TEHLİKELİ MADDELER",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "SHU329",
    "ad": "TEMSİL GÖZETİM VE YÖNETİM",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "SHU302",
    "ad": "EMNİYET YÖNETİM SİSTEMİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "SHU304",
    "ad": "HAVACILIK İNGİLİZCESİ II",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "SHU306",
    "ad": "HAVAALANI YÖNETİMİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "SHU308",
    "ad": "HAVACILIK GÜVENLİĞİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "SHU324",
    "ad": "HAREKAT PERFORMANS",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "SHU326",
    "ad": "YER HİZMETLERİ VE RAMP",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "SHU153",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.I - SHU SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "SHU179",
    "ad": "HAVACILIK HUKUKU",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.I - SHU SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "SHU181",
    "ad": "DÜNYA KÜLTÜRLERİ VE DESTİNASYONLARI",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.I - SHU SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "SHU185",
    "ad": "TEMEL İLKYARDIM",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.I - SHU SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "SHU311",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.I - SHU SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "SHU315",
    "ad": "HAVACILIK TERMİNOLOJİSİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.I - SHU SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "SHU317",
    "ad": "ULAŞTIRMA SİSTEMLERİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.I - SHU SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "SHU124",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.II - SHU SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "SHU176",
    "ad": "MODEL UÇAK YAPIMI",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.II - SHU SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "SHU178",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.II - SHU SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "SHU291",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.II - SHU SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "SHU310",
    "ad": "KABİN HİZMETİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.II - SHU SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "SHU312",
    "ad": "LOJİSTİK YÖNETİMİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.II - SHU SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "SHU184",
    "ad": "BİLETLEME VE REZERVASYON SİSTEMLERİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.III - SHU SEÇMELİ DERS GRUBU III",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "SHU289",
    "ad": "YENİLİK YÖNETİMİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.III - SHU SEÇMELİ DERS GRUBU III",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "SHU290",
    "ad": "HAVACILIK İŞLETMELERİNDE FİNANS",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.III - SHU SEÇMELİ DERS GRUBU III",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "SHU293",
    "ad": "ULAŞTIRMA EKONOMİSİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.III - SHU SEÇMELİ DERS GRUBU III",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "SHU295",
    "ad": "PAZARLAMA YÖNETİMİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.III - SHU SEÇMELİ DERS GRUBU III",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "SHU303",
    "ad": "İHA UYGULAMALARI",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.III - SHU SEÇMELİ DERS GRUBU III",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "SHU319",
    "ad": "İŞLETME FİNANSI",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.III - SHU SEÇMELİ DERS GRUBU III",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "SHU321",
    "ad": "İLETİŞİM",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.III - SHU SEÇMELİ DERS GRUBU III",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "SHU323",
    "ad": "HAVACILIKTA İNSAN FAKTÖRLERİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.III - SHU SEÇMELİ DERS GRUBU III",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "SHU325",
    "ad": "HAVACILIKTA İNGİLİZCE İLETİŞİM BECERİLERİ III",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.III - SHU SEÇMELİ DERS GRUBU III",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "SHU327",
    "ad": "HAVA TRAFİK KURALLARI VE HİZMETLERİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.III - SHU SEÇMELİ DERS GRUBU III",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "SHU180",
    "ad": "İNSAN KAYNAKLARI YÖNETİMİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.IV - SHU SEÇMELİ DERS GRUBU IV",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "SHU182",
    "ad": "HAVACILIKTA SÜRDÜRÜLEBİLİRLİK UYGULAMALARI",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.IV - SHU SEÇMELİ DERS GRUBU IV",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "SHU288",
    "ad": "HAVACILIK EKONOMİSİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.IV - SHU SEÇMELİ DERS GRUBU IV",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "SHU292",
    "ad": "HAVAYOLU PAZARLAMASI",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.IV - SHU SEÇMELİ DERS GRUBU IV",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "SHU298",
    "ad": "HELİPORT İŞLETMECİLİĞİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.IV - SHU SEÇMELİ DERS GRUBU IV",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "SHU300",
    "ad": "DİJİTAL HAVACILIK",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.IV - SHU SEÇMELİ DERS GRUBU IV",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "SHU314",
    "ad": "HAVACILIKTA STRATEJİK YÖNETİM",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.IV - SHU SEÇMELİ DERS GRUBU IV",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "SHU316",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.IV - SHU SEÇMELİ DERS GRUBU IV",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "SHU318",
    "ad": "HAVACILIKTA İNGİLİZCE İLETİŞİM BECERİLERİ IV",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.IV - SHU SEÇMELİ DERS GRUBU IV",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "SHU320",
    "ad": "UÇUŞ HAREKAT",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.IV - SHU SEÇMELİ DERS GRUBU IV",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "SHU322",
    "ad": "SİVİL HAVACILIKTA VAKA ANALİZİ",
-   "mufredat": "Sivil Hava Ulaştırma İşletmeciliği",
+   "mufredat": "2025 Yılı Müfredatı (Sivil Hava Ulaştırma İşletmeciliği)",
    "yariyil": null,
    "grup": "SHU.SEÇ.IV - SHU SEÇMELİ DERS GRUBU IV",
    "tur": "Seçmeli",

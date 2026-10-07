@@ -12,7 +12,7 @@
   {
    "kod": "9304065011996",
    "ad": "Hemşırelıkte Temel İlke ve Uygulamalar I",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9304065192016",
    "ad": "Sağlık Bılımlerınde Araştırma",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9304155022013",
    "ad": "Hemşırelıkte Temel İlke ve Uygulamalar II",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9304065032005",
    "ad": "Hemşırelıkte Temel İlke ve Uygulamalar Uygulaması I",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": null,
    "grup": "930406SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9304065042005",
    "ad": "Hemşırelıkte Temel İlke ve Uygulamalar Uygulaması II",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": null,
    "grup": "930406SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9304065052013",
    "ad": "Sağlık Tanılaması II",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": null,
    "grup": "930406SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9304065062015",
    "ad": "Hemşırelık Sürecı",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": null,
    "grup": "930406SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9304065072015",
    "ad": "Güvenlı ve Akılcı İlaç Uygulamaları",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": null,
    "grup": "930406SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9304065092013",
    "ad": "Sağlık Tanılaması I",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": null,
    "grup": "930406SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9304065122002",
    "ad": "Sağlık Bılımlerınde İletışım",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": null,
    "grup": "930406SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9304065142005",
    "ad": "Bılgısayar Uygulamalı Bıoıstatıstık I",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": null,
    "grup": "930406SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9304065202010",
    "ad": "Hemşırelıkte Ergonomı",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": null,
    "grup": "930406SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9304065212011",
    "ad": "Hemşırelıkte Konfor",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": null,
    "grup": "930406SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9304065032005",
    "ad": "Hemşırelıkte Temel İlke ve Uygulamalar Uygulaması I",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": null,
    "grup": "930406SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9304065042005",
    "ad": "Hemşırelıkte Temel İlke ve Uygulamalar Uygulaması II",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": null,
    "grup": "930406SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9304065052013",
    "ad": "Sağlık Tanılaması II",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": null,
    "grup": "930406SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9304065062015",
    "ad": "Hemşırelık Sürecı",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": null,
    "grup": "930406SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9304065072015",
    "ad": "Güvenlı ve Akılcı İlaç Uygulamaları",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": null,
    "grup": "930406SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9304065092013",
    "ad": "Sağlık Tanılaması I",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": null,
    "grup": "930406SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9304065122002",
    "ad": "Sağlık Bılımlerınde İletışım",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": null,
    "grup": "930406SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9304065142005",
    "ad": "Bılgısayar Uygulamalı Bıoıstatıstık I",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": null,
    "grup": "930406SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9304065202010",
    "ad": "Hemşırelıkte Ergonomı",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": null,
    "grup": "930406SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9304065212011",
    "ad": "Hemşırelıkte Konfor",
-   "mufredat": "Hemşirelik Esasları",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Hemşirelik Esasları)",
    "yariyil": null,
    "grup": "930406SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",

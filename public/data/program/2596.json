@@ -12,7 +12,7 @@
   {
    "kod": "100001012006",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "100001022006",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "100001042024",
    "ad": "ENTEGRE BLOK DERSLER",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "100001062002",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "100001072003",
    "ad": "EVRE 1 ENTEGRE BLOK 1",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "100001082003",
    "ad": "EVRE 2 ENTEGRE BLOK 1",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "100001092003",
    "ad": "EVRE 2 ENTEGRE BLOK 2",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "100001102010",
    "ad": "YABANCI DİL I",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "100001122021",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "100001142024",
    "ad": "ÖZEL ÇALIŞMA MODÜLÜ",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "100000922006",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "100000942006",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "100000962010",
    "ad": "YABANCI DİL II",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "100002012004",
    "ad": "EVRE ENTEGRE BLOK DERSLER",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "100002022004",
    "ad": "EVRE 2 ENTEGRE BLOK 3",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "100002032004",
    "ad": "EVRE 2 ENTEGRE BLOK 4",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "100002042004",
    "ad": "EVRE 3 ENTEGRE BLOK 1",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "100003012005",
    "ad": "EVRE ENTEGRE BLOK DERSLER",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "100003022007",
    "ad": "EVRE 4 ENTEGRE BLOK 1",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "100003032007",
    "ad": "EVRE 4 ENTEGRE BLOK 2",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "100003042007",
    "ad": "EVRE 4 ENTEGRE BLOK 3",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "100003052007",
    "ad": "EVRE 4 ENTEGRE BLOK 4",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "100003062005",
    "ad": "ÖZEL ÇALIŞMA MODÜLÜ",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -362,7 +362,7 @@
   {
    "kod": "10120001T11419",
    "ad": "İÇ HASTALIKLARI STAJ BLOGU",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "100005232012",
    "ad": "ÇOCUK SAĞLIĞI STAJ BLOĞU",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 9,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "100006012001",
    "ad": "GENEL CERRAHİ",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 11,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "100006021994",
    "ad": "ÇOCUK SAĞLIGI VE HASTALIKLARI",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 11,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "100006032020",
    "ad": "KADIN HASTALIKLARI VE DOĞUM",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 11,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "100006041994",
    "ad": "İÇ HASTALIKLARI",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 11,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "100006052019",
    "ad": "KIRSAL HEKİMLİK",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 11,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "100006071994",
    "ad": "ACİL SERVİS",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 11,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "100006092001",
    "ad": "SEÇMELİ",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 11,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "100006112002",
    "ad": "GÖĞÜS HASTALIKLARI",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 11,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "100006122002",
    "ad": "KARDİYOLOJİ",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 11,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "100006162019",
    "ad": "AİLE HEKİMLİĞİ",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 11,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "100006182020",
    "ad": "RUH SAĞLIĞI VE HASTALIKLARI",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": 11,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "10120002T11421",
    "ad": "CERRAHİ - ÜROGENİTAL SİSTEM STAJ BLOGU",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": null,
    "grup": "SEÇMELİ-TIP-4-SINIF - SEÇMELİ DERS GRUBU TIP FAKÜLTESİ 4.SINIF",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "10120002T11423",
    "ad": "KARDİYOPULMONER SİSTEM VE STAJ BLOGU",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": null,
    "grup": "SEÇMELİ-TIP-4-SINIF - SEÇMELİ DERS GRUBU TIP FAKÜLTESİ 4.SINIF",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "100005242012",
    "ad": "KAS İSKELET SİNİR SİSTEMİ VE DAVRANIŞ STAJ BLOĞU",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": null,
    "grup": "SEÇMELİ-TIP-5.SINIF - SEÇMELİ DERS GRUBU TIP FAKÜLTESİ 5.SINIF",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "100005252012",
    "ad": "DUYU SİSTEMİ STAJ BLOĞU",
-   "mufredat": "Tıp Fakültesi",
+   "mufredat": "2011 Yılı Müfredatı (Tıp Fakültesi)",
    "yariyil": null,
    "grup": "SEÇMELİ-TIP-5.SINIF - SEÇMELİ DERS GRUBU TIP FAKÜLTESİ 5.SINIF",
    "tur": "Seçmeli",

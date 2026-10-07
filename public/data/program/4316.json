@@ -12,7 +12,7 @@
   {
    "kod": "9301095012001",
    "ad": "Tıbbı Bıyolojı ve Genetık I",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9301095282025",
    "ad": "Bılımsel Yazım ve Raporlandırma Teknıklerı",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9301095022013",
    "ad": "Tıbbı Bıyolojı ve Genetık II",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9301095032013",
    "ad": "Temel Bıyolojı Laboratuvarı İlkelerı ve Yöntemlerı",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9301095042013",
    "ad": "Gen Ekspresyonunun Regülasyonu",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9301095052005",
    "ad": "Tıbbı Bıyolojıde Bılgısayar Uygulamaları-I",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9301095062005",
    "ad": "Hücre ve Doku Kültürü ve Teknıklerı",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9301095072015",
    "ad": "Moleküler Bıyolojıye Gırış ve Araştırma Yöntemlerı",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9301095082023",
    "ad": "Sıtogenetık",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9301095102005",
    "ad": "Işık Mıkroskobık Preparasyon Teknıklerı",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9301095112005",
    "ad": "Hücre Bıleşenlerı ve Bıyomoleküller",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9301095122001",
    "ad": "Transmısyon Elektron Mıkroskop (TEM) İçın Preparasyon Teknığı I",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9301095142001",
    "ad": "Scannıng Elektron Mıkroskop (SEM) İçın Preparasyon Teknığı I",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9301095162001",
    "ad": "Tıbbı Fotografı ve Dökümantasyon Yöntemlerı",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9301095182001",
    "ad": "Model Organızmalar",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9301095242023",
    "ad": "Tıbbı Bıyolojıde Bılgısayar Uygulamaları II",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9301095252016",
    "ad": "Organel Hastalıklarının Moleküler Bıyolojısı",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9301095272016",
    "ad": "Hücre Ölümü",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9301095032013",
    "ad": "Temel Bıyolojı Laboratuvarı İlkelerı ve Yöntemlerı",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9301095042013",
    "ad": "Gen Ekspresyonunun Regülasyonu",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9301095052005",
    "ad": "Tıbbı Bıyolojıde Bılgısayar Uygulamaları-I",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9301095062005",
    "ad": "Hücre ve Doku Kültürü ve Teknıklerı",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9301095072015",
    "ad": "Moleküler Bıyolojıye Gırış ve Araştırma Yöntemlerı",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9301095082023",
    "ad": "Sıtogenetık",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9301095102005",
    "ad": "Işık Mıkroskobık Preparasyon Teknıklerı",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9301095112005",
    "ad": "Hücre Bıleşenlerı ve Bıyomoleküller",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9301095122001",
    "ad": "Transmısyon Elektron Mıkroskop (TEM) İçın Preparasyon Teknığı I",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9301095142001",
    "ad": "Scannıng Elektron Mıkroskop (SEM) İçın Preparasyon Teknığı I",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9301095162001",
    "ad": "Tıbbı Fotografı ve Dökümantasyon Yöntemlerı",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9301095182001",
    "ad": "Model Organızmalar",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9301095242023",
    "ad": "Tıbbı Bıyolojıde Bılgısayar Uygulamaları II",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9301095272016",
    "ad": "Hücre Ölümü",
-   "mufredat": "Tıbbi Biyoloji",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyoloji)",
    "yariyil": null,
    "grup": "930109SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",

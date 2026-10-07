@@ -12,7 +12,7 @@
   {
    "kod": "3201001032023",
    "ad": "GÖRSEL İLETİŞİM TARİHİ I",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "3201001072018",
    "ad": "DESEN I",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "3201001092018",
    "ad": "SANAT TARİHİ I",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "3201001112018",
    "ad": "TEMEL TASARIM STÜDYOSU I",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "3201001132018",
    "ad": "ÜNİVERSİTE YAŞAMINA GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "3201001152018",
    "ad": "TÜRK DİLİ I",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "3201001172018",
    "ad": "YABANCI DİL I",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "3201001192018",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "3201001212020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "3201001232025",
    "ad": "GÖRSEL İLETİŞİM TASARIMINA GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "3201001042020",
    "ad": "GÖRSEL İLETİŞİM TARİHİ II",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "3201001062018",
    "ad": "TASARIM KURAM VE ARAŞTIRMALARI",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "3201001082018",
    "ad": "DESEN II",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "3201001102018",
    "ad": "SANAT TARİHİ II",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "3201001122018",
    "ad": "TEMEL TASARIM STÜDYOSU II",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "3201001142018",
    "ad": "TÜRK DİLİ II",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "3201001162018",
    "ad": "YABANCI DİL II",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "3201001182018",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "3201002012024",
    "ad": "GÖRSEL İLETİŞİM TASARIMI STÜDYOSU I",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "3201002032018",
    "ad": "TİPOGRAFİ I",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "3201002052018",
    "ad": "BİLGİSAYAR DESTEKLİ GRAFİK TASARIM",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "3201002072018",
    "ad": "FOTOĞRAF VE GÖRÜNTÜ TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "3201002092018",
    "ad": "SANAT VE YARATICILIK",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -348,7 +348,7 @@
   {
    "kod": "3201002022018",
    "ad": "GÖRSEL İLETİŞİM TASARIMI STÜDYOSU II",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "3201002042018",
    "ad": "TİPOGRAFİ II",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "3201002062018",
    "ad": "MULTİMEDYA UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "3201002082018",
    "ad": "İLERİ FOTOĞRAF TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "3201002102018",
    "ad": "TASARIMDA GÖSTERGEBİLİM",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -432,7 +432,7 @@
   {
    "kod": "3201003012018",
    "ad": "GÖRSEL İLETİŞİM TASARIMI STÜDYOSU III",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "3201003032018",
    "ad": "YENİ MEDYA UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "3201003132020",
    "ad": "MULTİMEDYA TASARIMI VE ANİMASYON I",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "3201003192020",
    "ad": "İLLÜSTRASYON",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -502,7 +502,7 @@
   {
    "kod": "3201003022018",
    "ad": "GÖRSEL İLETİŞİM TASARIMI STÜDYOSU IV",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "3201003142020",
    "ad": "MULTİMEDYA TASARIMI VE ANİMASYON II",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "3201003202020",
    "ad": "DİJİTAL İLLÜSTRASYON",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "3201003362024",
    "ad": "GÖRSEL İLETİŞİM TASARIMINDA YARATICI STRATEJİLER",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "3201004012018",
    "ad": "GÖRSEL İLETİŞİM TASARIMI BİTİRME PROJESİ I",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -572,7 +572,7 @@
   {
    "kod": "3201004032018",
    "ad": "PORTFOLYO VE SUNUM TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "3201004272020",
    "ad": "ÇAĞDAŞ SANAT AKIMLARI",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -614,7 +614,7 @@
   {
    "kod": "3201004022018",
    "ad": "GÖRSEL İLETİŞİM TASARIMI BİTİRME PROJESİ II",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -628,7 +628,7 @@
   {
    "kod": "3201004042018",
    "ad": "PORTFOLYO TASARIMI",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "3201004302020",
    "ad": "ÇAĞDAŞ TASARIM FELSEFESİ VE YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -670,7 +670,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "PFSDG-1 - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU 1",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "PFSDG-2 - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU 2",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "PFSDG-2 - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU 2",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "PFSDG-3 - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU 3",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "PFSDG-3 - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU 3",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "3201003072023",
    "ad": "VİDEO YAPIM TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "3201003152023",
    "ad": "MASAÜSTÜ YAYINCILIK",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "3201003172023",
    "ad": "REKLAM FOTOĞRAFÇILIĞI",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "3201003272023",
    "ad": "KAVRAM GELİŞTİRME",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "3201003292023",
    "ad": "GÖRSEL SANATLAR İÇİN YARATICI KODLAMA",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "3201003312024",
    "ad": "GİRİŞİMCİLİK VE YENİLİK",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "3201003352023",
    "ad": "GÖRSEL TASARIMDA ARAŞTIRMA YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "3201003372023",
    "ad": "GÖRSEL TASARIMDA RENK BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "3201003532024",
    "ad": "MESLEKİ İNGİLİZCE",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "3201003572025",
    "ad": "FANTEZİ VE BİLİM KURGU",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "Bİİ305DSG",
    "ad": "DİN SOSYOLOJİSİNE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "DTMK305TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ I",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "İİB307IGP",
    "ad": "INTRODUCTION TO GLOBAL POLITICS",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "PFSDG-4 - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU 4",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "3201003082023",
    "ad": "KURGU TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "3201003162024",
    "ad": "POPÜLER KÜLTÜR",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "3201003182023",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "3201003222023",
    "ad": "OYUN TASARIMI",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "3201003242023",
    "ad": "AMBALAJ TASARIMI",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "3201003322024",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "3201003342024",
    "ad": "TEKNOLOJİ VE SANAT",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "3201003382023",
    "ad": "PSİKANALİZ VE FOTOĞRAF",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "3201003402021",
    "ad": "TASARIM VE ETİK",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "3201003422023",
    "ad": "TASARIM VE SİNEMA",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "3201003582025",
    "ad": "SANAT AKIMLARI: BAROK'TAN SEMBOLİZM' E",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "Bİİ305DS",
    "ad": "DİN VE SANAT",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "Bİİ306DİVKA",
    "ad": "DİNLER VE KADIN",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "ENF305WEB",
    "ad": "WEB TASARIMI",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "FEN305BİYO",
    "ad": "BİYOTEKNOLOJİ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "MOD306MLB",
    "ad": "MALZEME BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "YEN306GTOD",
    "ad": "GİRİŞİMCİLİKTE TASARIM ODAKLI DÜŞÜNME",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "3201003412023",
    "ad": "MOBİL FOTOĞRAFÇILIK",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-3 - SEÇMELİ DERS GRUBU-3",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "3201004152023",
    "ad": "SES TASARIMI",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-3 - SEÇMELİ DERS GRUBU-3",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "3201004172023",
    "ad": "WEB TASARIM I",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-3 - SEÇMELİ DERS GRUBU-3",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "3201004192023",
    "ad": "MİTOLOJİ VE İKONOGRAFİ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-3 - SEÇMELİ DERS GRUBU-3",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "3201004252024",
    "ad": "REKLAM FİLMİ TASARIM VE YAPIM UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-3 - SEÇMELİ DERS GRUBU-3",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "3201004312024",
    "ad": "TELİF HAKLARI VE TASARIM HAKLARI",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-3 - SEÇMELİ DERS GRUBU-3",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "3201004412024",
    "ad": "ETKİLİ KONUŞMA VE DİKSİYON",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-3 - SEÇMELİ DERS GRUBU-3",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "PFSDG-6 - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU 6",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "3201003462023",
    "ad": "GÖRSEL İLETİŞİM TASARIMINDA YAPAY ZEKA",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-4 - SEÇMELİ DERS GRUBU-4",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "3201004202023",
    "ad": "MODERN VE POSTMODERN SANAT",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-4 - SEÇMELİ DERS GRUBU-4",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "3201004242024",
    "ad": "YARATICI METİN YAZARLIĞI",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-4 - SEÇMELİ DERS GRUBU-4",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "3201004282023",
    "ad": "WEB TASARIM II",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-4 - SEÇMELİ DERS GRUBU-4",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "3201004322024",
    "ad": "ESTETİK VE SANAT FELSEFESİ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-4 - SEÇMELİ DERS GRUBU-4",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "3201004382024",
    "ad": "MEDYA VE TOPLUM",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-4 - SEÇMELİ DERS GRUBU-4",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "3201004402024",
    "ad": "FOTOĞRAF SANATINDA DİSİPLİNLERARASI YAKLAŞIM",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-4 - SEÇMELİ DERS GRUBU-4",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "3201004422025",
    "ad": "ROCK MÜZİK KÜLTÜRÜ",
-   "mufredat": null,
+   "mufredat": "2018 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-4 - SEÇMELİ DERS GRUBU-4",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "3201001032023",
    "ad": "GÖRSEL İLETİŞİM TARİHİ I",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1426,7 +1426,7 @@
   {
    "kod": "3201001072023",
    "ad": "DESEN I",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1440,7 +1440,7 @@
   {
    "kod": "3201001092023",
    "ad": "SANAT TARİHİ I",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1454,7 +1454,7 @@
   {
    "kod": "3201001112023",
    "ad": "TEMEL TASARIM STÜDYOSU I",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1468,7 +1468,7 @@
   {
    "kod": "3201001132023",
    "ad": "ÜNİVERSİTE YAŞAMINA GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1482,7 +1482,7 @@
   {
    "kod": "3201001152023",
    "ad": "TÜRK DİLİ I",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1496,7 +1496,7 @@
   {
    "kod": "3201001172023",
    "ad": "YABANCI DİL I",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1510,7 +1510,7 @@
   {
    "kod": "3201001192023",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1524,7 +1524,7 @@
   {
    "kod": "3201001212023",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1538,7 +1538,7 @@
   {
    "kod": "3201001232025",
    "ad": "GÖRSEL İLETİŞİM TASARIMINA GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1552,7 +1552,7 @@
   {
    "kod": "3201001042023",
    "ad": "GÖRSEL İLETİŞİM TARİHİ II",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1566,7 +1566,7 @@
   {
    "kod": "3201001082023",
    "ad": "DESEN II",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1580,7 +1580,7 @@
   {
    "kod": "3201001102023",
    "ad": "SANAT TARİHİ II",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1594,7 +1594,7 @@
   {
    "kod": "3201001122023",
    "ad": "TEMEL TASARIM STÜDYOSU II",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1608,7 +1608,7 @@
   {
    "kod": "3201001142023",
    "ad": "TÜRK DİLİ II",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1622,7 +1622,7 @@
   {
    "kod": "3201001162023",
    "ad": "YABANCI DİL II",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1636,7 +1636,7 @@
   {
    "kod": "3201001182023",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1650,7 +1650,7 @@
   {
    "kod": "3201002122023",
    "ad": "BİLGİSAYAR DESTEKLİ GRAFİK TASARIM",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1664,7 +1664,7 @@
   {
    "kod": "3201002012023",
    "ad": "GÖRSEL İLETİŞİM TASARIMI STÜDYOSU I",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1678,7 +1678,7 @@
   {
    "kod": "3201002032023",
    "ad": "TİPOGRAFİ I",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1692,7 +1692,7 @@
   {
    "kod": "3201002092023",
    "ad": "SANAT VE YARATICILIK",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1706,7 +1706,7 @@
   {
    "kod": "3201002112023",
    "ad": "FOTOĞRAF VE GÖRÜNTÜ TEKNİKLERİ-I",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1720,7 +1720,7 @@
   {
    "kod": "3201002132023",
    "ad": "TASARIM KURAM VE ARAŞTIRMALARI",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1734,7 +1734,7 @@
   {
    "kod": "3201002152023",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1748,7 +1748,7 @@
   {
    "kod": "3201002022023",
    "ad": "GÖRSEL İLETİŞİM TASARIMI STÜDYOSU II",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1762,7 +1762,7 @@
   {
    "kod": "3201002042023",
    "ad": "TİPOGRAFİ II",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1776,7 +1776,7 @@
   {
    "kod": "3201002062023",
    "ad": "MULTİMEDYA UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1790,7 +1790,7 @@
   {
    "kod": "3201002102023",
    "ad": "TASARIMDA GÖSTERGEBİLİM",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1804,7 +1804,7 @@
   {
    "kod": "3201002142023",
    "ad": "FOTOĞRAF VE GÖRÜNTÜ TEKNİKLERİ-II",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1818,7 +1818,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1832,7 +1832,7 @@
   {
    "kod": "3201003012023",
    "ad": "GÖRSEL İLETİŞİM TASARIMI STÜDYOSU III",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -1846,7 +1846,7 @@
   {
    "kod": "3201003132023",
    "ad": "MULTİMEDYA TASARIMI VE ANİMASYON I",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -1860,7 +1860,7 @@
   {
    "kod": "3201003192023",
    "ad": "İLLÜSTRASYON",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -1874,7 +1874,7 @@
   {
    "kod": "3201003432023",
    "ad": "YENİ MEDYA UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -1888,7 +1888,7 @@
   {
    "kod": "3201003022023",
    "ad": "GÖRSEL İLETİŞİM TASARIMI STÜDYOSU IV",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -1902,7 +1902,7 @@
   {
    "kod": "3201003142023",
    "ad": "MULTİMEDYA TASARIMI VE ANİMASYON II",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -1916,7 +1916,7 @@
   {
    "kod": "3201003202023",
    "ad": "DİJİTAL İLLÜSTRASYON",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -1930,7 +1930,7 @@
   {
    "kod": "3201003482023",
    "ad": "VİDEO YAPIM TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -1944,7 +1944,7 @@
   {
    "kod": "3201004012023",
    "ad": "GÖRSEL İLETİŞİM TASARIMI BİTİRME PROJESİ I",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -1958,7 +1958,7 @@
   {
    "kod": "3201004032023",
    "ad": "PORTFOLYO VE SUNUM TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -1972,7 +1972,7 @@
   {
    "kod": "3201004272023",
    "ad": "ÇAĞDAŞ SANAT AKIMLARI",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -1986,7 +1986,7 @@
   {
    "kod": "3201004292024",
    "ad": "SOSYAL MEDYA",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2000,7 +2000,7 @@
   {
    "kod": "3201004022023",
    "ad": "GÖRSEL İLETİŞİM TASARIMI BİTİRME PROJESİ II",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2014,7 +2014,7 @@
   {
    "kod": "3201004042023",
    "ad": "PORTFOLYO TASARIMI",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2028,7 +2028,7 @@
   {
    "kod": "3201004342023",
    "ad": "TASARIM VE ETİK",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2042,7 +2042,7 @@
   {
    "kod": "3201004362023",
    "ad": "GÖRSEL İLETİŞİM TASARIMINDA YARATICI STRATEJİLER",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2056,7 +2056,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "PFSDG-1 - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU 1",
    "tur": "Seçmeli",
@@ -2070,7 +2070,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "PFSDG-2 - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU 2",
    "tur": "Seçmeli",
@@ -2084,7 +2084,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "PFSDG-2 - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU 2",
    "tur": "Seçmeli",
@@ -2098,7 +2098,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "PFSDG-3 - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU 3",
    "tur": "Seçmeli",
@@ -2112,7 +2112,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "PFSDG-3 - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU 3",
    "tur": "Seçmeli",
@@ -2126,7 +2126,7 @@
   {
    "kod": "3201003152023",
    "ad": "MASAÜSTÜ YAYINCILIK",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -2140,7 +2140,7 @@
   {
    "kod": "3201003172023",
    "ad": "REKLAM FOTOĞRAFÇILIĞI",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -2154,7 +2154,7 @@
   {
    "kod": "3201003272023",
    "ad": "KAVRAM GELİŞTİRME",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -2168,7 +2168,7 @@
   {
    "kod": "3201003312024",
    "ad": "GİRİŞİMCİLİK VE YENİLİK",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -2182,7 +2182,7 @@
   {
    "kod": "3201003352023",
    "ad": "GÖRSEL TASARIMDA ARAŞTIRMA YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -2196,7 +2196,7 @@
   {
    "kod": "3201003372023",
    "ad": "GÖRSEL TASARIMDA RENK BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -2210,7 +2210,7 @@
   {
    "kod": "3201003492023",
    "ad": "GÖRSEL SANATLAR İÇİN YARATICI KODLAMA",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -2224,7 +2224,7 @@
   {
    "kod": "3201003532024",
    "ad": "MESLEKİ İNGİLİZCE",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -2238,7 +2238,7 @@
   {
    "kod": "3201003572025",
    "ad": "FANTEZİ VE BİLİM KURGU",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -2252,7 +2252,7 @@
   {
    "kod": "Bİİ305ANKK",
    "ad": "ANA KONULARIYLA KUR'AN",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2266,7 +2266,7 @@
   {
    "kod": "Bİİ305DİNT",
    "ad": "DİNLER TARİHİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2280,7 +2280,7 @@
   {
    "kod": "Bİİ305DSG",
    "ad": "DİN SOSYOLOJİSİNE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2294,7 +2294,7 @@
   {
    "kod": "Bİİ305KOAI",
    "ad": "KUR'ÂN OKUMA VE ANLAMA I",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2308,7 +2308,7 @@
   {
    "kod": "Bİİ305MESO",
    "ad": "MESNEVİ OKUMALARI",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2322,7 +2322,7 @@
   {
    "kod": "DTMK305HALO",
    "ad": "HALK OYUNLARI",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2336,7 +2336,7 @@
   {
    "kod": "DTMK305İLMÜ",
    "ad": "İLETİŞİM VE MÜZİK I",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2350,7 +2350,7 @@
   {
    "kod": "DTMK305TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ I",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2364,7 +2364,7 @@
   {
    "kod": "DTMK305TOSES",
    "ad": "TOPLU SES EĞİTİMİ VE KORO UYGULAMALARI I",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2378,7 +2378,7 @@
   {
    "kod": "ENF305ÖSMW",
    "ad": "ÖĞRETİMDE SOSYAL MEDYA VE WEB2.0 ARAÇLARI",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2392,7 +2392,7 @@
   {
    "kod": "ENF305YMT",
    "ad": "YENİ MEDYA TEKNOLOJİLERİ VE DİJİTAL YAYINCILIK",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2406,7 +2406,7 @@
   {
    "kod": "FEN305BİYO",
    "ad": "BİYOTEKNOLOJİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2420,7 +2420,7 @@
   {
    "kod": "FEN305ENÇ",
    "ad": "ENERJİ VE ÇEVRE",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2434,7 +2434,7 @@
   {
    "kod": "FEN305GIDGUV",
    "ad": "GIDA GÜVENLİĞİ (MİKROBİYOLOJİ AĞIRLIKLI)",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2448,7 +2448,7 @@
   {
    "kod": "FEN305MAHY",
    "ad": "MATEMATİK HER YERDE",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2462,7 +2462,7 @@
   {
    "kod": "FEN305MAST",
    "ad": "MODERN ASTRONOMİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2476,7 +2476,7 @@
   {
    "kod": "İİB307IGP",
    "ad": "INTRODUCTION TO GLOBAL POLITICS",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2490,7 +2490,7 @@
   {
    "kod": "SPB305BAS",
    "ad": "BASKETBOL",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2504,7 +2504,7 @@
   {
    "kod": "SPB305YÜZ",
    "ad": "YÜZME",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2518,7 +2518,7 @@
   {
    "kod": "SUÜ305AKV",
    "ad": "AKVARYUM DÜNYASI",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2532,7 +2532,7 @@
   {
    "kod": "SUÜ305TSC",
    "ad": "TEHLİKELİ SUCUL CANLILAR",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2546,7 +2546,7 @@
   {
    "kod": "YEN305GYKA",
    "ad": "GİRİŞİMCİLİKTE YATIRIM KARAR ANALİZLERİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2560,7 +2560,7 @@
   {
    "kod": "ZİR303AKTA",
    "ad": "AKILLI TARIM",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2574,7 +2574,7 @@
   {
    "kod": "ZİR305TABY",
    "ad": "TIBBİ VE AROMATİK BİTKİ YETİŞTİRİCİLİĞİNİN TEMEL İLKELERİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2588,7 +2588,7 @@
   {
    "kod": "ZİR306GIDG",
    "ad": "GIDA GÜVENLİĞİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2602,7 +2602,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "PFSDG-4 - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU 4",
    "tur": "Seçmeli",
@@ -2616,7 +2616,7 @@
   {
    "kod": "3201003082023",
    "ad": "KURGU TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -2630,7 +2630,7 @@
   {
    "kod": "3201003162024",
    "ad": "POPÜLER KÜLTÜR",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -2644,7 +2644,7 @@
   {
    "kod": "3201003222023",
    "ad": "OYUN TASARIMI",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -2658,7 +2658,7 @@
   {
    "kod": "3201003242023",
    "ad": "AMBALAJ TASARIMI",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -2672,7 +2672,7 @@
   {
    "kod": "3201003322024",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -2686,7 +2686,7 @@
   {
    "kod": "3201003342024",
    "ad": "TEKNOLOJİ VE SANAT",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -2700,7 +2700,7 @@
   {
    "kod": "3201003382023",
    "ad": "PSİKANALİZ VE FOTOĞRAF",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -2714,7 +2714,7 @@
   {
    "kod": "3201003422023",
    "ad": "TASARIM VE SİNEMA",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -2728,7 +2728,7 @@
   {
    "kod": "3201003522024",
    "ad": "ÇAĞDAŞ TASARIM FELSEFESİ VE YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -2742,7 +2742,7 @@
   {
    "kod": "3201003582025",
    "ad": "SANAT AKIMLARI: BAROK'TAN SEMBOLİZM' E",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -2756,7 +2756,7 @@
   {
    "kod": "Bİİ305DS",
    "ad": "DİN VE SANAT",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2770,7 +2770,7 @@
   {
    "kod": "Bİİ306DİVKA",
    "ad": "DİNLER VE KADIN",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2784,7 +2784,7 @@
   {
    "kod": "DTMK306İLMÜ",
    "ad": "İLETİŞİM VE MÜZİK II",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2798,7 +2798,7 @@
   {
    "kod": "DTMK306SAMR",
    "ad": "SANAT MÜZİK VE RİTİM",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2812,7 +2812,7 @@
   {
    "kod": "DTMK306TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ II",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2826,7 +2826,7 @@
   {
    "kod": "DTMSK306TOSES",
    "ad": "TOPLU SES EĞİTİMİ VE KORO UYGULAMALARI II",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2840,7 +2840,7 @@
   {
    "kod": "EDB306KÜLS",
    "ad": "KÜLTÜR SOSYOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2854,7 +2854,7 @@
   {
    "kod": "ENF305WEB",
    "ad": "WEB TASARIMI",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2868,7 +2868,7 @@
   {
    "kod": "FEN305BİYO",
    "ad": "BİYOTEKNOLOJİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2882,7 +2882,7 @@
   {
    "kod": "FEN306MATDÜ",
    "ad": "MATEMATİKSEL DÜŞÜNME",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2896,7 +2896,7 @@
   {
    "kod": "FEN306TEAS",
    "ad": "TEMEL ASTRONOMİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2910,7 +2910,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2924,7 +2924,7 @@
   {
    "kod": "İLE306REHEK",
    "ad": "REKLAMDA HEDEF KİTLE",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2938,7 +2938,7 @@
   {
    "kod": "SPB305YÜZ",
    "ad": "YÜZME",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2952,7 +2952,7 @@
   {
    "kod": "ZİR303AKTA",
    "ad": "AKILLI TARIM",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2966,7 +2966,7 @@
   {
    "kod": "ZİR305TABY",
    "ad": "TIBBİ VE AROMATİK BİTKİ YETİŞTİRİCİLİĞİNİN TEMEL İLKELERİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2980,7 +2980,7 @@
   {
    "kod": "ZİR306GIDG",
    "ad": "GIDA GÜVENLİĞİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2994,7 +2994,7 @@
   {
    "kod": "3201003412023",
    "ad": "MOBİL FOTOĞRAFÇILIK",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-3 - SEÇMELİ DERS GRUBU-3",
    "tur": "Seçmeli",
@@ -3008,7 +3008,7 @@
   {
    "kod": "3201004152023",
    "ad": "SES TASARIMI",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-3 - SEÇMELİ DERS GRUBU-3",
    "tur": "Seçmeli",
@@ -3022,7 +3022,7 @@
   {
    "kod": "3201004192024",
    "ad": "MİTOLOJİ VE İKONOGRAFİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-3 - SEÇMELİ DERS GRUBU-3",
    "tur": "Seçmeli",
@@ -3036,7 +3036,7 @@
   {
    "kod": "3201004252024",
    "ad": "REKLAM FİLMİ TASARIM VE YAPIM UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-3 - SEÇMELİ DERS GRUBU-3",
    "tur": "Seçmeli",
@@ -3050,7 +3050,7 @@
   {
    "kod": "3201004352025",
    "ad": "WEB TASARIMI",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-3 - SEÇMELİ DERS GRUBU-3",
    "tur": "Seçmeli",
@@ -3064,7 +3064,7 @@
   {
    "kod": "3201004392025",
    "ad": "TELİF HAKLARI VE TASARIM HUKUKU",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-3 - SEÇMELİ DERS GRUBU-3",
    "tur": "Seçmeli",
@@ -3078,7 +3078,7 @@
   {
    "kod": "3201004412024",
    "ad": "ETKİLİ KONUŞMA VE DİKSİYON",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-3 - SEÇMELİ DERS GRUBU-3",
    "tur": "Seçmeli",
@@ -3092,7 +3092,7 @@
   {
    "kod": "3201004432025",
    "ad": "TEKNOLOJİ KÜLTÜRÜ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-3 - SEÇMELİ DERS GRUBU-3",
    "tur": "Seçmeli",
@@ -3106,7 +3106,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "PFSDG-6 - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU 6",
    "tur": "Seçmeli",
@@ -3120,7 +3120,7 @@
   {
    "kod": "3201003462023",
    "ad": "GÖRSEL İLETİŞİM TASARIMINDA YAPAY ZEKA",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-4 - SEÇMELİ DERS GRUBU-4",
    "tur": "Seçmeli",
@@ -3134,7 +3134,7 @@
   {
    "kod": "3201004202023",
    "ad": "MODERN VE POSTMODERN SANAT",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-4 - SEÇMELİ DERS GRUBU-4",
    "tur": "Seçmeli",
@@ -3148,7 +3148,7 @@
   {
    "kod": "3201004242024",
    "ad": "YARATICI METİN YAZARLIĞI",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-4 - SEÇMELİ DERS GRUBU-4",
    "tur": "Seçmeli",
@@ -3162,7 +3162,7 @@
   {
    "kod": "3201004322024",
    "ad": "ESTETİK VE SANAT FELSEFESİ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-4 - SEÇMELİ DERS GRUBU-4",
    "tur": "Seçmeli",
@@ -3176,7 +3176,7 @@
   {
    "kod": "3201004402024",
    "ad": "FOTOĞRAF SANATINDA DİSİPLİNLERARASI YAKLAŞIM",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-4 - SEÇMELİ DERS GRUBU-4",
    "tur": "Seçmeli",
@@ -3190,7 +3190,7 @@
   {
    "kod": "3201004422025",
    "ad": "ROCK MÜZİK KÜLTÜRÜ",
-   "mufredat": null,
+   "mufredat": "2023 Ana Müfredat",
    "yariyil": null,
    "grup": "SEÇMELİDERSGRUBU-4 - SEÇMELİ DERS GRUBU-4",
    "tur": "Seçmeli",

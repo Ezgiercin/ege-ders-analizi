@@ -12,7 +12,7 @@
   {
    "kod": "9105046032001",
    "ad": "İlerı Nükleer Yakıt Teknolojısı I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FENETKCOK2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9105046042001",
    "ad": "İlerı Nükleer Yakıt Teknolojısı II",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "FENDRSEM1",
    "ad": "Semıner I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "FENDRTEZONE",
    "ad": "Tez Önerısı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "FENDRYET790",
    "ad": "Yeterlılık",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "DRTEZ692",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "DRTEZ694",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "FENDRSEM2",
    "ad": "Semıner II",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "DRTEZ692",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "DRTEZ692",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "DRTEZ692",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "9105046111998",
    "ad": "Nükleer Mühendıslık Kımyası I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": null,
    "grup": "NÜK-SG-DOK-G - Nükleer Bilimler Seçmeli Grubu DOK Güz",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9105046212003",
    "ad": "Nükleer Yakıt Fabrıkasyonunda Kalıte Kontrolü ve Kalıte Güvencesı I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": null,
    "grup": "NÜK-SG-DOK-G - Nükleer Bilimler Seçmeli Grubu DOK Güz",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9105046292004",
    "ad": "Nükleer Atık İdaresınde Kımyasal Ayırma Teknıklerı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": null,
    "grup": "NÜK-SG-DOK-G - Nükleer Bilimler Seçmeli Grubu DOK Güz",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9105046312007",
    "ad": "Nükleer Atık Yönetımınde İyon Değışım Proseslerı I",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": null,
    "grup": "NÜK-SG-DOK-G - Nükleer Bilimler Seçmeli Grubu DOK Güz",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9105046412011",
    "ad": "Nükleer Teknolojıde Bıyosorpsıyon Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": null,
    "grup": "NÜK-SG-DOK-G - Nükleer Bilimler Seçmeli Grubu DOK Güz",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9105046452014",
    "ad": "Nükleer teknolojıde kullanılan nanokompozıt malzemelerın hazırlanma ve karakterızasyon teknıklerı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": null,
    "grup": "NÜK-SG-DOK-G - Nükleer Bilimler Seçmeli Grubu DOK Güz",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9105046492016",
    "ad": "Nükleer Reaktör Güvenlığı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": null,
    "grup": "NÜK-SG-DOK-G - Nükleer Bilimler Seçmeli Grubu DOK Güz",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9105046552019",
    "ad": "Kımyasal Sensörlerın ve Bıyosensörlerın Nükleer Teknolojıde Kullanımları",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": null,
    "grup": "NÜK-SG-DOK-G - Nükleer Bilimler Seçmeli Grubu DOK Güz",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9105046572020",
    "ad": "Toryum ve Nadır Toprak Elementlerının Ayrılma ve Saflaştırılma Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": null,
    "grup": "NÜK-SG-DOK-G - Nükleer Bilimler Seçmeli Grubu DOK Güz",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "EBB6832017",
    "ad": "Öğretımde Planlama ve Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": null,
    "grup": "NÜK-SG-DOK-G - Nükleer Bilimler Seçmeli Grubu DOK Güz",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "EBB6852017",
    "ad": "Gelışım ve Öğrenme",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": null,
    "grup": "NÜK-SG-DOK-G - Nükleer Bilimler Seçmeli Grubu DOK Güz",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9105046121998",
    "ad": "Nükleer Mühendıslık Kımyası II",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": null,
    "grup": "NÜK-SG-DOK-B - Nükleer Bilimler Seçmeli Grubu DOK Bahar",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9105046222003",
    "ad": "Nükleer Yakıt Fabrıkasyonunda Kalıte Kontrolü ve Kalıte Güvencesı II",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": null,
    "grup": "NÜK-SG-DOK-B - Nükleer Bilimler Seçmeli Grubu DOK Bahar",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9105046282004",
    "ad": "Çevrede Radyonüklıtlerın Fızıkokımyasal Davranışları",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": null,
    "grup": "NÜK-SG-DOK-B - Nükleer Bilimler Seçmeli Grubu DOK Bahar",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9105046302004",
    "ad": "Nükleer Uygulamalarda Eser Element Analızlerı İçın Zengınleştırme Teknıklerı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": null,
    "grup": "NÜK-SG-DOK-B - Nükleer Bilimler Seçmeli Grubu DOK Bahar",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9105046322007",
    "ad": "Nükleer Atık Yönetımınde İyon Değışım Proseslerı II",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": null,
    "grup": "NÜK-SG-DOK-B - Nükleer Bilimler Seçmeli Grubu DOK Bahar",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9105046382010",
    "ad": "Radyokımyasal Proseslerın Optımızasyonu",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": null,
    "grup": "NÜK-SG-DOK-B - Nükleer Bilimler Seçmeli Grubu DOK Bahar",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9105046422017",
    "ad": "Radyoaktıf Atıkların Jeolojık Bertarafı",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": null,
    "grup": "NÜK-SG-DOK-B - Nükleer Bilimler Seçmeli Grubu DOK Bahar",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "EBB6832017",
    "ad": "Öğretımde Planlama ve Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": null,
    "grup": "NÜK-SG-DOK-B - Nükleer Bilimler Seçmeli Grubu DOK Bahar",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "EBB6852017",
    "ad": "Gelışım ve Öğrenme",
-   "mufredat": null,
+   "mufredat": "2012 Yılı Nükleer Bilimler-Nükleer Teknoloji Doktora",
    "yariyil": null,
    "grup": "NÜK-SG-DOK-B - Nükleer Bilimler Seçmeli Grubu DOK Bahar",
    "tur": "Seçmeli",

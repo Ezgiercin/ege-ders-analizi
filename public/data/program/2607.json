@@ -12,7 +12,7 @@
   {
    "kod": "ATA101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FEN101",
    "ad": "SCIENTIFIC ENGLISH I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FİZ101",
    "ad": "FİZİK I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "FKP101",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "KİM187",
    "ad": "GENERAL CHEMISTRY I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "MAT163",
    "ad": "MATEMATİK I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "TUR101",
    "ad": "TÜRK DİLİ I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "ATA102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "FEN102",
    "ad": "SCIENTIFIC ENGLISH II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "FEN104",
    "ad": "COMPUTER",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "FİZ102",
    "ad": "FİZİK II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "KİM188",
    "ad": "GENERAL CHEMISTRY II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "MAT156",
    "ad": "MATEMATİK II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "TUR102",
    "ad": "TÜRK DİLİ II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "ÜYG102",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "FİZ203",
    "ad": "KLASİK MEKANİK I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "FİZ207",
    "ad": "DIFFERENTIAL EQUATIONS FOR PHYSICIS",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "FİZ215",
    "ad": "PHYSICAL MATHEMATICS I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "FİZ217",
    "ad": "ELEKTROMANYETİZMA I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "İSG201",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "THU201",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "FİZ208",
    "ad": "TİTREŞİM VE DALGALAR",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "FİZ216",
    "ad": "PHYSICAL MATHEMATICS II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "FİZ224",
    "ad": "MODERN FİZİK",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "FİZ226",
    "ad": "ELEKTROMANYETİZMA II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "İSG202",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "FİZ301",
    "ad": "QUANTUM MECHANICS I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "FİZ303",
    "ad": "ELECTROMAGNETIC THEORY I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "FİZ305",
    "ad": "ELEKTRONİK I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "FİZ307",
    "ad": "THERMODYNAMICS",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "FİZ309",
    "ad": "OPTİK I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "FİZ302",
    "ad": "QUANTUM MECHANICS II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "FİZ304",
    "ad": "ELECTROMAGNETIC THEORY II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "FİZ308",
    "ad": "STATISTICAL PHYSICS",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "FİZ401",
    "ad": "CONDENSED MATTER PHYSICS I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "FİZ403",
    "ad": "ATOM FİZİĞİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "FİZ405",
    "ad": "NÜKLEER FİZİK I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "FİZ441",
    "ad": "DİPLOMA ÇALIŞMASI I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "FİZ444",
    "ad": "DİPLOMA ÇALIŞMASI II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -572,7 +572,7 @@
   {
    "kod": "PF201",
    "ad": "EĞİTİME GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-I - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU I (3.YY)",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-I - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU I (3.YY)",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-II - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU II (4.YY)",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-II - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU II (4.YY)",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-III - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU III (5.YY)",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-III - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU III (5.YY)",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "FİZ311",
    "ad": "FİZİKSEL MATEMETİK III",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.I - BÖLÜM SEÇMELİ DERSLERİ I",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "FİZ313",
    "ad": "FİZİKTE BİLGİSAYAR PROGRAMLAMA",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.I - BÖLÜM SEÇMELİ DERSLERİ I",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "FİZ315",
    "ad": "BİLİM TARİHİ VE FELSEFESİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.I - BÖLÜM SEÇMELİ DERSLERİ I",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "FİZ317",
    "ad": "BİYOFİZİK",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.I - BÖLÜM SEÇMELİ DERSLERİ I",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "FİZ319",
    "ad": "FİZİKTE ÖZEL FONKSİYONLAR",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.I - BÖLÜM SEÇMELİ DERSLERİ I",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "FİZ321",
    "ad": "ALGORİTMA VE VERİ YAPILARI",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.I - BÖLÜM SEÇMELİ DERSLERİ I",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "FİZ325",
    "ad": "PHYSICS OF LIFE",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.I - BÖLÜM SEÇMELİ DERSLERİ I",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "FİZ327",
    "ad": "RELATIVITY AND COSMOLOGY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.I - BÖLÜM SEÇMELİ DERSLERİ I",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "FİZ359",
    "ad": "BİLİM ETİĞİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.I - BÖLÜM SEÇMELİ DERSLERİ I",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "Bİİ305DSG",
    "ad": "DİN SOSYOLOJİSİNE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "Bİİ315İDİT",
    "ad": "İLK DÖNEM İSLAM TARİHİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "DTMK305TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "İİB307IGP",
    "ad": "INTRODUCTION TO GLOBAL POLITICS",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "MÜH309ETKG",
    "ad": "ELEKTRİK TESİSATLARINDA KORUMA VE GÜVENLİK",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-IV - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU IV (6.YY)",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "FİZ306",
    "ad": "ELEKTRONİK II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.II - BÖLÜM SEÇMELİ DERSLERİ II",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "FİZ310",
    "ad": "OPTİK II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.II - BÖLÜM SEÇMELİ DERSLERİ II",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "FİZ312",
    "ad": "FİZİKSEL MATEMATİK IV",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.II - BÖLÜM SEÇMELİ DERSLERİ II",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "FİZ314",
    "ad": "KLASİK MEKANİK II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.II - BÖLÜM SEÇMELİ DERSLERİ II",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "FİZ316",
    "ad": "RÖLATİVİTE TEORİSİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.II - BÖLÜM SEÇMELİ DERSLERİ II",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "FİZ320",
    "ad": "BİYOMEKANİK",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.II - BÖLÜM SEÇMELİ DERSLERİ II",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "FİZ326",
    "ad": "AKIŞKANLAR MEKANİĞİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.II - BÖLÜM SEÇMELİ DERSLERİ II",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "FİZ328",
    "ad": "BİYOLOJİ VE TIPTA FİZİK",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.II - BÖLÜM SEÇMELİ DERSLERİ II",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "FİZ330",
    "ad": "STAJ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.II - BÖLÜM SEÇMELİ DERSLERİ II",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "Bİİ305DS",
    "ad": "DİN VE SANAT",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "Bİİ306DİVKA",
    "ad": "DİNLER VE KADIN",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "ENF305WEB",
    "ad": "WEB TASARIMI",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "FEN305BİYO",
    "ad": "BİYOTEKNOLOJİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "FEN306MATDÜ",
    "ad": "MATEMATİKSEL DÜŞÜNME",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "AST001",
    "ad": "PRATİK ASTRONOMİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "AST003",
    "ad": "TEMEL ASTRONOMİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "BİY001",
    "ad": "MODERN BİYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "BKM1313",
    "ad": "HAYATIN KÖKENİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "BKM2423",
    "ad": "ENDÜSTRİYEL EKONOMİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "İST001",
    "ad": "İSTATİSTİKSEL GRAFİK YÖNTEMLER",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "KİM001",
    "ad": "KİMYASAL ÜRÜNLER VE YAŞAM",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "KİM003",
    "ad": "KEMOMETRİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "KİM007",
    "ad": "İŞ GÜVENLİĞİ VE SAĞLIĞI-KİMYASAL RİSK ETMENLERİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "MAT003",
    "ad": "LOJİK TASARIMI",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "MAT005",
    "ad": "MODELLEME TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "MAT007",
    "ad": "TEMEL BİLGİ TEKNOLOJİLERİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-V - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU V (7.YY)",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "FİZ411",
    "ad": "ENERJİ KAYNAKLARI FİZİĞİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.III - BÖLÜM SEÇMELİ DERSLERİ III",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "FİZ413",
    "ad": "TEORİK FİZİK YÖNTEMLERİ I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.III - BÖLÜM SEÇMELİ DERSLERİ III",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "FİZ415",
    "ad": "PARÇACIK FİZİĞİ I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.III - BÖLÜM SEÇMELİ DERSLERİ III",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "FİZ417",
    "ad": "MATEMATİKSEL FİZİK YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.III - BÖLÜM SEÇMELİ DERSLERİ III",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "FİZ419",
    "ad": "MOBİL PROGRAMLAMA",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.III - BÖLÜM SEÇMELİ DERSLERİ III",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "FİZ421",
    "ad": "PARALEL PROGRAMLAMA",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.III - BÖLÜM SEÇMELİ DERSLERİ III",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "FİZ423",
    "ad": "PAKET PROGRAMLAR I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.III - BÖLÜM SEÇMELİ DERSLERİ III",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "FİZ427",
    "ad": "DİJİTAL ELEKTRONİK",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.III - BÖLÜM SEÇMELİ DERSLERİ III",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "FİZ443",
    "ad": "SİMÜLASYON YÖNTEMLERİ I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.III - BÖLÜM SEÇMELİ DERSLERİ III",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "AST002",
    "ad": "MODERN ASTROFİZİK",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "AST004",
    "ad": "ASTROBİYOLOJİYE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "BİY006",
    "ad": "GENETİKTE GÜNCEL KONULAR",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "BKM1310",
    "ad": "HALK SAĞLIĞI",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "BKM2420",
    "ad": "ENDÜSTRİYEL HİJYEN",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "BKM302",
    "ad": "NANOBİYOTEKNOLOJİYE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "BKM410",
    "ad": "ATIK DEĞERLENDİRMESİ VE ARITMA YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "İST002",
    "ad": "EKONOMETRİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "İST004",
    "ad": "TOPLAM KALİTE KONTROL",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1510,7 +1510,7 @@
   {
    "kod": "KİM002",
    "ad": "LABORATUVAR GÜVENLİĞİ VE ATIK YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1524,7 +1524,7 @@
   {
    "kod": "KİM008",
    "ad": "ÇEVRE TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1538,7 +1538,7 @@
   {
    "kod": "MAT002",
    "ad": "NESNE TABANLI PROGRAMLAMAYA GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1552,7 +1552,7 @@
   {
    "kod": "MAT004",
    "ad": "SAYISAL YÖNTEMLER",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1566,7 +1566,7 @@
   {
    "kod": "MAT006",
    "ad": "SEMBOLİK MANTIK",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1580,7 +1580,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-VI - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU VI (8.YY)",
    "tur": "Seçmeli",
@@ -1594,7 +1594,7 @@
   {
    "kod": "FİZ402",
    "ad": "YOĞUN MADDE FİZİĞİ II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.IV - BÖLÜM SEÇMELİ DERSLERİ IV",
    "tur": "Seçmeli",
@@ -1608,7 +1608,7 @@
   {
    "kod": "FİZ404",
    "ad": "MOLEKÜL FİZİĞİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.IV - BÖLÜM SEÇMELİ DERSLERİ IV",
    "tur": "Seçmeli",
@@ -1622,7 +1622,7 @@
   {
    "kod": "FİZ406",
    "ad": "NÜKLEER FİZİK II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.IV - BÖLÜM SEÇMELİ DERSLERİ IV",
    "tur": "Seçmeli",
@@ -1636,7 +1636,7 @@
   {
    "kod": "FİZ410",
    "ad": "RADYASYON FİZİĞİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.IV - BÖLÜM SEÇMELİ DERSLERİ IV",
    "tur": "Seçmeli",
@@ -1650,7 +1650,7 @@
   {
    "kod": "FİZ412",
    "ad": "MEDİKAL FİZİK",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.IV - BÖLÜM SEÇMELİ DERSLERİ IV",
    "tur": "Seçmeli",
@@ -1664,7 +1664,7 @@
   {
    "kod": "FİZ414",
    "ad": "TEORİK FİZİK YÖNTEMLERİ II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.IV - BÖLÜM SEÇMELİ DERSLERİ IV",
    "tur": "Seçmeli",
@@ -1678,7 +1678,7 @@
   {
    "kod": "FİZ416",
    "ad": "PARÇACIK FİZİĞİ II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.IV - BÖLÜM SEÇMELİ DERSLERİ IV",
    "tur": "Seçmeli",
@@ -1692,7 +1692,7 @@
   {
    "kod": "FİZ418",
    "ad": "ÖLÇÜ VE KONTROL TEKNİĞİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.IV - BÖLÜM SEÇMELİ DERSLERİ IV",
    "tur": "Seçmeli",
@@ -1706,7 +1706,7 @@
   {
    "kod": "FİZ422",
    "ad": "FİZİKTE YENİ GELİŞMELER",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.IV - BÖLÜM SEÇMELİ DERSLERİ IV",
    "tur": "Seçmeli",
@@ -1720,7 +1720,7 @@
   {
    "kod": "FİZ424",
    "ad": "YOĞUN MADDE FİZİĞİNDE GÜNCEL KONULAR",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.IV - BÖLÜM SEÇMELİ DERSLERİ IV",
    "tur": "Seçmeli",
@@ -1734,7 +1734,7 @@
   {
    "kod": "FİZ426",
    "ad": "NÜKLEER RADYASYON DEDEKTÖRLERİ FİZİĞİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.IV - BÖLÜM SEÇMELİ DERSLERİ IV",
    "tur": "Seçmeli",
@@ -1748,7 +1748,7 @@
   {
    "kod": "FİZ428",
    "ad": "MALZEME FİZİĞİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.IV - BÖLÜM SEÇMELİ DERSLERİ IV",
    "tur": "Seçmeli",
@@ -1762,7 +1762,7 @@
   {
    "kod": "FİZ430",
    "ad": "SPEKTRAL ANALİZ YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.IV - BÖLÜM SEÇMELİ DERSLERİ IV",
    "tur": "Seçmeli",
@@ -1776,7 +1776,7 @@
   {
    "kod": "FİZ432",
    "ad": "WEB PROGRAMLAMA",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.IV - BÖLÜM SEÇMELİ DERSLERİ IV",
    "tur": "Seçmeli",
@@ -1790,7 +1790,7 @@
   {
    "kod": "FİZ445",
    "ad": "SİMÜLASYON YÖNTEMLERİ II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FİZ.BÖLÜM.IV - BÖLÜM SEÇMELİ DERSLERİ IV",
    "tur": "Seçmeli",

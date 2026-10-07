@@ -12,7 +12,7 @@
   {
    "kod": "504002042003",
    "ad": "FİZİKSEL KİMYA",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "504002062007",
    "ad": "KÜTLE VE ENERJİ DENKLİKLERİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "504002212017",
    "ad": "GIDA KİMYASI I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "504002332007",
    "ad": "ENSTRUMENTAL GIDA ANALİZLERİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "504002432024",
    "ad": "EKONOMİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "504002452024",
    "ad": "REAKSİYON KİNETİĞİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "504002492024",
    "ad": "DİFERANSİYEL DENKLEMLER",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "504002512024",
    "ad": "BİLGİSAYAR PROGRAMLAMA",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "10520401T11235",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "504002092016",
    "ad": "TERMODİNAMİK",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "504002132017",
    "ad": "GENEL MİKROBİYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "504002222017",
    "ad": "GIDA KİMYASI II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "504002422024",
    "ad": "İSTATİSTİK",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "504002442024",
    "ad": "AKIŞKANLAR MEKANİĞİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "504002462024",
    "ad": "NUMERİK ANALİZ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "504002272007",
    "ad": "GIDA BIYOKİMYASI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "504003032007",
    "ad": "ISI VE KÜTLE TRANSFERİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "504003072012",
    "ad": "GIDA MÜHENDİSLİĞİ TEMEL İŞLEMLER -II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "504003212017",
    "ad": "GIDA KALİTE SAĞLAMA",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "504003392007",
    "ad": "GIDA MİKROBİYOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "504003472024",
    "ad": "GIDA MÜHENDİSLİĞİNDE TEMEL İŞLEMLER I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "504003122017",
    "ad": "HUBUBAT TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "504003132017",
    "ad": "YAĞ TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "504003412007",
    "ad": "BESLENME",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "504003762024",
    "ad": "TEMEL İŞLEMLER LABORATUVARI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "504003782024",
    "ad": "GIDA MÜHENDİSLİĞİ DİZAYN VE EKONOMİSİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "504003802024",
    "ad": "PROSES KONTROL",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",

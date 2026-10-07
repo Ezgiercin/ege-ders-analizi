@@ -12,7 +12,7 @@
   {
    "kod": "9301035432020",
    "ad": "Hücre Evrımı ve Organel Bıyokımyası",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9301035602020",
    "ad": "Temel Laboratuvar Becerılerı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9301035632020",
    "ad": "Karbonhıdratların Yapısı ve Fonksıyonu",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9301035612020",
    "ad": "Amınoasıt ve Proteınler Yapı ve Fonksıyonları",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "9301035622020",
    "ad": "Lıpıtlerın Yapı ve Fonsıyonları",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "BAT102",
    "ad": "Bılımsel Araştırmanın Temellerı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "9301035112015",
    "ad": "Hematopoetık Sıstem Bıyokımyası",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9301035192013",
    "ad": "Doku Özel Bıyokımyası-II (Kas)",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9301035202015",
    "ad": "Hücre Kültürü ve Laboratuar Uygulamaları",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9301035222015",
    "ad": "Ekstrasellular Matrıks",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9301035232015",
    "ad": "Doku Özel Bıyokımyası-I (Sınır, Duyu)",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9301035242015",
    "ad": "Kök Hücreler",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9301035262015",
    "ad": "Deneysel Hayvan Çalışmaları/Doku Ekstraksıyonu ve Homojenızasyon",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9301035272015",
    "ad": "Sındırım Sıstemı Bıyokımyası",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9301035282013",
    "ad": "Dıabet, Obesıte ve Osteoporoza Bıyokımyasal Bakış",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9301035322013",
    "ad": "Fonksıyonel Besınler",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9301035342015",
    "ad": "Yöntem Seçımı ve Değerlendırılmesı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9301035352013",
    "ad": "Metabolızmanın Doğumsal Bozuklukları",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9301035362015",
    "ad": "Oksıdan Stres/Antıoksıdanlar",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9301035422020",
    "ad": "Laboratuvar Güvenlığı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9301035472013",
    "ad": "Kanıta Dayalı Laboratuvar Tıbbı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9301035512018",
    "ad": "Uygulamalı Proje Yazma",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9301035582015",
    "ad": "Bıyoınformatık-I",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9301035592015",
    "ad": "Bılımsel Araştırma Yöntemlerı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9301035662015",
    "ad": "Endokrın Sıstem Bıyokımyası",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9301035682020",
    "ad": "Beslenme ve Vıtamınler",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9301035712015",
    "ad": "Ksenobıyotık ve İlaç Metabolızması-Detoksıfıkasyonlar",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9301035722013",
    "ad": "Menopoz Bıyokımyası",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9301035732021",
    "ad": "ELISA ve RIA Prensıplerı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9301035772020",
    "ad": "Moleküler Bıyolojı Teknıklerıne Gırış",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9301035782021",
    "ad": "Özgeçmış ve Kapak Mektubu Hazırlama",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9301035952015",
    "ad": "Kütle Spektrometrısıne Gırış ve İlerı Uygulamalar",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "9301035962015",
    "ad": "Böbreğın Fonksıyonları ve İdrarın Bıyokımyasal Özellıklerı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "9301035972015",
    "ad": "Laboratuvarda Kalıte Kontrol ve Akredıtasyon ( TS EN 15189 ve TS EN 17025)",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "9301035982015",
    "ad": "Etkın Sunum Becerılerı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "9301035992018",
    "ad": "Kanser Metabolızması",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "9301036932014",
    "ad": "Beslenme ve Antıoksıdanlar",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "9301036952014",
    "ad": "Kütle Spektrometrısıne Gırış ve İlerı Uygulamalar",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "9301036962014",
    "ad": "Böbreğın Fonksıyonları ve İdrarın Bıyokımyasal Özellıklerı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "9301035112015",
    "ad": "Hematopoetık Sıstem Bıyokımyası",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "9301035192013",
    "ad": "Doku Özel Bıyokımyası-II (Kas)",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "9301035202015",
    "ad": "Hücre Kültürü ve Laboratuar Uygulamaları",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "9301035222015",
    "ad": "Ekstrasellular Matrıks",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "9301035232015",
    "ad": "Doku Özel Bıyokımyası-I (Sınır, Duyu)",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "9301035242015",
    "ad": "Kök Hücreler",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "9301035262015",
    "ad": "Deneysel Hayvan Çalışmaları/Doku Ekstraksıyonu ve Homojenızasyon",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "9301035272015",
    "ad": "Sındırım Sıstemı Bıyokımyası",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "9301035282013",
    "ad": "Dıabet, Obesıte ve Osteoporoza Bıyokımyasal Bakış",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "9301035322013",
    "ad": "Fonksıyonel Besınler",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "9301035342015",
    "ad": "Yöntem Seçımı ve Değerlendırılmesı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "9301035352013",
    "ad": "Metabolızmanın Doğumsal Bozuklukları",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "9301035362015",
    "ad": "Oksıdan Stres/Antıoksıdanlar",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "9301035422020",
    "ad": "Laboratuvar Güvenlığı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "9301035472013",
    "ad": "Kanıta Dayalı Laboratuvar Tıbbı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "9301035512018",
    "ad": "Uygulamalı Proje Yazma",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "9301035562015",
    "ad": "Genetık Hastalıkların Moleküler Temellerı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "9301035582015",
    "ad": "Bıyoınformatık-I",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "9301035592015",
    "ad": "Bılımsel Araştırma Yöntemlerı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "9301035662015",
    "ad": "Endokrın Sıstem Bıyokımyası",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "9301035682020",
    "ad": "Beslenme ve Vıtamınler",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "9301035712015",
    "ad": "Ksenobıyotık ve İlaç Metabolızması-Detoksıfıkasyonlar",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "9301035722013",
    "ad": "Menopoz Bıyokımyası",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "9301035732021",
    "ad": "ELISA ve RIA Prensıplerı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "9301035772020",
    "ad": "Moleküler Bıyolojı Teknıklerıne Gırış",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "9301035782021",
    "ad": "Özgeçmış ve Kapak Mektubu Hazırlama",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "9301035952015",
    "ad": "Kütle Spektrometrısıne Gırış ve İlerı Uygulamalar",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "9301035962015",
    "ad": "Böbreğın Fonksıyonları ve İdrarın Bıyokımyasal Özellıklerı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "9301035972015",
    "ad": "Laboratuvarda Kalıte Kontrol ve Akredıtasyon ( TS EN 15189 ve TS EN 17025)",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "9301035982015",
    "ad": "Etkın Sunum Becerılerı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "9301035992018",
    "ad": "Kanser Metabolızması",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "9301036932014",
    "ad": "Beslenme ve Antıoksıdanlar",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "9301036952014",
    "ad": "Kütle Spektrometrısıne Gırış ve İlerı Uygulamalar",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "9301036962014",
    "ad": "Böbreğın Fonksıyonları ve İdrarın Bıyokımyasal Özellıklerı",
-   "mufredat": "Tıbbi Biyokimya",
+   "mufredat": "2013 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Biyokimya)",
    "yariyil": null,
    "grup": "930103SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",

@@ -12,7 +12,7 @@
   {
    "kod": "HAZ001",
    "ad": "HAZIRLIK SINIFI",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 0,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "4111001012010",
    "ad": "TÜRK DİLİ I",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "4111001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "4111001032010",
    "ad": "YABANCI DİL I",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "4111001092013",
    "ad": "TEMEL SANAT EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "4111001112010",
    "ad": "BİLGİ VE İLETİŞİM TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "4111001132013",
    "ad": "TEKSTİL TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "4111001152010",
    "ad": "SANAT TARİHİ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "4111001172010",
    "ad": "MESLEKİ TEKNİK ÇİZİM",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "4111001192011",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "4111001212020",
    "ad": "KONFEKSİYON YARDIMCI MALZEMELERİ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "4111001272010",
    "ad": "MESLEKİ MATEMATİK I",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "4111001292020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "14111101T11134",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "4111000922010",
    "ad": "TÜRK DİLİ II",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "4111000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "4111001042010",
    "ad": "YABANCI DİL II",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "4111001122010",
    "ad": "GİYSİ TARİHİ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "4111001182013",
    "ad": "KALIP HAZIRLAMA I",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "4111001202010",
    "ad": "STAJ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "4111001222020",
    "ad": "MODA RESMİ VE İLLÜSTRASYON",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "4111001282010",
    "ad": "MESLEKİ MATEMATİK II",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "4111001322010",
    "ad": "KONFEKSİYON ÜRETİM TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "4111002012013",
    "ad": "KALIP HAZIRLAMA II",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "4111002032020",
    "ad": "DRAPAJ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "4111002052020",
    "ad": "BİLGİSAYAR DESTEKLİ TEKSTİL TASARIMI",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "4111002072020",
    "ad": "BİLGİSAYARLI KALIP HAZIRLAMA I",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "4111002092010",
    "ad": "GİYSİ ÜRETİMİ I",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "4111002112020",
    "ad": "GİYSİ TASARIMI I",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "4111002132010",
    "ad": "MESLEKİ YABANCI DİL I",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "4111002152013",
    "ad": "PROJE GELİŞTİRME",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "4111002002020",
    "ad": "GİYSİ TASARIMI II",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "4111002022010",
    "ad": "GİYSİ ÜRETİMİ II",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "4111002042020",
    "ad": "SUNUM TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "4111002062013",
    "ad": "ÜRETİM PLANLAMA",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "4111002082010",
    "ad": "MESLEKİ YABANCI DİL II",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "4111002142020",
    "ad": "BİLGİSAYAR DESTEKLİ GİYSİ TASARIMI",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "4111002162010",
    "ad": "MODA FOTOĞRAFÇILIĞI",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "4111001232020",
    "ad": "GÜZEL SANATLAR",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": null,
    "grup": "SCM-41-MODA.T-1YY - SEÇMELİ DERS GRUBU E.A.M.Y.O-MODA.TASARIM-1YY",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "4111001252014",
    "ad": "İŞARET DİLİ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": null,
    "grup": "SCM-41-MODA.T-1YY - SEÇMELİ DERS GRUBU E.A.M.Y.O-MODA.TASARIM-1YY",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "4111001312020",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": null,
    "grup": "SCM-41-MODA.T-1YY - SEÇMELİ DERS GRUBU E.A.M.Y.O-MODA.TASARIM-1YY",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "4111001202020",
    "ad": "TEMEL SANAT TASARIMI",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": null,
    "grup": "SCM-41-MODA.T-2.YY - SEÇMELİ DERS GRUBU E.A.M.Y.O-MODA.T.2.YY",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "4111001342020",
    "ad": "BİLGİSAYAR",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": null,
    "grup": "SCM-41-MODA.T-2.YY - SEÇMELİ DERS GRUBU E.A.M.Y.O-MODA.T.2.YY",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "4111001362021",
    "ad": "TEKNOLOJİ BAĞIMLILIĞI",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": null,
    "grup": "SCM-41-MODA.T-2.YY - SEÇMELİ DERS GRUBU E.A.M.Y.O-MODA.T.2.YY",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "4111002172013",
    "ad": "İLETİŞİM",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": null,
    "grup": "SCM-41-MODA.T-3.YY - SEÇMELİ DERS GRUBU E.A.M.Y.O-MODA-3.YY",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "4111002192013",
    "ad": "KONFEKSİYONDA KALİTE KONTROL",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": null,
    "grup": "SCM-41-MODA.T-3.YY - SEÇMELİ DERS GRUBU E.A.M.Y.O-MODA-3.YY",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "4111002212013",
    "ad": "İŞÇİ GÜVENLİĞİ VE İŞ SAĞLIĞI",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": null,
    "grup": "SCM-41-MODA.T-3.YY - SEÇMELİ DERS GRUBU E.A.M.Y.O-MODA-3.YY",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "4111002232016",
    "ad": "BİLGİSAYARLI KALIP HAZIRLAMA II",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": null,
    "grup": "SCM-41-MODA.T-3.YY - SEÇMELİ DERS GRUBU E.A.M.Y.O-MODA-3.YY",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "4111002182013",
    "ad": "MESLEK ETİĞİ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": null,
    "grup": "SCM-41-MODA.T-4.YY - SEÇMELİ DERS GRUBU E.A.M.Y.O-MODA.T-4.YY",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "4111002202016",
    "ad": "BİLGİSAYARLI KALIP HAZIRLAMA III",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": null,
    "grup": "SCM-41-MODA.T-4.YY - SEÇMELİ DERS GRUBU E.A.M.Y.O-MODA.T-4.YY",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "4111002222020",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": null,
    "grup": "SCM-41-MODA.T-4.YY - SEÇMELİ DERS GRUBU E.A.M.Y.O-MODA.T-4.YY",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "4111002242020",
    "ad": "MODA PAZARLAMA",
-   "mufredat": null,
+   "mufredat": "Moda Tasarım (İKMEP) 2020 Müfredatı",
    "yariyil": null,
    "grup": "SCM-41-MODA.T-4.YY - SEÇMELİ DERS GRUBU E.A.M.Y.O-MODA.T-4.YY",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "HAZ001",
    "ad": "HAZIRLIK SINIFI",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 0,
    "grup": null,
    "tur": "Zorunlu",
@@ -754,7 +754,7 @@
   {
    "kod": "4111001012010",
    "ad": "TÜRK DİLİ I",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "4111001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -782,7 +782,7 @@
   {
    "kod": "4111001032010",
    "ad": "YABANCI DİL I",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -796,7 +796,7 @@
   {
    "kod": "4111001052023",
    "ad": "TEKSTİL TEKNOLOJİSİ I",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -810,7 +810,7 @@
   {
    "kod": "4111001072023",
    "ad": "MESLEKİ TEKNİK ÇİZİM",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -824,7 +824,7 @@
   {
    "kod": "4111001092023",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -838,7 +838,7 @@
   {
    "kod": "4111001112023",
    "ad": "MESLEKİ MATEMATİK I",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -852,7 +852,7 @@
   {
    "kod": "4111001132023",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -866,7 +866,7 @@
   {
    "kod": "4111001152023",
    "ad": "GİYSİ ÜRETİMİ I",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -880,7 +880,7 @@
   {
    "kod": "4111001172023",
    "ad": "TEKSTİLDE RENK OLGUSU",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -894,7 +894,7 @@
   {
    "kod": "4111001192023",
    "ad": "MODA AKIMLARI",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -908,7 +908,7 @@
   {
    "kod": "4111001292023",
    "ad": "TEMEL SANAT EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -922,7 +922,7 @@
   {
    "kod": "4111001312023",
    "ad": "BİLGİ VE İLETİŞİM TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -936,7 +936,7 @@
   {
    "kod": "4111000922010",
    "ad": "TÜRK DİLİ II",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -950,7 +950,7 @@
   {
    "kod": "4111000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -964,7 +964,7 @@
   {
    "kod": "4111001002023",
    "ad": "KALIP HAZIRLAMA I",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -978,7 +978,7 @@
   {
    "kod": "4111001042010",
    "ad": "YABANCI DİL II",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -992,7 +992,7 @@
   {
    "kod": "4111001062023",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1006,7 +1006,7 @@
   {
    "kod": "4111001082023",
    "ad": "MESLEKİ MATEMATİK II",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1020,7 +1020,7 @@
   {
    "kod": "4111001102023",
    "ad": "GENEL KONFEKSİYON",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1034,7 +1034,7 @@
   {
    "kod": "4111001122023",
    "ad": "KONFEKSİYON YARDIMCI MALZEMELERİ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1048,7 +1048,7 @@
   {
    "kod": "4111001142023",
    "ad": "GİYSİ ÜRETİMİ II",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1062,7 +1062,7 @@
   {
    "kod": "4111001242023",
    "ad": "STAJ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1076,7 +1076,7 @@
   {
    "kod": "4111001262023",
    "ad": "MODA RESMİ VE İLLÜSTRASYON",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1090,7 +1090,7 @@
   {
    "kod": "4111002012023",
    "ad": "KALIP HAZIRLAMA II",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1104,7 +1104,7 @@
   {
    "kod": "4111002032023",
    "ad": "DRAPAJ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1118,7 +1118,7 @@
   {
    "kod": "4111002052023",
    "ad": "BİLGİSAYAR DESTEKLİ TEKSTİL TASARIMI",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1132,7 +1132,7 @@
   {
    "kod": "4111002072023",
    "ad": "BİLGİSAYARLI KALIP HAZIRLAMA I",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1146,7 +1146,7 @@
   {
    "kod": "4111002092023",
    "ad": "GİYSİ ÜRETİMİ III",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1160,7 +1160,7 @@
   {
    "kod": "4111002112023",
    "ad": "GİYSİ TASARIMI I",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1174,7 +1174,7 @@
   {
    "kod": "4111002132023",
    "ad": "MESLEKİ YABANCI DİL I",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1188,7 +1188,7 @@
   {
    "kod": "4111002152023",
    "ad": "MODA AKSESUAR TASARIMI",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1202,7 +1202,7 @@
   {
    "kod": "4111002002023",
    "ad": "GİYSİ TASARIMI II",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1216,7 +1216,7 @@
   {
    "kod": "4111002022023",
    "ad": "GİYSİ ÜRETİMİ IV",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1230,7 +1230,7 @@
   {
    "kod": "4111002042023",
    "ad": "SUNUM TEKNİKLERİ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1244,7 +1244,7 @@
   {
    "kod": "4111002062023",
    "ad": "MESLEKİ YABANCI DİL II",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1258,7 +1258,7 @@
   {
    "kod": "4111002082023",
    "ad": "MODA FOTOGRAFÇILIĞI",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1272,7 +1272,7 @@
   {
    "kod": "4111002102023",
    "ad": "BİLGİSAYAR DESTEKLİ GİYSİ TASARIMI",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1286,7 +1286,7 @@
   {
    "kod": "4111002122023",
    "ad": "PROJE GELİŞTİRME",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1300,7 +1300,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1314,7 +1314,7 @@
   {
    "kod": "4111001212023",
    "ad": "GÜZEL SANATLAR",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": null,
    "grup": "SEÇMELİDERS.-1.YY - SEÇMELİ DERS GRUBU 1.YARIYIL",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "4111001232023",
    "ad": "İŞARET DİLİ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": null,
    "grup": "SEÇMELİDERS.-1.YY - SEÇMELİ DERS GRUBU 1.YARIYIL",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "4111001252023",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": null,
    "grup": "SEÇMELİDERS.-1.YY - SEÇMELİ DERS GRUBU 1.YARIYIL",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "4111001272023",
    "ad": "SANAT TARİHİ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": null,
    "grup": "SEÇMELİDERS.-1.YY - SEÇMELİ DERS GRUBU 1.YARIYIL",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "4111001162023",
    "ad": "TEMEL SANAT TASARIMI",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": null,
    "grup": "SEÇMELİDERS.-2.YY - SEÇMELİ DERS GRUBU 2.YARIYIL",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "4111001182023",
    "ad": "TEKNOLOJİ BAĞIMLILIĞI",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": null,
    "grup": "SEÇMELİDERS.-2.YY - SEÇMELİ DERS GRUBU 2.YARIYIL",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "4111001202023",
    "ad": "SÜRDÜRÜLEBİLİRLİK VE ÇEVRE",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": null,
    "grup": "SEÇMELİDERS.-2.YY - SEÇMELİ DERS GRUBU 2.YARIYIL",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "4111001222023",
    "ad": "YENİLİKÇİ YÖNTEMLER İLE TEKSTİL ÜRETİMİ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": null,
    "grup": "SEÇMELİDERS.-2.YY - SEÇMELİ DERS GRUBU 2.YARIYIL",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "4111002172023",
    "ad": "İLETİŞİM",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": null,
    "grup": "SEÇMELİDERS.-3.YY - SEÇMELİ DERS GRUBU 3.YARIYIL",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "4111002192023",
    "ad": "KONFEKSİYONDA KALİTE KONTROL",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": null,
    "grup": "SEÇMELİDERS.-3.YY - SEÇMELİ DERS GRUBU 3.YARIYIL",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "4111002212023",
    "ad": "İŞÇİ GÜVENLİĞİ VE İŞ SAĞLIĞI",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": null,
    "grup": "SEÇMELİDERS.-3.YY - SEÇMELİ DERS GRUBU 3.YARIYIL",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "4111002232023",
    "ad": "GİYSİ KONFORU",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": null,
    "grup": "SEÇMELİDERS.-3.YY - SEÇMELİ DERS GRUBU 3.YARIYIL",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "4111002142023",
    "ad": "MESLEK ETİĞİ",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": null,
    "grup": "SEÇMELİDERS.-4.YY - SEÇMELİ DERS GRUBU 4.YARIYIL",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "4111002162023",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": null,
    "grup": "SEÇMELİDERS.-4.YY - SEÇMELİ DERS GRUBU 4.YARIYIL",
    "tur": "Seçmeli",
@@ -1510,7 +1510,7 @@
   {
    "kod": "4111002182023",
    "ad": "MODA PAZARLAMA",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": null,
    "grup": "SEÇMELİDERS.-4.YY - SEÇMELİ DERS GRUBU 4.YARIYIL",
    "tur": "Seçmeli",
@@ -1524,7 +1524,7 @@
   {
    "kod": "4111002202023",
    "ad": "ÜRETİM PLANLAMA",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": null,
    "grup": "SEÇMELİDERS.-4.YY - SEÇMELİ DERS GRUBU 4.YARIYIL",
    "tur": "Seçmeli",
@@ -1538,7 +1538,7 @@
   {
    "kod": "4111002222023",
    "ad": "BİLGİSAYARLI KALIP HAZIRLAMA II",
-   "mufredat": null,
+   "mufredat": "Moda Tasarımı (İKMEP) 2023 Müfredatı",
    "yariyil": null,
    "grup": "SEÇMELİDERS.-4.YY - SEÇMELİ DERS GRUBU 4.YARIYIL",
    "tur": "Seçmeli",
@@ -1552,7 +1552,7 @@
   {
    "kod": "HAZ001",
    "ad": "HAZIRLIK SINIFI",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 0,
    "grup": null,
    "tur": "Zorunlu",
@@ -1566,7 +1566,7 @@
   {
    "kod": "4111001012010",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1580,7 +1580,7 @@
   {
    "kod": "4111001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1594,7 +1594,7 @@
   {
    "kod": "4111001032010",
    "ad": "YABANCI DİL I",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1608,7 +1608,7 @@
   {
    "kod": "4111001072023",
    "ad": "MESLEKİ TEKNİK ÇİZİM",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1622,7 +1622,7 @@
   {
    "kod": "4111001092023",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1636,7 +1636,7 @@
   {
    "kod": "4111001132023",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1650,7 +1650,7 @@
   {
    "kod": "4111001152023",
    "ad": "GİYSİ ÜRETİMİ I",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1664,7 +1664,7 @@
   {
    "kod": "4111001292023",
    "ad": "TEMEL SANAT EĞİTİMİ",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1678,7 +1678,7 @@
   {
    "kod": "4111001312023",
    "ad": "BİLGİ VE İLETİŞİM TEKNOLOJİSİ",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1692,7 +1692,7 @@
   {
    "kod": "4111001332026",
    "ad": "TEKSTİL TEKNOLOJİSİ",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1706,7 +1706,7 @@
   {
    "kod": "4111001352026",
    "ad": "MODA RESMİ VE İLLÜSTRASYON",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1720,7 +1720,7 @@
   {
    "kod": "4111001372026",
    "ad": "KONFEKSİYON YARDIMCI MALZEMELERİ",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1734,7 +1734,7 @@
   {
    "kod": "4111001392026",
    "ad": "BİLGİSAYAR DESTEKLİ TEKSTİL TASARIMI",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1748,7 +1748,7 @@
   {
    "kod": "4111000922010",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1762,7 +1762,7 @@
   {
    "kod": "4111000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1776,7 +1776,7 @@
   {
    "kod": "4111001042010",
    "ad": "YABANCI DİL II",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1790,7 +1790,7 @@
   {
    "kod": "4111001382026",
    "ad": "KALIP HAZIRLAMA TEKNİKLERİ I",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1804,7 +1804,7 @@
   {
    "kod": "4111001402026",
    "ad": "MESLEKİ MATEMATİK",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1818,7 +1818,7 @@
   {
    "kod": "4111001422026",
    "ad": "KONFEKSİYON TEKNOLOJİSİ",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1832,7 +1832,7 @@
   {
    "kod": "4111001442026",
    "ad": "MESLEKİ YABANCI DİL",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1846,7 +1846,7 @@
   {
    "kod": "4111001462026",
    "ad": "GİYSİ ÜRETİMİ II",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1860,7 +1860,7 @@
   {
    "kod": "4111001482026",
    "ad": "BİLGİSAYAR DESTEKLİ MODA TASARIMI",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1874,7 +1874,7 @@
   {
    "kod": "4111001502026",
    "ad": "GİYSİ TASARIMI I",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1888,7 +1888,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1902,7 +1902,7 @@
   {
    "kod": "4111002252026",
    "ad": "DRAPAJ",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1916,7 +1916,7 @@
   {
    "kod": "4111002272026",
    "ad": "DİJİTAL MODA İLETİŞİMİ",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1930,7 +1930,7 @@
   {
    "kod": "4111002292026",
    "ad": "SÜRDÜRÜLEBİLİRLİK VE ÇEVRE",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1944,7 +1944,7 @@
   {
    "kod": "4111002312026",
    "ad": "KALIP HAZIRLAMA TEKNİKLERİ II",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1958,7 +1958,7 @@
   {
    "kod": "4111002332026",
    "ad": "SUNUM TEKNİKLERİ",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1972,7 +1972,7 @@
   {
    "kod": "4111002352026",
    "ad": "BİLGİSAYAR DESTEKLİ KALIP HAZIRLAMA",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1986,7 +1986,7 @@
   {
    "kod": "4111002372026",
    "ad": "GİYSİ ÜRETİMİ III",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2000,7 +2000,7 @@
   {
    "kod": "4111002392026",
    "ad": "GİYSİ TASARIMI II",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2014,7 +2014,7 @@
   {
    "kod": "4111002412026",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2028,7 +2028,7 @@
   {
    "kod": "4111002432026",
    "ad": "KONFEKSİYONDA KALİTE KONTROL",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2042,7 +2042,7 @@
   {
    "kod": "4111002502026",
    "ad": "İŞLETMEDE MESLEKİ EĞİTİM",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2056,7 +2056,7 @@
   {
    "kod": "4111001212023",
    "ad": "GÜZEL SANATLAR",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": null,
    "grup": "SEÇ.DERS.G-I - SEÇMELİ DERS GRUBU I (MODA TASARIM)",
    "tur": "Seçmeli",
@@ -2070,7 +2070,7 @@
   {
    "kod": "4111001232023",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": null,
    "grup": "SEÇ.DERS.G-I - SEÇMELİ DERS GRUBU I (MODA TASARIM)",
    "tur": "Seçmeli",
@@ -2084,7 +2084,7 @@
   {
    "kod": "4111001252023",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": null,
    "grup": "SEÇ.DERS.G-I - SEÇMELİ DERS GRUBU I (MODA TASARIM)",
    "tur": "Seçmeli",
@@ -2098,7 +2098,7 @@
   {
    "kod": "4111001412026",
    "ad": "MODA AKIMLARI",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": null,
    "grup": "SEÇ.DERS.G-I - SEÇMELİ DERS GRUBU I (MODA TASARIM)",
    "tur": "Seçmeli",
@@ -2112,7 +2112,7 @@
   {
    "kod": "4111001452026",
    "ad": "TEKNOLOJİ BAĞIMLILIĞI",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": null,
    "grup": "SEÇ.DERS.G-I - SEÇMELİ DERS GRUBU I (MODA TASARIM)",
    "tur": "Seçmeli",
@@ -2126,7 +2126,7 @@
   {
    "kod": "4111001162023",
    "ad": "TEMEL SANAT TASARIMI",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": null,
    "grup": "SEÇ.DERS.G-II - SEÇMELİ DERS GRUBU II (MODA TASARIM)",
    "tur": "Seçmeli",
@@ -2140,7 +2140,7 @@
   {
    "kod": "4111001222023",
    "ad": "YENİLİKÇİ YÖNTEMLER İLE TEKSTİL ÜRETİMİ",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": null,
    "grup": "SEÇ.DERS.G-II - SEÇMELİ DERS GRUBU II (MODA TASARIM)",
    "tur": "Seçmeli",
@@ -2154,7 +2154,7 @@
   {
    "kod": "4111001562026",
    "ad": "MODA AKSESUAR TASARIMI",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": null,
    "grup": "SEÇ.DERS.G-II - SEÇMELİ DERS GRUBU II (MODA TASARIM)",
    "tur": "Seçmeli",
@@ -2168,7 +2168,7 @@
   {
    "kod": "4111002452026",
    "ad": "PORTFOLYO HAZIRLAMA",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": null,
    "grup": "SEÇ.DERS.G-III - SEÇMELİ DERS GRUBU III (MODA TASARIM)",
    "tur": "Seçmeli",
@@ -2182,7 +2182,7 @@
   {
    "kod": "4111002472026",
    "ad": "TEKSTİLDE YAPAY ZEKA KULLANIMI",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": null,
    "grup": "SEÇ.DERS.G-III - SEÇMELİ DERS GRUBU III (MODA TASARIM)",
    "tur": "Seçmeli",
@@ -2196,7 +2196,7 @@
   {
    "kod": "4111002492026",
    "ad": "NAKIŞ VE BASKI TEKNİKLERİ",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": null,
    "grup": "SEÇ.DERS.G-III - SEÇMELİ DERS GRUBU III (MODA TASARIM)",
    "tur": "Seçmeli",
@@ -2210,7 +2210,7 @@
   {
    "kod": "4111002512026",
    "ad": "BİLGİSAYAR DESTEKLİ ÜÇ BOYUTLU GİYSİ TASARIMI",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": null,
    "grup": "SEÇ.DERS.G-III - SEÇMELİ DERS GRUBU III (MODA TASARIM)",
    "tur": "Seçmeli",
@@ -2224,7 +2224,7 @@
   {
    "kod": "4111002532026",
    "ad": "ÜRETİM PLANLAMA",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": null,
    "grup": "SEÇ.DERS.G-III - SEÇMELİ DERS GRUBU III (MODA TASARIM)",
    "tur": "Seçmeli",
@@ -2238,7 +2238,7 @@
   {
    "kod": "4111002552026",
    "ad": "GİYSİ KONFORU",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": null,
    "grup": "SEÇ.DERS.G-III - SEÇMELİ DERS GRUBU III (MODA TASARIM)",
    "tur": "Seçmeli",
@@ -2252,7 +2252,7 @@
   {
    "kod": "4111002572026",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": "Moda Tasarımı İkmep",
+   "mufredat": "2026 Yılı Müfredatı(Moda Tasarımı İkmep)",
    "yariyil": null,
    "grup": "SEÇ.DERS.G-III - SEÇMELİ DERS GRUBU III (MODA TASARIM)",
    "tur": "Seçmeli",

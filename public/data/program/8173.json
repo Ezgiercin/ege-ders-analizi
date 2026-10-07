@@ -12,7 +12,7 @@
   {
    "kod": "9378015012016",
    "ad": "Tıbbı Vırolojı",
-   "mufredat": null,
+   "mufredat": "Tıbbi Mikrobiyoloji 2016",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9378015002016",
    "ad": "Sağlık Araştırmalarında İstatıstık Uygulamaları",
-   "mufredat": null,
+   "mufredat": "Tıbbi Mikrobiyoloji 2016",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "BAT102",
    "ad": "Bılımsel Araştırmanın Temellerı",
-   "mufredat": null,
+   "mufredat": "Tıbbi Mikrobiyoloji 2016",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "Tıbbi Mikrobiyoloji 2016",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "Tıbbi Mikrobiyoloji 2016",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "Tıbbi Mikrobiyoloji 2016",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "Tıbbi Mikrobiyoloji 2016",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "Tıbbi Mikrobiyoloji 2016",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9378015022016",
    "ad": "Tıbbı Bakterıyolojı",
-   "mufredat": null,
+   "mufredat": "Tıbbi Mikrobiyoloji 2016",
    "yariyil": null,
    "grup": "TIB.MİKB.SEÇ.1GRP.16 - TIBBİ MİKROBİYOLOJİ SEÇ. GRUP 1 2016",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9378015032016",
    "ad": "Genel Vırolojı",
-   "mufredat": null,
+   "mufredat": "Tıbbi Mikrobiyoloji 2016",
    "yariyil": null,
    "grup": "TIB.MİKB.SEÇ.1GRP.16 - TIBBİ MİKROBİYOLOJİ SEÇ. GRUP 1 2016",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9378015042016",
    "ad": "Temel Mıkrobıyolojı",
-   "mufredat": null,
+   "mufredat": "Tıbbi Mikrobiyoloji 2016",
    "yariyil": null,
    "grup": "TIB.MİKB.SEÇ.1GRP.16 - TIBBİ MİKROBİYOLOJİ SEÇ. GRUP 1 2016",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9378015052016",
    "ad": "Temel Parazıtolojı",
-   "mufredat": null,
+   "mufredat": "Tıbbi Mikrobiyoloji 2016",
    "yariyil": null,
    "grup": "TIB.MİKB.SEÇ.1GRP.16 - TIBBİ MİKROBİYOLOJİ SEÇ. GRUP 1 2016",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9378015072016",
    "ad": "Klınık Mıkrobıyolojı ve Laboratuvar Uygulama",
-   "mufredat": null,
+   "mufredat": "Tıbbi Mikrobiyoloji 2016",
    "yariyil": null,
    "grup": "TIB.MİKB.SEÇ.1GRP.16 - TIBBİ MİKROBİYOLOJİ SEÇ. GRUP 1 2016",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9378015092016",
    "ad": "Tıbbı Mıkolojı",
-   "mufredat": null,
+   "mufredat": "Tıbbi Mikrobiyoloji 2016",
    "yariyil": null,
    "grup": "TIB.MİKB.SEÇ.1GRP.16 - TIBBİ MİKROBİYOLOJİ SEÇ. GRUP 1 2016",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9378015022016",
    "ad": "Tıbbı Bakterıyolojı",
-   "mufredat": null,
+   "mufredat": "Tıbbi Mikrobiyoloji 2016",
    "yariyil": null,
    "grup": "TIB.MİKB.SEÇ.2GRP.16 - TIBBİ MİKROBİYOLOJİ SEÇ. GRUP 2 2016",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9378015032016",
    "ad": "Genel Vırolojı",
-   "mufredat": null,
+   "mufredat": "Tıbbi Mikrobiyoloji 2016",
    "yariyil": null,
    "grup": "TIB.MİKB.SEÇ.2GRP.16 - TIBBİ MİKROBİYOLOJİ SEÇ. GRUP 2 2016",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9378015042016",
    "ad": "Temel Mıkrobıyolojı",
-   "mufredat": null,
+   "mufredat": "Tıbbi Mikrobiyoloji 2016",
    "yariyil": null,
    "grup": "TIB.MİKB.SEÇ.2GRP.16 - TIBBİ MİKROBİYOLOJİ SEÇ. GRUP 2 2016",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9378015052016",
    "ad": "Temel Parazıtolojı",
-   "mufredat": null,
+   "mufredat": "Tıbbi Mikrobiyoloji 2016",
    "yariyil": null,
    "grup": "TIB.MİKB.SEÇ.2GRP.16 - TIBBİ MİKROBİYOLOJİ SEÇ. GRUP 2 2016",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9378015072016",
    "ad": "Klınık Mıkrobıyolojı ve Laboratuvar Uygulama",
-   "mufredat": null,
+   "mufredat": "Tıbbi Mikrobiyoloji 2016",
    "yariyil": null,
    "grup": "TIB.MİKB.SEÇ.2GRP.16 - TIBBİ MİKROBİYOLOJİ SEÇ. GRUP 2 2016",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9378015092016",
    "ad": "Tıbbı Mıkolojı",
-   "mufredat": null,
+   "mufredat": "Tıbbi Mikrobiyoloji 2016",
    "yariyil": null,
    "grup": "TIB.MİKB.SEÇ.2GRP.16 - TIBBİ MİKROBİYOLOJİ SEÇ. GRUP 2 2016",
    "tur": "Seçmeli",

@@ -36,9 +36,14 @@ async function getir(url, deneme = 0) {
       signal: AbortSignal.timeout(30000),
     });
     if (!r.ok) throw new Error(`HTTP ${r.status}`);
-    return await r.text();
+    const metin = await r.text();
+    // Site yogunken 200 kodlu bir hata sayfasi donebiliyor; ders listesi bos sanilmasin
+    if (/already an open DataReader|Server Error in '\/' Application/i.test(metin)) {
+      throw new Error('sunucu hata sayfası döndü');
+    }
+    return metin;
   } catch (e) {
-    if (deneme < 2) {
+    if (deneme < 4) {
       await bekle(1500 * (deneme + 1));
       return getir(url, deneme + 1);
     }

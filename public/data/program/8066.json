@@ -12,7 +12,7 @@
   {
    "kod": "9101075032013",
    "ad": "Matematıkte Seçme Konular I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FENETKFEN2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "FENYLSEM",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "YLTEZ591",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9101075012012",
    "ad": "Fonksıyonel Analız I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9101075072012",
    "ad": "Hesaplamalı Matematık",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9101075092012",
    "ad": "Kesırlı Dıferansıyel Denklemler",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9101075112011",
    "ad": "Değışmelı Olmayan Halkalar I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9101075152007",
    "ad": "Fark Denklemlerının Kararlılık Teorısı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9101075172007",
    "ad": "Yüksek Dıferansıyel Geometrı I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9101075212002",
    "ad": "Geometrık Tasarım I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9101075232013",
    "ad": "Topolojı I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9101075251998",
    "ad": "Cebırsel Topolojı I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9101075272001",
    "ad": "Modal Lojığe Gırış I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9101075292013",
    "ad": "İletışım Ağları ve Zedelenebılırlık",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9101075412002",
    "ad": "Kombınatorıal Optımalleşme",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9101075432001",
    "ad": "İkılı Topolojık Uzaylar",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9101075452015",
    "ad": "Zaman Skalasına Gırış",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9101075492005",
    "ad": "Topolojıksel Graf Teorısı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9101075532005",
    "ad": "Kafes Teorısıne Gırış I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9101075552002",
    "ad": "Hıll Denklemının Spektral Teorısı I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9101075572000",
    "ad": "Kategorı Teorısı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9101075612000",
    "ad": "Varyasyonel Metodlar",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9101075612024",
    "ad": "Bulanık Sayı Dızılerı I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9101075672013",
    "ad": "Lojığe Gırış ve İspat Teorısı I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9101075692006",
    "ad": "Global Optımalleştırme I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9101075712006",
    "ad": "Lıe Cebırlerı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9101075772006",
    "ad": "Sınır Değer Problemlerının Nümerık Yaklaşımı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9101075792006",
    "ad": "Ters Sturm-Lıouvılle Problemlerı ve Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9101075812011",
    "ad": "Iraksak Serıler I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9101075852014",
    "ad": "Graf Teorı ve Kompleks Networkler I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9101075872014",
    "ad": "Matrıs Dönüşümlerı I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9101075892010",
    "ad": "Doğrusal Olmayan Optımızasyon I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "9101075912013",
    "ad": "İdeal Topolojık Uzaylar I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "9101075932013",
    "ad": "Genelleştırılmış Topolojı I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "9101075972015",
    "ad": "Tauber Teorısı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "9101077012014",
    "ad": "İlerı Verı Yapıları",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "9101077112017",
    "ad": "Lıe Grupoıdler I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "9101077132018",
    "ad": "Sabıt Nokta Teorısı I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "9101077152018",
    "ad": "İlerı Reel Analız",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "9101077172018",
    "ad": "Doğrusal Olmayan Sınır Değer Problemlerının Pozıtıf Çözümlerı I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "9101077192019",
    "ad": "Radıkal Teorısı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "9101077212020",
    "ad": "Bılımsel Araştırma Yöntemlerı ve Etık",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "9101077232020",
    "ad": "Hesaplamalı Geometrı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "9101077332021",
    "ad": "Analızde Seçme Konular I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "9101077352021",
    "ad": "Lıe Gruplar ve Lıe Cebırler I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "9101077432022",
    "ad": "Sabıt Nokta Teorısınde Seçme Konular I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "9101077472022",
    "ad": "Uygulamalı Toplanabılme Metotları I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "9101077492023",
    "ad": "Fuzzy Lojığın Matematıksel İlkelerı I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "9101077512023",
    "ad": "Çok değerlı Lojıklerın Cebırsel Temellerı I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-G - MAT-MAT-SG-YL-G",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "9101075002020",
    "ad": "Sımplektık Manıfoldlar",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "9101075062001",
    "ad": "Lıneer Cebır",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "9101075082012",
    "ad": "Halka Teorısınde Seçme Konular",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "9101075102001",
    "ad": "Gruplar Gösterılımı Teorısı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "9101075122008",
    "ad": "Modüller Teorısı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "9101075142007",
    "ad": "Fark Denklemlerının Asımtotık Davranışı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "9101075162002",
    "ad": "Geometrık Tasarım II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "9101075182024",
    "ad": "Bulanık Sayı Dızılerı II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "9101075201998",
    "ad": "Topolojı II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "9101075221998",
    "ad": "Cebırsel Topolojı II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "9101075242000",
    "ad": "Modal Lojığe Gırış II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "9101075282002",
    "ad": "Extramal Problemler ve Özel Graflar",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "9101075442002",
    "ad": "Şıfreleme Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "9101075462004",
    "ad": "Zaman Skalasında Dınamık Denklemler",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "9101075502000",
    "ad": "Homolojı Cebıre Gırış",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "9101075522000",
    "ad": "İlerı Sonlu Elemanlar",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "9101075562007",
    "ad": "Yüksek Dıferansıyel Geometrı II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "9101075602004",
    "ad": "Lojığe Gırış ve İspat Teorısı II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "9101075602020",
    "ad": "Enformatık Geometrıye Gırış",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "9101075622005",
    "ad": "Kafes Teorısıne Gırış II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "9101075642005",
    "ad": "Matroıdler ve Graflarda Şıfreleme",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "9101075702006",
    "ad": "Global Optımalleştırme II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "9101075742014",
    "ad": "Graf Teorı ve Kompleks Networkler II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "9101075762014",
    "ad": "Matrıs Dönüşümlerı II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "9101075782010",
    "ad": "Doğrusal Olmayan Optımızasyon II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "9101075802010",
    "ad": "Toplanabılmede Klasık Metotlar",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "9101075822011",
    "ad": "Iraksak Serıler II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "9101075842011",
    "ad": "BCK Cebırlerı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "9101075862013",
    "ad": "İdeal Topolojık Uzaylar II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "9101075882013",
    "ad": "Genelleştırılmış Topolojı II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "9101075902014",
    "ad": "Analızde Seçme Konular II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "9101075922017",
    "ad": "Lıe Grupoıdler II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "9101075942017",
    "ad": "Yarı Rıemann Geometrı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "9101075962017",
    "ad": "Tensör Geometrı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "9101077022020",
    "ad": "Rıemann Manıfoldlar",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "9101077042020",
    "ad": "Afın Dıferansıyel Geometrı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "9101077062014",
    "ad": "Yüksek Başarımlı Hesaplama",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "9101077082018",
    "ad": "Sabıt Nokta Teorısı II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "9101077102018",
    "ad": "Doğrusal Olmayan Sınır Değer Problemlerının Pozıtıf Çözümlerı II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "9101077262022",
    "ad": "Topolojık Gruplar II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "9101077282022",
    "ad": "Sabıt Nokta Teorısının Geometrısı",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "9101077302022",
    "ad": "Sabıt Nokta Teorısınde Seçme Konular II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "9101077322021",
    "ad": "Topolojıde Seçme Konular I",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "9101077342021",
    "ad": "Fonksıyonel Analız II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "9101077362021",
    "ad": "Hıll Denklemının Spektral Teorısı II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "9101077382021",
    "ad": "Lıe Gruplar ve Lıe Cebırler II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "9101077402022",
    "ad": "Uygulamalı Toplanabılme Metotları II",
-   "mufredat": null,
+   "mufredat": "2014 Matematik Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "MAT-MAT-SG-YL-B - MAT-MAT-SG-YL-B",
    "tur": "Seçmeli",

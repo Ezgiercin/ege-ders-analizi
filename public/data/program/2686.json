@@ -12,7 +12,7 @@
   {
    "kod": "ATA101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "BİL111",
    "ad": "BİLGİSAYAR TEKNOLOJİLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "BİY101",
    "ad": "BOTANİK",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "FIZ169",
    "ad": "FİZİK-I",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "ISG105",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ-I",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "KİM191",
    "ad": "GENEL KİMYA",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "KRY101",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "MAT161",
    "ad": "MATEMATİK I",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "TUR101",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "YDI105",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "ZZO101",
    "ad": "TEMEL İSTATİSTİK",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "ATA102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "BKM180",
    "ad": "BİYOKİMYA",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "ISG108",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ-II",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "KİM194",
    "ad": "ORGANİK KİMYA",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "MAT164",
    "ad": "MATEMATİK II",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "TUR102",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "UYG104",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "YDI106",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "ZST104",
    "ad": "SÜT VE SÜT ÜRÜNLERİ TEKNOLOJİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "ZTR102",
    "ad": "TEKNİK RESİM",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "FTBSDG1",
    "ad": "FAKÜLTE TEMEL BİLİM SEÇMELİ DERS GRUBU-I",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -334,7 +334,7 @@
   {
    "kod": "ZGM102",
    "ad": "GENEL MİKROBİYOLOJİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "ZST207",
    "ad": "LABORATUVAR TEKNİĞİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "ZST225",
    "ad": "EKOLOJİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "ZST231",
    "ad": "KÜTLE VE ENERJİ DENKLİKLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "ZTE203",
    "ad": "EKONOMİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -418,7 +418,7 @@
   {
    "kod": "THU202",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "ZML203",
    "ad": "MALZEME BİLGİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "ZST214",
    "ad": "SOĞUTMA TEKNİĞİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "ZST216",
    "ad": "AKIŞKANLAR MEKANİĞİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "ZST222",
    "ad": "TARIM TARİHİ VE DEONTOLOJİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -516,7 +516,7 @@
   {
    "kod": "ZST307",
    "ad": "GIDA KATKI VE YARDIMCI MADDELERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "ZST323",
    "ad": "ORGANİK SÜT ÜRÜNLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "ZST325",
    "ad": "BESLENME VE SÜT ÜRÜNLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "ZST327",
    "ad": "SÜT MİKROBİYOLOJİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -572,7 +572,7 @@
   {
    "kod": "ZST329",
    "ad": "SÜT ENDÜSTRİSİNDE İŞLEM KONTROL UYGULAMALARI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "ZST331",
    "ad": "SÜT KİMYASI VE BİYOKİMYASI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -614,7 +614,7 @@
   {
    "kod": "STJ302",
    "ad": "STAJ II",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -628,7 +628,7 @@
   {
    "kod": "ZST302",
    "ad": "SÜT ENDÜSTRİSİNDE İŞLEM MÜHENDİSLİĞİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "ZST304",
    "ad": "SÜT ENDÜSTRİSİNDE KALİTE KONTROL I",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "ZST312",
    "ad": "DONDURMA TEKNOLOJİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "ZST326",
    "ad": "İÇME SÜTÜ TEKNOLOJİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "ZST328",
    "ad": "SÜT ENDÜSTRİSİNDE SAF KÜLTÜR",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -698,7 +698,7 @@
   {
    "kod": "ZST330",
    "ad": "SÜT İŞLETMELERİNDE DİZAYN",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -712,7 +712,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -726,7 +726,7 @@
   {
    "kod": "ZST400",
    "ad": "DİPLOMA TEZİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -740,7 +740,7 @@
   {
    "kod": "ZST403",
    "ad": "SÜT ENDÜSTRİSİNDE KALİTE KONTROL II",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -754,7 +754,7 @@
   {
    "kod": "ZST405",
    "ad": "KREMA VE TEREYAĞI TEKNOLOJİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "ZST407",
    "ad": "KOYULAŞTIRILMIŞ SÜT VE SÜT TOZU TEKNOLOJİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -782,7 +782,7 @@
   {
    "kod": "ZST409",
    "ad": "SÜT ENDÜSTRİSİNDE GIDA GÜVENLİĞİ SİSTEMLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -796,7 +796,7 @@
   {
    "kod": "ZST411",
    "ad": "SÜT ENDÜSTRİSİNDE HİJYEN VE SANİTASYON",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -810,7 +810,7 @@
   {
    "kod": "ZST421",
    "ad": "YOĞURT VE BENZERİ FERMENTE SÜT ÜRÜNLERİ TEKNOLOJİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -824,7 +824,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -838,7 +838,7 @@
   {
    "kod": "ZST404",
    "ad": "SÜT ENDÜSTRİSİNDE KALİTE KONTROL III",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -852,7 +852,7 @@
   {
    "kod": "ZST426",
    "ad": "UYGULAMALI EDÜSTRİYEL EĞİTİM VE TASARIM",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -866,7 +866,7 @@
   {
    "kod": "ZST428",
    "ad": "SÜTÇÜLÜK ARTIKLARININ DEĞERLENDİRİLMESİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -880,7 +880,7 @@
   {
    "kod": "ZST430",
    "ad": "SÜT ENDÜSTRİSİNDE KURULUŞ VE ORGANİZASYON",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -894,7 +894,7 @@
   {
    "kod": "ZST432",
    "ad": "GIDA BİLİM VE TEKNOLOJİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -908,7 +908,7 @@
   {
    "kod": "ZST436",
    "ad": "PEYNİR TEKNOLOJİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -922,7 +922,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "PED.FRM.SEÇ.I - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "ZBK201",
    "ad": "BİTKİ KORUMA",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg2 - FAKÜLTE SEÇMELİ DERS GRUBU II (YIL 2/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "ZBK203",
    "ad": "BİTKİ KORUMA İLKELERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg2 - FAKÜLTE SEÇMELİ DERS GRUBU II (YIL 2/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "ZTS201",
    "ad": "TARIMSAL SULAMA VE DRENAJ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg3 - FAKÜLTE SEÇMELİ DERS GRUBU III (YIL 2/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "ZTS208",
    "ad": "KIRSAL ALTYAPI PLANLAMASI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg3 - FAKÜLTE SEÇMELİ DERS GRUBU III (YIL 2/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "PED.FRM.SEÇ.II - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "PED.FRM.SEÇ.II - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "ZZO202",
    "ad": "HAYVAN YETİŞTİRME VE BESLEME",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg4 - FAKÜLTE SEÇMELİ DERS GRUBU IV (YIL 2/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "ZZO204",
    "ad": "GENEL ZOOTEKNİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg4 - FAKÜLTE SEÇMELİ DERS GRUBU IV (YIL 2/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "ZBB202",
    "ad": "BAHÇE BİTKİLERİ TARIMI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg6 - FAKÜLTE SEÇMELİ DERS GRUBU VI (YIL 2/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "ZBB204",
    "ad": "BAHÇE BİTKİLERİ YETİŞTİRME İLKELERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg6 - FAKÜLTE SEÇMELİ DERS GRUBU VI (YIL 2/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "ZTO203",
    "ad": "TOPRAK BİLGİSİ VE BİTKİ BESLEME",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg7 - FAKÜLTE SEÇMELİ DERS GRUBU VII (YIL 2/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "ZTO205",
    "ad": "TOPRAK VE BİTKİ BESLEME ESASLARI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg7 - FAKÜLTE SEÇMELİ DERS GRUBU VII (YIL 2/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "PED.FRM.SEÇ.III - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "PED.FRM.SEÇ.III - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "ZST317",
    "ad": "GIDA MEVZUATI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stbölsdg1 - BÖLÜM SEÇMELİ DERS GRUBU I (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "ZTE327",
    "ad": "SÜT ÜRÜNLERİ PAZARLAMASI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stbölsdg1 - BÖLÜM SEÇMELİ DERS GRUBU I (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "ARZ301",
    "ad": "ARAZİ KALİTE DERECELEME YÖNTEMLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "BBU301",
    "ad": "BİTKİ BESLEME VE UYGULAMASI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "BGU301",
    "ad": "GÜBRELER VE BAHÇE BİTKİLERİNİN GÜBRELENMESİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "BHS301",
    "ad": "BAHÇE BİTKİLERİ HASTALIKLARI VE YÖNETİMİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "BLS301",
    "ad": "TARIMDA BİLİŞİM TEKNOLOJİLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "CBS301",
    "ad": "TARIMDA UZAKTAN ALGILAMA VE CBS",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "CEK301",
    "ad": "ÇEVRE EKONOMİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "CIZ301",
    "ad": "BİLGİSAYAR DESTEKLİ TEKNİK ÇİZİM VE TASARIM",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "ÇHZ301",
    "ad": "ÇİFTLİK HAYVANLARI ZARARLILARI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "DEN301",
    "ad": "TARIMDA DENEME PLANLAMA VE DEĞERLENDİRME",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "ENR301",
    "ad": "ENERJİ BİTKİLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "FIN301",
    "ad": "TARIMSAL FİNANSMAN",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "FİD302",
    "ad": "FİDE ÜRETİMİNDE YENİ TEKNOLOJİLER",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "GDM301",
    "ad": "GÜBRE DAĞITMA MAKİNELERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "HYD301",
    "ad": "HAYVAN DAVRANIŞLARI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "HYR301",
    "ad": "HAYVAN REFAHI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "ILM301",
    "ad": "İLAÇLAMA ALET VE MAKİNELERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "ISY301",
    "ad": "TARIM İŞLETMELERİNİN YÖNETİMİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "IYI301",
    "ad": "İYİ TARIM UYGULAMALARI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "KSO301",
    "ad": "KÖY SOSYOLOJİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "LDR301",
    "ad": "TARIMSAL İNOVASYON SÜRECİNDE LİDERLİK VE YARATICILIK",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "MEK301",
    "ad": "MÜHENDİSLİK EKONOMİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "MRA301",
    "ad": "MERA YÖNETİMİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "OBY301",
    "ad": "ÖZEL BAHÇE BİTKİLERİ YETİŞTİRİCİLİĞİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "OLT301",
    "ad": "ÖLÇME TEKNİĞİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1510,7 +1510,7 @@
   {
    "kod": "ORH301",
    "ad": "ORGANİK HAYVANCILIK",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1524,7 +1524,7 @@
   {
    "kod": "OTI301",
    "ad": "ORGANİK TARIM İŞLETMECİLİĞİ VE EKONOMİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1538,7 +1538,7 @@
   {
    "kod": "PLN301",
    "ad": "PLANTASYON TESİSİ VE TEKNİĞİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1552,7 +1552,7 @@
   {
    "kod": "PZB301",
    "ad": "PARAZİTER OLMAYAN BİTKİ HASTALIKLARI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1566,7 +1566,7 @@
   {
    "kod": "SEP301",
    "ad": "SERACILIK EKONOMİSİ ve PLANLAMASI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1580,7 +1580,7 @@
   {
    "kod": "TAS301",
    "ad": "TASARIM BİTKİLERİNİN HASTALIKLARI VE ZARARLILARI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1594,7 +1594,7 @@
   {
    "kod": "TBD301",
    "ad": "TARLA BİTKİLERİNDE DAYANIKLILIK ISLAHI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1608,7 +1608,7 @@
   {
    "kod": "TER301",
    "ad": "TERMODİNAMİK",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1622,7 +1622,7 @@
   {
    "kod": "TGU301",
    "ad": "GÜBRELER VE TARLA BİTKİLERİNİN GÜBRELENMESİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1636,7 +1636,7 @@
   {
    "kod": "THS301",
    "ad": "TARLA BİTKİLERİ HASTALIKLARI VE YÖNETİMİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1650,7 +1650,7 @@
   {
    "kod": "TPO301",
    "ad": "TARIM POLİTİKALARI VE PİYASALARI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1664,7 +1664,7 @@
   {
    "kod": "YAY301",
    "ad": "KIRSAL YAYIM",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1678,7 +1678,7 @@
   {
    "kod": "YRS301",
    "ad": "YERSEL SULAMA SİSTEMLERİNİN PROJELENDİRİLMESİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1692,7 +1692,7 @@
   {
    "kod": "ZYT301",
    "ad": "ZEYTİN YETİŞTİRİCİLİĞİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg8 - FAKÜLTE SEÇMELİ DERS GRUBU VIII (YIL 3/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -1706,7 +1706,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "PED.FRM.SEÇ.IV - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -1720,7 +1720,7 @@
   {
    "kod": "ZST314",
    "ad": "SÜT İŞLETMELERİNDE HACCP UYGULAMALARI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stbölsdg2 - BÖLÜM SEÇMELİ DERS GRUBU II (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1734,7 +1734,7 @@
   {
    "kod": "ZST316",
    "ad": "SÜT İŞLETMELERİNDE İŞ GÜVENLİĞİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stbölsdg2 - BÖLÜM SEÇMELİ DERS GRUBU II (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1748,7 +1748,7 @@
   {
    "kod": "ZST324",
    "ad": "SÜT ENDÜSTRİSİNDE MİKROBİYOLOJİK RİSK YÖNETİMİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stbölsdg2 - BÖLÜM SEÇMELİ DERS GRUBU II (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1762,7 +1762,7 @@
   {
    "kod": "ARK302",
    "ad": "ARAZİ KULLANIM PLANLAMASI VE İLKELERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1776,7 +1776,7 @@
   {
    "kod": "AVR302",
    "ad": "AVRUPA BİRLİĞİ VE TÜRK TARIMI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1790,7 +1790,7 @@
   {
    "kod": "BBZ302",
    "ad": "BİTKİ BESLEME BOZUKLUKLARI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1804,7 +1804,7 @@
   {
    "kod": "BDI302",
    "ad": "BAHÇE BİTKİLERİNDE DAYANIKLILIK ISLAHI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1818,7 +1818,7 @@
   {
    "kod": "BZA302",
    "ad": "BAHÇE BİTKİLERİ ZARARLILARI VE YÖNETİMİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1832,7 +1832,7 @@
   {
    "kod": "CIM302",
    "ad": "ÇİM VE YER ÖRTÜCÜLER",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1846,7 +1846,7 @@
   {
    "kod": "DEO302",
    "ad": "TARIM TARİHİ VE DEONTOLOJİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1860,7 +1860,7 @@
   {
    "kod": "ELK302",
    "ad": "TARIMDA ELEKTRİFİKASYON VE OTOMATİK KONTROL",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1874,7 +1874,7 @@
   {
    "kod": "GRS302",
    "ad": "TARIMSAL GİRİŞİMCİLİK TEKNİKLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1888,7 +1888,7 @@
   {
    "kod": "GÜB302",
    "ad": "GÜBRELER VE GÜBRELEME",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1902,7 +1902,7 @@
   {
    "kod": "HBB302",
    "ad": "HOBİ BAHÇECİLİĞİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1916,7 +1916,7 @@
   {
    "kod": "HMK302",
    "ad": "HAYVANCILIKTA MEKANİZASYON",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1930,7 +1930,7 @@
   {
    "kod": "HPO302",
    "ad": "HAYVANCILIK POLİTİKALARI VE PİYASALARI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1944,7 +1944,7 @@
   {
    "kod": "HSS302",
    "ad": "HASSAS TARIM",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1958,7 +1958,7 @@
   {
    "kod": "HST302",
    "ad": "HASAT MAKİNELERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1972,7 +1972,7 @@
   {
    "kod": "INO302",
    "ad": "TARIMSAL BİLGİ VE İNOVASYON SİSTEMLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -1986,7 +1986,7 @@
   {
    "kod": "İHU302",
    "ad": "İYİ HAYVANCILIK UYGULAMALARI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2000,7 +2000,7 @@
   {
    "kod": "KRL302",
    "ad": "TARIMDA ÇEVRE KİRLİLİĞİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2014,7 +2014,7 @@
   {
    "kod": "MEV302",
    "ad": "TARIMSAL MEVZUAT VE BİLİRKİŞİLİK",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2028,7 +2028,7 @@
   {
    "kod": "ORG302",
    "ad": "ORGANİK TARIMIN TEMEL İLKELERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2042,7 +2042,7 @@
   {
    "kod": "ORT302",
    "ad": "ÖRTÜ ALTI YETİŞTİRİCİLİĞİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2056,7 +2056,7 @@
   {
    "kod": "PET302",
    "ad": "PET HAYVANLARININ YETİŞTİRİLMESİ VE BESLENMESİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2070,7 +2070,7 @@
   {
    "kod": "PLD302",
    "ad": "DENEME PLANLAMA VE DEĞERLENDİRME TEKNİĞİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2084,7 +2084,7 @@
   {
    "kod": "PYE302",
    "ad": "PEYZAJ EKONOMİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2098,7 +2098,7 @@
   {
    "kod": "PYS302",
    "ad": "PEYZAJ MİMARLIĞINDA SULAMA",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2112,7 +2112,7 @@
   {
    "kod": "SAN302",
    "ad": "GIDA SANAYİİ EKONOMİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2126,7 +2126,7 @@
   {
    "kod": "SYİ301",
    "ad": "SEBZE YETİŞTİRME İLKELERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2140,7 +2140,7 @@
   {
    "kod": "TBS302",
    "ad": "TOPRAK-BİTKİ-SU İLİŞKİLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2154,7 +2154,7 @@
   {
    "kod": "TED302",
    "ad": "TOPRAK ETÜD VE HARİTALAMA SİSTEMLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2168,7 +2168,7 @@
   {
    "kod": "TIB302",
    "ad": "TIBBİ BİTKİLER TARIMI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2182,7 +2182,7 @@
   {
    "kod": "TPZ302",
    "ad": "TOPRAKSIZ TARIM",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2196,7 +2196,7 @@
   {
    "kod": "TRG302",
    "ad": "TRANSGENİK BİTKİLER",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2210,7 +2210,7 @@
   {
    "kod": "TSI302",
    "ad": "TARIM SİGORTACILIĞI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2224,7 +2224,7 @@
   {
    "kod": "TSM302",
    "ad": "TOPRAK SU KORUMA MÜHENDİSLİĞİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2238,7 +2238,7 @@
   {
    "kod": "TSR302",
    "ad": "TASARIM BİTKİLERİNİN BESLENMESİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2252,7 +2252,7 @@
   {
    "kod": "TZA302",
    "ad": "TARLA BİTKİLERİ ZARARLILARI VE YÖNETİMİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2266,7 +2266,7 @@
   {
    "kod": "TZY302",
    "ad": "TEDARİK ZİNCİRİ YÖNETİMİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2280,7 +2280,7 @@
   {
    "kod": "UZM302",
    "ad": "ÜZÜM YETİŞTİRME TEKNİKLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2294,7 +2294,7 @@
   {
    "kod": "YTK302",
    "ad": "BİTKİSEL ÜRETİMDE YENİ TEKNİKLER VE UYGULAMALARI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stfaksdg9 - FAKÜLTE SEÇMELİ DERS GRUBU-IX (YIL 3/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2308,7 +2308,7 @@
   {
    "kod": "ZST413",
    "ad": "SÜT İŞLEME MÜHENDİSLİĞİNDE ÖZEL KONULAR",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stbölsdg3 - BÖLÜM SEÇMELİ DERS GRUBU III (YIL 4/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -2322,7 +2322,7 @@
   {
    "kod": "ZST417",
    "ad": "SÜT ÜRÜNLERİNDE AMBALAJ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stbölsdg3 - BÖLÜM SEÇMELİ DERS GRUBU III (YIL 4/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -2336,7 +2336,7 @@
   {
    "kod": "ZST423",
    "ad": "MESLEKİ ALMANCA",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stbölsdg3 - BÖLÜM SEÇMELİ DERS GRUBU III (YIL 4/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -2350,7 +2350,7 @@
   {
    "kod": "ABK401",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-I - ÜNİVERSİTE SEÇMELİ DERS GRUBU I ( YIL 4/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -2364,7 +2364,7 @@
   {
    "kod": "BLM401",
    "ad": "BİLİM FELSEFESİ VE ETİĞİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-I - ÜNİVERSİTE SEÇMELİ DERS GRUBU I ( YIL 4/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -2378,7 +2378,7 @@
   {
    "kod": "CAL401",
    "ad": "ÇALIŞMA PSİKOLOJİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-I - ÜNİVERSİTE SEÇMELİ DERS GRUBU I ( YIL 4/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -2392,7 +2392,7 @@
   {
    "kod": "ETK401",
    "ad": "ETKİLİ SUNUM TEKNİKLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-I - ÜNİVERSİTE SEÇMELİ DERS GRUBU I ( YIL 4/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -2406,7 +2406,7 @@
   {
    "kod": "FSM404",
    "ad": "GİRİŞİMCİLİK, FİKRİ VE SINAİ MÜLKİYET HAKLARINA GİRİŞ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-I - ÜNİVERSİTE SEÇMELİ DERS GRUBU I ( YIL 4/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -2420,7 +2420,7 @@
   {
    "kod": "IKY401",
    "ad": "İNSAN KAYNAKLARI YÖNETİMİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-I - ÜNİVERSİTE SEÇMELİ DERS GRUBU I ( YIL 4/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -2434,7 +2434,7 @@
   {
    "kod": "INV401",
    "ad": "İNOVASYON, TEKNOLOJİ VE GİRİŞİMCİLİK",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-I - ÜNİVERSİTE SEÇMELİ DERS GRUBU I ( YIL 4/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -2448,7 +2448,7 @@
   {
    "kod": "KNS401",
    "ad": "KONUŞMA EĞİTİMİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-I - ÜNİVERSİTE SEÇMELİ DERS GRUBU I ( YIL 4/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -2462,7 +2462,7 @@
   {
    "kod": "KSG401",
    "ad": "KİŞİSEL GELİŞİM",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-I - ÜNİVERSİTE SEÇMELİ DERS GRUBU I ( YIL 4/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -2476,7 +2476,7 @@
   {
    "kod": "MIT401",
    "ad": "MİTOLOJİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-I - ÜNİVERSİTE SEÇMELİ DERS GRUBU I ( YIL 4/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -2490,7 +2490,7 @@
   {
    "kod": "MRK401",
    "ad": "MARKA YÖNETİMİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-I - ÜNİVERSİTE SEÇMELİ DERS GRUBU I ( YIL 4/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -2504,7 +2504,7 @@
   {
    "kod": "MZH401",
    "ad": "MİZAH VE TOPLUM",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-I - ÜNİVERSİTE SEÇMELİ DERS GRUBU I ( YIL 4/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -2518,7 +2518,7 @@
   {
    "kod": "YCS401",
    "ad": "YÖNETİM VE ÇALIŞMA SOSYOLOJİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-I - ÜNİVERSİTE SEÇMELİ DERS GRUBU I ( YIL 4/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -2532,7 +2532,7 @@
   {
    "kod": "YRT401",
    "ad": "YARATICI DÜŞÜNCE YÖNTEM VE TEKNİKLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-I - ÜNİVERSİTE SEÇMELİ DERS GRUBU I ( YIL 4/ YARIYIL 1)",
    "tur": "Seçmeli",
@@ -2546,7 +2546,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "PED.FRM.SEÇ.VI - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU-VI",
    "tur": "Seçmeli",
@@ -2560,7 +2560,7 @@
   {
    "kod": "ZST438",
    "ad": "MESLEKİ İNGİLİZCE",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stbölsdg.4 - BÖLÜM SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -2574,7 +2574,7 @@
   {
    "kod": "ZST440",
    "ad": "SÜT ENDÜSTRİSİNDE BİYOTEKNOLOJİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stbölsdg.4 - BÖLÜM SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -2588,7 +2588,7 @@
   {
    "kod": "ZST442",
    "ad": "İMİTASYON SÜT ÜRÜNLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stbölsdg.4 - BÖLÜM SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -2602,7 +2602,7 @@
   {
    "kod": "ZST444",
    "ad": "SÜT ENDÜSTRİSİNDE VAKA TAKTİMİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stbölsdg.4 - BÖLÜM SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -2616,7 +2616,7 @@
   {
    "kod": "ALG402",
    "ad": "ALGORİTMA ve PROGRAMLAMANIN TEMELLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-II - ÜNİVERSİTE SEÇMELİ DERS GRUBU II ( YIL 4/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2630,7 +2630,7 @@
   {
    "kod": "DOK402",
    "ad": "DOĞRU VE ETKİLİ KONUŞMA EĞİTİMİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-II - ÜNİVERSİTE SEÇMELİ DERS GRUBU II ( YIL 4/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2644,7 +2644,7 @@
   {
    "kod": "FOT402",
    "ad": "TEMEL FOTOĞRAFÇILIK",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-II - ÜNİVERSİTE SEÇMELİ DERS GRUBU II ( YIL 4/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2658,7 +2658,7 @@
   {
    "kod": "GIP402",
    "ad": "GİRİŞİMCİLİK VE İŞ PLANI HAZIRLAMA",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-II - ÜNİVERSİTE SEÇMELİ DERS GRUBU II ( YIL 4/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2672,7 +2672,7 @@
   {
    "kod": "HIZ402",
    "ad": "HIZLI OKUMA TEKNİKLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-II - ÜNİVERSİTE SEÇMELİ DERS GRUBU II ( YIL 4/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2686,7 +2686,7 @@
   {
    "kod": "HLK402",
    "ad": "HALKLA İLİŞKİLER",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-II - ÜNİVERSİTE SEÇMELİ DERS GRUBU II ( YIL 4/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2700,7 +2700,7 @@
   {
    "kod": "ILT402",
    "ad": "İLETİŞİM BECERİLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-II - ÜNİVERSİTE SEÇMELİ DERS GRUBU II ( YIL 4/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2714,7 +2714,7 @@
   {
    "kod": "INT402",
    "ad": "İNOVASYONUN TİCARİLEŞTİRİLMESİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-II - ÜNİVERSİTE SEÇMELİ DERS GRUBU II ( YIL 4/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2728,7 +2728,7 @@
   {
    "kod": "MDY402",
    "ad": "MEDYA OKURYAZARLIĞI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-II - ÜNİVERSİTE SEÇMELİ DERS GRUBU II ( YIL 4/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2742,7 +2742,7 @@
   {
    "kod": "MZK402",
    "ad": "TÜRK MÜZİK KÜLTÜRÜ VE TARİHİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-II - ÜNİVERSİTE SEÇMELİ DERS GRUBU II ( YIL 4/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2756,7 +2756,7 @@
   {
    "kod": "SUN402",
    "ad": "SUNUM VE TOPLANTI TEKNİKLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-II - ÜNİVERSİTE SEÇMELİ DERS GRUBU II ( YIL 4/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2770,7 +2770,7 @@
   {
    "kod": "YNT402",
    "ad": "YÖNETİM VE ORGANİZASYON",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-II - ÜNİVERSİTE SEÇMELİ DERS GRUBU II ( YIL 4/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2784,7 +2784,7 @@
   {
    "kod": "YZL402",
    "ad": "YAZILI ANLATIM",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2011 Yılı Müfredatı (Süt Teknolojisi (a))",
    "yariyil": null,
    "grup": "stünisdg-II - ÜNİVERSİTE SEÇMELİ DERS GRUBU II ( YIL 4/ YARIYIL 2)",
    "tur": "Seçmeli",
@@ -2798,7 +2798,7 @@
   {
    "kod": "ZST301",
    "ad": "SÜT KİMYASI VE BİYOKİMYASI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2023 Yılı Süt Teknolojisi (Yandal Müfredatı)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2812,7 +2812,7 @@
   {
    "kod": "ZST303",
    "ad": "SÜT MİKROBİYOLOJİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2023 Yılı Süt Teknolojisi (Yandal Müfredatı)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2826,7 +2826,7 @@
   {
    "kod": "ZST302",
    "ad": "SÜT ENDÜSTRİSİNDE İŞLEM MÜHENDİSLİĞİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2023 Yılı Süt Teknolojisi (Yandal Müfredatı)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2840,7 +2840,7 @@
   {
    "kod": "ZST306",
    "ad": "İÇME SÜTÜ TEKNOLOJİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2023 Yılı Süt Teknolojisi (Yandal Müfredatı)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2854,7 +2854,7 @@
   {
    "kod": "ZST401",
    "ad": "YOĞURT VE BENZERİ FERMENTE SÜT ÜRÜNLERİ TEKNOLOJİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2023 Yılı Süt Teknolojisi (Yandal Müfredatı)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2868,7 +2868,7 @@
   {
    "kod": "ZST409",
    "ad": "SÜT ENDÜSTRİSİNDE GIDA GÜVENLİĞİ SİSTEMLERİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2023 Yılı Süt Teknolojisi (Yandal Müfredatı)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2882,7 +2882,7 @@
   {
    "kod": "ZST411",
    "ad": "SÜT ENDÜSTRİSİNDE HİJYEN VE SANİTASYON",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2023 Yılı Süt Teknolojisi (Yandal Müfredatı)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2896,7 +2896,7 @@
   {
    "kod": "ZST406",
    "ad": "PEYNİR TEKNOLOJİSİ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2023 Yılı Süt Teknolojisi (Yandal Müfredatı)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2910,7 +2910,7 @@
   {
    "kod": "ZST430",
    "ad": "SÜT ENDÜSTRİSİNDE KURULUŞ VE ORGANİZASYON",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2023 Yılı Süt Teknolojisi (Yandal Müfredatı)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2924,7 +2924,7 @@
   {
    "kod": "ZST314",
    "ad": "SÜT İŞLETMELERİNDE HACCP UYGULAMALARI",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2023 Yılı Süt Teknolojisi (Yandal Müfredatı)",
    "yariyil": null,
    "grup": "SEÇ.DERS.GRBII - SEÇMELİ DERS GRUBU II (YANDAL)",
    "tur": "Seçmeli",
@@ -2938,7 +2938,7 @@
   {
    "kod": "ZST417",
    "ad": "SÜT ÜRÜNLERİNDE AMBALAJ",
-   "mufredat": "Süt Teknolojisi (a)",
+   "mufredat": "2023 Yılı Süt Teknolojisi (Yandal Müfredatı)",
    "yariyil": null,
    "grup": "SEÇ.DERS.GRBIII - SEÇMELİ DERS GRUBU III (YANDAL)",
    "tur": "Seçmeli",

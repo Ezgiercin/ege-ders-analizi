@@ -12,7 +12,7 @@
   {
    "kod": "2802001012016",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "2802001022016",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "2802001032016",
    "ad": "YABANCI DİL I",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "2802001052016",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "2802001072016",
    "ad": "BESLENME İLKELERİ I",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "2802001092016",
    "ad": "TEMEL KİMYA I",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "2802001112016",
    "ad": "TEMEL MATEMATİK",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "2802001132016",
    "ad": "GENETİK",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "2802001192020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "2802001212020",
    "ad": "SAĞLIK BİLİMLERİNDE İLETİŞİM",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "2802000922016",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "2802000942016",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "2802000962016",
    "ad": "YABANCI DİL II",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "2802001002016",
    "ad": "BESLENME İLKELERİ II",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "2802001042016",
    "ad": "TEMEL KİMYA II",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "2802001062016",
    "ad": "TIBBİ BİYOLOJİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "2802001082016",
    "ad": "SAĞLIK SOSYOLOJİSİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "2802001102018",
    "ad": "MİKROBİYOLOJİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "2802001122016",
    "ad": "TEMEL PSİKOLOJİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "2802001142023",
    "ad": "BAĞIMLILIKLA MÜCADELE",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "2802002012016",
    "ad": "BESİN KİMYASI VE ANALİZLERİ I",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "2802002032019",
    "ad": "BESLENME BİYOKİMYASI I",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "2802002072018",
    "ad": "BESİN MİKROBİYOLOJİSİ VE GÜVENLİĞİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "2802002092022",
    "ad": "FİZYOLOJİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "2802002112022",
    "ad": "ANATOMİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "2802002132016",
    "ad": "İÇ HASTALIKLARINA GİRİŞ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "2802002152020",
    "ad": "FARMAKOLOJİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "2802002232026",
    "ad": "BESİN MEVZUATI",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -432,7 +432,7 @@
   {
    "kod": "2802002022016",
    "ad": "BESİN KİMYASI VE ANALİZLERİ II",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "2802002042019",
    "ad": "BESLENME BİYOKİMYASI II",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "2802002082016",
    "ad": "SÜREGEN HASTALIKLAR FİZYO-PATOLOJİSİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "2802002122016",
    "ad": "MESLEKİ İNGİLİZCE I",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "2802002162020",
    "ad": "BESLENME EKOLOJİSİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "2802002182020",
    "ad": "BESİN SANAYİDE ÜRETİM",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "2802002202020",
    "ad": "İLK YARDIM",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "2802002342023",
    "ad": "BESLENME EĞİTİMİ YÖNTEMLERİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -558,7 +558,7 @@
   {
    "kod": "2802003012016",
    "ad": "ÇOCUK SAĞLIĞI VE HASTALIKLARI",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -572,7 +572,7 @@
   {
    "kod": "2802003032018",
    "ad": "YETİŞKİN HASTALIKLARINDA TIBBİ BESLENME TEDAVİSİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "2802003052016",
    "ad": "TOPLU BESLENME SİSTEMLERİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "2802003092022",
    "ad": "ARAŞTIRMA PLANLAMA VE ÇÖZÜMLEME",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "2802003112016",
    "ad": "MESLEKİ İNGİLİZCE II",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -628,7 +628,7 @@
   {
    "kod": "2802003172019",
    "ad": "TOPLUMDA BESLENME DURUMUNUN SAPTANMASI",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -656,7 +656,7 @@
   {
    "kod": "2802003012016",
    "ad": "ÇOCUK SAĞLIĞI VE HASTALIKLARI",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "2802003032018",
    "ad": "YETİŞKİN HASTALIKLARINDA TIBBİ BESLENME TEDAVİSİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "2802003052016",
    "ad": "TOPLU BESLENME SİSTEMLERİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -698,7 +698,7 @@
   {
    "kod": "2802003062019",
    "ad": "TOPLUMDA BESLENME SORUNLARI VE EPİDEMİYOLOJİSİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -712,7 +712,7 @@
   {
    "kod": "2802003092022",
    "ad": "ARAŞTIRMA PLANLAMA VE ÇÖZÜMLEME",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -726,7 +726,7 @@
   {
    "kod": "2802003122019",
    "ad": "YAZ UYGULAMASI ( TOPLUM BESLENMESİ )",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -740,7 +740,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -754,7 +754,7 @@
   {
    "kod": "2802004012022",
    "ad": "KLİNİK BESLENME YETİŞKİN UYGULAMALI DERSİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "2802004032022",
    "ad": "TOPLU BESLENME SİSTEMLERİ UYGULAMALI DERSİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -782,7 +782,7 @@
   {
    "kod": "2802004052022",
    "ad": "KLİNİK BESLENME ÇOCUK UYGULAMALI DERSİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -796,7 +796,7 @@
   {
    "kod": "2802004072022",
    "ad": "SEÇMELİ ALAN UYGULAMALI DERSİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -810,7 +810,7 @@
   {
    "kod": "2802004092016",
    "ad": "BESLENMEDE GÜNCEL GELİŞMELER",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -824,7 +824,7 @@
   {
    "kod": "2802004112016",
    "ad": "GENEL İŞLETME",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -838,7 +838,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -852,7 +852,7 @@
   {
    "kod": "2802004012022",
    "ad": "KLİNİK BESLENME YETİŞKİN UYGULAMALI DERSİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -866,7 +866,7 @@
   {
    "kod": "2802004022023",
    "ad": "SAĞLIK VE MESLEK ETİĞİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -880,7 +880,7 @@
   {
    "kod": "2802004032022",
    "ad": "TOPLU BESLENME SİSTEMLERİ UYGULAMALI DERSİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -894,7 +894,7 @@
   {
    "kod": "2802004052022",
    "ad": "KLİNİK BESLENME ÇOCUK UYGULAMALI DERSİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -908,7 +908,7 @@
   {
    "kod": "2802004072022",
    "ad": "SEÇMELİ ALAN UYGULAMALI DERSİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -922,7 +922,7 @@
   {
    "kod": "2802004092016",
    "ad": "BESLENMEDE GÜNCEL GELİŞMELER",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -936,7 +936,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -950,7 +950,7 @@
   {
    "kod": "2802001022019",
    "ad": "BASKETBOL",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-2.YY - SEÇMELİ DERS GRUBU (MESLEKİ OLMAYAN) 2.YY",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "2802001042019",
    "ad": "MÜZİK",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-2.YY - SEÇMELİ DERS GRUBU (MESLEKİ OLMAYAN) 2.YY",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "2802001062019",
    "ad": "VOLEYBOL",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-2.YY - SEÇMELİ DERS GRUBU (MESLEKİ OLMAYAN) 2.YY",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "2802001082019",
    "ad": "HALK DANSLARI",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-2.YY - SEÇMELİ DERS GRUBU (MESLEKİ OLMAYAN) 2.YY",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "2802001102019",
    "ad": "GİRİŞKENLİK",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-2.YY - SEÇMELİ DERS GRUBU (MESLEKİ OLMAYAN) 2.YY",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "2802001142020",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-2.YY - SEÇMELİ DERS GRUBU (MESLEKİ OLMAYAN) 2.YY",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "2802002212023",
    "ad": "HALK SAĞLIĞI",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-3Y.Y - SEÇMELİ DERS GRUBU (MESLEKİ OLMAYAN)-3-Y.Y",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-3Y.Y - SEÇMELİ DERS GRUBU (MESLEKİ OLMAYAN)-3-Y.Y",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "2802002022019",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-4.YY - SEÇMELİ DERS GRUBU (MESLEKİ OLMAYAN) 4.YY",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "2802002062019",
    "ad": "TEMEL FOTOĞRAFÇILIK",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-4.YY - SEÇMELİ DERS GRUBU (MESLEKİ OLMAYAN) 4.YY",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "2802002082019",
    "ad": "ETKİLİ KONUŞMA",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-4.YY - SEÇMELİ DERS GRUBU (MESLEKİ OLMAYAN) 4.YY",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "2802002102019",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-4.YY - SEÇMELİ DERS GRUBU (MESLEKİ OLMAYAN) 4.YY",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "2802002302020",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-4.YY - SEÇMELİ DERS GRUBU (MESLEKİ OLMAYAN) 4.YY",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-4.YY - SEÇMELİ DERS GRUBU (MESLEKİ OLMAYAN) 4.YY",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-4.YY - SEÇMELİ DERS GRUBU (MESLEKİ OLMAYAN) 4.YY",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "2802003212023",
    "ad": "BESİNLERLE İLGİLİ YASAL DÜZENLEMELER",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-5.YY - SEÇMELİ DERS GRUBU (MESLEKİ ) 5.YY",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "2802003272024",
    "ad": "SOSYAL SORUMLULUK",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-5.YY - SEÇMELİ DERS GRUBU (MESLEKİ ) 5.YY",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-5.YY - SEÇMELİ DERS GRUBU (MESLEKİ ) 5.YY",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-5.YY - SEÇMELİ DERS GRUBU (MESLEKİ ) 5.YY",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "2802003082023",
    "ad": "ÖZEL DURUMLARDA BESLENME",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-6.YY - SEÇMELİ DERS GRUBU (MESLEKİ ) 6.YY",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "2802003102024",
    "ad": "SOSYAL SORUMLULUK",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-6.YY - SEÇMELİ DERS GRUBU (MESLEKİ ) 6.YY",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "2802003122024",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-6.YY - SEÇMELİ DERS GRUBU (MESLEKİ ) 6.YY",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-6.YY - SEÇMELİ DERS GRUBU (MESLEKİ ) 6.YY",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "2802004152019",
    "ad": "ENTERAL PARENTERAL BESLENME I",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-7.YY - SEÇMELİ DERS GRUBU (MESLEKİ ) 7.YY",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "2802004172019",
    "ad": "SPORCU BESLENMESİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-7.YY - SEÇMELİ DERS GRUBU (MESLEKİ ) 7.YY",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "2802004192019",
    "ad": "BİLİMSEL MAKALE OKUMA",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-7.YY - SEÇMELİ DERS GRUBU (MESLEKİ ) 7.YY",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "2802004212022",
    "ad": "YAŞLILIKTA BESLENME",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-7.YY - SEÇMELİ DERS GRUBU (MESLEKİ ) 7.YY",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "2802004232025",
    "ad": "BESLENME ARAŞTIRMALARI I",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-7.YY - SEÇMELİ DERS GRUBU (MESLEKİ ) 7.YY",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-7.YY - SEÇMELİ DERS GRUBU (MESLEKİ ) 7.YY",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "2802004062019",
    "ad": "ENTERAL PARENTERAL BESLENME II",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-8.YY - SEÇMELİ DERS GRUBU (MESLEKİ ) 8.YY",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "2802004082019",
    "ad": "SPORCU BESLENMESİ",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-8.YY - SEÇMELİ DERS GRUBU (MESLEKİ ) 8.YY",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "2802004102019",
    "ad": "KLİNİK BESLENMEDE SORUNLAR",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-8.YY - SEÇMELİ DERS GRUBU (MESLEKİ ) 8.YY",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "2802004122023",
    "ad": "BİLİMSEL MAKALE OKUMA",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-8.YY - SEÇMELİ DERS GRUBU (MESLEKİ ) 8.YY",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "2802004142025",
    "ad": "BESLENME ARAŞTIRMALARI II",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-8.YY - SEÇMELİ DERS GRUBU (MESLEKİ ) 8.YY",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": "Beslenme ve Diyetetik",
+   "mufredat": "2020 Yılı Müfredatı (Beslenme ve Diyetetik)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-8.YY - SEÇMELİ DERS GRUBU (MESLEKİ ) 8.YY",
    "tur": "Seçmeli",

@@ -12,7 +12,7 @@
   {
    "kod": "9381025012020",
    "ad": "KLP Hemşırelığınde Kuram ve Kavramlar I",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9381025072020",
    "ad": "Sağlık Bılımlerınde Araştırma",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9381025002020",
    "ad": "KLP Hemşırelığınde Kuram ve Kavramlar II",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9381025022020",
    "ad": "KLP Hemşırelığı Uygulama II",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9381025032020",
    "ad": "KLP Hemşırelığı Uygulama I",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9381025042018",
    "ad": "İç Hastalıkları ve Psıkososyal Bakım",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9381025052018",
    "ad": "Cerrahı Hastalıklar ve Psıkososyal Bakım",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9381025062018",
    "ad": "Psıkopatolojı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9381025082018",
    "ad": "Bılgısayar Uygulamalı ve Bıoıstatıstık I",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9381025092018",
    "ad": "Tamamlayıcı/Alternatıf ve Somatık Tedavıler",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9381025102018",
    "ad": "Toplum, Kültür, Sağlık",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9381025112018",
    "ad": "Psıkoterapıler",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9381025122018",
    "ad": "Grup Psıkoterapılerı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9381025132018",
    "ad": "Rehabılıtasyon ve Evde Bakım",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9381025142018",
    "ad": "Klınık Onkolojıye Gırış",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9381025172018",
    "ad": "Çocuk ve Ergen Ruh Sağlığı ve Hastalıkları Hemşırelığı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9381025192018",
    "ad": "Aıle Danışmanlığı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9381025202018",
    "ad": "Beslenme ve Ruh Sağlığı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9381025212018",
    "ad": "Acıl Psıkıyatrı Hemşırelığı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9381025222018",
    "ad": "Bılım Felsefesı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9381025232018",
    "ad": "Bılım Etığı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9381025242018",
    "ad": "Sağlık Sosyolojısı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9381025252018",
    "ad": "Madde Kullanım Bozukluğu",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9381025262018",
    "ad": "Kışısel Gelışım",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9381025272018",
    "ad": "Sağlık Eğıtımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9381025282018",
    "ad": "Görüşme Becerılerı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9381025292018",
    "ad": "Psıkofarmakolojı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9381025302018",
    "ad": "Kadın Hayatının Evrelerının Bıyopsıkososyal Kapsam",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG1 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG1",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9381025022020",
    "ad": "KLP Hemşırelığı Uygulama II",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9381025032020",
    "ad": "KLP Hemşırelığı Uygulama I",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9381025042018",
    "ad": "İç Hastalıkları ve Psıkososyal Bakım",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9381025052018",
    "ad": "Cerrahı Hastalıklar ve Psıkososyal Bakım",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "9381025062018",
    "ad": "Psıkopatolojı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "9381025082018",
    "ad": "Bılgısayar Uygulamalı ve Bıoıstatıstık I",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "9381025092018",
    "ad": "Tamamlayıcı/Alternatıf ve Somatık Tedavıler",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "9381025102018",
    "ad": "Toplum, Kültür, Sağlık",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "9381025112018",
    "ad": "Psıkoterapıler",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "9381025122018",
    "ad": "Grup Psıkoterapılerı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "9381025132018",
    "ad": "Rehabılıtasyon ve Evde Bakım",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "9381025142018",
    "ad": "Klınık Onkolojıye Gırış",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "9381025172018",
    "ad": "Çocuk ve Ergen Ruh Sağlığı ve Hastalıkları Hemşırelığı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "9381025192018",
    "ad": "Aıle Danışmanlığı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "9381025202018",
    "ad": "Beslenme ve Ruh Sağlığı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "9381025212018",
    "ad": "Acıl Psıkıyatrı Hemşırelığı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "9381025222018",
    "ad": "Bılım Felsefesı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "9381025232018",
    "ad": "Bılım Etığı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "9381025242018",
    "ad": "Sağlık Sosyolojısı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "9381025252018",
    "ad": "Madde Kullanım Bozukluğu",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "9381025262018",
    "ad": "Kışısel Gelışım",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "9381025272018",
    "ad": "Sağlık Eğıtımı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "9381025282018",
    "ad": "Görüşme Becerılerı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "9381025292018",
    "ad": "Psıkofarmakolojı",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "9381025302018",
    "ad": "Kadın Hayatının Evrelerının Bıyopsıkososyal Kapsam",
-   "mufredat": null,
+   "mufredat": "2018 Yılı Konsültasyon ve Liyezon Psikiyatri Hemşireliği Tezli Yükseklisans Programı Müfredatı",
    "yariyil": null,
    "grup": "HEM.KLPH.SDG2 - Hemşirelik Konsültasyon ve liyezon Psikiyatri Hemşireliği Tezli Yükseklisans SDG2",
    "tur": "Seçmeli",

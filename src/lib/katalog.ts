@@ -125,3 +125,53 @@ export function mufredatlar(dersler: KatalogDersi[]): { ad: string; dersSayisi: 
     .map(([ad, dersSayisi]) => ({ ad, dersSayisi }))
     .sort((a, b) => b.dersSayisi - a.dersSayisi);
 }
+
+/** Müfredat adındaki yıl ("2024 Yılı Müfredatı", "2023-2024 … doktora"); yoksa null. */
+function mufredatYili(ad: string): number | null {
+  const yillar = (ad.match(/\b(19|20)\d{2}\b/g) ?? []).map(Number);
+  return yillar.length ? Math.max(...yillar) : null;
+}
+
+/** Yan dal / ÇAP gibi ek müfredatlar: varsayılan olarak seçilmesin. */
+const EK_MUFREDAT = /yan\s*dal|yandal|çap\b|çift\s*ana\s*dal/i;
+
+/** Bir müfredatta transkriptteki ders kodlarından kaçı geçiyor? */
+export function mufredatOrtusmesi(dersler: KatalogDersi[], mufredat: string | null, kodlar: string[]): number {
+  const k = new Set(kodlar);
+  return new Set(
+    dersler.filter((d) => (d.mufredat ?? null) === mufredat && k.has(d.kod)).map((d) => d.kod)
+  ).size;
+}
+
+/**
+ * Açılışta hangi müfredat gösterilsin?
+ * - Transkript varsa ve bir müfredatla gerçekten örtüşüyorsa (en az 3 ders ve
+ *   transkriptin %30'u): en çok örtüşen müfredat.
+ * - Yoksa: yan dal/ÇAP dışındaki müfredatlardan en yeni yıllı olanı; yıl yoksa
+ *   en çok ders taşıyanı. (Birkaç ortak seçmeli ders yüzünden yan dal seçilmesin.)
+ */
+export function varsayilanMufredat(dersler: KatalogDersi[], transkriptKodlari: string[] = []): string | null {
+  const liste = mufredatlar(dersler);
+  if (!liste.length) return null;
+
+  if (transkriptKodlari.length) {
+    const esik = Math.max(3, Math.ceil(transkriptKodlari.length * 0.3));
+    let enIyi: string | null = null;
+    let enCok = 0;
+    for (const m of liste) {
+      const ortak = mufredatOrtusmesi(dersler, m.ad || null, transkriptKodlari);
+      if (ortak > enCok) {
+        enCok = ortak;
+        enIyi = m.ad;
+      }
+    }
+    if (enIyi !== null && enCok >= esik) return enIyi || null;
+  }
+
+  const anaListe = liste.filter((m) => !EK_MUFREDAT.test(m.ad));
+  const adaylar = anaListe.length ? anaListe : liste;
+  const sirali = [...adaylar].sort(
+    (a, b) => (mufredatYili(b.ad) ?? 0) - (mufredatYili(a.ad) ?? 0) || b.dersSayisi - a.dersSayisi
+  );
+  return sirali[0].ad || null;
+}

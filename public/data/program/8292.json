@@ -12,7 +12,7 @@
   {
    "kod": "HAZ001",
    "ad": "HAZIRLIK SINIFI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 0,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "3404001012020",
    "ad": "TÜRK DİLİ-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "3404001032020",
    "ad": "ATATÜRK İLKELERİ ve İNKILAP TARİHİ-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "3404001072020",
    "ad": "GENEL EKONOMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "3404001092020",
    "ad": "TURİZME GİRİŞ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "3404001112020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "3404001132020",
    "ad": "ALTERNATİF YABANCI DİL-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "3404001152020",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "3404001172026",
    "ad": "TURİZM COĞRAFYASI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "3404001192026",
    "ad": "ÜNİVERSİTE YAŞAMINA GİRİŞ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "3404001022020",
    "ad": "TÜRK DİLİ-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "3404001042020",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "3404001062020",
    "ad": "GENEL İŞLETME",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "3404001102020",
    "ad": "GENEL MUHASEBE",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "3404001122020",
    "ad": "ALTERNATİF YABANCI DİL-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "3404001142020",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "3404001162020",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "3404001182026",
    "ad": "DAVRANIŞ BİLİMLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "3404002012021",
    "ad": "YABANCI DİLDE OKUMA VE KONUŞMA-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "3404002032021",
    "ad": "ALTERNATİF YABANCI DİL III",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "3404002052021",
    "ad": "OTELCİLİK VE ÖNBÜRO",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "3404002072021",
    "ad": "TURİZM EKONOMİSİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "3404002092021",
    "ad": "TOPLANTI VE KONGRE TURİZMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "3404002112021",
    "ad": "MALİYET MUHASEBESİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "3404002132021",
    "ad": "SEYAHAT ACENTACILIĞI VE TUR OPERATÖRLÜĞÜ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -376,7 +376,7 @@
   {
    "kod": "3404002022021",
    "ad": "YABANCI DİLDE OKUMA VE KONUŞMA-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "3404002042021",
    "ad": "ALTERNATİF YABANCI DİL IV",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "3404002142026",
    "ad": "YÖNETİM MUHASEBESİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "3404002162026",
    "ad": "SERVİS VE BAR",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "3404002182026",
    "ad": "KAT HİZMETLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "3404002202026",
    "ad": "TUR PLANLAMASI VE YÖNETİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "3404002282026",
    "ad": "TURİZM PAZARLAMASI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "3404002302026",
    "ad": "STAJ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -502,7 +502,7 @@
   {
    "kod": "3404003012021",
    "ad": "MESLEKİ İNGİLİZCE-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "3404003032021",
    "ad": "ALTERNATİF YABANCI DİL V",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "3404003052021",
    "ad": "YÖNETİM VE ORGANİZASYON",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "3404003092026",
    "ad": "YİYECEK İCECEK HİZMETLERİ YÖNETİMİ-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "3404003132026",
    "ad": "TURİZMDE HALKLA İLİŞKİLER",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -572,7 +572,7 @@
   {
    "kod": "3404003452026",
    "ad": "TÜKETİCİ DAVRANIŞLARI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -600,7 +600,7 @@
   {
    "kod": "3404003042023",
    "ad": "MESLEKİ İNGİLİZCE-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "3404003062021",
    "ad": "ALTERNATİF YABANCI DİL-VI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -628,7 +628,7 @@
   {
    "kod": "3404003542026",
    "ad": "KONAKLAMA İŞLETMELERİ YÖNETİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "3404003562026",
    "ad": "TURİZM SOSYOLOJİSİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "3404003582026",
    "ad": "YİYECEK İCECEK HİZMETLERİ YÖNETİMİ-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -698,7 +698,7 @@
   {
    "kod": "3404004012021",
    "ad": "MESLEKİ İNGİLİZCE-III",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -712,7 +712,7 @@
   {
    "kod": "3404004032021",
    "ad": "ALTERNATİF YABANCI DİL-VII",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -726,7 +726,7 @@
   {
    "kod": "3404004052021",
    "ad": "SÜRDÜRÜLEBİLİR TURİZM",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -740,7 +740,7 @@
   {
    "kod": "3404004332026",
    "ad": "TURİZM İŞLETMELERİNDE KALİTE YÖNETİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -754,7 +754,7 @@
   {
    "kod": "3404004352026",
    "ad": "REKREASYON YÖNETİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "3404004372026",
    "ad": "İNSAN KAYNAKLARI YÖNETİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -782,7 +782,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -796,7 +796,7 @@
   {
    "kod": "3404004042021",
    "ad": "ALTERNATİF YABANCI DİL-VIII",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -810,7 +810,7 @@
   {
    "kod": "3404004062021",
    "ad": "MESLEKİ İNGİLİZCE-IV",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -824,7 +824,7 @@
   {
    "kod": "3404004422026",
    "ad": "ULUSLARARASI TURİZM İLİŞKİLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -838,7 +838,7 @@
   {
    "kod": "3404004442026",
    "ad": "İŞLETME HİJYENİ VE GIDA GÜVENLİĞİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -852,7 +852,7 @@
   {
    "kod": "3404004462026",
    "ad": "TURİZM MEVZUATI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -866,7 +866,7 @@
   {
    "kod": "3404004482026",
    "ad": "TURİZM POLİTİKASI VE PLANLAMASI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -880,7 +880,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -894,7 +894,7 @@
   {
    "kod": "PF201",
    "ad": "EĞİTİME GİRİŞ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.FRM-I - SEÇMELİ DERS GRUBU TURİZM İŞLT. FORMASYON I",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.FRM-I - SEÇMELİ DERS GRUBU TURİZM İŞLT. FORMASYON I",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.FRM-II - SEÇMELİ DERS GRUBU TURİZM İŞLT. FORMASYON II",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.FRM-II - SEÇMELİ DERS GRUBU TURİZM İŞLT. FORMASYON II",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "3403003392022",
    "ad": "TÜRKİYENİN SOMUT OLMAYAN KÜLTÜREL MİRASI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TRÜNİSEÇ-1 - ÜNİVERSİTE SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "3403003412022",
    "ad": "ANTİK ÇAĞDA GÜNLÜK YAŞAM",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TRÜNİSEÇ-1 - ÜNİVERSİTE SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "3404003352022",
    "ad": "İÇERİK YÖNETİMİ SİSTEMLERİ WEB UYGULAMALARI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TRÜNİSEÇ-1 - ÜNİVERSİTE SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "3404003152021",
    "ad": "SOSYAL BİLİMLERİDE ARAŞTIRMA YÖNTEMLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.I - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "3404003252021",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.I - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "3404003272021",
    "ad": "HAVALİMANI İŞLETMECİLİĞİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.I - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "3404003292021",
    "ad": "İLK YARDIM",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.I - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "3404003312021",
    "ad": "ÖZEL KONULAR-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.I - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "3404003332021",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.I - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "3404003412023",
    "ad": "TURİZMDE ULAŞTIRMA",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.I - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "3404003432023",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.I - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "3404003472026",
    "ad": "SEYAHAT İŞLETMELERİNDE OTOMASYON-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.I - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "3404003492026",
    "ad": "KONAKLAMA İŞLETMELERİNDE OTOMASYON-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.I - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "3404003532026",
    "ad": "HALK BİLİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.I - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.I - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.I - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "3404003462022",
    "ad": "SEYAHAT PLANLAMASI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TRÜNİSEÇ-2 - ÜNİVERSİTE SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "3404003482022",
    "ad": "AVRUPA BİRLİĞİ VE TURİZM",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TRÜNİSEÇ-2 - ÜNİVERSİTE SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "3404003502022",
    "ad": "KÜLTÜRLERARASI İLETİŞİM",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TRÜNİSEÇ-2 - ÜNİVERSİTE SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "3404003522022",
    "ad": "TURİZM İŞLETMELERİNDE SOSYAL MEDYA",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TRÜNİSEÇ-2 - ÜNİVERSİTE SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "3404003182021",
    "ad": "ALTERNATİF TURİZM HAREKETLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.II - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "3404003242021",
    "ad": "TOPLUMSAL CİNSİYET EŞİTLİĞİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.II - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "3404003262021",
    "ad": "ANADOLU EL SANATLARI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.II - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "3404003302021",
    "ad": "DİNLER TARİHİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.II - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "3404003322021",
    "ad": "PASTA YAPIM TEKNİKLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.II - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "3404003342021",
    "ad": "OTELLERDE DEKORASYON",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.II - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "3404003362021",
    "ad": "OTELLERDE BAKIM ONARIM",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.II - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "3404003402021",
    "ad": "TEMİZLİK TEKNOLOJİSİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.II - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "3404003422021",
    "ad": "ÖZEL KONULAR-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.II - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "3404003622026",
    "ad": "SEYAHAT İŞLETMELERİNDE OTOMASYON-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.II - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "3404003642026",
    "ad": "KONAKLAMA İŞLETMELERİNDE OTOMASYON-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.II - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.II - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "3404004112021",
    "ad": "MARİNA İŞLETMECİLİĞİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.III - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "3404004132021",
    "ad": "BİTİRME TEZİ-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.III - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "3404004172021",
    "ad": "YİYECEK ÜRETİM SİSTEM VE TEKNİKLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.III - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "3404004192021",
    "ad": "TEMİZLİK HİZMETLERİ İŞLETMECİLİĞİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.III - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "3404004212021",
    "ad": "AGRO TURİZM",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.III - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "3404004272021",
    "ad": "OTELLERDE GÜVENLİK",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.III - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "3404004312023",
    "ad": "İKRAM HİZMETLERİ VE BANKET YÖNETİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.III - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "3404004382025",
    "ad": "DENEYİM EKONOMİSİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.III - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -1510,7 +1510,7 @@
   {
    "kod": "3404004392026",
    "ad": "ÖZEL KONULAR-III",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.III - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -1524,7 +1524,7 @@
   {
    "kod": "3404004402025",
    "ad": "KAHVE SUNUM TEKNİKLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.III - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -1538,7 +1538,7 @@
   {
    "kod": "3404004412026",
    "ad": "LÜKS DENEYİM YÖNETİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.III - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -1552,7 +1552,7 @@
   {
    "kod": "3404004452026",
    "ad": "SEYEHAT İŞLETMELERİNDE OTOMASYON III",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.III - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -1566,7 +1566,7 @@
   {
    "kod": "3404004472026",
    "ad": "KONAKLAMA İŞLETMELERİNDE OTOMASYON III",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.III - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -1580,7 +1580,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.III - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -1594,7 +1594,7 @@
   {
    "kod": "3404004082021",
    "ad": "AVRUPA BİRLİĞİ POLİTİKALARI VE TURİZM",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.IV - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -1608,7 +1608,7 @@
   {
    "kod": "3404004102021",
    "ad": "MUTFAK KÜLTÜRLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.IV - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -1622,7 +1622,7 @@
   {
    "kod": "3404004142021",
    "ad": "BİTİRME TEZİ-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.IV - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -1636,7 +1636,7 @@
   {
    "kod": "3404004162021",
    "ad": "REHBERLİK",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.IV - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -1650,7 +1650,7 @@
   {
    "kod": "3404004242021",
    "ad": "LOJİSTİK YÖNETİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.IV - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -1664,7 +1664,7 @@
   {
    "kod": "3404004282021",
    "ad": "YARATICI DRAMA",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.IV - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -1678,7 +1678,7 @@
   {
    "kod": "3404004302021",
    "ad": "YENİLEBİLİR HEYKELLER",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.IV - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -1692,7 +1692,7 @@
   {
    "kod": "3404004322021",
    "ad": "ÖZEL KONULAR IV",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.IV - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -1706,7 +1706,7 @@
   {
    "kod": "3404004502026",
    "ad": "SEYEHAT İŞLETMELERİNDE OTOMASYON IV",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.IV - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -1720,7 +1720,7 @@
   {
    "kod": "3404004522026",
    "ad": "KONAKLAMA İŞLETMELERİNDE OTOMASYON IV",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.IV - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -1734,7 +1734,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2026 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.IV - TURİZM İŞLETMECİLİĞİ SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -1748,7 +1748,7 @@
   {
    "kod": "3404001012020",
    "ad": "TÜRK DİLİ-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1762,7 +1762,7 @@
   {
    "kod": "3404001032020",
    "ad": "ATATÜRK İLKELERİ ve İNKILAP TARİHİ-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1776,7 +1776,7 @@
   {
    "kod": "3404001052020",
    "ad": "TİCARİ MATEMATİK",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1790,7 +1790,7 @@
   {
    "kod": "3404001072020",
    "ad": "GENEL EKONOMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1804,7 +1804,7 @@
   {
    "kod": "3404001092020",
    "ad": "TURİZME GİRİŞ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1818,7 +1818,7 @@
   {
    "kod": "3404001112020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1832,7 +1832,7 @@
   {
    "kod": "3404001132020",
    "ad": "ALTERNATİF YABANCI DİL-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1846,7 +1846,7 @@
   {
    "kod": "3404001152020",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1860,7 +1860,7 @@
   {
    "kod": "3404001022020",
    "ad": "TÜRK DİLİ-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1874,7 +1874,7 @@
   {
    "kod": "3404001042020",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1888,7 +1888,7 @@
   {
    "kod": "3404001062020",
    "ad": "GENEL İŞLETME",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1902,7 +1902,7 @@
   {
    "kod": "3404001082020",
    "ad": "DAVRANIŞ BİLİMLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1916,7 +1916,7 @@
   {
    "kod": "3404001102020",
    "ad": "GENEL MUHASEBE",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1930,7 +1930,7 @@
   {
    "kod": "3404001122020",
    "ad": "ALTERNATİF YABANCI DİL-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1944,7 +1944,7 @@
   {
    "kod": "3404001142020",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1958,7 +1958,7 @@
   {
    "kod": "3404001162020",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1972,7 +1972,7 @@
   {
    "kod": "3404002012021",
    "ad": "YABANCI DİLDE OKUMA VE KONUŞMA-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1986,7 +1986,7 @@
   {
    "kod": "3404002032021",
    "ad": "ALTERNATİF YABANCI DİL III",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2000,7 +2000,7 @@
   {
    "kod": "3404002052021",
    "ad": "OTELCİLİK VE ÖNBÜRO",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2014,7 +2014,7 @@
   {
    "kod": "3404002072021",
    "ad": "TURİZM EKONOMİSİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2028,7 +2028,7 @@
   {
    "kod": "3404002092021",
    "ad": "TOPLANTI VE KONGRE TURİZMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2042,7 +2042,7 @@
   {
    "kod": "3404002112021",
    "ad": "MALİYET MUHASEBESİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2056,7 +2056,7 @@
   {
    "kod": "3404002132021",
    "ad": "SEYAHAT ACENTACILIĞI VE TUR OPERATÖRLÜĞÜ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2070,7 +2070,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -2084,7 +2084,7 @@
   {
    "kod": "3404002022021",
    "ad": "YABANCI DİLDE OKUMA VE KONUŞMA-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2098,7 +2098,7 @@
   {
    "kod": "3404002042021",
    "ad": "ALTERNATİF YABANCI DİL IV",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2112,7 +2112,7 @@
   {
    "kod": "3404002062021",
    "ad": "TURİZM SOSYOLOJİSİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2126,7 +2126,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -2140,7 +2140,7 @@
   {
    "kod": "3404003012022",
    "ad": "MESLEKİ İNGİLİZCE-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2154,7 +2154,7 @@
   {
    "kod": "3404003032021",
    "ad": "ALTERNATİF YABANCI DİL V",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2168,7 +2168,7 @@
   {
    "kod": "3404003052021",
    "ad": "YÖNETİM VE ORGANİZASYON",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2182,7 +2182,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -2196,7 +2196,7 @@
   {
    "kod": "3404003042023",
    "ad": "MESLEKİ İNGİLİZCE-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2210,7 +2210,7 @@
   {
    "kod": "3404003062021",
    "ad": "ALTERNATİF YABANCI DİL-VI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2224,7 +2224,7 @@
   {
    "kod": "3404003442022",
    "ad": "STAJ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2238,7 +2238,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2252,7 +2252,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -2266,7 +2266,7 @@
   {
    "kod": "3404004012021",
    "ad": "MESLEKİ İNGİLİZCE-III",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2280,7 +2280,7 @@
   {
    "kod": "3404004032021",
    "ad": "ALTERNATİF YABANCI DİL-VII",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2294,7 +2294,7 @@
   {
    "kod": "3404004052021",
    "ad": "SÜRDÜRÜLEBİLİR TURİZM",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2308,7 +2308,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -2322,7 +2322,7 @@
   {
    "kod": "3404004022021",
    "ad": "TURİZM PAZARLAMASI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2336,7 +2336,7 @@
   {
    "kod": "3404004042021",
    "ad": "ALTERNATİF YABANCI DİL-VIII",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2350,7 +2350,7 @@
   {
    "kod": "3404004062021",
    "ad": "MESLEKİ İNGİLİZCE-IV",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2364,7 +2364,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -2378,7 +2378,7 @@
   {
    "kod": "PF201",
    "ad": "EĞİTİME GİRİŞ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.FRM-I - SEÇMELİ DERS GRUBU TURİZM İŞLT. FORMASYON I",
    "tur": "Seçmeli",
@@ -2392,7 +2392,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.FRM-I - SEÇMELİ DERS GRUBU TURİZM İŞLT. FORMASYON I",
    "tur": "Seçmeli",
@@ -2406,7 +2406,7 @@
   {
    "kod": "3404002102021",
    "ad": "SEYAHAT İŞLETMELERİNDE OTOMASYON-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.01 - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -2420,7 +2420,7 @@
   {
    "kod": "3404002122021",
    "ad": "KONAKLAMA İŞLETMELERİNDE OTOMASYON-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.01 - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -2434,7 +2434,7 @@
   {
    "kod": "3404002142021",
    "ad": "YÖNETİM MUHASEBESİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.01 - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -2448,7 +2448,7 @@
   {
    "kod": "3404002162021",
    "ad": "SERVİS VE BAR",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.01 - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -2462,7 +2462,7 @@
   {
    "kod": "3404002182021",
    "ad": "KAT HİZMETLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.01 - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -2476,7 +2476,7 @@
   {
    "kod": "3404002202021",
    "ad": "TUR PLANLAMASI VE YÖNETİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.01 - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -2490,7 +2490,7 @@
   {
    "kod": "3404002222021",
    "ad": "TURİZM MEVZUATI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.01 - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -2504,7 +2504,7 @@
   {
    "kod": "3404002242023",
    "ad": "TURİZM COĞRAFYASI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.01 - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -2518,7 +2518,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.01 - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -2532,7 +2532,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.01 - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -2546,7 +2546,7 @@
   {
    "kod": "3403003392022",
    "ad": "TÜRKİYENİN SOMUT OLMAYAN KÜLTÜREL MİRASI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TRÜNİSEÇ-1 - ÜNİVERSİTE SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -2560,7 +2560,7 @@
   {
    "kod": "3403003412022",
    "ad": "ANTİK ÇAĞDA GÜNLÜK YAŞAM",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TRÜNİSEÇ-1 - ÜNİVERSİTE SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -2574,7 +2574,7 @@
   {
    "kod": "3404003352022",
    "ad": "İÇERİK YÖNETİMİ SİSTEMLERİ WEB UYGULAMALARI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TRÜNİSEÇ-1 - ÜNİVERSİTE SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -2588,7 +2588,7 @@
   {
    "kod": "3404003372022",
    "ad": "TURİZMDE YİYECEK İÇECEK YÖNETİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TRÜNİSEÇ-1 - ÜNİVERSİTE SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -2602,7 +2602,7 @@
   {
    "kod": "3404003392022",
    "ad": "HALKLA İLİŞKİLER",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TRÜNİSEÇ-1 - ÜNİVERSİTE SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -2616,7 +2616,7 @@
   {
    "kod": "3404003092021",
    "ad": "YİYECEK İCECEK HİZMETLERİ YÖNETİMİ-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2630,7 +2630,7 @@
   {
    "kod": "3404003132021",
    "ad": "TURİZMDE HALKLA İLİŞKİLER",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2644,7 +2644,7 @@
   {
    "kod": "3404003152021",
    "ad": "SOSYAL BİLİMLERİDE ARAŞTIRMA YÖNTEMLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2658,7 +2658,7 @@
   {
    "kod": "3404003172021",
    "ad": "SEYAHAT İŞLETMELERİNDE OTOMASYON-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2672,7 +2672,7 @@
   {
    "kod": "3404003192021",
    "ad": "KONAKLAMA İŞLETMELERİNDE OTOMASYON-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2686,7 +2686,7 @@
   {
    "kod": "3404003212021",
    "ad": "HALK BİLİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2700,7 +2700,7 @@
   {
    "kod": "3404003232021",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2714,7 +2714,7 @@
   {
    "kod": "3404003252021",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2728,7 +2728,7 @@
   {
    "kod": "3404003272021",
    "ad": "HAVALİMANI İŞLETMECİLİĞİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2742,7 +2742,7 @@
   {
    "kod": "3404003292021",
    "ad": "İLK YARDIM",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2756,7 +2756,7 @@
   {
    "kod": "3404003312021",
    "ad": "ÖZEL KONULAR-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2770,7 +2770,7 @@
   {
    "kod": "3404003332021",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2784,7 +2784,7 @@
   {
    "kod": "3404003412023",
    "ad": "TURİZMDE ULAŞTIRMA",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2798,7 +2798,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2812,7 +2812,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2826,7 +2826,7 @@
   {
    "kod": "3403003382022",
    "ad": "ESKİ YERLEŞİM YERLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TRÜNİSEÇ-2 - ÜNİVERSİTE SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2840,7 +2840,7 @@
   {
    "kod": "3403003402022",
    "ad": "DİNLER TARİHİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TRÜNİSEÇ-2 - ÜNİVERSİTE SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2854,7 +2854,7 @@
   {
    "kod": "3404003462022",
    "ad": "SEYAHAT PLANLAMASI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TRÜNİSEÇ-2 - ÜNİVERSİTE SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2868,7 +2868,7 @@
   {
    "kod": "3404003482022",
    "ad": "AVRUPA BİRLİĞİ VE TURİZM",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TRÜNİSEÇ-2 - ÜNİVERSİTE SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2882,7 +2882,7 @@
   {
    "kod": "3404003502022",
    "ad": "KÜLTÜRLERARASI İLETİŞİM",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TRÜNİSEÇ-2 - ÜNİVERSİTE SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2896,7 +2896,7 @@
   {
    "kod": "3404003522022",
    "ad": "TURİZM İŞLETMELERİNDE SOSYAL MEDYA",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TRÜNİSEÇ-2 - ÜNİVERSİTE SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2910,7 +2910,7 @@
   {
    "kod": "3404003122021",
    "ad": "KONAKLAMA İŞLETMELERİ YÖNETİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.03 - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -2924,7 +2924,7 @@
   {
    "kod": "3404003142021",
    "ad": "TURİZM POLİTİKASI VE PLANLAMASI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.03 - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -2938,7 +2938,7 @@
   {
    "kod": "3404003162021",
    "ad": "YİYECEK İÇECEK HİZMETLERİ YÖNETİMİ-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.03 - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -2952,7 +2952,7 @@
   {
    "kod": "3404003182021",
    "ad": "ALTERNATİF TURİZM HAREKETLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.03 - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -2966,7 +2966,7 @@
   {
    "kod": "3404003202021",
    "ad": "DİJİTAL MEDYA TASARIMI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.03 - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -2980,7 +2980,7 @@
   {
    "kod": "3404003222021",
    "ad": "SEYAHAT İŞLETMELERİNDE OTOMASYON-III",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.03 - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -2994,7 +2994,7 @@
   {
    "kod": "3404003242021",
    "ad": "TOPLUMSAL CİNSİYET EŞİTLİĞİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.03 - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -3008,7 +3008,7 @@
   {
    "kod": "3404003262021",
    "ad": "ANADOLU EL SANATLARI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.03 - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -3022,7 +3022,7 @@
   {
    "kod": "3404003302021",
    "ad": "DİNLER TARİHİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.03 - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -3036,7 +3036,7 @@
   {
    "kod": "3404003322021",
    "ad": "PASTA YAPIM TEKNİKLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.03 - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -3050,7 +3050,7 @@
   {
    "kod": "3404003342021",
    "ad": "OTELLERDE DEKORASYON",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.03 - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -3064,7 +3064,7 @@
   {
    "kod": "3404003362021",
    "ad": "OTELLERDE BAKIM ONARIM",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.03 - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -3078,7 +3078,7 @@
   {
    "kod": "3404003382021",
    "ad": "KONAKLAMA İŞLETMELERİNDE OTOMASYON-III",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.03 - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -3092,7 +3092,7 @@
   {
    "kod": "3404003402021",
    "ad": "TEMİZLİK TEKNOLOJİSİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.03 - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -3106,7 +3106,7 @@
   {
    "kod": "3404003422021",
    "ad": "ÖZEL KONULAR-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.03 - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -3120,7 +3120,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.03 - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -3134,7 +3134,7 @@
   {
    "kod": "3404004072021",
    "ad": "TURİZM İŞLETMELERİNDE KALİTE YÖNETİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.04 - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -3148,7 +3148,7 @@
   {
    "kod": "3404004092021",
    "ad": "E-PAZARLAMA",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.04 - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -3162,7 +3162,7 @@
   {
    "kod": "3404004112021",
    "ad": "MARİNA İŞLETMECİLİĞİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.04 - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -3176,7 +3176,7 @@
   {
    "kod": "3404004132021",
    "ad": "BİTİRME TEZİ-I",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.04 - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -3190,7 +3190,7 @@
   {
    "kod": "3404004152021",
    "ad": "REKREASYON YÖNETİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.04 - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -3204,7 +3204,7 @@
   {
    "kod": "3404004172021",
    "ad": "YİYECEK ÜRETİM SİSTEM VE TEKNİKLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.04 - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -3218,7 +3218,7 @@
   {
    "kod": "3404004192021",
    "ad": "TEMİZLİK HİZMETLERİ İŞLETMECİLİĞİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.04 - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -3232,7 +3232,7 @@
   {
    "kod": "3404004212021",
    "ad": "AGRO TURİZM",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.04 - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -3246,7 +3246,7 @@
   {
    "kod": "3404004232021",
    "ad": "SEYAHAT İŞLETMELERİNDE OTOMASYON-IV",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.04 - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -3260,7 +3260,7 @@
   {
    "kod": "3404004252021",
    "ad": "KONAKLAMA İŞLETMELERİNDE OTOMASYON-IV",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.04 - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -3274,7 +3274,7 @@
   {
    "kod": "3404004272021",
    "ad": "OTELLERDE GÜVENLİK",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.04 - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -3288,7 +3288,7 @@
   {
    "kod": "3404004312023",
    "ad": "İKRAM HİZMETLERİ VE BANKET YÖNETİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.04 - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -3302,7 +3302,7 @@
   {
    "kod": "3404004382025",
    "ad": "DENEYİM EKONOMİSİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.04 - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -3316,7 +3316,7 @@
   {
    "kod": "3404004402025",
    "ad": "KAHVE SUNUM TEKNİKLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.04 - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -3330,7 +3330,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.04 - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -3344,7 +3344,7 @@
   {
    "kod": "3404004082021",
    "ad": "AVRUPA BİRLİĞİ POLİTİKALARI VE TURİZM",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.05 - SEÇMELİ DERS GRUBU-V",
    "tur": "Seçmeli",
@@ -3358,7 +3358,7 @@
   {
    "kod": "3404004102021",
    "ad": "MUTFAK KÜLTÜRLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.05 - SEÇMELİ DERS GRUBU-V",
    "tur": "Seçmeli",
@@ -3372,7 +3372,7 @@
   {
    "kod": "3404004122021",
    "ad": "FLORA",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.05 - SEÇMELİ DERS GRUBU-V",
    "tur": "Seçmeli",
@@ -3386,7 +3386,7 @@
   {
    "kod": "3404004142021",
    "ad": "BİTİRME TEZİ-II",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.05 - SEÇMELİ DERS GRUBU-V",
    "tur": "Seçmeli",
@@ -3400,7 +3400,7 @@
   {
    "kod": "3404004162021",
    "ad": "REHBERLİK",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.05 - SEÇMELİ DERS GRUBU-V",
    "tur": "Seçmeli",
@@ -3414,7 +3414,7 @@
   {
    "kod": "3404004182021",
    "ad": "TURİZM VAKA ANALİZLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.05 - SEÇMELİ DERS GRUBU-V",
    "tur": "Seçmeli",
@@ -3428,7 +3428,7 @@
   {
    "kod": "3404004202021",
    "ad": "ANADOLU KÜLTÜRLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.05 - SEÇMELİ DERS GRUBU-V",
    "tur": "Seçmeli",
@@ -3442,7 +3442,7 @@
   {
    "kod": "3404004242021",
    "ad": "LOJİSTİK YÖNETİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.05 - SEÇMELİ DERS GRUBU-V",
    "tur": "Seçmeli",
@@ -3456,7 +3456,7 @@
   {
    "kod": "3404004262021",
    "ad": "İŞLETME HİJYENİ VE GIDA GÜVENLİĞİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.05 - SEÇMELİ DERS GRUBU-V",
    "tur": "Seçmeli",
@@ -3470,7 +3470,7 @@
   {
    "kod": "3404004282021",
    "ad": "YARATICI DRAMA",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.05 - SEÇMELİ DERS GRUBU-V",
    "tur": "Seçmeli",
@@ -3484,7 +3484,7 @@
   {
    "kod": "3404004302021",
    "ad": "YENİLEBİLİR HEYKELLER",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.05 - SEÇMELİ DERS GRUBU-V",
    "tur": "Seçmeli",
@@ -3498,7 +3498,7 @@
   {
    "kod": "3404004322021",
    "ad": "ÖZEL KONULAR IV",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.05 - SEÇMELİ DERS GRUBU-V",
    "tur": "Seçmeli",
@@ -3512,7 +3512,7 @@
   {
    "kod": "3404004342023",
    "ad": "İNSAN KAYNAKLARI VE YÖNETİMİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.05 - SEÇMELİ DERS GRUBU-V",
    "tur": "Seçmeli",
@@ -3526,7 +3526,7 @@
   {
    "kod": "3404004362023",
    "ad": "ULUSLARARASI TURİZM İLİŞKİLERİ",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.05 - SEÇMELİ DERS GRUBU-V",
    "tur": "Seçmeli",
@@ -3540,7 +3540,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": "Turizm İşletmeciliği",
+   "mufredat": "2020 Yılı Müfredatı (Turizm İşletmeciliği)",
    "yariyil": null,
    "grup": "TUR.İŞ.SEÇ.05 - SEÇMELİ DERS GRUBU-V",
    "tur": "Seçmeli",

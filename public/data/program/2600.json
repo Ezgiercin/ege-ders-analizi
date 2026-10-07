@@ -12,7 +12,7 @@
   {
    "kod": "AKP101",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "AST101",
    "ad": "ASTRONOMİYE GİRİŞ I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "ATA101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "FEN107",
    "ad": "SCIENTIFIC ENGLISH I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "FİZ151",
    "ad": "FİZİK I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "KİM185",
    "ad": "GENERAL CHEMISTRY",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "MAT151",
    "ad": "MATEMATİK I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "TUR101",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "ÜYG105",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "AST106",
    "ad": "ASTRONOMİYE GİRİŞ II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "ATA102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "FEN102",
    "ad": "SCIENTIFIC ENGLISH II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "FEN104",
    "ad": "COMPUTER",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "FİZ152",
    "ad": "FİZİK II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "İST152",
    "ad": "BASIC STATICTICS",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "MAT152",
    "ad": "MATEMATİK II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "TUR102",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "AST201",
    "ad": "SOLAR SYSTEM",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "AST203",
    "ad": "IŞIKÖLÇÜMÜNE GİRİŞ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "FİZ251",
    "ad": "MODERN FİZİK",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "MAT251",
    "ad": "MATEMATİK III",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "MAT253",
    "ad": "LİNEER CEBİR",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -334,7 +334,7 @@
   {
    "kod": "THU201",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "AST202",
    "ad": "INTRODUCTION TO ASTROPHYSICS",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "AST204",
    "ad": "GÖZLEMSEL ASTRONOMİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "AST206",
    "ad": "KÜRESEL ASTRONOMİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "MAT252",
    "ad": "MATEMATİK IV",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "MAT254",
    "ad": "DİFERANSİYEL DENKLEMLER",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -432,7 +432,7 @@
   {
    "kod": "AST301",
    "ad": "YILDIZ ATMOSFERLERİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "FİZ351",
    "ad": "QUANTUM MECHANICS",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "FİZ353",
    "ad": "TEORİK MEKANİK",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -488,7 +488,7 @@
   {
    "kod": "AST302",
    "ad": "STELLAR INTERIORS AND EVOLUTION",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "AST304",
    "ad": "INTRODUCTION TO SPECTROSCOPY",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "AST306",
    "ad": "GÖK MEKANİĞİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "FİZ352",
    "ad": "ELECTROMAGNETIC THEORY",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -558,7 +558,7 @@
   {
    "kod": "AST415",
    "ad": "KAYNAK TARAMA TEKNİKLERİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -572,7 +572,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -586,7 +586,7 @@
   {
    "kod": "AST414",
    "ad": "BİTİRME TEZİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -614,7 +614,7 @@
   {
    "kod": "FEN035",
    "ad": "TEMEL HUKUK",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "FEN039",
    "ad": "ÖZEL BAHÇE BİTKİLERİ YETİŞTİRİCİLİĞİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "FEN051",
    "ad": "FELSEFEYE GİRİŞ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "FEN053",
    "ad": "ANADOLU SANATI TARİHİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "FEN055",
    "ad": "MİTOLOJİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "FEN057",
    "ad": "KONUŞMA EĞİTİMİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "FEN059",
    "ad": "GİRİŞİMCİLİK VE KALİTE",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "FEN063",
    "ad": "MÜZİK VE TOPLUM I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "FEN069",
    "ad": "KİŞİLER ARASI İLİŞKİLER",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "FSM404",
    "ad": "GİRİŞİMCİLİK, FİKRİ VE SINAİ MÜLKİYET HAKLARINA GİRİŞ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "INV401",
    "ad": "İNOVASYON, TEKNOLOJİ VE GİRİŞİMCİLİK",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.I - ÜNİVERSİTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "BİY006",
    "ad": "GENETİKTE GÜNCEL KONULAR",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "BKM302",
    "ad": "NANOBİYOTEKNOLOJİYE GİRİŞ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "FİZ324",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "FİZ410",
    "ad": "RADYASYON FİZİĞİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "FİZ430",
    "ad": "SPEKTRAL ANALİZ YÖNTEMLERİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "KİM008",
    "ad": "ÇEVRE TEKNOLOJİSİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "MAT002",
    "ad": "NESNE TABANLI PROGRAMLAMAYA GİRİŞ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "MAT004",
    "ad": "SAYISAL YÖNTEMLER",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "MAT006",
    "ad": "SEMBOLİK MANTIK",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "FEN018",
    "ad": "DANS EĞİTİMİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "FEN040",
    "ad": "BÖLGESEL İKTİSAT VE GELİŞME",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "FEN042",
    "ad": "YARATICI DÜŞÜNCE YÖNTEM VE TEKNİKLERİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "FEN044",
    "ad": "KİŞİSEL GELİŞİM",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "FEN046",
    "ad": "DİJİTAL FOTOĞRAFÇILIK",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "FEN048",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "FEN060",
    "ad": "MEDYA OKURYAZARLIĞI",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "FEN062",
    "ad": "MODERN TÜRK EDEBİYATINDA ROMAN VE HİKAYE",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "FEN064",
    "ad": "İNSAN GELİŞİMİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "FEN066",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "FEN070",
    "ad": "MÜZİK VE TOPLUM II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "FEN081",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.ÜNİV.SEÇ.II - ÜNİVERSİTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "AST303",
    "ad": "ASTRONOMİDE VERİ ANALİZİ I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.I - ALAN SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "AST305",
    "ad": "ASTRONOMİDE GÖZLEM ARAÇ VE YÖNTEMLER I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.I - ALAN SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "FİZ355",
    "ad": "TERMODİNAMİK",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.I - ALAN SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "FİZ357",
    "ad": "FİZİKTE MATEMATİK YÖNTEMLER",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.I - ALAN SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "MAT351",
    "ad": "ANALİTİK GEOMETRİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.I - ALAN SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "FİZ001",
    "ad": "NANOTEKNOLOJİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "FİZ317",
    "ad": "BİYOFİZİK",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "FİZ411",
    "ad": "ENERJİ KAYNAKLARI FİZİĞİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "KİM001",
    "ad": "KİMYASAL ÜRÜNLER VE YAŞAM",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "KİM007",
    "ad": "İŞ GÜVENLİĞİ VE SAĞLIĞI-KİMYASAL RİSK ETMENLERİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "MAT005",
    "ad": "MODELLEME TEKNİKLERİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "MAT007",
    "ad": "TEMEL BİLGİ TEKNOLOJİLERİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "AST308",
    "ad": "INSTERSTELLAR MATTER",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.II - ALAN SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "AST310",
    "ad": "ASTRONOMİDE GÖZLEM ARAÇ VE YÖNTEMLER II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.II - ALAN SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "AST312",
    "ad": "ASTRONOMİDE VERİ ANALİZİ II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.II - ALAN SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "AST314",
    "ad": "ASTRONOMİ TARİHİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.II - ALAN SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "MAT354",
    "ad": "DİFERANSİYEL GEOMETRİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.II - ALAN SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "AST401",
    "ad": "SOLAR PHYSICS",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.III - ALAN SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "AST403",
    "ad": "ÇİFT YILDIZLAR",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.III - ALAN SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "AST405",
    "ad": "GÖKADALAR VE KOZMOLOJİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.III - ALAN SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "AST411",
    "ad": "ASTROBIOLOGY",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.III - ALAN SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "MAT451",
    "ad": "NÜMERİK ANALİZ I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.III - ALAN SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "MAT453",
    "ad": "BİLGİSAYAR PROGRAMLAMA I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.III - ALAN SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "AST402",
    "ad": "VARIABLE STARS",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.IV - ALAN SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "AST404",
    "ad": "EXTRAGALACTIC ASTRONOMY",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.IV - ALAN SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "AST412",
    "ad": "IŞINIM SÜREÇLERİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.IV - ALAN SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "MAT452",
    "ad": "NÜMERİK ANALİZ II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.IV - ALAN SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "MAT454",
    "ad": "UYGULAMALI MATEMATİK",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.IV - ALAN SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "MAT456",
    "ad": "BİLGİSAYAR PROGRAMLAMA II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2014 Yılı Müfredatı (Astronomi ve Uzay Bilimleri)",
    "yariyil": null,
    "grup": "AST.ALAN.IV - ALAN SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "AKP101",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1482,7 +1482,7 @@
   {
    "kod": "AST101",
    "ad": "ASTRONOMİYE GİRİŞ I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1496,7 +1496,7 @@
   {
    "kod": "ATA101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1510,7 +1510,7 @@
   {
    "kod": "FEN107",
    "ad": "SCIENTIFIC ENGLISH I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1524,7 +1524,7 @@
   {
    "kod": "FİZ153",
    "ad": "FİZİK I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1538,7 +1538,7 @@
   {
    "kod": "KİM185",
    "ad": "GENERAL CHEMISTRY",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1552,7 +1552,7 @@
   {
    "kod": "MAT151",
    "ad": "MATEMATİK I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1566,7 +1566,7 @@
   {
    "kod": "TUR101",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1580,7 +1580,7 @@
   {
    "kod": "ÜYG105",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1594,7 +1594,7 @@
   {
    "kod": "AST106",
    "ad": "ASTRONOMİYE GİRİŞ II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1608,7 +1608,7 @@
   {
    "kod": "ATA102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1622,7 +1622,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1636,7 +1636,7 @@
   {
    "kod": "FEN108",
    "ad": "COMPUTER",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1650,7 +1650,7 @@
   {
    "kod": "FEN110",
    "ad": "SCIENTIFIC ENGLISH II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1664,7 +1664,7 @@
   {
    "kod": "FİZ152",
    "ad": "FİZİK II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1678,7 +1678,7 @@
   {
    "kod": "İST152",
    "ad": "BASIC STATICTICS",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1692,7 +1692,7 @@
   {
    "kod": "MAT152",
    "ad": "MATEMATİK II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1706,7 +1706,7 @@
   {
    "kod": "TUR102",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1720,7 +1720,7 @@
   {
    "kod": "AST201",
    "ad": "SOLAR SYSTEM",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1734,7 +1734,7 @@
   {
    "kod": "AST203",
    "ad": "IŞIKÖLÇÜMÜNE GİRİŞ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1748,7 +1748,7 @@
   {
    "kod": "FİZ253",
    "ad": "MODERN FİZİK",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1762,7 +1762,7 @@
   {
    "kod": "MAT251",
    "ad": "MATEMATİK III",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1776,7 +1776,7 @@
   {
    "kod": "MAT253",
    "ad": "LİNEER CEBİR",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1790,7 +1790,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -1804,7 +1804,7 @@
   {
    "kod": "THU201",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1818,7 +1818,7 @@
   {
    "kod": "AST202",
    "ad": "INTRODUCTION TO ASTROPHYSICS",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1832,7 +1832,7 @@
   {
    "kod": "AST204",
    "ad": "GÖZLEMSEL ASTRONOMİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1846,7 +1846,7 @@
   {
    "kod": "AST206",
    "ad": "KÜRESEL ASTRONOMİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1860,7 +1860,7 @@
   {
    "kod": "MAT252",
    "ad": "MATEMATİK IV",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1874,7 +1874,7 @@
   {
    "kod": "MAT254",
    "ad": "DİFERANSİYEL DENKLEMLER",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1888,7 +1888,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -1902,7 +1902,7 @@
   {
    "kod": "AST301",
    "ad": "YILDIZ ATMOSFERLERİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -1916,7 +1916,7 @@
   {
    "kod": "FİZ351",
    "ad": "QUANTUM MECHANICS",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -1930,7 +1930,7 @@
   {
    "kod": "FİZ353",
    "ad": "TEORİK MEKANİK",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -1944,7 +1944,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -1958,7 +1958,7 @@
   {
    "kod": "AST302",
    "ad": "STELLAR INTERIORS AND EVOLUTION",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -1972,7 +1972,7 @@
   {
    "kod": "AST304",
    "ad": "INTRODUCTION TO SPECTROSCOPY",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -1986,7 +1986,7 @@
   {
    "kod": "AST306",
    "ad": "GÖK MEKANİĞİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2000,7 +2000,7 @@
   {
    "kod": "FİZ352",
    "ad": "ELECTROMAGNETIC THEORY",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2014,7 +2014,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -2028,7 +2028,7 @@
   {
    "kod": "AST415",
    "ad": "KAYNAK TARAMA TEKNİKLERİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2042,7 +2042,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -2056,7 +2056,7 @@
   {
    "kod": "AST414",
    "ad": "BİTİRME TEZİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2070,7 +2070,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -2084,7 +2084,7 @@
   {
    "kod": "BİY001",
    "ad": "MODERN BİYOLOJİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2098,7 +2098,7 @@
   {
    "kod": "FİZ001",
    "ad": "NANOTEKNOLOJİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2112,7 +2112,7 @@
   {
    "kod": "FİZ317",
    "ad": "BİYOFİZİK",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2126,7 +2126,7 @@
   {
    "kod": "FİZ411",
    "ad": "ENERJİ KAYNAKLARI FİZİĞİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2140,7 +2140,7 @@
   {
    "kod": "KİM001",
    "ad": "KİMYASAL ÜRÜNLER VE YAŞAM",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2154,7 +2154,7 @@
   {
    "kod": "KİM007",
    "ad": "İŞ GÜVENLİĞİ VE SAĞLIĞI-KİMYASAL RİSK ETMENLERİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2168,7 +2168,7 @@
   {
    "kod": "KİM009",
    "ad": "YENİLENEBİLİR ENERJİ KAYNAKLARI",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2182,7 +2182,7 @@
   {
    "kod": "MAT003",
    "ad": "LOJİK TASARIMI",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2196,7 +2196,7 @@
   {
    "kod": "MAT005",
    "ad": "MODELLEME TEKNİKLERİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2210,7 +2210,7 @@
   {
    "kod": "MAT007",
    "ad": "TEMEL BİLGİ TEKNOLOJİLERİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-I - FAKÜLTE SEÇMELİ-I",
    "tur": "Seçmeli",
@@ -2224,7 +2224,7 @@
   {
    "kod": "BİY002",
    "ad": "EVRİM",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -2238,7 +2238,7 @@
   {
    "kod": "BİY004",
    "ad": "BİYOTEKNOLOJİYE GİRİŞ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -2252,7 +2252,7 @@
   {
    "kod": "BİY006",
    "ad": "GENETİKTE GÜNCEL KONULAR",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -2266,7 +2266,7 @@
   {
    "kod": "BKM302",
    "ad": "NANOBİYOTEKNOLOJİYE GİRİŞ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -2280,7 +2280,7 @@
   {
    "kod": "FİZ324",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -2294,7 +2294,7 @@
   {
    "kod": "FİZ410",
    "ad": "RADYASYON FİZİĞİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -2308,7 +2308,7 @@
   {
    "kod": "FİZ430",
    "ad": "SPEKTRAL ANALİZ YÖNTEMLERİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -2322,7 +2322,7 @@
   {
    "kod": "KİM008",
    "ad": "ÇEVRE TEKNOLOJİSİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -2336,7 +2336,7 @@
   {
    "kod": "MAT002",
    "ad": "NESNE TABANLI PROGRAMLAMAYA GİRİŞ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -2350,7 +2350,7 @@
   {
    "kod": "MAT004",
    "ad": "SAYISAL YÖNTEMLER",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -2364,7 +2364,7 @@
   {
    "kod": "MAT006",
    "ad": "SEMBOLİK MANTIK",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN.FAK.SEÇ-II - FAKÜLTE SEÇMELİ-II",
    "tur": "Seçmeli",
@@ -2378,7 +2378,7 @@
   {
    "kod": "AST303",
    "ad": "ASTRONOMİDE VERİ ANALİZİ I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.I - ALAN SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -2392,7 +2392,7 @@
   {
    "kod": "AST305",
    "ad": "ASTRONOMİDE GÖZLEM ARAÇ VE YÖNTEMLER I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.I - ALAN SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -2406,7 +2406,7 @@
   {
    "kod": "AST307",
    "ad": "ASTROFİZİKSEL AKIŞKANLARA GİRİŞ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.I - ALAN SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -2420,7 +2420,7 @@
   {
    "kod": "FİZ355",
    "ad": "TERMODİNAMİK",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.I - ALAN SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -2434,7 +2434,7 @@
   {
    "kod": "FİZ357",
    "ad": "FİZİKTE MATEMATİK YÖNTEMLER",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.I - ALAN SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -2448,7 +2448,7 @@
   {
    "kod": "MAT351",
    "ad": "ANALİTİK GEOMETRİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.I - ALAN SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -2462,7 +2462,7 @@
   {
    "kod": "Bİİ305DSG",
    "ad": "DİN SOSYOLOJİSİNE GİRİŞ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2476,7 +2476,7 @@
   {
    "kod": "DTMK305TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2490,7 +2490,7 @@
   {
    "kod": "FEN305MAST",
    "ad": "MODERN ASTRONOMİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2504,7 +2504,7 @@
   {
    "kod": "İİB307IGP",
    "ad": "INTRODUCTION TO GLOBAL POLITICS",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2518,7 +2518,7 @@
   {
    "kod": "AST308",
    "ad": "INSTERSTELLAR MATTER",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.II - ALAN SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -2532,7 +2532,7 @@
   {
    "kod": "AST310",
    "ad": "ASTRONOMİDE GÖZLEM ARAÇ VE YÖNTEMLER II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.II - ALAN SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -2546,7 +2546,7 @@
   {
    "kod": "AST312",
    "ad": "ASTRONOMİDE VERİ ANALİZİ II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.II - ALAN SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -2560,7 +2560,7 @@
   {
    "kod": "AST314",
    "ad": "ASTRONOMİ TARİHİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.II - ALAN SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -2574,7 +2574,7 @@
   {
    "kod": "AST316",
    "ad": "GÖKADAMIZ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.II - ALAN SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -2588,7 +2588,7 @@
   {
    "kod": "MAT354",
    "ad": "DİFERANSİYEL GEOMETRİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.II - ALAN SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -2602,7 +2602,7 @@
   {
    "kod": "Bİİ305DS",
    "ad": "DİN VE SANAT",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2616,7 +2616,7 @@
   {
    "kod": "Bİİ306DİVKA",
    "ad": "DİNLER VE KADIN",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2630,7 +2630,7 @@
   {
    "kod": "ENF305WEB",
    "ad": "WEB TASARIMI",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2644,7 +2644,7 @@
   {
    "kod": "FEN305BİYO",
    "ad": "BİYOTEKNOLOJİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2658,7 +2658,7 @@
   {
    "kod": "FEN306TEAS",
    "ad": "TEMEL ASTRONOMİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2672,7 +2672,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2686,7 +2686,7 @@
   {
    "kod": "MOD306MLB",
    "ad": "MALZEME BİLGİSİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2700,7 +2700,7 @@
   {
    "kod": "YEN306GTOD",
    "ad": "GİRİŞİMCİLİKTE TASARIM ODAKLI DÜŞÜNME",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2714,7 +2714,7 @@
   {
    "kod": "AST401",
    "ad": "SOLAR PHYSICS",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.III - ALAN SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -2728,7 +2728,7 @@
   {
    "kod": "AST403",
    "ad": "ÇİFT YILDIZLAR",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.III - ALAN SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -2742,7 +2742,7 @@
   {
    "kod": "AST405",
    "ad": "GÖKADALAR VE KOZMOLOJİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.III - ALAN SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -2756,7 +2756,7 @@
   {
    "kod": "AST407",
    "ad": "YILDIZ KÜMELERİ VE OYMAKLAR",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.III - ALAN SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -2770,7 +2770,7 @@
   {
    "kod": "AST411",
    "ad": "ASTROBIOLOGY",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.III - ALAN SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -2784,7 +2784,7 @@
   {
    "kod": "AST413",
    "ad": "GEZEGENLİ SİSTEMLER",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.III - ALAN SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -2798,7 +2798,7 @@
   {
    "kod": "MAT451",
    "ad": "NÜMERİK ANALİZ I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.III - ALAN SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -2812,7 +2812,7 @@
   {
    "kod": "MAT453",
    "ad": "BİLGİSAYAR PROGRAMLAMA I",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.III - ALAN SEÇMELİ DERSLER III",
    "tur": "Seçmeli",
@@ -2826,7 +2826,7 @@
   {
    "kod": "AST402",
    "ad": "VARIABLE STARS",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.IV - ALAN SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -2840,7 +2840,7 @@
   {
    "kod": "AST404",
    "ad": "EXTRAGALACTIC ASTRONOMY",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.IV - ALAN SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -2854,7 +2854,7 @@
   {
    "kod": "AST410",
    "ad": "ASTROARKEOLOJİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.IV - ALAN SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -2868,7 +2868,7 @@
   {
    "kod": "AST412",
    "ad": "IŞINIM SÜREÇLERİ",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.IV - ALAN SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -2882,7 +2882,7 @@
   {
    "kod": "AST416",
    "ad": "UZAY HAVASI",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.IV - ALAN SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -2896,7 +2896,7 @@
   {
    "kod": "MAT452",
    "ad": "NÜMERİK ANALİZ II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.IV - ALAN SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -2910,7 +2910,7 @@
   {
    "kod": "MAT454",
    "ad": "UYGULAMALI MATEMATİK",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.IV - ALAN SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",
@@ -2924,7 +2924,7 @@
   {
    "kod": "MAT456",
    "ad": "BİLGİSAYAR PROGRAMLAMA II",
-   "mufredat": "Astronomi ve Uzay Bilimleri",
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "AST.ALAN.IV - ALAN SEÇMELİ DERSLER IV",
    "tur": "Seçmeli",

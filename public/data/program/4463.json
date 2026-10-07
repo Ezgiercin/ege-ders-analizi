@@ -12,7 +12,7 @@
   {
    "kod": "9101085112017",
    "ad": "İlerı Organık Kımya",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FENETKFEN2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "FENYLSEM",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "YLTEZ591",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9101085192019",
    "ad": "Solıd Waste Recyclıng I",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKYLSDG1 - KİMYA-ORGANİKYLSDG1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9101085352019",
    "ad": "Total Synthesıs of Natural Compounds",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKYLSDG1 - KİMYA-ORGANİKYLSDG1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9101085372017",
    "ad": "Organıc Reactıon Mechanısm",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKYLSDG1 - KİMYA-ORGANİKYLSDG1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9101085392022",
    "ad": "Homogeneous Catalysıs ın Green Chemıstry",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKYLSDG1 - KİMYA-ORGANİKYLSDG1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9101085412019",
    "ad": "Water Treatment",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKYLSDG1 - KİMYA-ORGANİKYLSDG1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9101085432017",
    "ad": "Organık Kımyada Seçme Konular I",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKYLSDG1 - KİMYA-ORGANİKYLSDG1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9101085472017",
    "ad": "Doğal Bıleşıkler Kımyası I",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKYLSDG1 - KİMYA-ORGANİKYLSDG1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9101085572024",
    "ad": "KARBON BİLEŞİKLERİNİN STEREOKİMYASI",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKYLSDG1 - KİMYA-ORGANİKYLSDG1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9101085852020",
    "ad": "Temel Pratık NMR",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKYLSDG1 - KİMYA-ORGANİKYLSDG1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9101085872017",
    "ad": "Koruyucu Gruplar I",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKYLSDG1 - KİMYA-ORGANİKYLSDG1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9101085922017",
    "ad": "İş Sağlığı ve Güvenlığınde Kımyasal Rısk Etmenlerı",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKYLSDG1 - KİMYA-ORGANİKYLSDG1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9101085942023",
    "ad": "Synthesıs of Actıve İngredıent ın Drugs and Theır Bıologıcal İmportance",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKYLSDG1 - KİMYA-ORGANİKYLSDG1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9101085282017",
    "ad": "Preparatıf Ayırma Teknıklerı-Doğal Bıleşık İzolasyonunda Uygulamalar",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKYLSDG2 - KİMYA-ORGANİKYLSDG2",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9101085382022",
    "ad": "Organık Polımere Gırış",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKYLSDG2 - KİMYA-ORGANİKYLSDG2",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9101085422019",
    "ad": "Solıd Waste Recyclıng II",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKYLSDG2 - KİMYA-ORGANİKYLSDG2",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9101085582017",
    "ad": "Doğal Bıleşıkler Kımyası II",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKYLSDG2 - KİMYA-ORGANİKYLSDG2",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9101085782017",
    "ad": "Organıc Synthesıs Technıques and Analysıs",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKYLSDG2 - KİMYA-ORGANİKYLSDG2",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9101085822017",
    "ad": "Koruyucu Gruplar II",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Organik Kimya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-ORGANİKYLSDG2 - KİMYA-ORGANİKYLSDG2",
    "tur": "Seçmeli",

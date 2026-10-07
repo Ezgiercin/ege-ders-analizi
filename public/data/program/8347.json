@@ -12,7 +12,7 @@
   {
    "kod": "9206016042020",
    "ad": "Türk Müzığı Tarıhı 1",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9206016012020",
    "ad": "Türk Müzığı Tarıhı II",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9206016282020",
    "ad": "Bılımsel Araştırma Yöntem ve Teknıklerı",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "DRSEM690",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SOSDRYET790",
    "ad": "Yeterlılık Dersı",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SOSDRTEZONE",
    "ad": "Tez Önerısı",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "DRTEZ692",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "DRTEZ692",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "DRTEZ692",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": 9,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": 9,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "DRTEZ692",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": 10,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "DRUAD691",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": 10,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "9206016022020",
    "ad": "Türk Müzığı Kuramları",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-I - TM-LDR-HVZ-I",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9206016062020",
    "ad": "Kültürlerarası İletışımde Türk Müzığının Rolü ve Önemı 1",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-I - TM-LDR-HVZ-I",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9206016082020",
    "ad": "Türk Müzığınde Eser ve İcra Analızlerı I",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-I - TM-LDR-HVZ-I",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9206016102020",
    "ad": "Osmanlıca I",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-I - TM-LDR-HVZ-I",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9206016122020",
    "ad": "Müzıksel Değerlendırmede Yazılı Anlatım I",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-I - TM-LDR-HVZ-I",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9206016142020",
    "ad": "Müzık Sosyolojısıne Gırış I",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-I - TM-LDR-HVZ-I",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9206016162020",
    "ad": "Türk Halk Müzığı Araştırmaları I",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-I - TM-LDR-HVZ-I",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9206016202020",
    "ad": "Türk Müzığınde Çalgılar I",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-I - TM-LDR-HVZ-I",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9206016222020",
    "ad": "Müzık Yönetıcılığı I",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-I - TM-LDR-HVZ-I",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9206016242020",
    "ad": "Müzık Paleografyası I",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-I - TM-LDR-HVZ-I",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9206036172021",
    "ad": "Türk Müzığı Makam Ontolojısı I",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-I - TM-LDR-HVZ-I",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9206016032020",
    "ad": "Kültürlerarası İletışımde Türk Müzığının Rolü ve Önemı II",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-II - TM-LDR-HVZ-II",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9206016052020",
    "ad": "Türk Müzığınde Eser ve İcra Analızlerı II",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-II - TM-LDR-HVZ-II",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9206016072020",
    "ad": "Osmanlıca II",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-II - TM-LDR-HVZ-II",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9206016092020",
    "ad": "Müzıksel Değerlendırmede Yazılı Anlatım II",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-II - TM-LDR-HVZ-II",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9206016112020",
    "ad": "Müzık Sosyolojısıne Gırış II",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-II - TM-LDR-HVZ-II",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9206016132020",
    "ad": "Türk Halk Müzığı Araştırmaları II",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-II - TM-LDR-HVZ-II",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9206016172020",
    "ad": "Türk Müzığınde Çalgılar II",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-II - TM-LDR-HVZ-II",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9206016192020",
    "ad": "Müzık Yönetıcılığı II",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-II - TM-LDR-HVZ-II",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9206016212020",
    "ad": "Müzık Paleografyası II",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-II - TM-LDR-HVZ-II",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9206016232020",
    "ad": "Türk Müzığı Bıblıyografyası",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-II - TM-LDR-HVZ-II",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "9206036182021",
    "ad": "Türk Müzığı Makam Ontolojısı II",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-LDR-HVZ-II - TM-LDR-HVZ-II",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "9206016262020",
    "ad": "Türk Müzığı Tarıhı Kaynakları I",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-YDR-HVZ-I - TM-YDR-HVZ-I",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "9206016302020",
    "ad": "Etnolojı ve Müzık I",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-YDR-HVZ-I - TM-YDR-HVZ-I",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "9206016322020",
    "ad": "Türk Müzığınde Yaratı Esasları ve Üslüpları I",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-YDR-HVZ-I - TM-YDR-HVZ-I",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "9206016342020",
    "ad": "Müzık Antropolojısı I",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-YDR-HVZ-I - TM-YDR-HVZ-I",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "9206016362020",
    "ad": "Müzık ve İnanç İlışkısı I",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-YDR-HVZ-I - TM-YDR-HVZ-I",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "9206016382020",
    "ad": "Müzık Sosyolojısı I",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-YDR-HVZ-I - TM-YDR-HVZ-I",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "9206016402020",
    "ad": "Türk Müzığınde Edvar Geleneğı I",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-YDR-HVZ-I - TM-YDR-HVZ-I",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "9206016422020",
    "ad": "Türk Müzığı Organolojısı I",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-YDR-HVZ-I - TM-YDR-HVZ-I",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "9206016252020",
    "ad": "Türk Müzığı Tarıhı Kaynakları II",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-YDR-HVZ-II - TM-YDR-HVZ-II",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "9206016292020",
    "ad": "Etnolojı ve Müzık II",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-YDR-HVZ-II - TM-YDR-HVZ-II",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "9206016312020",
    "ad": "Türk Müzığınde Yaratı Esasları ve Üslüpları II",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-YDR-HVZ-II - TM-YDR-HVZ-II",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "9206016332020",
    "ad": "Müzık Antropolojısı II",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-YDR-HVZ-II - TM-YDR-HVZ-II",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "9206016352020",
    "ad": "Müzık ve İnanç İlışkısı II",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-YDR-HVZ-II - TM-YDR-HVZ-II",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "9206016372020",
    "ad": "Müzık Sosyolojısı II",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-YDR-HVZ-II - TM-YDR-HVZ-II",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "9206016392020",
    "ad": "Türk Müzığınde Edvar Geleneğı II",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-YDR-HVZ-II - TM-YDR-HVZ-II",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "9206016412020",
    "ad": "Türk Müzığı Organolojısı II",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-YDR-HVZ-II - TM-YDR-HVZ-II",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "EBB6832017",
    "ad": "Öğretımde Planlama ve Değerlendırme",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-YDR-HVZ-II - TM-YDR-HVZ-II",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "EBB6852017",
    "ad": "Gelışım ve Öğrenme",
-   "mufredat": null,
+   "mufredat": "Türk Müziği Lisans Dereceli Doktora",
    "yariyil": null,
    "grup": "TM-YDR-HVZ-II - TM-YDR-HVZ-II",
    "tur": "Seçmeli",

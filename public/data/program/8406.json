@@ -4,15 +4,15 @@
  "yil": "932001",
  "derece": 0,
  "fakulte": "Ege Meslek Yüksekokulu",
- "bolum": "Otonom Sistemleri Teknikerliği",
+ "bolum": "Otonom Sistemler Teknikerliği",
  "tur": "ÖNLİSANS",
- "ad": "Otonom Sistemleri Teknikerliği — ÖNLİSANS",
+ "ad": "Otonom Sistemler Teknikerliği — ÖNLİSANS",
  "yol": "/DereceProgramlari/Detay/0/61243/8406/932001",
  "dersler": [
   {
    "kod": "1910101012024",
    "ad": "PROGRAMLAMA",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "1910101032024",
    "ad": "YABANCI DİL",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "1910101052024",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "1910101072024",
    "ad": "MATEMATİK",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "1910101092024",
    "ad": "BİLGİSAYAR DESTEKLİ TEKNİK RESİM",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "1910101112024",
    "ad": "TEMEL ELEKTRONİK",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "1910101132024",
    "ad": "OTONOM SİSTEMLERİNE GİRİŞ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "1910101172024",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "1910101022024",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "1910101042024",
    "ad": "HABERLEŞME SİSTEMLERİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "1910101062024",
    "ad": "ELEKTRİK MAKİNELERİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "1910101082024",
    "ad": "ETKİLİ İLETİŞİM VE SUNUM TEKNİKLERİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "1910101102024",
    "ad": "GÖMÜLÜ SİSTEMLER",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "1910101122024",
    "ad": "KONTROL SİSTEMLERİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "1910101152024",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "ÜSD1",
    "ad": "ÜNİVERSİTE SEÇMELİ 1",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "1910102012024",
    "ad": "ROBOTİK SİSTEMLER",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "1910102032024",
    "ad": "GÖRÜNTÜ İŞLEME TEKNİKLERİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "1910102052024",
    "ad": "VERİ TOPLAMA VE ANALİZİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "1910102072024",
    "ad": "DAVRANIŞ MODELLEME",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "1910102092024",
    "ad": "GELİŞMİŞ SENSÖR",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "1910102112024",
    "ad": "PROJE YÖNETİMİ UYGULAMALARI",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "1910102132024",
    "ad": "YAPAY ZEKA VE MAKİNE ÖĞRENMESİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "1910102022024",
    "ad": "OTONOM SİSTEMLERDE GÜVENLİK VE ETİK",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "1910102042024",
    "ad": "OTONOM SİSTEM PROJE YÖNETİMİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "1910102062024",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "1910102082024",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "1910102102024",
    "ad": "BİTİRME PROJESİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "1910102122024",
    "ad": "STAJ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "ÜSD2",
    "ad": "ÜNİVERSİTE SEÇMELİ 2",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "1910101322024",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": null,
    "grup": "ÜSD1 - ÜNİVERSİTE SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "1910101342024",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": null,
    "grup": "ÜSD1 - ÜNİVERSİTE SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "1910101382024",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2024 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": null,
    "grup": "ÜSD1 - ÜNİVERSİTE SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "1910101032024",
    "ad": "YABANCI DİL",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "1910101052024",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "1910101132024",
    "ad": "OTONOM SİSTEMLERİNE GİRİŞ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "1910101172024",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "1910101192025",
    "ad": "PROGRAMLAMA",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "1910101212025",
    "ad": "GÖMÜLÜ SİSTEMLER",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -572,7 +572,7 @@
   {
    "kod": "1910101232025",
    "ad": "TEMEL ELEKTRONİK",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "1910101252025",
    "ad": "GENEL MATEMATİK",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "1910101272025",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -628,7 +628,7 @@
   {
    "kod": "1910101022024",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "1910101152024",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "1910101402025",
    "ad": "HABERLEŞME SİSTEMLERİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "1910101422025",
    "ad": "ELEKTRİK MAKİNELERİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "1910101442025",
    "ad": "KONTROL SİSTEMLERİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -698,7 +698,7 @@
   {
    "kod": "1910101462025",
    "ad": "ETKİLİ İLETİŞİM TEKNİKLERİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -712,7 +712,7 @@
   {
    "kod": "1910101482025",
    "ad": "BİLGİSAYAR DESTEKLİ TEKNİK RESİM",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -726,7 +726,7 @@
   {
    "kod": "1910101502025",
    "ad": "PROGRAMLANABİLİR DENETLEYİCİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -740,7 +740,7 @@
   {
    "kod": "OTONOMÜSD1",
    "ad": "OTONOM ÜNİVERSİTE SEÇMELİ 1",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "1910102032024",
    "ad": "GÖRÜNTÜ İŞLEME TEKNİKLERİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "1910102052024",
    "ad": "VERİ TOPLAMA VE ANALİZİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -782,7 +782,7 @@
   {
    "kod": "1910102072024",
    "ad": "DAVRANIŞ MODELLEME",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -796,7 +796,7 @@
   {
    "kod": "1910102112024",
    "ad": "PROJE YÖNETİMİ UYGULAMALARI",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -810,7 +810,7 @@
   {
    "kod": "1910102212025",
    "ad": "ROBOTİK SİSTEMLER",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -824,7 +824,7 @@
   {
    "kod": "1910102232025",
    "ad": "GELİŞMİŞ SENSÖR",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -838,7 +838,7 @@
   {
    "kod": "1910102252025",
    "ad": "YAPAY ZEKA VE MAKİNE ÖĞRENMESİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -852,7 +852,7 @@
   {
    "kod": "1910102022024",
    "ad": "OTONOM SİSTEMLERDE GÜVENLİK VE ETİK",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -866,7 +866,7 @@
   {
    "kod": "1910102062024",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -880,7 +880,7 @@
   {
    "kod": "1910102082024",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -894,7 +894,7 @@
   {
    "kod": "1910102122024",
    "ad": "STAJ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -908,7 +908,7 @@
   {
    "kod": "1910102262025",
    "ad": "MESLEKİ YABANCI DİL",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -922,7 +922,7 @@
   {
    "kod": "1910102282025",
    "ad": "3 BOYUTLU YAZICILAR VE KATMANLI ÜRETİM TEKNOLOJİLERİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -936,7 +936,7 @@
   {
    "kod": "1910102302025",
    "ad": "BİTİRME PROJESİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -950,7 +950,7 @@
   {
    "kod": "OTONOMÜSD2",
    "ad": "OTONOM ÜNİVERSİTE SEÇMELİ 2",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2025 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "1910101032024",
    "ad": "YABANCI DİL",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -978,7 +978,7 @@
   {
    "kod": "1910101052024",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -992,7 +992,7 @@
   {
    "kod": "1910101172024",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1006,7 +1006,7 @@
   {
    "kod": "1910101252025",
    "ad": "GENEL MATEMATİK",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1020,7 +1020,7 @@
   {
    "kod": "1910101272025",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1034,7 +1034,7 @@
   {
    "kod": "1910101312026",
    "ad": "PROGRAMLAMA",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1048,7 +1048,7 @@
   {
    "kod": "1910101332026",
    "ad": "GÖMÜLÜ SİSTEMLER",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1062,7 +1062,7 @@
   {
    "kod": "1910101352026",
    "ad": "TEMEL ELEKTRONİK",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1076,7 +1076,7 @@
   {
    "kod": "1910101372026",
    "ad": "OTONOM SİSTEMLERİNE GİRİŞ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1090,7 +1090,7 @@
   {
    "kod": "1910101392026",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1104,7 +1104,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1118,7 +1118,7 @@
   {
    "kod": "1910101022024",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1132,7 +1132,7 @@
   {
    "kod": "1910101152024",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1146,7 +1146,7 @@
   {
    "kod": "1910101402025",
    "ad": "HABERLEŞME SİSTEMLERİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1160,7 +1160,7 @@
   {
    "kod": "1910101502026",
    "ad": "ELEKTRİK MAKİNELERİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1174,7 +1174,7 @@
   {
    "kod": "1910101522026",
    "ad": "KONTROL SİSTEMLERİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1188,7 +1188,7 @@
   {
    "kod": "1910101542026",
    "ad": "YAPAY ZEKA VE MAKİNE ÖĞRENMESİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1202,7 +1202,7 @@
   {
    "kod": "1910101562026",
    "ad": "BİLGİSAYAR DESTEKLİ TEKNİK RESİM",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1216,7 +1216,7 @@
   {
    "kod": "1910101582026",
    "ad": "PROGRAMLANABİLİR DENETLEYİCİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1230,7 +1230,7 @@
   {
    "kod": "1910102072024",
    "ad": "DAVRANIŞ MODELLEME",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1244,7 +1244,7 @@
   {
    "kod": "1910102112024",
    "ad": "PROJE YÖNETİMİ UYGULAMALARI",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1258,7 +1258,7 @@
   {
    "kod": "1910102212025",
    "ad": "ROBOTİK SİSTEMLER",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1272,7 +1272,7 @@
   {
    "kod": "1910102232025",
    "ad": "GELİŞMİŞ SENSÖR",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1286,7 +1286,7 @@
   {
    "kod": "1910102272026",
    "ad": "GÖRÜNTÜ İŞLEME TEKNİKLERİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1300,7 +1300,7 @@
   {
    "kod": "1910102292026",
    "ad": "VERİ TOPLAMA VE ANALİZİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1314,7 +1314,7 @@
   {
    "kod": "1910102312026",
    "ad": "OTONOM SİSTEMLERDE GÜVENLİK VE ETİK",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1328,7 +1328,7 @@
   {
    "kod": "1910102392026",
    "ad": "BİTİRME PROJESİ",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1342,7 +1342,7 @@
   {
    "kod": "1910102412026",
    "ad": "MESLEKİ YABANCI DİL",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1356,7 +1356,7 @@
   {
    "kod": "1910102432026",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1370,7 +1370,7 @@
   {
    "kod": "İŞME202",
    "ad": "İŞLETMEDE MESLEKİ EĞİTİM",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1384,7 +1384,7 @@
   {
    "kod": "1910101162024",
    "ad": "ELEKTRİK BAKIM VE ARIZA BULMA",
-   "mufredat": "Otonom Sistemleri Teknikerliği",
+   "mufredat": "2026 Müfredatı (Otonom Sistemleri Teknikerliği)",
    "yariyil": null,
    "grup": "TEK.SEÇ.1.OTONOM - TEKNİK SEÇMELİ I",
    "tur": "Seçmeli",

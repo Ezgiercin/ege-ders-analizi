@@ -12,7 +12,7 @@
   {
    "kod": "5024001012021",
    "ad": "TÜRK DİLİ I",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "5024001022021",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "5024001032021",
    "ad": "YABANCI DİL I",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "5024001052021",
    "ad": "ANATOMİ",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "5024001072021",
    "ad": "ÇOCUK GELİŞİMİ VE EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "5024001092021",
    "ad": "ENGELLİ BAKIM VE REHABİLİTASYON UYGULAMA I",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "5024001112021",
    "ad": "ÖZEL EĞİTİM",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "5024001152021",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "5024001172021",
    "ad": "YAZ STAJI",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "5024001192021",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "5024000922021",
    "ad": "TÜRK DİLİ II",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "5024000942021",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "5024000962021",
    "ad": "YABANCI DİL II",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "5024001002021",
    "ad": "İŞİTME ENGELLİLERE ÖZEL EĞİTİM YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "5024001122021",
    "ad": "ZİHİN ENGELLİLER EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "5024001122023",
    "ad": "ENGELLİ BAKIM VE REHABİLİTASYON UYGULAMA II",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "5024001142021",
    "ad": "FİZİKSEL ENGELLİLER REHABİLİTASYON YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "5024001172021",
    "ad": "YAZ STAJI",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "5024002012021",
    "ad": "FİZYOLOJİ",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "5024002032021",
    "ad": "ENGELLİ HAKLARI VE BAKIM ETİĞİ",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "5024002052021",
    "ad": "SOSYAL HİZMETLER",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "5024002092022",
    "ad": "HASTA BAKIM UYGULAMALARI I",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "5024002062021",
    "ad": "AKUT-KRONİK HASTALIKLAR",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "5024002202022",
    "ad": "HASTA BAKIM UYGULAMALARI II",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "5024001062021",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": null,
    "grup": "SEÇMELİDERS-2-YY - SEÇMELİ DERS GRUBU 2.YARIYIL",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "5024001102021",
    "ad": "BİLGİ VE İLETİŞİM TEKNOLOJİLERİ",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": null,
    "grup": "SEÇMELİDERS-2-YY - SEÇMELİ DERS GRUBU 2.YARIYIL",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "5024002112021",
    "ad": "DAVRANIŞ BİLİMLERİ",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": null,
    "grup": "SEÇMELİDERS.3YY - SEÇMELİ DERS GRUBU 3.YARIYIL",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "5024002152021",
    "ad": "İŞARET DİLİ",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": null,
    "grup": "SEÇMELİDERS.3YY - SEÇMELİ DERS GRUBU 3.YARIYIL",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "5024002192021",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": null,
    "grup": "SEÇMELİDERS.3YY - SEÇMELİ DERS GRUBU 3.YARIYIL",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "5024002212022",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": null,
    "grup": "SEÇMELİDERS.3YY - SEÇMELİ DERS GRUBU 3.YARIYIL",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "5024002232022",
    "ad": "İLKYARDIM",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": null,
    "grup": "SEÇMELİDERS.3YY - SEÇMELİ DERS GRUBU 3.YARIYIL",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "5024002042021",
    "ad": "BESLENME",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": null,
    "grup": "SEÇMELİDERS-4YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "5024002082021",
    "ad": "HALK SAĞLIĞI",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": null,
    "grup": "SEÇMELİDERS-4YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "5024002102021",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": null,
    "grup": "SEÇMELİDERS-4YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "5024002122021",
    "ad": "MATEMATİK",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": null,
    "grup": "SEÇMELİDERS-4YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "5024002142021",
    "ad": "AİLE EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": null,
    "grup": "SEÇMELİDERS-4YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "5024002182021",
    "ad": "RUH SAĞLIĞI VE HASTALIKLARI",
-   "mufredat": null,
+   "mufredat": "Engelli Bakımı ve Rehabilitasyon (Uzaktan Öğretim )",
    "yariyil": null,
    "grup": "SEÇMELİDERS-4YY - SEÇMELİ DERS GRUBU 4 -YY",
    "tur": "Seçmeli",

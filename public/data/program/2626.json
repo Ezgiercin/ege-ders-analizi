@@ -12,7 +12,7 @@
   {
    "kod": "501001012022",
    "ad": "TURKISH LANGUAGE I",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "501001022022",
    "ad": "PRINCIPLES OF ATATURK AND RECENT TURKISH HISTORY I",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "501001052022",
    "ad": "PHYSICS-I",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "501001072023",
    "ad": "ALGORITHMS AND PROGRAMMING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "501001232022",
    "ad": "CAREER PLANNING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "501001272023",
    "ad": "FUNDAMENTALS OF COMPUTER SCIENCE",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "CAL1032023",
    "ad": "CALCULUS I",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "501000922022",
    "ad": "TURKISH LANGUAGE II",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "501000942022",
    "ad": "PRINCIPLES OF ATATURK AND RECENT TURKISH HISTORY II",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "501001102022",
    "ad": "PHYSICS-II",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "501001112022",
    "ad": "DISCRETE STRUCTURES",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "501001122023",
    "ad": "INTRODUCTION TO OBJECT ORIENTED PROGRAMMING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "501001182023",
    "ad": "ORAL AND WRITTEN COMMUNICATION",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "CAL1042023",
    "ad": "CALCULUS II",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "501002032023",
    "ad": "ELECTRICAL AND ELECTRONIC CIRCUITS",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "501002042010",
    "ad": "DATA STRUCTURES",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "501002102023",
    "ad": "PROBABILITY & STATISTICS",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "501002232023",
    "ad": "LOGIC DESIGN",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "501002252010",
    "ad": "AUTOMATA THEORY",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "LAG2052023",
    "ad": "LINEAR ALGEBRA",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -306,7 +306,7 @@
   {
    "kod": "PFSDGI",
    "ad": "PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU-I (İSTEĞE BAĞLI)",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "10520101T12022",
    "ad": "COMMUNITY SERVICE ACTIVITIES",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "501002191998",
    "ad": "PROGRAMMING LANGUAGES",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "501002242010",
    "ad": "DIGITAL COMPUTER DESIGN",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "501002262023",
    "ad": "COMPUTATIONAL BIOLOGY",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "501002302023",
    "ad": "ADVANCED OBJECT ORIENTED PROGRAMMING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "DIF2222023",
    "ad": "DIFFERENTIAL EQUATIONS",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -418,7 +418,7 @@
   {
    "kod": "PFSDGII",
    "ad": "PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU-II (İSTEĞE BAĞLI)",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "501003222023",
    "ad": "INTRODUCTION TO DATABASES",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "501003242023",
    "ad": "OBJECT ORIENTED ANALYSIS AND DESIGN",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "501003312022",
    "ad": "OPERATING SYSTEMS",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "501003412023",
    "ad": "COMPUTER ORGANIZATION",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "501003452022",
    "ad": "COMPUTER NETWORKS",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -516,7 +516,7 @@
   {
    "kod": "PFSDGIII",
    "ad": "PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU-III (İSTEĞE BAĞLI)",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "501003172022",
    "ad": "PRACTICAL TRAINING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "501003362023",
    "ad": "FUNDAMENTALS OF SOFTWARE ENGINEERING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "501003402023",
    "ad": "MICROCONTROLLER BASED SYSTEM DESIGN",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -572,7 +572,7 @@
   {
    "kod": "501003522015",
    "ad": "ANALYSIS OF ALGORITHMS",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "501003602022",
    "ad": "ARTIFICIAL INTELLIGENCE METHODS",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -614,7 +614,7 @@
   {
    "kod": "PFSDGIV",
    "ad": "PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU-IV (İSTEĞE BAĞLI)",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "501004652022",
    "ad": "OCCUPATIONAL HEALTH AND SAFETY I",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "501004752022",
    "ad": "GRADUATION PROJECT",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "501004772022",
    "ad": "GRADUATION PROJECT (TERM)",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -684,7 +684,7 @@
   {
    "kod": "PFSDGV",
    "ad": "PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU-V (İSTEĞE BAĞLI)",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "501004602022",
    "ad": "OCCUPATIONAL HEALTH AND SAFETY II",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -712,7 +712,7 @@
   {
    "kod": "501004742022",
    "ad": "GRADUATION PROJECT (TERM)",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -726,7 +726,7 @@
   {
    "kod": "501004752022",
    "ad": "GRADUATION PROJECT",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -740,7 +740,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -754,7 +754,7 @@
   {
    "kod": "PFSDGVI",
    "ad": "PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU-VI (İSTEĞE BAĞLI)",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "PFSDGI - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU-I (İSTEĞE BAĞLI)",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "PFSDGII - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU-II (İSTEĞE BAĞLI)",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "PFSDGII - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU-II (İSTEĞE BAĞLI)",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "PFSDGIII - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU-III (İSTEĞE BAĞLI)",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "PFSDGIII - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU-III (İSTEĞE BAĞLI)",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "Bİİ305DSG",
    "ad": "DİN SOSYOLOJİSİNE GİRİŞ",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "DTMK305TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ I",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "İİB307IGP",
    "ad": "INTRODUCTION TO GLOBAL POLITICS",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "MÜH313PİPG",
    "ad": "PYTHON İLE PROGRAMLAMAYA GİRİŞ",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "YEN305GYKA",
    "ad": "GİRİŞİMCİLİKTE YATIRIM KARAR ANALİZLERİ",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "PFSDGIV - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU-IV (İSTEĞE BAĞLI)",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "501003622024",
    "ad": "CRYPTOLOGY",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG - TEKNİK SEÇMELİ GRUP",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "501003642024",
    "ad": "NETWORK TECHNOLOGIES",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG - TEKNİK SEÇMELİ GRUP",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "501003662024",
    "ad": "SYSTEM PROGRAMMING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG - TEKNİK SEÇMELİ GRUP",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "501003682024",
    "ad": "INTRODUCTION TO DATA SCIENCE",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG - TEKNİK SEÇMELİ GRUP",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "501003702025",
    "ad": "TRANSITION TO UNIVERSITY LIFE",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG - TEKNİK SEÇMELİ GRUP",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "501004802023",
    "ad": "ADVANCED DATABASES",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG - TEKNİK SEÇMELİ GRUP",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "Bİİ305DS",
    "ad": "DİN VE SANAT",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "Bİİ306DİVKA",
    "ad": "DİNLER VE KADIN",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "ENF305WEB",
    "ad": "WEB TASARIMI",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "FEN305BİYO",
    "ad": "BİYOTEKNOLOJİ",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "MOD306MLB",
    "ad": "MALZEME BİLGİSİ",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "YEN306GTOD",
    "ad": "GİRİŞİMCİLİKTE TASARIM ODAKLI DÜŞÜNME",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "501004012023",
    "ad": "MULTIPROCESSOR PROGRAMMING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-I - TEKNİK SEÇMELİ GRUP-I",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "501004032023",
    "ad": "SOFTWARE VULNERABILITY AND SECURITY",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-I - TEKNİK SEÇMELİ GRUP-I",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "501004232023",
    "ad": "COMPLEX NETWORK APPLICATIONS",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-I - TEKNİK SEÇMELİ GRUP-I",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "501004342022",
    "ad": "IMAGE PROCESSING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-I - TEKNİK SEÇMELİ GRUP-I",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "501004702023",
    "ad": "INTRODUCTION TO NATURAL LANGUAGE PROCESSING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-I - TEKNİK SEÇMELİ GRUP-I",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "501004852023",
    "ad": "FRONT-END SOFTWARE DEVELOPMENT",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-I - TEKNİK SEÇMELİ GRUP-I",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "501004872023",
    "ad": "COMPUTER GRAPHICS",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-I - TEKNİK SEÇMELİ GRUP-I",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "501004892023",
    "ad": "PRINCIPLES OF PARALLEL PROGRAMMING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-I - TEKNİK SEÇMELİ GRUP-I",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "501004912023",
    "ad": "SOFTWARE USABILITY",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-I - TEKNİK SEÇMELİ GRUP-I",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "501004932023",
    "ad": "FUNDAMENTALS OF COMPUTER SECURITY",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-I - TEKNİK SEÇMELİ GRUP-I",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "501004952023",
    "ad": "MOBILE PROGRAMMING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-I - TEKNİK SEÇMELİ GRUP-I",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "501004972023",
    "ad": "WINDOWS PROGRAMMING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-I - TEKNİK SEÇMELİ GRUP-I",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "501004992025",
    "ad": "HIGH PERFORMANCE DATA PROCESSING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-I - TEKNİK SEÇMELİ GRUP-I",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "501008012023",
    "ad": "KNOWLEDGE REPRESENTATION",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-I - TEKNİK SEÇMELİ GRUP-I",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "501008032023",
    "ad": "EMBEDDED AND REAL TIME SYSTEM",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-I - TEKNİK SEÇMELİ GRUP-I",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "501008052023",
    "ad": "PROJECT MANAGEMENT",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-I - TEKNİK SEÇMELİ GRUP-I",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "501008072023",
    "ad": "DATA MINING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-I - TEKNİK SEÇMELİ GRUP-I",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "501008092023",
    "ad": "MANAGEMENT INFORMATION SYSTEMS",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-I - TEKNİK SEÇMELİ GRUP-I",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "501008492026",
    "ad": "REINFORCEMENT LEARNING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-I - TEKNİK SEÇMELİ GRUP-I",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "PFSDGVI - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU-VI (İSTEĞE BAĞLI)",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "501004162023",
    "ad": "BACK-END SOFTWARE DEVELOPMENT",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-II - TEKNİK SEÇMELİ GRUP-II",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "501004182023",
    "ad": "CLOUD COMPUTING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-II - TEKNİK SEÇMELİ GRUP-II",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "501004442023",
    "ad": "TEST DRIVEN DEVELOPMENT",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-II - TEKNİK SEÇMELİ GRUP-II",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "501004682023",
    "ad": "COMPUTATIONAL OPTIMIZATION",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-II - TEKNİK SEÇMELİ GRUP-II",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "501004782023",
    "ad": "NETWORK SECURITY",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-II - TEKNİK SEÇMELİ GRUP-II",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "501004842023",
    "ad": "ONTOLOGY ENGINEERING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-II - TEKNİK SEÇMELİ GRUP-II",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "501004902023",
    "ad": "WEB BASED WINDOWS PROGRAMMING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-II - TEKNİK SEÇMELİ GRUP-II",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "501008022023",
    "ad": "EVOLUTIONARY COMPUTING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-II - TEKNİK SEÇMELİ GRUP-II",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "501008042023",
    "ad": "REAL TIME OPERATING SYSTEMS",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-II - TEKNİK SEÇMELİ GRUP-II",
    "tur": "Seçmeli",
@@ -1510,7 +1510,7 @@
   {
    "kod": "501008062023",
    "ad": "COMPUTATIONAL INTELLIGENCE AND DEEP LEARNING",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-II - TEKNİK SEÇMELİ GRUP-II",
    "tur": "Seçmeli",
@@ -1524,7 +1524,7 @@
   {
    "kod": "501008082023",
    "ad": "MICROSERVICES",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-II - TEKNİK SEÇMELİ GRUP-II",
    "tur": "Seçmeli",
@@ -1538,7 +1538,7 @@
   {
    "kod": "501008102023",
    "ad": "PRODUCTION INFORMATION SYSTEMS",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-II - TEKNİK SEÇMELİ GRUP-II",
    "tur": "Seçmeli",
@@ -1552,7 +1552,7 @@
   {
    "kod": "501008122025",
    "ad": "DISTRIBUTED APPLICATION DEVELOPMENT",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-II - TEKNİK SEÇMELİ GRUP-II",
    "tur": "Seçmeli",
@@ -1566,7 +1566,7 @@
   {
    "kod": "501008142025",
    "ad": "LARGE LANGUAGE MODEL DRIVEN SOFTWARE DEVELOPMENT",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-II - TEKNİK SEÇMELİ GRUP-II",
    "tur": "Seçmeli",
@@ -1580,7 +1580,7 @@
   {
    "kod": "501008162026",
    "ad": "MACHINE LEARNING SYSTEMS DESIGN",
-   "mufredat": "Bilgisayar Mühendisliği",
+   "mufredat": "2011 Yılı Müfredatı (Bilgisayar Mühendisliği)",
    "yariyil": null,
    "grup": "TSG-II - TEKNİK SEÇMELİ GRUP-II",
    "tur": "Seçmeli",

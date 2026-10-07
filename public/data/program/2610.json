@@ -12,7 +12,7 @@
   {
    "kod": "404001012006",
    "ad": "TÜRK DİLİ I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "404001022006",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "404001042003",
    "ad": "GENEL KİMYA-I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "404001062019",
    "ad": "MATHEMATICS I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "404001282023",
    "ad": "SCIENTIFIC ENGLISH-I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "404001532023",
    "ad": "PHYSICS I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "404001692011",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "404001712024",
    "ad": "KARİYER PLANLAMA VE ETİK",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "404000922006",
    "ad": "TÜRK DİLİ II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "404000942006",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "404001082003",
    "ad": "GENEL KİMYA-II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "404001092006",
    "ad": "FİZİK-II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "404001102019",
    "ad": "MATHEMATICS II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "404001292006",
    "ad": "SCIENTIFIC ENGLISH-II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "404001342012",
    "ad": "COMPUTER COURSE",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "404002022023",
    "ad": "ANALİTİK KİMYA I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "404002052023",
    "ad": "ORGANİK KİMYA I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "404002732023",
    "ad": "BASIC NUCLEAR CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "404002752023",
    "ad": "BIOLOGY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "404002832023",
    "ad": "MATHEMATICS IN CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "404002912023",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -320,7 +320,7 @@
   {
    "kod": "10420401T11278",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "404002061994",
    "ad": "FİZİKOKİMYA I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "404002072023",
    "ad": "ANALİTİK KİMYA II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "404002082023",
    "ad": "ORGANİK KİMYA II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "404002802023",
    "ad": "KUANTUM KİMYASI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "404002922023",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -418,7 +418,7 @@
   {
    "kod": "404003012000",
    "ad": "ANORGANİK KİMYA-I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "404003022021",
    "ad": "ORGANİK KİMYA III",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "404003032021",
    "ad": "FİZİKOKİMYA II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "404003712023",
    "ad": "STAJ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "404003932023",
    "ad": "BASIC BIOCHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -502,7 +502,7 @@
   {
    "kod": "404003112014",
    "ad": "ANORGANİK KİMYA II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "404003132023",
    "ad": "FİZİKOKİMYA III",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "404003152006",
    "ad": "ORGANİK YAPI TAYINI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "404003712023",
    "ad": "STAJ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "404007042021",
    "ad": "INSTRUMENTAL ANALYSIS I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -572,7 +572,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -586,7 +586,7 @@
   {
    "kod": "404004012023",
    "ad": "ANORGANİK KİMYA-III",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "404004772023",
    "ad": "ENDÜSTRİYEL PROSESLER I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "404005032019",
    "ad": "ENSTRÜMENTAL ANALİZ II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -628,7 +628,7 @@
   {
    "kod": "404005172025",
    "ad": "DİPLOMA TEZİ I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -656,7 +656,7 @@
   {
    "kod": "404004622024",
    "ad": "ENDÜSTRİYEL PROSESLER II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "4040052020235",
    "ad": "DİPLOMA TEZİ II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -698,7 +698,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -712,7 +712,7 @@
   {
    "kod": "PF201",
    "ad": "EĞİTİME GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-I - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU I (3.YY)",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-I - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU I (3.YY)",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "BKM302",
    "ad": "NANOBİYOTEKNOLOJİYE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.FAK.SEÇ.DERS.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "FİZ317",
    "ad": "BİYOFİZİK",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.FAK.SEÇ.DERS.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "FİZ328",
    "ad": "BİYOLOJİ VE TIPTA FİZİK",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.FAK.SEÇ.DERS.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "FİZ411",
    "ad": "ENERJİ KAYNAKLARI FİZİĞİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.FAK.SEÇ.DERS.I - FAKÜLTE SEÇMELİ DERSLER I",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "404002792006",
    "ad": "POLİMER KİMYASINA GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-3 - KİMYA SEÇMELİ DERS (3.YY)",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "404002892023",
    "ad": "LABORATUVAR TEKNİKLERİ VE GÜVENLİK",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-3 - KİMYA SEÇMELİ DERS (3.YY)",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-II - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU II (4.YY)",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-II - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU II (4.YY)",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "BKM302",
    "ad": "NANOBİYOTEKNOLOJİYE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.FAK.SEÇ.DERS.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "FİZ410",
    "ad": "RADYASYON FİZİĞİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.FAK.SEÇ.DERS.II - FAKÜLTE SEÇMELİ DERSLER II",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-III - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU III (5.YY)",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-III - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU III (5.YY)",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "10420402E11707",
    "ad": "CHEMICAL INSTRUMENTATION",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-5 - KİMYA SEÇMELİ DERS (5.YY)",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "404003042016",
    "ad": "INTRODUCTION TO STATICAL THERMODYNAMICS",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-5 - KİMYA SEÇMELİ DERS (5.YY)",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "404003092020",
    "ad": "MAIN GROUP ELEMENTS",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-5 - KİMYA SEÇMELİ DERS (5.YY)",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "404003102000",
    "ad": "TEORİK SPEKTROSKOPİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-5 - KİMYA SEÇMELİ DERS (5.YY)",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "404003192012",
    "ad": "NUCLEAR CHEMISTRY I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-5 - KİMYA SEÇMELİ DERS (5.YY)",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "404003252018",
    "ad": "INTRODUCTION TO MOLECULER PHOTOCHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-5 - KİMYA SEÇMELİ DERS (5.YY)",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "404003272018",
    "ad": "BIOINORGANIC CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-5 - KİMYA SEÇMELİ DERS (5.YY)",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "404003952006",
    "ad": "İYON DEĞİŞTİRİCİLER",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-5 - KİMYA SEÇMELİ DERS (5.YY)",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "404003972012",
    "ad": "ELECTROCHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-5 - KİMYA SEÇMELİ DERS (5.YY)",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "404005092020",
    "ad": "INTRODUCTION TO COLLOID CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-5 - KİMYA SEÇMELİ DERS (5.YY)",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "404007092012",
    "ad": "HISTORY OF SCIENCE AND CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-5 - KİMYA SEÇMELİ DERS (5.YY)",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "FEN081",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-5 - KİMYA SEÇMELİ DERS (5.YY)",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "Bİİ315İDİT",
    "ad": "İLK DÖNEM İSLAM TARİHİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "DTMK305HALO",
    "ad": "HALK OYUNLARI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "DTMK305İLMÜ",
    "ad": "İLETİŞİM VE MÜZİK I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "EĞT305AT",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "EĞT305BUMFE",
    "ad": "BASİT VE UCUZ MALZEMELERLE FEN ETKİNLİKLERİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "EĞT305DE",
    "ad": "DÜNYA EDEBİYATI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "GZL224TEKNO",
    "ad": "TEKNOKÜLTÜR VE SANAL DÜNYALAR",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "İİB307IGP",
    "ad": "INTRODUCTION TO GLOBAL POLITICS",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "İLE307DZY",
    "ad": "DUYGUSAL ZEKA YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-IV - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU IV (6.YY)",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "404003722025",
    "ad": "INTRODUCTION TO CHROMATOGRAPHY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-6 - KİMYA SEÇMELİ DERS (6.YY)",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "404003742025",
    "ad": "INTRODUCTION TO SYNTHETIC ORGANIC CHEMISTRY AND APPLICATIONS",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-6 - KİMYA SEÇMELİ DERS (6.YY)",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "404005242023",
    "ad": "AYIRMA YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-6 - KİMYA SEÇMELİ DERS (6.YY)",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "404005322023",
    "ad": "BASIC PRINCIPLES IN ANALYTICAL TOXICOLOGY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-6 - KİMYA SEÇMELİ DERS (6.YY)",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "DTMK306İLMÜ",
    "ad": "İLETİŞİM VE MÜZİK II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-V - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU V (7.YY)",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "10420402E11807",
    "ad": "CHEMICAL PRODUCTS AND LIFE",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "404004042001",
    "ad": "SERAMİK KİMYASI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "404004102006",
    "ad": "YÜZEY KİMYASINA GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "404004122001",
    "ad": "KATIHAL BOZUNMA KİNETİĞİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "404004132003",
    "ad": "KİMYASAL ANALİZDE OTOMASYON",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "404004152019",
    "ad": "QUALITY SYSTEMS",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "404004162001",
    "ad": "KİMYADA SİMETRİ VE UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "404004312016",
    "ad": "SOLID STATE CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "404004352001",
    "ad": "ORGANİK KİMYADA ANALİZ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "404004412019",
    "ad": "CORROSION",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "404004432018",
    "ad": "CHEMOMETRY I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "404004512012",
    "ad": "NOBLE METALS",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "404004812018",
    "ad": "POLYMER CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "404004952009",
    "ad": "TEKSTİL KİMYASI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1510,7 +1510,7 @@
   {
    "kod": "404005012014",
    "ad": "İŞARET DİLİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1524,7 +1524,7 @@
   {
    "kod": "404005052019",
    "ad": "PETROLEUM AND PETROCHEMICAL TECHNOLOGY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1538,7 +1538,7 @@
   {
    "kod": "404005072019",
    "ad": "FUEL TECHNOLOGY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1552,7 +1552,7 @@
   {
    "kod": "404005212023",
    "ad": "ANALYTICAL TOXICOLOGY AND CHEMICAL APPLICATIONS",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1566,7 +1566,7 @@
   {
    "kod": "404005232023",
    "ad": "RETROSYNTHETIC APPROACH IN ORGANIC SYNTHESIS",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1580,7 +1580,7 @@
   {
    "kod": "404005252023",
    "ad": "SUPRAMOLECULAR CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1594,7 +1594,7 @@
   {
    "kod": "404005272023",
    "ad": "ADLİ KİMYA I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1608,7 +1608,7 @@
   {
    "kod": "INV401",
    "ad": "İNOVASYON, TEKNOLOJİ VE GİRİŞİMCİLİK",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-7 - KİMYA SEÇMELİ DERS (7.YY)",
    "tur": "Seçmeli",
@@ -1622,7 +1622,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-VI - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU VI (8.YY)",
    "tur": "Seçmeli",
@@ -1636,7 +1636,7 @@
   {
    "kod": "10420402E11492",
    "ad": "STRATEGY IN ORGANIC SYNTHESIS",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1650,7 +1650,7 @@
   {
    "kod": "10420402E11494",
    "ad": "ENVIRONMENTAL CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1664,7 +1664,7 @@
   {
    "kod": "10420402E11498",
    "ad": "HYPHENATED CHROMATOGRAPHIC TECHNIQUES",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1678,7 +1678,7 @@
   {
    "kod": "10420402E11802",
    "ad": "CATALYSIS AND APPLICATIONS IN GREEN CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1692,7 +1692,7 @@
   {
    "kod": "10420402E11804",
    "ad": "ELECTROCHEMISTRY APPLICATIONS IN TECHNOLOGY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1706,7 +1706,7 @@
   {
    "kod": "404004202016",
    "ad": "APPLICATION OF NOBEL METALS",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1720,7 +1720,7 @@
   {
    "kod": "404004222016",
    "ad": "CHARACTERIZATION OF INORGANIC COMPOUNDS",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1734,7 +1734,7 @@
   {
    "kod": "404004232001",
    "ad": "BİYOFİZİKOKİMYA",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1748,7 +1748,7 @@
   {
    "kod": "404004292019",
    "ad": "ENVIRONMENTAL TECHNOLOGY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1762,7 +1762,7 @@
   {
    "kod": "404004332001",
    "ad": "İLAÇ KİMYASI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1776,7 +1776,7 @@
   {
    "kod": "404004342001",
    "ad": "BESİN KİMYASI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1790,7 +1790,7 @@
   {
    "kod": "404004402018",
    "ad": "CHEMOMETRY II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1804,7 +1804,7 @@
   {
    "kod": "404004662012",
    "ad": "MATERIAL SCIENCE",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1818,7 +1818,7 @@
   {
    "kod": "404004682006",
    "ad": "BİYOTEKNOLOJİYE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1832,7 +1832,7 @@
   {
    "kod": "404004702006",
    "ad": "TEKSTİL BOYAR MADDELERİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1846,7 +1846,7 @@
   {
    "kod": "404004742006",
    "ad": "KLİNİK KİMYA",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1860,7 +1860,7 @@
   {
    "kod": "404004842013",
    "ad": "INTRODUCTION TO MEDICINAL CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1874,7 +1874,7 @@
   {
    "kod": "404004902019",
    "ad": "INTRODUCTION TO NATURAL PRODUCT CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1888,7 +1888,7 @@
   {
    "kod": "404005002013",
    "ad": "BASIC BIOTECHNOLOGY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1902,7 +1902,7 @@
   {
    "kod": "404005022014",
    "ad": "GİRİŞİMCİLİK VE KALİTE",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1916,7 +1916,7 @@
   {
    "kod": "404005042019",
    "ad": "SYNTHESIS OF ACTIVE PHARMACEUTICAL INGREDIENTS IN DRUGS",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1930,7 +1930,7 @@
   {
    "kod": "404005122020",
    "ad": "BIOORGANIC CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1944,7 +1944,7 @@
   {
    "kod": "404005162020",
    "ad": "POLYMER CHARACTERIZATION TECHNIQUES",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1958,7 +1958,7 @@
   {
    "kod": "404005182023",
    "ad": "QUALITY SYSTEMS FOR LABORATORIES",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1972,7 +1972,7 @@
   {
    "kod": "404005262023",
    "ad": "ADLİ KİMYA II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -1986,7 +1986,7 @@
   {
    "kod": "404005282023",
    "ad": "STRATEGY IN INORGANIC SYNTHESIS",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -2000,7 +2000,7 @@
   {
    "kod": "FSM404",
    "ad": "GİRİŞİMCİLİK, FİKRİ VE SINAİ MÜLKİYET HAKLARINA GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİM.SEÇ-8 - KİMYA SEÇMELİ DERS (8.YY)",
    "tur": "Seçmeli",
@@ -2014,7 +2014,7 @@
   {
    "kod": "404001012006",
    "ad": "TÜRK DİLİ I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2028,7 +2028,7 @@
   {
    "kod": "404001022006",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2042,7 +2042,7 @@
   {
    "kod": "404001042003",
    "ad": "GENEL KİMYA-I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2056,7 +2056,7 @@
   {
    "kod": "404001052020",
    "ad": "PHYSICS I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2070,7 +2070,7 @@
   {
    "kod": "404001062019",
    "ad": "MATHEMATICS I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2084,7 +2084,7 @@
   {
    "kod": "404001282020",
    "ad": "SCIENTIFIC ENGLISH-I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2098,7 +2098,7 @@
   {
    "kod": "404001692011",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2112,7 +2112,7 @@
   {
    "kod": "404001712020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2126,7 +2126,7 @@
   {
    "kod": "404000922006",
    "ad": "TÜRK DİLİ II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2140,7 +2140,7 @@
   {
    "kod": "404000942006",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2154,7 +2154,7 @@
   {
    "kod": "404001082003",
    "ad": "GENEL KİMYA-II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2168,7 +2168,7 @@
   {
    "kod": "404001092006",
    "ad": "FİZİK-II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2182,7 +2182,7 @@
   {
    "kod": "404001102019",
    "ad": "MATHEMATICS II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2196,7 +2196,7 @@
   {
    "kod": "404001292006",
    "ad": "SCIENTIFIC ENGLISH-II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2210,7 +2210,7 @@
   {
    "kod": "404001342012",
    "ad": "COMPUTER COURSE",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2224,7 +2224,7 @@
   {
    "kod": "10420401E11281",
    "ad": "MATHEMATICS IN CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2238,7 +2238,7 @@
   {
    "kod": "404002022006",
    "ad": "ANALİTİK KİMYA-I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2252,7 +2252,7 @@
   {
    "kod": "404002052006",
    "ad": "ORGANİK KİMYA I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2266,7 +2266,7 @@
   {
    "kod": "404002732015",
    "ad": "BASIC NUCLEAR CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2280,7 +2280,7 @@
   {
    "kod": "404002752012",
    "ad": "BIOLOGY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2294,7 +2294,7 @@
   {
    "kod": "404002792006",
    "ad": "POLİMER KİMYASINA GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2308,7 +2308,7 @@
   {
    "kod": "10420401T11278",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2322,7 +2322,7 @@
   {
    "kod": "404002061994",
    "ad": "FİZİKOKİMYA I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2336,7 +2336,7 @@
   {
    "kod": "404002072006",
    "ad": "ANALİTİK KİMYA II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2350,7 +2350,7 @@
   {
    "kod": "404002082000",
    "ad": "ORGANİK KİMYA II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2364,7 +2364,7 @@
   {
    "kod": "404002802019",
    "ad": "KUANTUM KİMYASI",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2378,7 +2378,7 @@
   {
    "kod": "404003012000",
    "ad": "ANORGANİK KİMYA-I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2392,7 +2392,7 @@
   {
    "kod": "404003022021",
    "ad": "ORGANİK KİMYA III",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2406,7 +2406,7 @@
   {
    "kod": "404003032021",
    "ad": "FİZİKOKİMYA II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2420,7 +2420,7 @@
   {
    "kod": "404003712021",
    "ad": "STAJ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2434,7 +2434,7 @@
   {
    "kod": "404003932012",
    "ad": "BASIC BIOCHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2448,7 +2448,7 @@
   {
    "kod": "404003112014",
    "ad": "ANORGANİK KİMYA II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2462,7 +2462,7 @@
   {
    "kod": "404003132006",
    "ad": "FİZİKOKİMYA III",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2476,7 +2476,7 @@
   {
    "kod": "404003142000",
    "ad": "KİMYADA ENDÜSTÜRİYEL İŞLEMLER",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2490,7 +2490,7 @@
   {
    "kod": "404003152006",
    "ad": "ORGANİK YAPI TAYINI",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2504,7 +2504,7 @@
   {
    "kod": "404003712021",
    "ad": "STAJ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2518,7 +2518,7 @@
   {
    "kod": "404007042021",
    "ad": "INSTRUMENTAL ANALYSIS I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2532,7 +2532,7 @@
   {
    "kod": "404004012015",
    "ad": "ANORGANİK KİMYA-III",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2546,7 +2546,7 @@
   {
    "kod": "404004072015",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2560,7 +2560,7 @@
   {
    "kod": "404004772006",
    "ad": "ENDÜSTRİYEL PROSESLER-I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2574,7 +2574,7 @@
   {
    "kod": "404005032019",
    "ad": "ENSTRÜMENTAL ANALİZ II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2588,7 +2588,7 @@
   {
    "kod": "404004082015",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2602,7 +2602,7 @@
   {
    "kod": "404004622015",
    "ad": "ENDÜSTRİYEL PROSESLER-II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2616,7 +2616,7 @@
   {
    "kod": "PF201",
    "ad": "EĞİTİME GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-I - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU I (3.YY)",
    "tur": "Seçmeli",
@@ -2630,7 +2630,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-I - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU I (3.YY)",
    "tur": "Seçmeli",
@@ -2644,7 +2644,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-II - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU II (4.YY)",
    "tur": "Seçmeli",
@@ -2658,7 +2658,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-II - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU II (4.YY)",
    "tur": "Seçmeli",
@@ -2672,7 +2672,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-III - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU III (5.YY)",
    "tur": "Seçmeli",
@@ -2686,7 +2686,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-III - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU III (5.YY)",
    "tur": "Seçmeli",
@@ -2700,7 +2700,7 @@
   {
    "kod": "10420402E11707",
    "ad": "CHEMICAL INSTRUMENTATION",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-5 - SEÇMELİ DERSLER 5.YY",
    "tur": "Seçmeli",
@@ -2714,7 +2714,7 @@
   {
    "kod": "404003092020",
    "ad": "MAIN GROUP ELEMENTS",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-5 - SEÇMELİ DERSLER 5.YY",
    "tur": "Seçmeli",
@@ -2728,7 +2728,7 @@
   {
    "kod": "404003102000",
    "ad": "TEORİK SPEKTROSKOPİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-5 - SEÇMELİ DERSLER 5.YY",
    "tur": "Seçmeli",
@@ -2742,7 +2742,7 @@
   {
    "kod": "404003192012",
    "ad": "NUCLEAR CHEMISTRY I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-5 - SEÇMELİ DERSLER 5.YY",
    "tur": "Seçmeli",
@@ -2756,7 +2756,7 @@
   {
    "kod": "404003252018",
    "ad": "INTRODUCTION TO MOLECULER PHOTOCHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-5 - SEÇMELİ DERSLER 5.YY",
    "tur": "Seçmeli",
@@ -2770,7 +2770,7 @@
   {
    "kod": "404003272018",
    "ad": "BIOINORGANIC CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-5 - SEÇMELİ DERSLER 5.YY",
    "tur": "Seçmeli",
@@ -2784,7 +2784,7 @@
   {
    "kod": "404003952006",
    "ad": "İYON DEĞİŞTİRİCİLER",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-5 - SEÇMELİ DERSLER 5.YY",
    "tur": "Seçmeli",
@@ -2798,7 +2798,7 @@
   {
    "kod": "404003972012",
    "ad": "ELECTROCHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-5 - SEÇMELİ DERSLER 5.YY",
    "tur": "Seçmeli",
@@ -2812,7 +2812,7 @@
   {
    "kod": "404005092020",
    "ad": "INTRODUCTION TO COLLOID CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-5 - SEÇMELİ DERSLER 5.YY",
    "tur": "Seçmeli",
@@ -2826,7 +2826,7 @@
   {
    "kod": "404005152023",
    "ad": "HAZARDOUS CHEMICALS AND LEGISLATION",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-5 - SEÇMELİ DERSLER 5.YY",
    "tur": "Seçmeli",
@@ -2840,7 +2840,7 @@
   {
    "kod": "404007092012",
    "ad": "HISTORY OF SCIENCE AND CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-5 - SEÇMELİ DERSLER 5.YY",
    "tur": "Seçmeli",
@@ -2854,7 +2854,7 @@
   {
    "kod": "FEN081",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-5 - SEÇMELİ DERSLER 5.YY",
    "tur": "Seçmeli",
@@ -2868,7 +2868,7 @@
   {
    "kod": "Bİİ315İDİT",
    "ad": "İLK DÖNEM İSLAM TARİHİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2882,7 +2882,7 @@
   {
    "kod": "DTMK305TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2896,7 +2896,7 @@
   {
    "kod": "EĞT305AT",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2910,7 +2910,7 @@
   {
    "kod": "EĞT305BUMFE",
    "ad": "BASİT VE UCUZ MALZEMELERLE FEN ETKİNLİKLERİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2924,7 +2924,7 @@
   {
    "kod": "EĞT305DE",
    "ad": "DÜNYA EDEBİYATI",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2938,7 +2938,7 @@
   {
    "kod": "GZL224TEKNO",
    "ad": "TEKNOKÜLTÜR VE SANAL DÜNYALAR",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2952,7 +2952,7 @@
   {
    "kod": "İİB307IGP",
    "ad": "INTRODUCTION TO GLOBAL POLITICS",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2966,7 +2966,7 @@
   {
    "kod": "İLE307DZY",
    "ad": "DUYGUSAL ZEKA YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2980,7 +2980,7 @@
   {
    "kod": "YEN305GYKA",
    "ad": "GİRİŞİMCİLİKTE YATIRIM KARAR ANALİZLERİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -2994,7 +2994,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-IV - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU IV (6.YY)",
    "tur": "Seçmeli",
@@ -3008,7 +3008,7 @@
   {
    "kod": "Bİİ305DS",
    "ad": "DİN VE SANAT",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3022,7 +3022,7 @@
   {
    "kod": "Bİİ306DİVKA",
    "ad": "DİNLER VE KADIN",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3036,7 +3036,7 @@
   {
    "kod": "ENF305WEB",
    "ad": "WEB TASARIMI",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3050,7 +3050,7 @@
   {
    "kod": "FEN305BİYO",
    "ad": "BİYOTEKNOLOJİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3064,7 +3064,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -3078,7 +3078,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-V - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU V (7.YY)",
    "tur": "Seçmeli",
@@ -3092,7 +3092,7 @@
   {
    "kod": "10420402E11807",
    "ad": "CHEMICAL PRODUCTS AND LIFE",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3106,7 +3106,7 @@
   {
    "kod": "404004042001",
    "ad": "SERAMİK KİMYASI",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3120,7 +3120,7 @@
   {
    "kod": "404004102006",
    "ad": "YÜZEY KİMYASINA GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3134,7 +3134,7 @@
   {
    "kod": "404004122001",
    "ad": "KATIHAL BOZUNMA KİNETİĞİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3148,7 +3148,7 @@
   {
    "kod": "404004132003",
    "ad": "KİMYASAL ANALİZDE OTOMASYON",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3162,7 +3162,7 @@
   {
    "kod": "404004152019",
    "ad": "QUALITY SYSTEMS",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3176,7 +3176,7 @@
   {
    "kod": "404004162001",
    "ad": "KİMYADA SİMETRİ VE UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3190,7 +3190,7 @@
   {
    "kod": "404004312016",
    "ad": "SOLID STATE CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3204,7 +3204,7 @@
   {
    "kod": "404004352001",
    "ad": "ORGANİK KİMYADA ANALİZ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3218,7 +3218,7 @@
   {
    "kod": "404004412019",
    "ad": "CORROSION",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3232,7 +3232,7 @@
   {
    "kod": "404004432018",
    "ad": "CHEMOMETRY I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3246,7 +3246,7 @@
   {
    "kod": "404004512012",
    "ad": "NOBLE METALS",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3260,7 +3260,7 @@
   {
    "kod": "404004752006",
    "ad": "KAYNAK TARAMA TEKN.(DİPLOMA ÇALIŞMASI-I)",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3274,7 +3274,7 @@
   {
    "kod": "404004812018",
    "ad": "POLYMER CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3288,7 +3288,7 @@
   {
    "kod": "404004952009",
    "ad": "TEKSTİL KİMYASI",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3302,7 +3302,7 @@
   {
    "kod": "404005012014",
    "ad": "İŞARET DİLİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3316,7 +3316,7 @@
   {
    "kod": "404005052019",
    "ad": "PETROLEUM AND PETROCHEMICAL TECHNOLOGY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3330,7 +3330,7 @@
   {
    "kod": "404005072019",
    "ad": "FUEL TECHNOLOGY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3344,7 +3344,7 @@
   {
    "kod": "404005112020",
    "ad": "INTRODUCTION TO CHROMATOGRAPHY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3358,7 +3358,7 @@
   {
    "kod": "404005212023",
    "ad": "ANALYTICAL TOXICOLOGY AND CHEMICAL APPLICATIONS",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3372,7 +3372,7 @@
   {
    "kod": "404005232023",
    "ad": "RETROSYNTHETIC APPROACH IN ORGANIC SYNTHESIS",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3386,7 +3386,7 @@
   {
    "kod": "404005272023",
    "ad": "ADLİ KİMYA I",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3400,7 +3400,7 @@
   {
    "kod": "INV401",
    "ad": "İNOVASYON, TEKNOLOJİ VE GİRİŞİMCİLİK",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-7 - SEÇMELİ DERSLER 7.YY",
    "tur": "Seçmeli",
@@ -3414,7 +3414,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "FEN-PFSDG-VI - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU VI (8.YY)",
    "tur": "Seçmeli",
@@ -3428,7 +3428,7 @@
   {
    "kod": "10420402E11492",
    "ad": "STRATEGY IN ORGANIC SYNTHESIS",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3442,7 +3442,7 @@
   {
    "kod": "10420402E11494",
    "ad": "ENVIRONMENTAL CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3456,7 +3456,7 @@
   {
    "kod": "10420402E11498",
    "ad": "HYPHENATED CHROMATOGRAPHIC TECHNIQUES",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3470,7 +3470,7 @@
   {
    "kod": "10420402E11802",
    "ad": "CATALYSIS AND APPLICATIONS IN GREEN CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3484,7 +3484,7 @@
   {
    "kod": "10420402E11804",
    "ad": "ELECTROCHEMISTRY APPLICATIONS IN TECHNOLOGY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3498,7 +3498,7 @@
   {
    "kod": "404004202016",
    "ad": "APPLICATION OF NOBEL METALS",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3512,7 +3512,7 @@
   {
    "kod": "404004222016",
    "ad": "CHARACTERIZATION OF INORGANIC COMPOUNDS",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3526,7 +3526,7 @@
   {
    "kod": "404004232001",
    "ad": "BİYOFİZİKOKİMYA",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3540,7 +3540,7 @@
   {
    "kod": "404004292019",
    "ad": "ENVIRONMENTAL TECHNOLOGY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3554,7 +3554,7 @@
   {
    "kod": "404004332001",
    "ad": "İLAÇ KİMYASI",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3568,7 +3568,7 @@
   {
    "kod": "404004342001",
    "ad": "BESİN KİMYASI",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3582,7 +3582,7 @@
   {
    "kod": "404004402018",
    "ad": "CHEMOMETRY II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3596,7 +3596,7 @@
   {
    "kod": "404004602006",
    "ad": "BİTİRME TEZİ (DİPLOMA ÇALIŞMASI-II)",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3610,7 +3610,7 @@
   {
    "kod": "404004662012",
    "ad": "MATERIAL SCIENCE",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3624,7 +3624,7 @@
   {
    "kod": "404004682006",
    "ad": "BİYOTEKNOLOJİYE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3638,7 +3638,7 @@
   {
    "kod": "404004702006",
    "ad": "TEKSTİL BOYAR MADDELERİ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3652,7 +3652,7 @@
   {
    "kod": "404004742006",
    "ad": "KLİNİK KİMYA",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3666,7 +3666,7 @@
   {
    "kod": "404004842013",
    "ad": "INTRODUCTION TO MEDICINAL CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3680,7 +3680,7 @@
   {
    "kod": "404004902019",
    "ad": "INTRODUCTION TO NATURAL PRODUCT CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3694,7 +3694,7 @@
   {
    "kod": "404005002013",
    "ad": "BASIC BIOTECHNOLOGY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3708,7 +3708,7 @@
   {
    "kod": "404005022014",
    "ad": "GİRİŞİMCİLİK VE KALİTE",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3722,7 +3722,7 @@
   {
    "kod": "404005042019",
    "ad": "SYNTHESIS OF ACTIVE PHARMACEUTICAL INGREDIENTS IN DRUGS",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3736,7 +3736,7 @@
   {
    "kod": "404005122020",
    "ad": "BIOORGANIC CHEMISTRY",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3750,7 +3750,7 @@
   {
    "kod": "404005162020",
    "ad": "POLYMER CHARACTERIZATION TECHNIQUES",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3764,7 +3764,7 @@
   {
    "kod": "404005182023",
    "ad": "QUALITY SYSTEMS FOR LABORATORIES",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3778,7 +3778,7 @@
   {
    "kod": "404005262023",
    "ad": "ADLİ KİMYA II",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3792,7 +3792,7 @@
   {
    "kod": "404005282023",
    "ad": "STRATEGY IN INORGANIC SYNTHESIS",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",
@@ -3806,7 +3806,7 @@
   {
    "kod": "FSM404",
    "ad": "GİRİŞİMCİLİK, FİKRİ VE SINAİ MÜLKİYET HAKLARINA GİRİŞ",
-   "mufredat": null,
+   "mufredat": "2020 Yılı Müfredatı",
    "yariyil": null,
    "grup": "KİMYA.SEÇ-8 - SEÇMELİ DERSLER 8.YY",
    "tur": "Seçmeli",

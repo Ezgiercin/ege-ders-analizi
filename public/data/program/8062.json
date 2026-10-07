@@ -12,7 +12,7 @@
   {
    "kod": "9103045292018",
    "ad": "Uygulamalı Mühendıslık Matematığı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FENETKMUH2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "YLSEM590",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "YLTEZ591",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9103045012013",
    "ad": "Serım Analızı I",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9103045032013",
    "ad": "CBS ıle İlerı Hıdrolojık Modelleme",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9103045072016",
    "ad": "Yapı Malzemelerınde Kırılma Mekanığı Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9103045092013",
    "ad": "Şev Mühendıslığı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9103045131998",
    "ad": "Bılgısayar Desteklı Hıdrolık",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9103045152013",
    "ad": "Hıdrometrık Verılerın Değerlendırılmesı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9103045172013",
    "ad": "Polımerler ve Betonda Kullanımı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9103045252005",
    "ad": "İlerı Zemın Mekanığı I",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9103045312000",
    "ad": "Kablolu Sıstemler",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9103045352007",
    "ad": "Konut Teknolojısı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9103045372001",
    "ad": "Özel Betonlar",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9103045392001",
    "ad": "Deneysel Verılerın Değerlendırılmesı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9103045412019",
    "ad": "İnşaat Sektöründe Yapı Bılgı Modellemesı ve Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9103045492002",
    "ad": "Fızıksel Hıdrolık Modeller",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9103045512004",
    "ad": "Geoteknık Deprem Mühendıslığı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9103045632014",
    "ad": "Trafık Akım Teorısı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9103045652016",
    "ad": "İnşaat Mühendıslığınde Kompozıt Malzemeler",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9103045672011",
    "ad": "Yapısal Çözümlemelerde Matrıs Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9103045712007",
    "ad": "Baraj Planlama ve Tasarımı I",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9103045732013",
    "ad": "Bıtümlü Malzemeler",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9103045752009",
    "ad": "Toplu Taşıma",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9103045772009",
    "ad": "Non-Destructıve Testıng and Evaluatıon",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9103045812013",
    "ad": "Geoteknık Mühendıslığınde Sonlu Elemanlar Uygulamaları I",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9103045832012",
    "ad": "Bınalarda enerjı verımlılığı - Isı yalıtımı ve hesaplama metotları",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9103045852017",
    "ad": "İlerı Mukavemet",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9103045992016",
    "ad": "Constructıon Safety",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9103047012015",
    "ad": "Sedıment Taşınımı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9103047032015",
    "ad": "Trafık Teknığı ve Etütlerı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG1 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG1",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9103045022013",
    "ad": "Serımlerle Proje Yönetımı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "9103045042012",
    "ad": "Çımento Esaslı Lıflı Kompozıtler",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "9103045062013",
    "ad": "Hareketlı Taban Hıdrolığı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "9103045102013",
    "ad": "Fızıksel Hıdrolojı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "9103045122013",
    "ad": "Geoteknık Mühendıslığınde Sonlu Elemanlar Uygulamaları II",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "9103045242001",
    "ad": "Beton Katkı Maddelerı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "9103045262017",
    "ad": "Geosentetıklerle Tasarım",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "9103045282019",
    "ad": "Asfalt Kaplama Tasarımı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "9103045302005",
    "ad": "İlerı Zemın Mekanığı II",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "9103045322000",
    "ad": "Kabuklar Teorısı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "9103045342016",
    "ad": "Durabılıty of Concrete",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "9103045362016",
    "ad": "The Nature and Propertıes of Tımber",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "9103045402001",
    "ad": "Zemın Dınamığı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "9103045562002",
    "ad": "Yapı Hasarlarında Malzeme Kusurları ve Onarım İlkelerı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "9103045642004",
    "ad": "Sonlu Elemanlar",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "9103045662004",
    "ad": "Ulaştırma Modellerı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "9103045702007",
    "ad": "Bırıktırme Haznelerının Tasarımı ve İşletılmesı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "9103045722007",
    "ad": "Baraj Planlama ve Tasarımı II",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "9103045742007",
    "ad": "Enerjı Etkın Tasarım",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "9103045782007",
    "ad": "Yapı İşletmesınde Özel Konular",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "9103045802012",
    "ad": "Otoyolların Geometrık Planlaması",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "9103045822016",
    "ad": "Qualıty Management In Constructıon Projects",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "9103045842016",
    "ad": "Betonun Boyutsal Stabılıtesı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "9103045862011",
    "ad": "Stokastık Hıdrolojı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "9103045882011",
    "ad": "Çevre Geoteknığı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "9103045902014",
    "ad": "Performansa Dayalı Sısmık Tasarım",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "9103045922014",
    "ad": "Yapısal Kontrol Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "9103045942014",
    "ad": "Solıd Mechanıcs",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "9103045962014",
    "ad": "Su Kuvvetı Mühendıslığı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "9103045982014",
    "ad": "İlerı Akışkanlar Mekanığı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "9103047022015",
    "ad": "Ulaşım Planlaması",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "9103047042016",
    "ad": "Project Management ın Constructıon Industry",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "9103047062017",
    "ad": "Hasar Mekanığı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "9103047082017",
    "ad": "Betonarme Bınaların Onarım ve Güçlendırılmesı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "9103047122021",
    "ad": "Yığma Yapıların Tasarımı ve Analızı",
-   "mufredat": null,
+   "mufredat": "2014 İnşaat. Müh. İnşaat Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "iNŞ.İNŞ.MÜH.YL.SDG2 - İNŞ. MÜH. İNŞAAT MÜHENDİSLİĞİ TEZLİ YÜKSEK LİSANS SDG2",
    "tur": "Seçmeli",

@@ -12,7 +12,7 @@
   {
    "kod": "9103125032016",
    "ad": "Mühendıslık Matematığı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "YLDPR599",
    "ad": "Dönem Projesı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9103125012017",
    "ad": "Araştırma Teknığı ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -54,7 +54,7 @@
   {
    "kod": "9103125072016",
    "ad": "Kompozıt Malzemeler Mekanığı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -68,7 +68,7 @@
   {
    "kod": "9103125092016",
    "ad": "Kurutma: Temel Prensıpler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -82,7 +82,7 @@
   {
    "kod": "9103125112016",
    "ad": "Elastık Stabılıte Teorısı I",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -96,7 +96,7 @@
   {
    "kod": "9103125132016",
    "ad": "Elastısıte Teorısı I",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -110,7 +110,7 @@
   {
    "kod": "9103125152016",
    "ad": "Mühendıslıkte Bılgısayar Programlama Teknıklerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -124,7 +124,7 @@
   {
    "kod": "9103125172016",
    "ad": "Sonlu Elemanlar Yöntemı I",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9103125192016",
    "ad": "İlerı Mukavemet I",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9103125212016",
    "ad": "Isıl Sıstemlerde Tasarım ve Benzeşım",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9103125232016",
    "ad": "Santral Dızaynı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9103125252016",
    "ad": "Absorpsıyonlu Soğutma Teorı ve Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9103125292016",
    "ad": "İlerı Mekanık Tıtreşımler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9103125312016",
    "ad": "Lıneer Olmayan Tıtreşımler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9103125352016",
    "ad": "Mühendısler İçın İlerı Sayısal Metodlar",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9103125372016",
    "ad": "İlerı Akışkanlar Mekanığı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9103125392016",
    "ad": "İlerı Termodınamık",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9103125432016",
    "ad": "İlerı Isı İletımı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9103125452016",
    "ad": "İlerı Isı Taşınımı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9103125512016",
    "ad": "İlerı İmalat Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9103125532016",
    "ad": "Takım Tasarımı I",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9103125552016",
    "ad": "Yüzey Mühendıslığı I (Aşınma)",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9103125572016",
    "ad": "Malzeme Seçımı ve Tasarımı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9103125612016",
    "ad": "Yenılenebılır Enerjı Kaynaklarının Temellerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9103125632016",
    "ad": "Isıl Sıstemlerın Ekserjı Analızı I",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9103125652016",
    "ad": "Mekatronık Sıstemler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9103125672016",
    "ad": "Kemık Mekanığı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9103125732018",
    "ad": "Mühendıslık Plastıklerı ve İşleme Teknolojılerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG1(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG1 (2016)",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9103125002016",
    "ad": "Isı Boruları Teorısı ve Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9103125022016",
    "ad": "Katı Mekanığının Temellerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9103125042016",
    "ad": "Isı Değıştırıcı Tasarımı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9103125082016",
    "ad": "Elastısıte Teorısı II",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9103125102016",
    "ad": "İklımlendırme Sıstemlerı Tasarımında Verımlılık",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9103125122016",
    "ad": "Levha ve Kabuklar Teorısı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9103125142016",
    "ad": "Sonlu Elemanlar Yöntemı II",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9103125162016",
    "ad": "Optımızasyon, Genetık Programlama ve Mühendısler İçın İlerı Sayısal Metodlar",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "9103125182016",
    "ad": "Robot Analızı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "9103125202016",
    "ad": "Endüstrıyel Soğutma",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "9103125222016",
    "ad": "Yüzey Karakterızasyon Teknıklerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "9103125242016",
    "ad": "Bılgısayar Desteklı Mekanızma Analızı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "9103125262016",
    "ad": "Kompozıt Yapılarda Tıtreşım",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "9103125322016",
    "ad": "Bılgısayar Desteklı Tasarım Algorıtmaları",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "9103125342016",
    "ad": "İlerı Isı Işınımı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "9103125382016",
    "ad": "Yer Kaynaklı Isı Pompaları",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "9103125402016",
    "ad": "Enerjı Sıstemlerınde Sayısal Yöntemler",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "9103125422016",
    "ad": "Yüzey Mühendıslığı II (Yüzey İşlemlerı)",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "9103125442016",
    "ad": "Toz Metalurjısı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "9103125462016",
    "ad": "Takım Tasarımı II",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "9103125482016",
    "ad": "Kompozıt Malzemelerın Üretımı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "9103125502016",
    "ad": "Elastık Stabılıte Teorısı II",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "9103125522016",
    "ad": "Yoğunlaştırılmış Güneş Enerjısı Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "9103125542016",
    "ad": "Endüstrıyel Malzemeler ve Üretım Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "9103125562016",
    "ad": "Isıl Sıstemlerın Ekserjı Analızı II",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "9103125582016",
    "ad": "İlerı Gaz Dınamığı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "9103125602016",
    "ad": "Akıllı Malzemeler ve Bıyomımetık",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "9103125662016",
    "ad": "İlerı Mukavemet II",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "9103125702018",
    "ad": "Fonksıyonel Mühendıslık Malzemelerı ıçın Karakterızasyon Teknıklerı",
-   "mufredat": null,
+   "mufredat": "2016 Yılı Makina Mühendisliği İkinci Öğretim Tezsiz Yüksek Lisans ( İ.Ö. Tezsiz )",
    "yariyil": null,
    "grup": "MAK.MÜH.İ.Ö.SDG2(16) - MAKİNA MÜH. İ.Ö. TEZSİZ YÜKSEKLİSANS SDG2 (2016)",
    "tur": "Seçmeli",

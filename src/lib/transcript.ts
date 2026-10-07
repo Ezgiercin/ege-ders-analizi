@@ -26,6 +26,10 @@ interface Parca {
   y: number;
   w: number;
   s: string;
+  /** Metin döndürülmüş mü (filigran çapraz yazılır) */
+  don?: boolean;
+  /** Yazı yüksekliği */
+  h?: number;
   _y?: number;
 }
 
@@ -45,7 +49,14 @@ const sayi = (s: string | null | undefined): number | null => {
 function parcalar(tc: any): Parca[] {
   return (tc.items as any[])
     .filter((it) => it.str && it.str.trim() !== '')
-    .map((it) => ({ x: it.transform[4], y: it.transform[5], w: it.width || 0, s: it.str }));
+    .map((it) => ({
+      x: it.transform[4],
+      y: it.transform[5],
+      w: it.width || 0,
+      s: it.str,
+      don: Math.abs(it.transform[1]) > 0.01 || Math.abs(it.transform[2]) > 0.01,
+      h: Math.abs(it.transform[3]) || it.height || 0,
+    }));
 }
 
 function satirlar(items: Parca[], tol = 2.2): Satir[] {
@@ -82,8 +93,11 @@ function hucreBirlestir(cells: Parca[], bosluk = 1.6): Parca[] {
   const out: Parca[] = [];
   for (const c of cells) {
     const son = out[out.length - 1];
-    if (son && c.x - (son.x + son.w) <= bosluk) {
-      son.s += c.s;
+    const ara = son ? c.x - (son.x + son.w) : Infinity;
+    if (son && ara <= bosluk) {
+      // Bazı fontlarda "İ" ayrı parça olarak geliyor ve kelime arası boşluk ~1,5 birim;
+      // harf arası ise ~0. Boşluğu korumazsak "VE İNKILAP" -> "VEİNKILAP" oluyor.
+      son.s += (ara > 1 ? ' ' : '') + c.s;
       son.w = c.x + c.w - son.x;
     } else {
       out.push({ ...c });
@@ -99,9 +113,21 @@ function hucreBirlestir(cells: Parca[], bosluk = 1.6): Parca[] {
  */
 function filigraniEle(cells: Parca[], harfler: Set<string>): Parca[] {
   return cells.filter((c) => {
+    // Filigran çapraz yazılır: döndürülmüş her parça filigrandır
+    if (c.don) return false;
     const t = c.s.trim();
     if (t.length > 1 || !harfler.has(t)) return true;
-    return !cells.some((o) => o !== c && o.s.trim().length > 2 && c.x > o.x && c.x < o.x + (o.w || 0));
+    // Döndürülmemiş tek harf: ancak başka bir parçanın tam içine düşüyor VE yazı
+    // boyu farklıysa filigran say. ("TÜRK D" + "İ" + "L" + "İ" gibi aynı boyda,
+    // bitişik gelen harfler gerçek metindir; eskiden bunlar siliniyordu.)
+    return !cells.some(
+      (o) =>
+        o !== c &&
+        o.s.trim().length > 2 &&
+        c.x > o.x + 0.5 &&
+        c.x + c.w < o.x + (o.w || 0) - 0.5 &&
+        Math.abs((o.h ?? 0) - (c.h ?? 0)) > Math.max(1, (o.h ?? 0) * 0.3)
+    );
   });
 }
 
@@ -244,7 +270,25 @@ function parseSso(sayfalar: any[]): Omit<TranskriptSonuc, 'kaynak'> {
       const t = rows[i].text;
       if (/^Ad soyad\s*:?$/.test(t)) ogrenci.ad = rows[i + 1].text;
       if (/^Öğrenci no\s*:?$/.test(t)) ogrenci.no = rows[i + 1].text;
-      if (/^Program\s*:?$/.test(t)) ogrenci.program = rows[i + 1].text;
+      if (/^Program\s*:/.test(t) && !ogrenci.program) {
+        const temizle = (x: string) =>
+          x
+            .replace(/^Program\s*:\s*/i, '')
+            .split(' ')
+            .filter((k) => !(k.length === 1 && FILIGRAN.has(k)))
+            .join(' ')
+            .trim();
+        let deger = temizle(metinBirlestir(rows[i].cells));
+        if (deger.length < 3) deger = temizle(metinBirlestir(rows[i + 1].cells));
+        // SSO biçimi: "Dişhekimliği Fakültesi / Diş Hekimliği Fakültesi / Lisans ve Yüksek Lisans"
+        const parca = deger.split('/').map((x) => x.trim()).filter(Boolean);
+        if (parca.length >= 2) {
+          ogrenci.fakulte = parca[0];
+          ogrenci.program = parca[1];
+        } else if (deger) {
+          ogrenci.program = deger;
+        }
+      }
       if (/^(Fakülte|Birim|Fakülte\s*\/\s*Yüksekokul)\s*:?$/i.test(t)) ogrenci.fakulte = rows[i + 1].text;
       if (beyan == null && /^Genel Not Ortalaması\s*:?$/.test(t)) {
         for (let j = i + 1; j < Math.min(i + 6, rows.length); j++) {
@@ -270,7 +314,8 @@ function parseSso(sayfalar: any[]): Omit<TranskriptSonuc, 'kaynak'> {
 
     for (let i = 0; i < kodSatirlari.length; i++) {
       const { r, kod } = kodSatirlari[i];
-      if (/^SCGRP/.test(kod)) continue;
+      // Seçmeli grup özet satırları ("Seçmeli Ders Grubu - V -Alınması gereken ders sayısı…") ders değil
+      if (/^Y?SCGRP|^MDSD/i.test(kod)) continue;
 
       const ustKomsu = kodSatirlari[i - 1];
       const altKomsu = kodSatirlari[i + 1];

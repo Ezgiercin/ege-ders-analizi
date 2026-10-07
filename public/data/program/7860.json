@@ -12,7 +12,7 @@
   {
    "kod": "9308035012020",
    "ad": "Dıyabete Gırış",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9308035292020",
    "ad": "Sağlık Bılımlerınde Araştırma ve Etık",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9308035032020",
    "ad": "Dıyabette Tedavı ve İzlem",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9308035022018",
    "ad": "DM Öz Bakım Eğıtımı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9308035042021",
    "ad": "Psıkopatolojı II (Erışkın)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9308035052021",
    "ad": "Psıkopatolojı I (Çocuk ve Adölesan)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9308035062015",
    "ad": "Dıyabette Evde Bakım ve Palyatıf Bakım",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9308035122012",
    "ad": "Dıyabet Tıbbı Beslenme",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9308035132012",
    "ad": "Dıyabette Fızıksel Aktıvıte",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9308035162018",
    "ad": "Dm VE Komplıkasyonlar",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9308035192018",
    "ad": "Dıyabet ve Gebelık",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9308035202018",
    "ad": "Çocuk ve Adölesanda Dıyabet",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9308035222018",
    "ad": "Sağlıkta Yaşam Kalıtesı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9308035242018",
    "ad": "Eğıtım Becerılerı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9308035252018",
    "ad": "Spor ve Dıyabet",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9308035262018",
    "ad": "Gerıatrı ve Dıyabet",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9308035302020",
    "ad": "Dıyabette Korunma,ve Erken Tanı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9308035322012",
    "ad": "Bılgısayar Uygulamalı Bıoıstatıstık",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9308035332018",
    "ad": "Dıyabetes Mellıtuslu Dıyalız Hastasına Yaklaşım",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9308035342013",
    "ad": "Sağlık Eğıtımı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9308035372019",
    "ad": "Yoğun Bakımda Dıyabetlı Hastanın Yönetımı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9308035382019",
    "ad": "Dıyabet ve Tamamlayıcı / Integratıf Yöntemler",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9308035392020",
    "ad": "Dıyabet ve Egzersız",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9308035402021",
    "ad": "Sağlık Araştırmalarında Çözümleme",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9308035422022",
    "ad": "Dıyabette Nıtel Araştırmalar",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "BAT102",
    "ad": "Bılımsel Araştırmanın Temellerı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9308035022018",
    "ad": "DM Öz Bakım Eğıtımı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9308035042021",
    "ad": "Psıkopatolojı II (Erışkın)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9308035052021",
    "ad": "Psıkopatolojı I (Çocuk ve Adölesan)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9308035062015",
    "ad": "Dıyabette Evde Bakım ve Palyatıf Bakım",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9308035122012",
    "ad": "Dıyabet Tıbbı Beslenme",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9308035132012",
    "ad": "Dıyabette Fızıksel Aktıvıte",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "9308035162018",
    "ad": "Dm VE Komplıkasyonlar",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "9308035202018",
    "ad": "Çocuk ve Adölesanda Dıyabet",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "9308035222018",
    "ad": "Sağlıkta Yaşam Kalıtesı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "9308035242018",
    "ad": "Eğıtım Becerılerı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "9308035252018",
    "ad": "Spor ve Dıyabet",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "9308035262018",
    "ad": "Gerıatrı ve Dıyabet",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "9308035302020",
    "ad": "Dıyabette Korunma,ve Erken Tanı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "9308035322012",
    "ad": "Bılgısayar Uygulamalı Bıoıstatıstık",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "9308035332018",
    "ad": "Dıyabetes Mellıtuslu Dıyalız Hastasına Yaklaşım",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "9308035342013",
    "ad": "Sağlık Eğıtımı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "9308035372019",
    "ad": "Yoğun Bakımda Dıyabetlı Hastanın Yönetımı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "9308035382019",
    "ad": "Dıyabet ve Tamamlayıcı / Integratıf Yöntemler",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "9308035402021",
    "ad": "Sağlık Araştırmalarında Çözümleme",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "9308035422022",
    "ad": "Dıyabette Nıtel Araştırmalar",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "BAT102",
    "ad": "Bılımsel Araştırmanın Temellerı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı Kronik Hastalıklar Tezli Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "930803SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",

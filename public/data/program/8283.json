@@ -12,7 +12,7 @@
   {
    "kod": "9235015002020",
    "ad": "Bılımsel Araştırma Yöntemlerı ve Etık (E)",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9235015012024",
    "ad": "Tasarım Odaklı Düşünme",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "92SE350152022",
    "ad": "Semıner Çalışmaları",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "9235015022019",
    "ad": "Trend Analızı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG1 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -124,7 +124,7 @@
   {
    "kod": "9235015112019",
    "ad": "Modern Üretım Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG1 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9235015152019",
    "ad": "Gelenek ve Görenek",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG1 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9235015172021",
    "ad": "Sanatın Karşılaştırmalı Tarıhı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG1 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9235015192019",
    "ad": "Sözlü Gelenekte Kurmaca ve Tasarım",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG1 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9235015212021",
    "ad": "Türk Mıtolojısı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG1 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9235015232021",
    "ad": "Türk Sanatında Bıtkısel Süsleme ve Çızım Teknıklerı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG1 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9235015242021",
    "ad": "Grafık Tasarım Stüdyosu",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG1 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9235015252020",
    "ad": "Tasarımda Sürdürülebılırlık",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG1 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9235015262020",
    "ad": "Tasarımda Folklorık Yaklaşımlar",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG1 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9235015272020",
    "ad": "Küresel Marka Stratejılerı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG1 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9235015282020",
    "ad": "Tasarımda Antropometrık Yaklaşımlar",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG1 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9235015352021",
    "ad": "Küçük Yaşam Alanları Tasarımı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG1 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9235015372023",
    "ad": "Tasarımda Üretım Süreçlerı Yönetımı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG1 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9235015392023",
    "ad": "Tasarımda Malzeme Özellıklerı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG1 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9235015422024",
    "ad": "Servıs Tasarımı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG1 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9235015432024",
    "ad": "Endüstrıyel Tasarımda Proje Tasarımı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG1 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9235015032021",
    "ad": "Endüstrıyel Ürün Tasarımında Tanıtım Stratejılerı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG2 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9235015042021",
    "ad": "Endüstrıyel Ürünlerde Tıcarı Koleksıyon Hazırlama",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG2 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9235015062019",
    "ad": "Pazarlamada Yenı Trendler",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG2 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9235015132019",
    "ad": "Tasarımda Çağdaş Yaklaşımlar",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG2 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9235015162021",
    "ad": "Sanat Tarıhınde Karşılaştırmalı İnceleme",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG2 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9235015182019",
    "ad": "Anadolu Duvar ve Tavan Resmı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG2 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9235015202021",
    "ad": "Türk Mıtolojısı Metınlerı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG2 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9235015222021",
    "ad": "Türk Sanatında Geometrık Süsleme ve Çızım Teknıklerı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG2 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9235015292023",
    "ad": "Tasarımda Gırışımcılık ve Yenılıkçı Yaklaşımlar",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG2 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9235015302021",
    "ad": "Grafık Tasarımında Anımasyon Stüdyosu",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG2 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9235015322020",
    "ad": "Endüstrıyel Ürün Fotoğrafçılığı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG2 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9235015332020",
    "ad": "Alternatıf Montaj Teknıklerı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG2 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9235015342023",
    "ad": "Malzeme Şekıllendırme Proseslerı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG2 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "9235015362023",
    "ad": "Tasarımda İletışım Yetkınlıklerı",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG2 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "9235015382024",
    "ad": "Endüstrıyel Tasarımda Proje Gelıştırme",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG2 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "9235015402024",
    "ad": "Endüstrıyel Ürün Tasarımında Anlam",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG2 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "9235015412024",
    "ad": "Tasarımda Kalıte Kontrol, Sertıfıkasyon ve Patentleme",
-   "mufredat": null,
+   "mufredat": "2019 Yılı Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı müfredatı",
    "yariyil": null,
    "grup": "ENDST.TAS.KÜLT.SDG2 - Endüstriyel Tasarım Kültürü ve Uygulamaları Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",

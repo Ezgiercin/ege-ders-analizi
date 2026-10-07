@@ -12,7 +12,7 @@
   {
    "kod": "2801001012017",
    "ad": "GEBELİĞİN OLUŞUMU VE SAĞLIKLI GEBELİK YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "2801001032017",
    "ad": "RİSKLİ GEBELİK YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "2801001052017",
    "ad": "ARAŞTIRMA",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "2801001072017",
    "ad": "BÜYÜME VE GELİŞME",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "2801001022017",
    "ad": "DOĞUM YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "2801001042017",
    "ad": "SAĞLIK EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "2801001062017",
    "ad": "YENİDOĞAN SAĞLIĞI VE HASTALIKLARI",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "2801001082017",
    "ad": "DOĞURGANLIĞIN PLANLANMASI",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "2801002012017",
    "ad": "DOĞUM SONU DÖNEM YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "2801002032017",
    "ad": "TOPLUM EBELİĞİ",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "2801002052017",
    "ad": "BİYOİSTATİSTİK",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "2801002072017",
    "ad": "ACİL OBSTETRİK BAKIM",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -194,7 +194,7 @@
   {
    "kod": "2801002042017",
    "ad": "SAĞLIK BİLİMLERİNDE ETİK",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "2801002062017",
    "ad": "STAJ",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "2801002082017",
    "ad": "CİNSEL SAĞLIK VE ÜREME SAĞLIĞI (CSÜS)",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "2801002102017",
    "ad": "KADIN HASTALIKLARI",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "2801002122017",
    "ad": "SAĞLIK POLİTİKALARI VE YÖNETİM",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -278,7 +278,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -292,7 +292,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -306,7 +306,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -320,7 +320,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": null,
+   "mufredat": "2017 Lisans Tamamlama Müfredatı",
    "yariyil": 8,
    "grup": null,
    "tur": null,

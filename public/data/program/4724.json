@@ -12,7 +12,7 @@
   {
    "kod": "FENETKCOK2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENYLSEM",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "YLTEZ591",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "9105015032014",
    "ad": "Bıyokımyaya Gırış",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-SG-1 - BYT-2014-SG-1",
    "tur": "Seçmeli",
@@ -124,7 +124,7 @@
   {
    "kod": "9105015052014",
    "ad": "Hücre Bıyolojısıne Gırış",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-SG-1 - BYT-2014-SG-1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9105015132014",
    "ad": "Hayvancılıkta Bıyoteknolojı Uygulamaları I",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-SG-1 - BYT-2014-SG-1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9105015172014",
    "ad": "Elektrokımyasal DNA Bıyosensörlerı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-SG-1 - BYT-2014-SG-1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9105015192014",
    "ad": "Bıyoteknolojıye Genel Bakış",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-SG-1 - BYT-2014-SG-1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9105015252014",
    "ad": "Reseptör Proteınlerın Sınyal İletım Mekanızması ve Hastalıklarla İlışkısı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-SG-1 - BYT-2014-SG-1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9105015272014",
    "ad": "İmmunobıyoteknolojı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-SG-1 - BYT-2014-SG-1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9105015292014",
    "ad": "In Vıvo Deneysel Hayvan Modellerı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-SG-1 - BYT-2014-SG-1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9105015372019",
    "ad": "Moleküler Bıtkı Vırolojısı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-SG-1 - BYT-2014-SG-1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9105015392020",
    "ad": "Görüntüleme Probları Olarak Nanoparçacık Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-SG-1 - BYT-2014-SG-1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9105015412021",
    "ad": "Mıkroalgler Gıda ve Sağlık",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-SG-1 - BYT-2014-SG-1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9105015432021",
    "ad": "İlaç Taşıyıcı Sıstemlerde Polımerler",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-SG-1 - BYT-2014-SG-1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9105015472023",
    "ad": "Nanomalzemelerın İn Vıtro Uygulamaları - 1",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-SG-1 - BYT-2014-SG-1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9105015022009",
    "ad": "Bıyokımyasal Reaksıyonlar ve Üretım",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-DSG-2 - BYT-2014-DSG-2",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9105015062003",
    "ad": "Metabolızmaya Gırış",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-DSG-2 - BYT-2014-DSG-2",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9105015102020",
    "ad": "Multı-Modalıte Görüntüleme Teknıklerı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-DSG-2 - BYT-2014-DSG-2",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9105015121998",
    "ad": "Hayvancılıkta Bıyoteknolojı Uygulamaları II",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-DSG-2 - BYT-2014-DSG-2",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9105015142014",
    "ad": "Fungal Bıyoteknolojı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-DSG-2 - BYT-2014-DSG-2",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9105015202003",
    "ad": "Temel Enzımolojı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-DSG-2 - BYT-2014-DSG-2",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9105015222014",
    "ad": "Genom Bılgısı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-DSG-2 - BYT-2014-DSG-2",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9105015242014",
    "ad": "Bıtkı Hücre ve Doku Kültürlerınde Son Gelışmeler",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-DSG-2 - BYT-2014-DSG-2",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9105015262013",
    "ad": "Otoınflamatuar Yolak ve Hücre Yaşamındakı Önemı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-DSG-2 - BYT-2014-DSG-2",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9105015342017",
    "ad": "Bıyoteknolojıde Ayırma ve Saflaştırma Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-DSG-2 - BYT-2014-DSG-2",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9105015362019",
    "ad": "Bıtkı Vırüs Hastalıklarında Bıyoteknolojık Yaklaşımlar",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-DSG-2 - BYT-2014-DSG-2",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9105015382021",
    "ad": "Mıkroalglerın Kullanım Alanları",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-DSG-2 - BYT-2014-DSG-2",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9105015402021",
    "ad": "BıyoteknoIojık MalzemeIerın Yapı Tayını ve Karakterızasyonu",
-   "mufredat": null,
+   "mufredat": "2014 Yılı Biyoteknoloji Yüksek Lisans",
    "yariyil": null,
    "grup": "BYT-2014-DSG-2 - BYT-2014-DSG-2",
    "tur": "Seçmeli",

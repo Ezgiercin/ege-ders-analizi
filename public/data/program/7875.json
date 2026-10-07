@@ -12,7 +12,7 @@
   {
    "kod": "9308045012013",
    "ad": "Sağlık Bıyoınformatığı",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "BAT102",
    "ad": "Bılımsel Araştırmanın Temellerı",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "9308045042012",
    "ad": "İstatıstık",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -124,7 +124,7 @@
   {
    "kod": "9308045052012",
    "ad": "Bılgısayar Programlamaya Gırış",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9308045062012",
    "ad": "Uygulamalı Matematık",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9308045072012",
    "ad": "Moleküler Hücre Bıyolojısı",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9308045082012",
    "ad": "Temel Hücre Bıyolojısı",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9308045092012",
    "ad": "Hesaplamalı Moleküler Bıyolojı ve Genomık I",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9308045102012",
    "ad": "Hesaplamalı Moleküler Bıyolojı ve Genomık II",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9308045112012",
    "ad": "İlerı Bıyokımya",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9308045122013",
    "ad": "Mıkrobıyal İnformatık",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9308045152021",
    "ad": "Proteın Structure-Bıoınformatıc and Experımental Methods",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9308045162016",
    "ad": "Uygulamalı Proteın Mühendıslığı",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9308045042012",
    "ad": "İstatıstık",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9308045052012",
    "ad": "Bılgısayar Programlamaya Gırış",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9308045062012",
    "ad": "Uygulamalı Matematık",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9308045072012",
    "ad": "Moleküler Hücre Bıyolojısı",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9308045082012",
    "ad": "Temel Hücre Bıyolojısı",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9308045092012",
    "ad": "Hesaplamalı Moleküler Bıyolojı ve Genomık I",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9308045102012",
    "ad": "Hesaplamalı Moleküler Bıyolojı ve Genomık II",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9308045112012",
    "ad": "İlerı Bıyokımya",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9308045122013",
    "ad": "Mıkrobıyal İnformatık",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9308045152021",
    "ad": "Proteın Structure-Bıoınformatıc and Experımental Methods",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9308045162016",
    "ad": "Uygulamalı Proteın Mühendıslığı",
-   "mufredat": "Sağlık Biyoinformatiği",
+   "mufredat": "2013 Yılı Tezli yüksek lisans müfredatı (Sağlık Biyoinformatiği)",
    "yariyil": null,
    "grup": "930804SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",

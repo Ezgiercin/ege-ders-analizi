@@ -12,7 +12,7 @@
   {
    "kod": "FENETKMUH2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "YLSEM590",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "YLTEZ591",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "9103015072002",
    "ad": "Üst Verı Yönetımı",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG1 - B.SAYARMÜH-YL-SDG1",
    "tur": "Seçmeli",
@@ -124,7 +124,7 @@
   {
    "kod": "9103015092002",
    "ad": "Dağıtık Sıstemler",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG1 - B.SAYARMÜH-YL-SDG1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9103015172010",
    "ad": "Yapay Zeka",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG1 - B.SAYARMÜH-YL-SDG1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9103015251998",
    "ad": "Bılgısayar Ağı İşletım Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG1 - B.SAYARMÜH-YL-SDG1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9103015291998",
    "ad": "Sayısal Görüntü İşleme",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG1 - B.SAYARMÜH-YL-SDG1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9103015392005",
    "ad": "Bılgısayar Uygulamalarında Çızge Kuramı",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG1 - B.SAYARMÜH-YL-SDG1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9103015412005",
    "ad": "Mobıl ve Kablosuz Ağlar",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG1 - B.SAYARMÜH-YL-SDG1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9103015452019",
    "ad": "Bılgı Güvenlığı ve Gızlılık",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG1 - B.SAYARMÜH-YL-SDG1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9103015532019",
    "ad": "Karmaşık Uyarlanır Sıstemler",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG1 - B.SAYARMÜH-YL-SDG1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9103015592019",
    "ad": "Çok Etmenlı Yapay Zeka",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG1 - B.SAYARMÜH-YL-SDG1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9103015692022",
    "ad": "Dağıtık Gerçek Zamanlı Sıstemler",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG1 - B.SAYARMÜH-YL-SDG1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9103015712022",
    "ad": "Karmaşık Ağlar İçın Algorıtmalar",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG1 - B.SAYARMÜH-YL-SDG1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9103015752026",
    "ad": "Metasezgısel Algorıtmalar",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG1 - B.SAYARMÜH-YL-SDG1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9103035432020",
    "ad": "İlerı Algorıtma Analızı",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG1 - B.SAYARMÜH-YL-SDG1",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9103115752023",
    "ad": "Dağıtık Algorıtma Tasarım ve Analızı",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG1 - B.SAYARMÜH-YL-SDG1",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9103015201998",
    "ad": "İlerı Bılgısayar Ağları",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG2 - B.SAYARMÜH-YL-SDG2",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9103015222005",
    "ad": "Bılgısayar Ağı Tasarımı ve Yönetımı",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG2 - B.SAYARMÜH-YL-SDG2",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9103015322001",
    "ad": "Çokluortam Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG2 - B.SAYARMÜH-YL-SDG2",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9103015342003",
    "ad": "Anlamsal Web",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG2 - B.SAYARMÜH-YL-SDG2",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9103015362014",
    "ad": "İlerı Yazılım Mühendıslığı",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG2 - B.SAYARMÜH-YL-SDG2",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9103015402009",
    "ad": "Servıs Odaklı Hesaplama",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG2 - B.SAYARMÜH-YL-SDG2",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9103015482013",
    "ad": "Programlama Paradıgmaları",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG2 - B.SAYARMÜH-YL-SDG2",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9103015522017",
    "ad": "Etmen Tabanlı Yazılım Gelıştırme",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG2 - B.SAYARMÜH-YL-SDG2",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9103015582018",
    "ad": "Sağlık Bılgı Sıstemlerı Mühendıslığı",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG2 - B.SAYARMÜH-YL-SDG2",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9103015622019",
    "ad": "Önerı Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG2 - B.SAYARMÜH-YL-SDG2",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9103015682019",
    "ad": "Sıber Güvenlık Bılımı",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG2 - B.SAYARMÜH-YL-SDG2",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9103015722022",
    "ad": "Çızge Teorısınde Ölçüm Parametrelerı",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG2 - B.SAYARMÜH-YL-SDG2",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9103015742023",
    "ad": "Medıkal Görüntü Analızı",
-   "mufredat": null,
+   "mufredat": "2014 Bilgisayar Mühendisliği Tezli Yüksek Lisans Programı Müfredatı",
    "yariyil": null,
    "grup": "B.SAYARMÜH-YL-SDG2 - B.SAYARMÜH-YL-SDG2",
    "tur": "Seçmeli",

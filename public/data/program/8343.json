@@ -12,7 +12,7 @@
   {
    "kod": "5022001012021",
    "ad": "TÜRK DİLİ I",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "5022001022021",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "5022001032021",
    "ad": "YABANCI DİL I",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "5022001052021",
    "ad": "MATEMATİK",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "5022001072022",
    "ad": "TEMEL KİMYA I",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "5022001092021",
    "ad": "BİYOLOJİ",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "5022001112021",
    "ad": "ECZANE TEKNİKERLİĞİNE GİRİŞ",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "5022001132021",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "5022001152021",
    "ad": "YAZ STAJI",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "5022001172021",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "5022000922021",
    "ad": "TÜRK DİLİ II",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "5022000942021",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "5022000962021",
    "ad": "YABANCI DİL II",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "5022000982021",
    "ad": "FARMASÖTİK HESAPLAMALAR",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "5022001002021",
    "ad": "ANATOMİ",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "5022001042021",
    "ad": "FİZYOLOJİ",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "5022001062021",
    "ad": "TEMEL KİMYA II",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "5022001152021",
    "ad": "YAZ STAJI",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "5022002012021",
    "ad": "TEMEL BİYOKİMYA",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "5022002032022",
    "ad": "PRATİK İLAÇ BİLGİSİ I",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "5022002072021",
    "ad": "TEMEL MİKROBİYOLOJİ",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "5022002092021",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "5022002152021",
    "ad": "İLAÇ ŞEKİLLERİ VE TIBBİ MALZEME I",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "5022002292025",
    "ad": "TOPLUMSAL İLETİŞİM",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "5022002062021",
    "ad": "KOZMETİK ÜRÜNLER",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "5022002082021",
    "ad": "DOĞAL ÜRÜNLER",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "5022002102021",
    "ad": "İLAÇ TOKSİKOLOJİSİ VE ZEHİR BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "5022002122021",
    "ad": "İLAÇ ŞEKİLLERİ VE TIBBİ MALZEME II",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "5022002142021",
    "ad": "ECZANEDE BİLGİSAYAR VE BİLGİ TEKNOLOJİLERİ",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "5022002242023",
    "ad": "PRATİK İLAÇ BİLGİSİ II",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "5022001192021",
    "ad": "BİLGİ VE İLETİŞİM TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": null,
    "grup": "SÇM-50-Ecz.Hizm.1.YY - SEÇMELİ DERS GRUBU A.S.H.M.Y.O ECZ.HİZM.1-YY",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "5022001212021",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": null,
    "grup": "SÇM-50-Ecz.Hizm.1.YY - SEÇMELİ DERS GRUBU A.S.H.M.Y.O ECZ.HİZM.1-YY",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "5022001232021",
    "ad": "İLETİŞİM BECERİLERİ",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": null,
    "grup": "SÇM-50-Ecz.Hizm.1.YY - SEÇMELİ DERS GRUBU A.S.H.M.Y.O ECZ.HİZM.1-YY",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "5022001272021",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": null,
    "grup": "SÇM-50-Ecz.Hizm.1.YY - SEÇMELİ DERS GRUBU A.S.H.M.Y.O ECZ.HİZM.1-YY",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "5022001162022",
    "ad": "HASTANE ECZANESİ TEKNİKERLİĞİ",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-2-.YY - SEÇMELİ DERS GRUBU 2.YARIYIL",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "5022001182022",
    "ad": "GENEL MUHASEBE",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-2-.YY - SEÇMELİ DERS GRUBU 2.YARIYIL",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "5022001202022",
    "ad": "TIBBİ TERMİNOLOJİ",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-2-.YY - SEÇMELİ DERS GRUBU 2.YARIYIL",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "5022002232014",
    "ad": "İŞARET DİLİ",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": null,
    "grup": "SEÇMELİDERS-2-.YY - SEÇMELİ DERS GRUBU 2.YARIYIL",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "5022002212021",
    "ad": "ÇEVRE KORUMA",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": null,
    "grup": "SEÇMELİDERS.3-YY - SEÇMELİ DERS GRUBU 3.YARIYIL",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "5022002232022",
    "ad": "AKILCI İLAÇ KULLANIMI",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": null,
    "grup": "SEÇMELİDERS.3-YY - SEÇMELİ DERS GRUBU 3.YARIYIL",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "5022002252022",
    "ad": "MESLEK ETİĞİ",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": null,
    "grup": "SEÇMELİDERS.3-YY - SEÇMELİ DERS GRUBU 3.YARIYIL",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "5022002162021",
    "ad": "MESLEKİ İNGİLİZCE",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": null,
    "grup": "SEÇMELİDERS.4-YY - SEÇMELİ DERS GRUBU 4.YARIYIL",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "5022002222021",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": null,
    "grup": "SEÇMELİDERS.4-YY - SEÇMELİ DERS GRUBU 4.YARIYIL",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "5022002222022",
    "ad": "REÇETESİZ İLAÇ BİLGİSİ",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": null,
    "grup": "SEÇMELİDERS.4-YY - SEÇMELİ DERS GRUBU 4.YARIYIL",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "5022002262022",
    "ad": "FARMAKOVİJİLANS",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": null,
    "grup": "SEÇMELİDERS.4-YY - SEÇMELİ DERS GRUBU 4.YARIYIL",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "5022002282022",
    "ad": "İLKYARDIM",
-   "mufredat": null,
+   "mufredat": "Eczane Hizmetleri (Uzaktan Öğretim)",
    "yariyil": null,
    "grup": "SEÇMELİDERS.4-YY - SEÇMELİ DERS GRUBU 4.YARIYIL",
    "tur": "Seçmeli",

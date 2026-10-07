@@ -12,6 +12,30 @@ const duz = (t) => String(t ?? '').replace(/\s+/g, ' ').trim();
 const etiketsiz = (h) => duz(cheerio.load(`<div>${String(h)}</div>`)('div').text());
 
 /**
+ * Ders Plani altindaki mufredat basliklarini okur.
+ * Sitede her mufredat "… için tıklayınız." diye biten bir baslikla aciliyor, ama
+ * baslik metni serbest yazilmis ("2024 Yılı Müfredatı (X)", "2018 Ana Müfredat",
+ * "2019 Yılı Müf.(X)", "2023-2024 Tarım İşletmeciliği doktora" ...). Bu yuzden
+ * bicime degil o kaliba bakiyoruz ve basligi oldugu gibi mufredat adi yapiyoruz;
+ * boylece farkli yillarin mufredatlari tek listede birlesmiyor.
+ * Eski bicimdeki "Ana Müfredatı (Program)" basliklari da desteklenir.
+ * "Silinecek …" bolumleri atlanir.
+ */
+export function mufredatBasligi(baslik) {
+  const ham = duz(baslik);
+  const tiklama = ham.match(/^(.*?)\s*için tıklayınız\.?\s*$/i);
+  if (tiklama) {
+    const ad = duz(tiklama[1]);
+    if (!ad) return null;
+    return { ad, atla: /^Silinecek\b/i.test(ad) };
+  }
+  // Program adi kendi icinde parantez tasiyabiliyor: "(Bilgisayar Mühendisliği (İngilizce))"
+  const mf = ham.match(/M[üu]fredat[ıi]?\s*\((.+)\)\s*$/i);
+  if (mf) return { ad: duz(mf[1]), atla: false };
+  return null;
+}
+
+/**
  * ebp.ege.edu.tr program sayfasindan mufredati cikarir.
  *
  * Sayfanin HTML'i bozuk — tablolar kapatilmiyor, DOM'da hepsi birkac tabloya
@@ -29,6 +53,7 @@ export function parseProgram(html) {
   let yariyil = null;
   let grup = null;
   let sutun = null;
+  let atla = false; // "Silinecek" gibi kullanilmayan mufredatlar
 
   // Basliklar ve satirlar, belge sirasinda tek akista.
   const desen = /<h[1-5][^>]*>([\s\S]{0,300}?)<\/h[1-5]>|<tr[\s\S]*?<\/tr>/gi;
@@ -36,10 +61,10 @@ export function parseProgram(html) {
   while ((m = desen.exec(html)) !== null) {
     if (m[1] !== undefined) {
       const baslik = etiketsiz(m[1]);
-      // Program adi kendi icinde parantez tasiyabiliyor: "(Bilgisayar Mühendisliği (İngilizce))"
-      const mf = baslik.match(/M[üu]fredat[ıi]\s*\((.+)\)/i);
-      if (mf) {
-        mufredat = duz(mf[1]);
+      const mb = mufredatBasligi(baslik);
+      if (mb) {
+        mufredat = mb.ad;
+        atla = mb.atla;
         yariyil = null;
         grup = null;
         sutun = null;
@@ -85,7 +110,7 @@ export function parseProgram(html) {
       continue;
     }
 
-    if (!tdler.length || !sutun) continue;
+    if (!tdler.length || !sutun || atla) continue;
 
     const hucre = (i) => (i >= 0 && i < tdler.length ? duz(tdler.eq(i).text()) : '');
     const kod = hucre(sutun.kod);
@@ -107,5 +132,12 @@ export function parseProgram(html) {
     });
   }
 
-  return dersler;
+  // Ayni satir sayfada birden fazla kez gecebiliyor; ortalamaya/AKTS'ye bir kez girsin
+  const gorulen = new Set();
+  return dersler.filter((d) => {
+    const k = [d.mufredat, d.yariyil, d.grup, d.kod].join('|');
+    if (gorulen.has(k)) return false;
+    gorulen.add(k);
+    return true;
+  });
 }

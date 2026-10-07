@@ -12,7 +12,7 @@
   {
    "kod": "ATA101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "ÇYB109",
    "ad": "TÜRK MÜZİĞİ SOLFEJ VE KURAMI I",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "ÇYB115",
    "ad": "ATÖLYE BİLGİSİ-I",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "ÇYB121",
    "ad": "ÇALGI EĞİTİMİ I",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "ÇYB123",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI I",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "TUR101",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YDI101",
    "ad": "YABANCI DİL I",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "ATA102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "CYB116",
    "ad": "ATÖLYE BİLGİSİ-II",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "ÇYB110",
    "ad": "TÜRK MÜZİĞİ SOLFEJ VE KURAMI II",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "ÇYB122",
    "ad": "ÇALGI EĞİTİMİ II",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "ÇYB124",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI II",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "TUR102",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "YDI102",
    "ad": "YABANCI DİL II",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "ÇYB201",
    "ad": "ATÖLYE BİLGİSİ III",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "ÇYB205",
    "ad": "TAMAMLAYICI ATÖLYE I",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "ÇYB209",
    "ad": "TÜRK MÜZİĞİ SOLFEJ VE KURAMI III",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "ÇYB213",
    "ad": "AĞAÇ TEKNOLOJİSİ",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "ÇYB219",
    "ad": "ÇALGI EĞİTİMİ III",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "ÇYB225",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI III",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -306,7 +306,7 @@
   {
    "kod": "ÇYB202",
    "ad": "ATÖLYE BİLGİSİ IV",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "ÇYB206",
    "ad": "TAMAMLAYICI ATÖLYE II",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "ÇYB210",
    "ad": "TÜRK MÜZİĞİ SOLFEJ KURAMI IV",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "ÇYB214",
    "ad": "ÇALGI BİLGİSİ VE TARİHİ",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "ÇYB220",
    "ad": "ÇALGI EĞİTİMİ IV",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "ÇYB226",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI IV",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -404,7 +404,7 @@
   {
    "kod": "ÇYB301",
    "ad": "ATÖLYE BİLGİSİ V",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "ÇYB305",
    "ad": "TAMAMLAYICI ATÖLYE III",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "ÇYB339",
    "ad": "ÇALGI EĞİTİMİ V",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -460,7 +460,7 @@
   {
    "kod": "ÇYB302",
    "ad": "ATÖLYE BİLGİSİ VI",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "ÇYB306",
    "ad": "TAMAMLAYICI ATÖLYE IV",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "ÇYB340",
    "ad": "ÇALGI EĞİTİMİ VI",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -516,7 +516,7 @@
   {
    "kod": "ÇYB401",
    "ad": "ATÖLYE BİLGİSİ VII",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "ÇYB405",
    "ad": "TAMAMLAYICI ATÖLYE V",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "ÇYB439",
    "ad": "ÇALGI EĞİTİMİ VII",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -572,7 +572,7 @@
   {
    "kod": "ÇYB402",
    "ad": "ATÖLYE BİLGİSİ VIII",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "ÇYB406",
    "ad": "TAMAMLAYICI ATÖLYE VI",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "ÇYB440",
    "ad": "ÇALGI EĞİTİMİ VIII",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -628,7 +628,7 @@
   {
    "kod": "BLG107",
    "ad": "BİLGİSAYARA GİRİŞ",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇ.1YY - ÇALGI YAPIM (a) SEÇMELİ 1YY",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "ÇYB119",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM-I",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇ.1YY - ÇALGI YAPIM (a) SEÇMELİ 1YY",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "ÇYB120",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM-II",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇ.2YY - ÇALGI YAPIM (a) SEÇMELİ 2YY",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "UYG104",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇ.2YY - ÇALGI YAPIM (a) SEÇMELİ 2YY",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "ÇYB221",
    "ad": "PİYANO",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y(a)SEÇ.3YY - Ç.Y (a) SEÇMELİ 3YY",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "ÇYB223",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM III",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y(a)SEÇ.3YY - Ç.Y (a) SEÇMELİ 3YY",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y(a)SEÇ.3YY - Ç.Y (a) SEÇMELİ 3YY",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "ÇYB222",
    "ad": "PİYANO",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y(a)SEÇ.4YY - Ç.Y(a) SEÇMELİ 4YY",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "ÇYB224",
    "ad": "BİLGİSAYAR DESTEKLİ ÇİZİM IV",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y(a)SEÇ.4YY - Ç.Y(a) SEÇMELİ 4YY",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y(a)SEÇ.4YY - Ç.Y(a) SEÇMELİ 4YY",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y(a)SEÇ.4YY - Ç.Y(a) SEÇMELİ 4YY",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "ÇYB329",
    "ad": "TÜRK SANAT MÜZİĞİ SOLFEJ VE KURAMI-I",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.I - ÇALGI YAPIM (a)SEÇMELİ I",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "ÇYB331",
    "ad": "TÜRK HALK MÜZİĞİ SOLFEJ VE KURAMI-I",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.I - ÇALGI YAPIM (a)SEÇMELİ I",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "ÇYB335",
    "ad": "ORGANİK KİMYA -I",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.II - ÇALGI YAPIM (a)SEÇMELİ II",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "ÇYB337",
    "ad": "YARDIMCI ATÖLYE-I",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.II - ÇALGI YAPIM (a)SEÇMELİ II",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "ÇYB341",
    "ad": "ÇALGI BAKIMI VE ONARIMI I",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.II - ÇALGI YAPIM (a)SEÇMELİ II",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "ÇYB343",
    "ad": "ÇALGI TASARIMI I",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.II - ÇALGI YAPIM (a)SEÇMELİ II",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "ÇYB317",
    "ad": "YARDIMCI ÇALGI EĞİTİMİ I",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.III - ÇALGI YAPIM (a)SEÇMELİ III",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "ÇYB333",
    "ad": "PİYANO-I",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.III - ÇALGI YAPIM (a)SEÇMELİ III",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.III - ÇALGI YAPIM (a)SEÇMELİ III",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.III - ÇALGI YAPIM (a)SEÇMELİ III",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "ÇYB330",
    "ad": "TÜRK SANAT MÜZİĞİ SOLFEJ VE KURAMI-II",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.IV - ÇALGI YAPIM (a) SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "ÇYB332",
    "ad": "TÜRK HALK MÜZİĞİ SOLFEJ VE KURAMI II",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.IV - ÇALGI YAPIM (a) SEÇMELİ IV",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "ÇYB336",
    "ad": "ORGANİK KİMYA II",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.V - ÇALGI YAPIM (a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "ÇYB338",
    "ad": "YARDIMCI ATÖLYE II",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.V - ÇALGI YAPIM (a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "ÇYB342",
    "ad": "ÇALGI BAKIMI VE ONARIMI II",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.V - ÇALGI YAPIM (a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "ÇYB344",
    "ad": "ÇALGI TASARIMI II",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.V - ÇALGI YAPIM (a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "THU101",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.V - ÇALGI YAPIM (a) SEÇMELİ V",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "ÇYB318",
    "ad": "YARDIMCI ÇALGI EĞİTİMİ II",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.VI - ÇALGI YAPIM (a) SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "ÇYB334",
    "ad": "PİYANO II",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.VI - ÇALGI YAPIM (a) SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.VI - ÇALGI YAPIM (a) SEÇMELİ VI",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "ÇYB417",
    "ad": "YARDIMCI ÇALGI EĞİTİMİ III",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.IX - ÇALGI YAPIM (a) SEÇMELİ IX",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "ÇYB435",
    "ad": "REPERTUAR I",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.IX - ÇALGI YAPIM (a) SEÇMELİ IX",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "ÇYB437",
    "ad": "PİYANO III",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.IX - ÇALGI YAPIM (a) SEÇMELİ IX",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.IX - ÇALGI YAPIM (a) SEÇMELİ IX",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "ÇYB427",
    "ad": "TÜRK SANAT MÜZİĞİ SOLFEJ VE KURAMI III",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.VII - ÇALGI YAPIM (a) SEÇMELİ VII",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "ÇYB429",
    "ad": "TÜRK HALK MÜZİĞİ SOLFEJ VE KURAMI III",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.VII - ÇALGI YAPIM (a) SEÇMELİ VII",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "ÇYB431",
    "ad": "YARDIMCI ATÖLYE III",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.VIII - ÇALGI YAPIM (a) SEÇMELİ VIII",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "ÇYB441",
    "ad": "ÇALGI BAKIMI VE ONARIMI III",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.VIII - ÇALGI YAPIM (a) SEÇMELİ VIII",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "ÇYB443",
    "ad": "ÇALGI TASARIMI III",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.VIII - ÇALGI YAPIM (a) SEÇMELİ VIII",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "ISR401",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.VIII - ÇALGI YAPIM (a) SEÇMELİ VIII",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "ÇYB428",
    "ad": "TÜRK SANAT MÜZİĞİ SOLFEJ VE KURAMI IV",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.X - ÇALGI YAPIM (a) SEÇMELİ X",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "ÇYB430",
    "ad": "TÜRK HALK MÜZİĞİ SOLFEJ VE KURAMI IV",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.X - ÇALGI YAPIM (a) SEÇMELİ X",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "AT001",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.XI - ÇALGI YAPIM (a) SEÇMELİ XI",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "ÇYB432",
    "ad": "YARDIMCI ATÖLYE IV",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.XI - ÇALGI YAPIM (a) SEÇMELİ XI",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "ÇYB442",
    "ad": "ÇALGI BAKIMI VE ONARIMI IV",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.XI - ÇALGI YAPIM (a) SEÇMELİ XI",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "ÇYB444",
    "ad": "ÇALGI TASARIMI IV",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.XI - ÇALGI YAPIM (a) SEÇMELİ XI",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "GRK402",
    "ad": "GİRİŞİMCİLİK VE KALİTE",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.XI - ÇALGI YAPIM (a) SEÇMELİ XI",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "ÇYB418",
    "ad": "YARDIMCI ÇALGI EĞİTİMİ IV",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.XII - ÇALGI YAPIM (a) SEÇMELİ XII",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "ÇYB436",
    "ad": "REPERTUAR II",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.XII - ÇALGI YAPIM (a) SEÇMELİ XII",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "ÇYB438",
    "ad": "PİYANO IV",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.XII - ÇALGI YAPIM (a) SEÇMELİ XII",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": "Çalgı Yapımı (a)",
+   "mufredat": "2011 Yılı Müfredatı (Çalgı Yapımı (a))",
    "yariyil": null,
    "grup": "Ç.Y.(a)SEÇMELİ.XII - ÇALGI YAPIM (a) SEÇMELİ XII",
    "tur": "Seçmeli",

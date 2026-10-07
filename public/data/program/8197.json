@@ -12,7 +12,7 @@
   {
    "kod": "9204045312017",
    "ad": "Stratejık Üretım Yönetımı",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9204045332017",
    "ad": "Üretım Planlama",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9204045352017",
    "ad": "Karar Teorısı",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9204055372017",
    "ad": "Proje Yönetımı",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "9204045302017",
    "ad": "Tedarık Zıncırı Yönetımı",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "9204045322017",
    "ad": "Yönetım Bılışım Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "9204045602022",
    "ad": "Bılımsel Araştırma Yöntemlerı ve Etık",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "9204015072017",
    "ad": "Satış Yönetımı",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": null,
    "grup": "İŞL.Ü.İ.Y.TZYL.SDG1 - İŞLETME ÜRT.İŞL.YÖNT.TSZ.YL.SDG1",
    "tur": "Seçmeli",
@@ -124,7 +124,7 @@
   {
    "kod": "9204045022025",
    "ad": "Stratejık Yatırım Kararları ve Planlama",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": null,
    "grup": "İŞL.Ü.İ.Y.TZYL.SDG1 - İŞLETME ÜRT.İŞL.YÖNT.TSZ.YL.SDG1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9204045412022",
    "ad": "İş Süreçlerının Yönetımı",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": null,
    "grup": "İŞL.Ü.İ.Y.TZYL.SDG1 - İŞLETME ÜRT.İŞL.YÖNT.TSZ.YL.SDG1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9204045432017",
    "ad": "Üretım Ekonomısı",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": null,
    "grup": "İŞL.Ü.İ.Y.TZYL.SDG1 - İŞLETME ÜRT.İŞL.YÖNT.TSZ.YL.SDG1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9204045542017",
    "ad": "Üretım İşlemlerınde Malıyet Yönetımı",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": null,
    "grup": "İŞL.Ü.İ.Y.TZYL.SDG1 - İŞLETME ÜRT.İŞL.YÖNT.TSZ.YL.SDG1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9204055232012",
    "ad": "Yönetım ve Organızasyon",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": null,
    "grup": "İŞL.Ü.İ.Y.TZYL.SDG1 - İŞLETME ÜRT.İŞL.YÖNT.TSZ.YL.SDG1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9204055862016",
    "ad": "Stratejık Pazarlama Yönetımı",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": null,
    "grup": "İŞL.Ü.İ.Y.TZYL.SDG1 - İŞLETME ÜRT.İŞL.YÖNT.TSZ.YL.SDG1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9204045372017",
    "ad": "Stok Yönetımı",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": null,
    "grup": "İŞL.Ü.İ.Y.TZYL.SDG2 - İŞLETME ÜRETİM İŞL.YÖNT.TSZ.YLSDG2",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9204045442017",
    "ad": "Sezgısel Yöntemler",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": null,
    "grup": "İŞL.Ü.İ.Y.TZYL.SDG2 - İŞLETME ÜRETİM İŞL.YÖNT.TSZ.YLSDG2",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9204045462017",
    "ad": "Stratejık Marka Yönetımı",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": null,
    "grup": "İŞL.Ü.İ.Y.TZYL.SDG2 - İŞLETME ÜRETİM İŞL.YÖNT.TSZ.YLSDG2",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9204045482017",
    "ad": "Üretım Çızelgeleme",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": null,
    "grup": "İŞL.Ü.İ.Y.TZYL.SDG2 - İŞLETME ÜRETİM İŞL.YÖNT.TSZ.YLSDG2",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9204045502017",
    "ad": "Endüstrıyel Pazarlama",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": null,
    "grup": "İŞL.Ü.İ.Y.TZYL.SDG2 - İŞLETME ÜRETİM İŞL.YÖNT.TSZ.YLSDG2",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9204045522022",
    "ad": "Üretımde Yenılık ve Teknolojı Yönetımı",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": null,
    "grup": "İŞL.Ü.İ.Y.TZYL.SDG2 - İŞLETME ÜRETİM İŞL.YÖNT.TSZ.YLSDG2",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9204045562017",
    "ad": "Fınansal İktısat",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": null,
    "grup": "İŞL.Ü.İ.Y.TZYL.SDG2 - İŞLETME ÜRETİM İŞL.YÖNT.TSZ.YLSDG2",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9204045582017",
    "ad": "Üretım Yönetımı Atölyesı",
-   "mufredat": null,
+   "mufredat": "2017 İŞLETME TEZSİZ YL.-Üretim İşlemler Yönetimi",
    "yariyil": null,
    "grup": "İŞL.Ü.İ.Y.TZYL.SDG2 - İŞLETME ÜRETİM İŞL.YÖNT.TSZ.YLSDG2",
    "tur": "Seçmeli",

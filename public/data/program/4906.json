@@ -12,7 +12,7 @@
   {
    "kod": "9205015342020",
    "ad": "Araştırma Teknıklerı ve Etık (E)",
-   "mufredat": null,
+   "mufredat": "2014 Türk Dünyası Araştırmaları (Türk Dili ve Lehçeleri) Programı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "92SE210352022",
    "ad": "Türk Dılı Ve Lehçelerı Semıner Çalışmaları",
-   "mufredat": null,
+   "mufredat": "2014 Türk Dünyası Araştırmaları (Türk Dili ve Lehçeleri) Programı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2014 Türk Dünyası Araştırmaları (Türk Dili ve Lehçeleri) Programı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2014 Türk Dünyası Araştırmaları (Türk Dili ve Lehçeleri) Programı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2014 Türk Dünyası Araştırmaları (Türk Dili ve Lehçeleri) Programı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2014 Türk Dünyası Araştırmaları (Türk Dili ve Lehçeleri) Programı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "9205035071982",
    "ad": "Türk Lehçelerı Metınlerı",
-   "mufredat": null,
+   "mufredat": "2014 Türk Dünyası Araştırmaları (Türk Dili ve Lehçeleri) Programı Müfredatı",
    "yariyil": null,
    "grup": "TDA-TDL14-YL-SDG1 - TDA-TDL14-YL-SDG1",
    "tur": "Seçmeli",
@@ -110,7 +110,7 @@
   {
    "kod": "9205035252021",
    "ad": "Karşılaştırmalı Tarıhı Türk Lehçelerı I : Gırış",
-   "mufredat": null,
+   "mufredat": "2014 Türk Dünyası Araştırmaları (Türk Dili ve Lehçeleri) Programı Müfredatı",
    "yariyil": null,
    "grup": "TDA-TDL14-YL-SDG1 - TDA-TDL14-YL-SDG1",
    "tur": "Seçmeli",
@@ -124,7 +124,7 @@
   {
    "kod": "9205035272010",
    "ad": "Ad Bılımı",
-   "mufredat": null,
+   "mufredat": "2014 Türk Dünyası Araştırmaları (Türk Dili ve Lehçeleri) Programı Müfredatı",
    "yariyil": null,
    "grup": "TDA-TDL14-YL-SDG1 - TDA-TDL14-YL-SDG1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9205035292021",
    "ad": "Karşılaştırmalı Türk Dıl Bılgısı I : Ses Bılgısı",
-   "mufredat": null,
+   "mufredat": "2014 Türk Dünyası Araştırmaları (Türk Dili ve Lehçeleri) Programı Müfredatı",
    "yariyil": null,
    "grup": "TDA-TDL14-YL-SDG1 - TDA-TDL14-YL-SDG1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9205035312020",
    "ad": "Göktürkçe",
-   "mufredat": null,
+   "mufredat": "2014 Türk Dünyası Araştırmaları (Türk Dili ve Lehçeleri) Programı Müfredatı",
    "yariyil": null,
    "grup": "TDA-TDL14-YL-SDG1 - TDA-TDL14-YL-SDG1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9205035322020",
    "ad": "Dıl Bılgısının Temel Kavramları",
-   "mufredat": null,
+   "mufredat": "2014 Türk Dünyası Araştırmaları (Türk Dili ve Lehçeleri) Programı Müfredatı",
    "yariyil": null,
    "grup": "TDA-TDL14-YL-SDG1 - TDA-TDL14-YL-SDG1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9205036212021",
    "ad": "Altay Türkçesı I: Gırış",
-   "mufredat": null,
+   "mufredat": "2014 Türk Dünyası Araştırmaları (Türk Dili ve Lehçeleri) Programı Müfredatı",
    "yariyil": null,
    "grup": "TDA-TDL14-YL-SDG1 - TDA-TDL14-YL-SDG1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9205015652021",
    "ad": "Karşılaştırmalı Türk Dıl Bılgısı II : Şekıl Bılgısı",
-   "mufredat": null,
+   "mufredat": "2014 Türk Dünyası Araştırmaları (Türk Dili ve Lehçeleri) Programı Müfredatı",
    "yariyil": null,
    "grup": "TDA-TDL14-YL-SDG2 - TDA-TDL14-YL-SDG2",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9205015662021",
    "ad": "Sözdızıme Gırış",
-   "mufredat": null,
+   "mufredat": "2014 Türk Dünyası Araştırmaları (Türk Dili ve Lehçeleri) Programı Müfredatı",
    "yariyil": null,
    "grup": "TDA-TDL14-YL-SDG2 - TDA-TDL14-YL-SDG2",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9205035142015",
    "ad": "Türk Dılı Tarıhı",
-   "mufredat": null,
+   "mufredat": "2014 Türk Dünyası Araştırmaları (Türk Dili ve Lehçeleri) Programı Müfredatı",
    "yariyil": null,
    "grup": "TDA-TDL14-YL-SDG2 - TDA-TDL14-YL-SDG2",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9205035222016",
    "ad": "Eskı Uygurca",
-   "mufredat": null,
+   "mufredat": "2014 Türk Dünyası Araştırmaları (Türk Dili ve Lehçeleri) Programı Müfredatı",
    "yariyil": null,
    "grup": "TDA-TDL14-YL-SDG2 - TDA-TDL14-YL-SDG2",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9205035242015",
    "ad": "Özbek Türkçesı Metın İncelemelerı",
-   "mufredat": null,
+   "mufredat": "2014 Türk Dünyası Araştırmaları (Türk Dili ve Lehçeleri) Programı Müfredatı",
    "yariyil": null,
    "grup": "TDA-TDL14-YL-SDG2 - TDA-TDL14-YL-SDG2",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9205035262021",
    "ad": "Karşılaştırmalı Tarıhı Türk Lehçelerı II : Metın İncelemelerı",
-   "mufredat": null,
+   "mufredat": "2014 Türk Dünyası Araştırmaları (Türk Dili ve Lehçeleri) Programı Müfredatı",
    "yariyil": null,
    "grup": "TDA-TDL14-YL-SDG2 - TDA-TDL14-YL-SDG2",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9205036232021",
    "ad": "Altay Türkçesı II: Metın İncelemelerı",
-   "mufredat": null,
+   "mufredat": "2014 Türk Dünyası Araştırmaları (Türk Dili ve Lehçeleri) Programı Müfredatı",
    "yariyil": null,
    "grup": "TDA-TDL14-YL-SDG2 - TDA-TDL14-YL-SDG2",
    "tur": "Seçmeli",

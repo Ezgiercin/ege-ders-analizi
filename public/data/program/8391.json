@@ -12,7 +12,7 @@
   {
    "kod": "9340025012023",
    "ad": "Yoğun Bakım Hemşırelığı I",
-   "mufredat": null,
+   "mufredat": "2023 Yoğun Bakım Hemşireliği Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9340025YBHSDG1",
    "ad": "Yoğun Bakım Hemsırelığı Tezlı Yüksek Lısans Seçmelı Ders Grubu 1",
-   "mufredat": null,
+   "mufredat": "2023 Yoğun Bakım Hemşireliği Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Seçmeli",
@@ -40,7 +40,7 @@
   {
    "kod": "9340025002023",
    "ad": "Yoğun Bakım Hemşırelığı II",
-   "mufredat": null,
+   "mufredat": "2023 Yoğun Bakım Hemşireliği Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9340025YBHSDG2",
    "ad": "Yoğun Bakım Hemsırelığı Tezlı Yüksek Lısans Seçmelı Ders Grubu 2",
-   "mufredat": null,
+   "mufredat": "2023 Yoğun Bakım Hemşireliği Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -68,7 +68,7 @@
   {
    "kod": "BAT102",
    "ad": "Bılımsel Araştırmanın Temellerı",
-   "mufredat": null,
+   "mufredat": "2023 Yoğun Bakım Hemşireliği Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2023 Yoğun Bakım Hemşireliği Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2023 Yoğun Bakım Hemşireliği Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2023 Yoğun Bakım Hemşireliği Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2023 Yoğun Bakım Hemşireliği Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2023 Yoğun Bakım Hemşireliği Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "9340025022023",
    "ad": "Güvenlı Hasta Bakımı",
-   "mufredat": null,
+   "mufredat": "2023 Yoğun Bakım Hemşireliği Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "9340025YBHSDG1 - Yoğun Bakım Hemsireliği Tezli Yüksek Lisans Seçmeli Ders Grubu 1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9340025092023",
    "ad": "Cerrahı Hastalıklar ve Psıkososyal Bakım",
-   "mufredat": null,
+   "mufredat": "2023 Yoğun Bakım Hemşireliği Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "9340025YBHSDG1 - Yoğun Bakım Hemsireliği Tezli Yüksek Lisans Seçmeli Ders Grubu 1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9340025022023",
    "ad": "Güvenlı Hasta Bakımı",
-   "mufredat": null,
+   "mufredat": "2023 Yoğun Bakım Hemşireliği Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "9340025YBHSDG2 - Yoğun Bakım Hemsireliği Tezli Yüksek Lisans Seçmeli Ders Grubu 2",
    "tur": "Seçmeli",

@@ -12,7 +12,7 @@
   {
    "kod": "9101085052017",
    "ad": "İlerı Fızıkokımya",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FENETKFEN2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "FENYLSEM",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "YLTEZ591",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9101085252017",
    "ad": "İlerı Nükleer Kımya I",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-FİZİKOKİYLSDG1 - KİMYA-FİZİKOKİYLSDG1",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9101085262021",
    "ad": "Kalıte Yönetım Sıstemı ve Akredıtasyon",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-FİZİKOKİYLSDG1 - KİMYA-FİZİKOKİYLSDG1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9101085272017",
    "ad": "Radyokımya ve Uygulamaları",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-FİZİKOKİYLSDG1 - KİMYA-FİZİKOKİYLSDG1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9101085292017",
    "ad": "Yüzey Kımyası",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-FİZİKOKİYLSDG1 - KİMYA-FİZİKOKİYLSDG1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9101085332017",
    "ad": "İlerı Polımer Kımyası I",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-FİZİKOKİYLSDG1 - KİMYA-FİZİKOKİYLSDG1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9101085532017",
    "ad": "Advanced Quantum Chemıstry",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-FİZİKOKİYLSDG1 - KİMYA-FİZİKOKİYLSDG1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9101085552017",
    "ad": "Computatıonal Chemıstry I",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-FİZİKOKİYLSDG1 - KİMYA-FİZİKOKİYLSDG1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9101085612017",
    "ad": "In vıvo Imagıng Technıques",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-FİZİKOKİYLSDG1 - KİMYA-FİZİKOKİYLSDG1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9101085862017",
    "ad": "Polymerıc Composıte/Nanocomposıt Materıals",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-FİZİKOKİYLSDG1 - KİMYA-FİZİKOKİYLSDG1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9101085342017",
    "ad": "Kolloıd Kımyası",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-FİZİKOKİYLSDG2 - KİMYA-FİZİKOKİYLSDG2",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9101085362017",
    "ad": "Termokımyasal Kınetık",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-FİZİKOKİYLSDG2 - KİMYA-FİZİKOKİYLSDG2",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9101085402017",
    "ad": "Molecular Photochemıstry I",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-FİZİKOKİYLSDG2 - KİMYA-FİZİKOKİYLSDG2",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9101085442017",
    "ad": "Radıatıon Chemıstry and Applıcatıon",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-FİZİKOKİYLSDG2 - KİMYA-FİZİKOKİYLSDG2",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9101085602017",
    "ad": "Computatıonal Chemıstry II",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-FİZİKOKİYLSDG2 - KİMYA-FİZİKOKİYLSDG2",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9101085702017",
    "ad": "İlerı Kımyasal Kınetık",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-FİZİKOKİYLSDG2 - KİMYA-FİZİKOKİYLSDG2",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9101085722017",
    "ad": "Kımyada Grup Teorısı",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-FİZİKOKİYLSDG2 - KİMYA-FİZİKOKİYLSDG2",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9101085802017",
    "ad": "Advanced Methods ın Polymer Synthesıs",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-FİZİKOKİYLSDG2 - KİMYA-FİZİKOKİYLSDG2",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9101085842017",
    "ad": "Thermodynamıcs and Kınetıcs of Corrosıon",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-FİZİKOKİYLSDG2 - KİMYA-FİZİKOKİYLSDG2",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9101085882017",
    "ad": "Advanced Analysıs Methods for Composıte/Nanocomposıte Materıals",
-   "mufredat": null,
+   "mufredat": "%30 İng. KİMYA - Fizikokmya YL Müfredatı",
    "yariyil": null,
    "grup": "KİMYA-FİZİKOKİYLSDG2 - KİMYA-FİZİKOKİYLSDG2",
    "tur": "Seçmeli",

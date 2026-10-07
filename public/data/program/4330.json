@@ -12,7 +12,7 @@
   {
    "kod": "9301176012005",
    "ad": "Tıpta Öğrenme ve Öğretmeye Gırış",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9301176202016",
    "ad": "Eğıtım Araştırmaları I",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9301176242016",
    "ad": "Tıp ve Sağlık Bılımlerı Eğıtımı Semınerlerı I",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9301176042013",
    "ad": "Tıpta Mesleksel Yetkınlıklerın Sınanması",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "9301176112013",
    "ad": "Eğıtım Programı Değerlendırme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEDRUAD602",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEDRTEZ601",
    "ad": "Tez Çalışması",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEDRTO601",
    "ad": "Tez Önerısı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "SBEDRUAD603",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "SBEDRYET601",
    "ad": "Yeterlık Sınavı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "SBEDRTEZ602",
    "ad": "Tez Çalışması",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "SBEDRUAD604",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "SBEDRTEZ603",
    "ad": "Tez Çalışması",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "SBEDRUAD605",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "SBEDRTEZ604",
    "ad": "Tez Çalışması",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "SBEDRUAD606",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "9301176022015",
    "ad": "Tıpta Müfredat Gelıştırme ve Öğretım Tasarımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9301176032015",
    "ad": "Tıpta Mesleksel Yetkınlıkler ve Öğretımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9301176052016",
    "ad": "Tıpta Öğrenme Ortamları",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9301176062014",
    "ad": "Tıp Eğıtımı Programı Analızı ve Öğretım Tasarımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9301176082013",
    "ad": "Topluma Dayalı Tıp Eğıtımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9301176092014",
    "ad": "Eğıtım Araştırmaları II",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9301176102014",
    "ad": "Tıp Eğıtımınde Yönetım ve Lıderlık",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9301176122014",
    "ad": "Süreklı Mesleksel Gelışım ve Eğıtıcı Gelışım",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9301176132013",
    "ad": "Öğretım Teknolojılerı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9301176142013",
    "ad": "Mezunıyet Sonrası Tıp Eğıtımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9301176172013",
    "ad": "Probleme Dayalı Öğrenme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9301176182014",
    "ad": "Tıpta Mesleksel Becerı Eğıtımı I",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9301176192013",
    "ad": "Sağlık ve Eğıtım Polıtıkaları",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9301176212015",
    "ad": "Tıpta Mesleksel Becerı Eğıtımı II",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9301176252013",
    "ad": "Tıp ve Sağlık Bılımlerı Eğıtımı Semınerlerı II",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9301176262013",
    "ad": "Tıp ve Sağlık Bılımlerı Eğıtımı Semınerlerı III",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9301176272013",
    "ad": "Tıp ve Sağlık Bılımlerı Eğıtımı Semınerlerı IV",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9301176362021",
    "ad": "Sağlık Bılımlerınde Mesleklerarası Eğıtım",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9301176372021",
    "ad": "Tıp Eğıtımınde Yapay Zeka",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9301176382021",
    "ad": "Hasta Güvenlığı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9301176862015",
    "ad": "Eğıtım Araştırmaları III",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "EBB6832017",
    "ad": "Öğretımde Planlama ve Değerlendırme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "EBB6852017",
    "ad": "Gelışım ve Öğrenme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "9301176022015",
    "ad": "Tıpta Müfredat Gelıştırme ve Öğretım Tasarımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "9301176032015",
    "ad": "Tıpta Mesleksel Yetkınlıkler ve Öğretımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "9301176052016",
    "ad": "Tıpta Öğrenme Ortamları",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "9301176062014",
    "ad": "Tıp Eğıtımı Programı Analızı ve Öğretım Tasarımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "9301176082013",
    "ad": "Topluma Dayalı Tıp Eğıtımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "9301176092014",
    "ad": "Eğıtım Araştırmaları II",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "9301176102014",
    "ad": "Tıp Eğıtımınde Yönetım ve Lıderlık",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "9301176122014",
    "ad": "Süreklı Mesleksel Gelışım ve Eğıtıcı Gelışım",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "9301176132013",
    "ad": "Öğretım Teknolojılerı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "9301176142013",
    "ad": "Mezunıyet Sonrası Tıp Eğıtımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "9301176172013",
    "ad": "Probleme Dayalı Öğrenme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "9301176182014",
    "ad": "Tıpta Mesleksel Becerı Eğıtımı I",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "9301176192013",
    "ad": "Sağlık ve Eğıtım Polıtıkaları",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "9301176212015",
    "ad": "Tıpta Mesleksel Becerı Eğıtımı II",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "9301176252013",
    "ad": "Tıp ve Sağlık Bılımlerı Eğıtımı Semınerlerı II",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "9301176262013",
    "ad": "Tıp ve Sağlık Bılımlerı Eğıtımı Semınerlerı III",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "9301176272013",
    "ad": "Tıp ve Sağlık Bılımlerı Eğıtımı Semınerlerı IV",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "9301176362021",
    "ad": "Sağlık Bılımlerınde Mesleklerarası Eğıtım",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "9301176372021",
    "ad": "Tıp Eğıtımınde Yapay Zeka",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "9301176382021",
    "ad": "Hasta Güvenlığı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "9301176862015",
    "ad": "Eğıtım Araştırmaları III",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "EBB6832017",
    "ad": "Öğretımde Planlama ve Değerlendırme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "EBB6852017",
    "ad": "Gelışım ve Öğrenme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "9301176022015",
    "ad": "Tıpta Müfredat Gelıştırme ve Öğretım Tasarımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "9301176032015",
    "ad": "Tıpta Mesleksel Yetkınlıkler ve Öğretımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "9301176052016",
    "ad": "Tıpta Öğrenme Ortamları",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "9301176062014",
    "ad": "Tıp Eğıtımı Programı Analızı ve Öğretım Tasarımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "9301176082013",
    "ad": "Topluma Dayalı Tıp Eğıtımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "9301176092014",
    "ad": "Eğıtım Araştırmaları II",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "9301176102014",
    "ad": "Tıp Eğıtımınde Yönetım ve Lıderlık",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "9301176122014",
    "ad": "Süreklı Mesleksel Gelışım ve Eğıtıcı Gelışım",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "9301176132013",
    "ad": "Öğretım Teknolojılerı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "9301176142013",
    "ad": "Mezunıyet Sonrası Tıp Eğıtımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "9301176172013",
    "ad": "Probleme Dayalı Öğrenme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "9301176182014",
    "ad": "Tıpta Mesleksel Becerı Eğıtımı I",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "9301176192013",
    "ad": "Sağlık ve Eğıtım Polıtıkaları",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "9301176212015",
    "ad": "Tıpta Mesleksel Becerı Eğıtımı II",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "9301176252013",
    "ad": "Tıp ve Sağlık Bılımlerı Eğıtımı Semınerlerı II",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "9301176262013",
    "ad": "Tıp ve Sağlık Bılımlerı Eğıtımı Semınerlerı III",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "9301176272013",
    "ad": "Tıp ve Sağlık Bılımlerı Eğıtımı Semınerlerı IV",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "9301176362021",
    "ad": "Sağlık Bılımlerınde Mesleklerarası Eğıtım",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "9301176372021",
    "ad": "Tıp Eğıtımınde Yapay Zeka",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "9301176382021",
    "ad": "Hasta Güvenlığı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "9301176862015",
    "ad": "Eğıtım Araştırmaları III",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "EBB6832017",
    "ad": "Öğretımde Planlama ve Değerlendırme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "EBB6852017",
    "ad": "Gelışım ve Öğrenme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "9301176022015",
    "ad": "Tıpta Müfredat Gelıştırme ve Öğretım Tasarımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "9301176032015",
    "ad": "Tıpta Mesleksel Yetkınlıkler ve Öğretımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "9301176052016",
    "ad": "Tıpta Öğrenme Ortamları",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "9301176062014",
    "ad": "Tıp Eğıtımı Programı Analızı ve Öğretım Tasarımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "9301176082013",
    "ad": "Topluma Dayalı Tıp Eğıtımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "9301176092014",
    "ad": "Eğıtım Araştırmaları II",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "9301176102014",
    "ad": "Tıp Eğıtımınde Yönetım ve Lıderlık",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "9301176122014",
    "ad": "Süreklı Mesleksel Gelışım ve Eğıtıcı Gelışım",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "9301176132013",
    "ad": "Öğretım Teknolojılerı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "9301176142013",
    "ad": "Mezunıyet Sonrası Tıp Eğıtımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "9301176172013",
    "ad": "Probleme Dayalı Öğrenme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "9301176182014",
    "ad": "Tıpta Mesleksel Becerı Eğıtımı I",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "9301176192013",
    "ad": "Sağlık ve Eğıtım Polıtıkaları",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "9301176212015",
    "ad": "Tıpta Mesleksel Becerı Eğıtımı II",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "9301176252013",
    "ad": "Tıp ve Sağlık Bılımlerı Eğıtımı Semınerlerı II",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "9301176262013",
    "ad": "Tıp ve Sağlık Bılımlerı Eğıtımı Semınerlerı III",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "9301176272013",
    "ad": "Tıp ve Sağlık Bılımlerı Eğıtımı Semınerlerı IV",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "9301176362021",
    "ad": "Sağlık Bılımlerınde Mesleklerarası Eğıtım",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "9301176372021",
    "ad": "Tıp Eğıtımınde Yapay Zeka",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "9301176382021",
    "ad": "Hasta Güvenlığı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "9301176862015",
    "ad": "Eğıtım Araştırmaları III",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "EBB6832017",
    "ad": "Öğretımde Planlama ve Değerlendırme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1510,7 +1510,7 @@
   {
    "kod": "EBB6852017",
    "ad": "Gelışım ve Öğrenme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2013 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SEÇ.DR4 - SEÇMELİ DERSLER4",
    "tur": "Seçmeli",
@@ -1524,7 +1524,7 @@
   {
    "kod": "9301176012025",
    "ad": "Tıpta Öğrenme ve Öğretmeye Gırış",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1538,7 +1538,7 @@
   {
    "kod": "SBEDRSEM600",
    "ad": "Semıner",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1552,7 +1552,7 @@
   {
    "kod": "9301176092025",
    "ad": "Eğıtım Araştırmaları",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1566,7 +1566,7 @@
   {
    "kod": "SBEAKT1",
    "ad": "Aktarılabılır Becerıler 1",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1580,7 +1580,7 @@
   {
    "kod": "SBEAKT2",
    "ad": "Aktarılabılır Becerıler 2",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1594,7 +1594,7 @@
   {
    "kod": "SBEDRUAD601",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1608,7 +1608,7 @@
   {
    "kod": "SBEDRTEZ601",
    "ad": "Tez Çalışması",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1622,7 +1622,7 @@
   {
    "kod": "SBEDRTO601",
    "ad": "Tez Önerısı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1636,7 +1636,7 @@
   {
    "kod": "SBEDRUAD602",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1650,7 +1650,7 @@
   {
    "kod": "SBEDRYET601",
    "ad": "Yeterlık Sınavı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1664,7 +1664,7 @@
   {
    "kod": "SBEDRTEZ602",
    "ad": "Tez Çalışması",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -1678,7 +1678,7 @@
   {
    "kod": "SBEDRUAD603",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -1692,7 +1692,7 @@
   {
    "kod": "SBEDRTEZ603",
    "ad": "Tez Çalışması",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -1706,7 +1706,7 @@
   {
    "kod": "SBEDRUAD604",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -1720,7 +1720,7 @@
   {
    "kod": "SBEDRTEZ604",
    "ad": "Tez Çalışması",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -1734,7 +1734,7 @@
   {
    "kod": "SBEDRUAD605",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -1748,7 +1748,7 @@
   {
    "kod": "SBEDRTEZ605",
    "ad": "Tez Çalışması",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -1762,7 +1762,7 @@
   {
    "kod": "SBEDRUAD606",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -1776,7 +1776,7 @@
   {
    "kod": "EBB6852017",
    "ad": "Gelışım ve Öğrenme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -1790,7 +1790,7 @@
   {
    "kod": "EBB6852017",
    "ad": "Gelışım ve Öğrenme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -1804,7 +1804,7 @@
   {
    "kod": "EBB6852017",
    "ad": "Gelışım ve Öğrenme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2023 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -1818,7 +1818,7 @@
   {
    "kod": "9301176202019",
    "ad": "Eğıtım Araştırmaları I",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1832,7 +1832,7 @@
   {
    "kod": "9301176242019",
    "ad": "Tıp ve Sağlık Bılımlerı Eğıtımı Semınerlerı I",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1846,7 +1846,7 @@
   {
    "kod": "9301176092019",
    "ad": "Eğıtım Araştırmaları II",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1860,7 +1860,7 @@
   {
    "kod": "SBEDRUAD601",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1874,7 +1874,7 @@
   {
    "kod": "SBEDRTEZ601",
    "ad": "Tez Çalışması",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1888,7 +1888,7 @@
   {
    "kod": "SBEDRTO601",
    "ad": "Tez Önerısı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1902,7 +1902,7 @@
   {
    "kod": "SBEDRUAD602",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1916,7 +1916,7 @@
   {
    "kod": "SBEDRYET601",
    "ad": "Yeterlık Sınavı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1930,7 +1930,7 @@
   {
    "kod": "SBEDRTEZ602",
    "ad": "Tez Çalışması",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -1944,7 +1944,7 @@
   {
    "kod": "SBEDRUAD603",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -1958,7 +1958,7 @@
   {
    "kod": "SBEDRTEZ603",
    "ad": "Tez Çalışması",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -1972,7 +1972,7 @@
   {
    "kod": "SBEDRUAD604",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -1986,7 +1986,7 @@
   {
    "kod": "SBEDRTEZ604",
    "ad": "Tez Çalışması",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2000,7 +2000,7 @@
   {
    "kod": "SBEDRUAD605",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2014,7 +2014,7 @@
   {
    "kod": "SBEDRTEZ605",
    "ad": "Tez Çalışması",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2028,7 +2028,7 @@
   {
    "kod": "SBEDRUAD606",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2042,7 +2042,7 @@
   {
    "kod": "9301176012019",
    "ad": "Tıpta Öğrenme ve Öğretmeye Gırış",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2056,7 +2056,7 @@
   {
    "kod": "9301176022015",
    "ad": "Tıpta Müfredat Gelıştırme ve Öğretım Tasarımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2070,7 +2070,7 @@
   {
    "kod": "9301176032015",
    "ad": "Tıpta Mesleksel Yetkınlıkler ve Öğretımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2084,7 +2084,7 @@
   {
    "kod": "9301176042019",
    "ad": "Tıpta Mesleksel Yetkınlıklerın Sınanması",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2098,7 +2098,7 @@
   {
    "kod": "9301176052016",
    "ad": "Tıpta Öğrenme Ortamları",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2112,7 +2112,7 @@
   {
    "kod": "9301176062014",
    "ad": "Tıp Eğıtımı Programı Analızı ve Öğretım Tasarımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2126,7 +2126,7 @@
   {
    "kod": "9301176082019",
    "ad": "Topluma Dayalı Tıp Eğıtımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2140,7 +2140,7 @@
   {
    "kod": "9301176102014",
    "ad": "Tıp Eğıtımınde Yönetım ve Lıderlık",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2154,7 +2154,7 @@
   {
    "kod": "9301176112019",
    "ad": "Eğıtım Programı Değerlendırme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2168,7 +2168,7 @@
   {
    "kod": "9301176122014",
    "ad": "Süreklı Mesleksel Gelışım ve Eğıtıcı Gelışım",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2182,7 +2182,7 @@
   {
    "kod": "9301176132013",
    "ad": "Öğretım Teknolojılerı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2196,7 +2196,7 @@
   {
    "kod": "9301176142013",
    "ad": "Mezunıyet Sonrası Tıp Eğıtımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2210,7 +2210,7 @@
   {
    "kod": "9301176172013",
    "ad": "Probleme Dayalı Öğrenme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2224,7 +2224,7 @@
   {
    "kod": "9301176182013",
    "ad": "Tıpta Mesleksel Becerı Eğıtımı I",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2238,7 +2238,7 @@
   {
    "kod": "9301176192013",
    "ad": "Sağlık ve Eğıtım Polıtıkaları",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2252,7 +2252,7 @@
   {
    "kod": "9301176212015",
    "ad": "Tıpta Mesleksel Becerı Eğıtımı II",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2266,7 +2266,7 @@
   {
    "kod": "9301176252019",
    "ad": "Tıp ve Sağlık Bılımlerı Eğıtımı Semınerlerı II",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2280,7 +2280,7 @@
   {
    "kod": "9301176262019",
    "ad": "Tıp ve Sağlık Bılımlerı Eğıtımı Semınerlerı III",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2294,7 +2294,7 @@
   {
    "kod": "9301176292020",
    "ad": "Sağlık Bılımlerınde Öğretım ve Tasarımın Temellerı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2308,7 +2308,7 @@
   {
    "kod": "9301176302020",
    "ad": "Introductıon to Educatıonal Project Plannıng",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2322,7 +2322,7 @@
   {
    "kod": "9301176312020",
    "ad": "Semınarıes ın Health Scıences Edıcatıon",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2336,7 +2336,7 @@
   {
    "kod": "9301176322020",
    "ad": "Sağlık Bılımlerınde Öğretım ve Tasarımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2350,7 +2350,7 @@
   {
    "kod": "9301176332020",
    "ad": "Qualıty and Accredıtatıon ın Health Scıences Educatıon",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2364,7 +2364,7 @@
   {
    "kod": "9301176342020",
    "ad": "Academıc Wrıtıng ın Health Scıences Educatıon",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2378,7 +2378,7 @@
   {
    "kod": "9301176352020",
    "ad": "Eğıtım Sosyolojısı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2392,7 +2392,7 @@
   {
    "kod": "9301176362021",
    "ad": "Sağlık Bılımlerınde Mesleklerarası Eğıtım",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2406,7 +2406,7 @@
   {
    "kod": "9301176372021",
    "ad": "Tıp Eğıtımınde Yapay Zeka",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2420,7 +2420,7 @@
   {
    "kod": "9301176382021",
    "ad": "Hasta Güvenlığı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2434,7 +2434,7 @@
   {
    "kod": "9301176862015",
    "ad": "Eğıtım Araştırmaları III",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2448,7 +2448,7 @@
   {
    "kod": "EBB6832017",
    "ad": "Öğretımde Planlama ve Değerlendırme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2462,7 +2462,7 @@
   {
    "kod": "EBB6852017",
    "ad": "Gelışım ve Öğrenme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -2476,7 +2476,7 @@
   {
    "kod": "9301176012019",
    "ad": "Tıpta Öğrenme ve Öğretmeye Gırış",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2490,7 +2490,7 @@
   {
    "kod": "9301176022015",
    "ad": "Tıpta Müfredat Gelıştırme ve Öğretım Tasarımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2504,7 +2504,7 @@
   {
    "kod": "9301176032015",
    "ad": "Tıpta Mesleksel Yetkınlıkler ve Öğretımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2518,7 +2518,7 @@
   {
    "kod": "9301176042019",
    "ad": "Tıpta Mesleksel Yetkınlıklerın Sınanması",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2532,7 +2532,7 @@
   {
    "kod": "9301176052016",
    "ad": "Tıpta Öğrenme Ortamları",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2546,7 +2546,7 @@
   {
    "kod": "9301176062014",
    "ad": "Tıp Eğıtımı Programı Analızı ve Öğretım Tasarımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2560,7 +2560,7 @@
   {
    "kod": "9301176082019",
    "ad": "Topluma Dayalı Tıp Eğıtımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2574,7 +2574,7 @@
   {
    "kod": "9301176102014",
    "ad": "Tıp Eğıtımınde Yönetım ve Lıderlık",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2588,7 +2588,7 @@
   {
    "kod": "9301176112019",
    "ad": "Eğıtım Programı Değerlendırme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2602,7 +2602,7 @@
   {
    "kod": "9301176122014",
    "ad": "Süreklı Mesleksel Gelışım ve Eğıtıcı Gelışım",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2616,7 +2616,7 @@
   {
    "kod": "9301176132013",
    "ad": "Öğretım Teknolojılerı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2630,7 +2630,7 @@
   {
    "kod": "9301176142013",
    "ad": "Mezunıyet Sonrası Tıp Eğıtımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2644,7 +2644,7 @@
   {
    "kod": "9301176172013",
    "ad": "Probleme Dayalı Öğrenme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2658,7 +2658,7 @@
   {
    "kod": "9301176182013",
    "ad": "Tıpta Mesleksel Becerı Eğıtımı I",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2672,7 +2672,7 @@
   {
    "kod": "9301176192013",
    "ad": "Sağlık ve Eğıtım Polıtıkaları",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2686,7 +2686,7 @@
   {
    "kod": "9301176212015",
    "ad": "Tıpta Mesleksel Becerı Eğıtımı II",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2700,7 +2700,7 @@
   {
    "kod": "9301176252019",
    "ad": "Tıp ve Sağlık Bılımlerı Eğıtımı Semınerlerı II",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2714,7 +2714,7 @@
   {
    "kod": "9301176262019",
    "ad": "Tıp ve Sağlık Bılımlerı Eğıtımı Semınerlerı III",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2728,7 +2728,7 @@
   {
    "kod": "9301176292020",
    "ad": "Sağlık Bılımlerınde Öğretım ve Tasarımın Temellerı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2742,7 +2742,7 @@
   {
    "kod": "9301176302020",
    "ad": "Introductıon to Educatıonal Project Plannıng",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2756,7 +2756,7 @@
   {
    "kod": "9301176312020",
    "ad": "Semınarıes ın Health Scıences Edıcatıon",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2770,7 +2770,7 @@
   {
    "kod": "9301176322020",
    "ad": "Sağlık Bılımlerınde Öğretım ve Tasarımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2784,7 +2784,7 @@
   {
    "kod": "9301176332020",
    "ad": "Qualıty and Accredıtatıon ın Health Scıences Educatıon",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2798,7 +2798,7 @@
   {
    "kod": "9301176342020",
    "ad": "Academıc Wrıtıng ın Health Scıences Educatıon",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2812,7 +2812,7 @@
   {
    "kod": "9301176352020",
    "ad": "Eğıtım Sosyolojısı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2826,7 +2826,7 @@
   {
    "kod": "9301176362021",
    "ad": "Sağlık Bılımlerınde Mesleklerarası Eğıtım",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2840,7 +2840,7 @@
   {
    "kod": "9301176372021",
    "ad": "Tıp Eğıtımınde Yapay Zeka",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2854,7 +2854,7 @@
   {
    "kod": "9301176382021",
    "ad": "Hasta Güvenlığı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2868,7 +2868,7 @@
   {
    "kod": "9301176862015",
    "ad": "Eğıtım Araştırmaları III",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2882,7 +2882,7 @@
   {
    "kod": "EBB6832017",
    "ad": "Öğretımde Planlama ve Değerlendırme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2896,7 +2896,7 @@
   {
    "kod": "EBB6852017",
    "ad": "Gelışım ve Öğrenme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -2910,7 +2910,7 @@
   {
    "kod": "9301176012019",
    "ad": "Tıpta Öğrenme ve Öğretmeye Gırış",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -2924,7 +2924,7 @@
   {
    "kod": "9301176022015",
    "ad": "Tıpta Müfredat Gelıştırme ve Öğretım Tasarımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -2938,7 +2938,7 @@
   {
    "kod": "9301176032015",
    "ad": "Tıpta Mesleksel Yetkınlıkler ve Öğretımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -2952,7 +2952,7 @@
   {
    "kod": "9301176042019",
    "ad": "Tıpta Mesleksel Yetkınlıklerın Sınanması",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -2966,7 +2966,7 @@
   {
    "kod": "9301176052016",
    "ad": "Tıpta Öğrenme Ortamları",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -2980,7 +2980,7 @@
   {
    "kod": "9301176062014",
    "ad": "Tıp Eğıtımı Programı Analızı ve Öğretım Tasarımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -2994,7 +2994,7 @@
   {
    "kod": "9301176082019",
    "ad": "Topluma Dayalı Tıp Eğıtımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3008,7 +3008,7 @@
   {
    "kod": "9301176102014",
    "ad": "Tıp Eğıtımınde Yönetım ve Lıderlık",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3022,7 +3022,7 @@
   {
    "kod": "9301176112019",
    "ad": "Eğıtım Programı Değerlendırme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3036,7 +3036,7 @@
   {
    "kod": "9301176122014",
    "ad": "Süreklı Mesleksel Gelışım ve Eğıtıcı Gelışım",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3050,7 +3050,7 @@
   {
    "kod": "9301176132013",
    "ad": "Öğretım Teknolojılerı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3064,7 +3064,7 @@
   {
    "kod": "9301176142013",
    "ad": "Mezunıyet Sonrası Tıp Eğıtımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3078,7 +3078,7 @@
   {
    "kod": "9301176172013",
    "ad": "Probleme Dayalı Öğrenme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3092,7 +3092,7 @@
   {
    "kod": "9301176182013",
    "ad": "Tıpta Mesleksel Becerı Eğıtımı I",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3106,7 +3106,7 @@
   {
    "kod": "9301176192013",
    "ad": "Sağlık ve Eğıtım Polıtıkaları",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3120,7 +3120,7 @@
   {
    "kod": "9301176212015",
    "ad": "Tıpta Mesleksel Becerı Eğıtımı II",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3134,7 +3134,7 @@
   {
    "kod": "9301176252019",
    "ad": "Tıp ve Sağlık Bılımlerı Eğıtımı Semınerlerı II",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3148,7 +3148,7 @@
   {
    "kod": "9301176262019",
    "ad": "Tıp ve Sağlık Bılımlerı Eğıtımı Semınerlerı III",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3162,7 +3162,7 @@
   {
    "kod": "9301176292020",
    "ad": "Sağlık Bılımlerınde Öğretım ve Tasarımın Temellerı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3176,7 +3176,7 @@
   {
    "kod": "9301176302020",
    "ad": "Introductıon to Educatıonal Project Plannıng",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3190,7 +3190,7 @@
   {
    "kod": "9301176312020",
    "ad": "Semınarıes ın Health Scıences Edıcatıon",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3204,7 +3204,7 @@
   {
    "kod": "9301176322020",
    "ad": "Sağlık Bılımlerınde Öğretım ve Tasarımı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3218,7 +3218,7 @@
   {
    "kod": "9301176332020",
    "ad": "Qualıty and Accredıtatıon ın Health Scıences Educatıon",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3232,7 +3232,7 @@
   {
    "kod": "9301176342020",
    "ad": "Academıc Wrıtıng ın Health Scıences Educatıon",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3246,7 +3246,7 @@
   {
    "kod": "9301176352020",
    "ad": "Eğıtım Sosyolojısı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3260,7 +3260,7 @@
   {
    "kod": "9301176362021",
    "ad": "Sağlık Bılımlerınde Mesleklerarası Eğıtım",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3274,7 +3274,7 @@
   {
    "kod": "9301176372021",
    "ad": "Tıp Eğıtımınde Yapay Zeka",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3288,7 +3288,7 @@
   {
    "kod": "9301176382021",
    "ad": "Hasta Güvenlığı",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3302,7 +3302,7 @@
   {
    "kod": "9301176862015",
    "ad": "Eğıtım Araştırmaları III",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3316,7 +3316,7 @@
   {
    "kod": "EBB6832017",
    "ad": "Öğretımde Planlama ve Değerlendırme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",
@@ -3330,7 +3330,7 @@
   {
    "kod": "EBB6852017",
    "ad": "Gelışım ve Öğrenme",
-   "mufredat": "Tıp Eğitimi",
+   "mufredat": "2019 Yılı (Yüksek Lisans Derecesi ile Doktora) Müfredatı (Tıp Eğitimi)",
    "yariyil": null,
    "grup": "930117SDG.DR3 - SEÇMELİ DERSLER3",
    "tur": "Seçmeli",

@@ -12,7 +12,7 @@
   {
    "kod": "1302001012006",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "1302001022006",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "1302001071994",
    "ad": "MATEMATİK-I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "1302001292002",
    "ad": "INTRODUCTION TO MICROECONOMICS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "1302001432014",
    "ad": "SOSYOLOJİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "1302001452014",
    "ad": "BUSINESS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "1302001492020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "1302000922006",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "1302000942006",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "1302001092003",
    "ad": "MATEMATİK-II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "1302001302002",
    "ad": "INTRODUCTION TO MACROECONOMICS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "1302001332002",
    "ad": "COMPUTER COURSE",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "1302001362023",
    "ad": "PRINCIPLES OF MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "1302001392023",
    "ad": "HUKUKUN TEMEL KAVRAMLARI",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "11320201E11241",
    "ad": "ORGANIZATIONAL BEHAVIOR",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "1302002022017",
    "ad": "İSTATİSTİK I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "1302002212003",
    "ad": "MUHASEBE I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "1302002452014",
    "ad": "OPERATIONS MANAGEMENT I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "1302002472018",
    "ad": "MARKETING MANAGEMENT I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -306,7 +306,7 @@
   {
    "kod": "11320201T11240",
    "ad": "TİCARET HUKUKU",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "1302002082017",
    "ad": "İSTATİSTİK II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "1302002222003",
    "ad": "MUHASEBE II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "1302002462014",
    "ad": "OPERATIONS MANAGEMENT II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "1302002482018",
    "ad": "MARKETING MANAGEMENT II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -390,7 +390,7 @@
   {
    "kod": "11320201E11675",
    "ad": "OPERATIONS RESEARCH I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "11320201E11677",
    "ad": "FINANCIAL MANAGEMENT I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "11320201E11681",
    "ad": "CONSUMER BEHAVIOR",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "11320201T11679",
    "ad": "İŞLETME HUKUKU",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "1302006932017",
    "ad": "ARAŞTIRMA YÖNTEMLERİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -474,7 +474,7 @@
   {
    "kod": "11320201E11644",
    "ad": "SALES MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "11320201E11646",
    "ad": "FINANCIAL MANAGEMENT II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "11320201E11650",
    "ad": "COMPUTER-AIDED PRODUCTION MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "1302003022018",
    "ad": "MALİYET MUHASEBESİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "1302006482016",
    "ad": "ORGANIZATIONAL THEORY",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -558,7 +558,7 @@
   {
    "kod": "11320201E11563",
    "ad": "GLOBAL MARKETING",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -572,7 +572,7 @@
   {
    "kod": "11320201E11565",
    "ad": "SYSTEM ANALYSIS AND DESIGN",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "1302004972005",
    "ad": "MALİ TABLOLAR ANALİZİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "1302005612016",
    "ad": "HUMAN RESOURCES MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -628,7 +628,7 @@
   {
    "kod": "11320201E11540",
    "ad": "MANAGEMENT INFORMATION SYSTEMS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "11320201E11542",
    "ad": "STRATEGIC MANAGEMENT AND BUSINESS POLICY",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "1302008902017",
    "ad": "SERMAYE PİYASASI ANALİZİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -684,7 +684,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İİBF-PFSDG-I - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU I",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İİBF-PFSDG-II - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İİBF-PFSDG-II - PEDAGOJİK FORMASYON SEÇMELİ DERS GRUBU II",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "11320103E11739",
    "ad": "LABOR ECONOMICS AND INDUSTRIAL RELATIONS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "11320103E11747",
    "ad": "TOURISM ECONOMICS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "11320103E11753",
    "ad": "ENVIRONMENTAL ECONOMICS AND POLICY",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "11320103E11755",
    "ad": "MATHEMATICAL ECONOMICS I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "11320103E11757",
    "ad": "PUBLIC ECONOMICS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "11320103T11751",
    "ad": "ENFORMASYON EKONOMİSİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "11320203E11801",
    "ad": "MANAGEMENT OF SERVICE SYSTEMS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "11320203E11803",
    "ad": "COMPUTER AIDED DESIGN",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "11320203E11805",
    "ad": "INVESTMENT PROJECT ANALYSIS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "11320203E11809",
    "ad": "LOGISTICS MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "11320203E11813",
    "ad": "MARKETING COMMUNICATIONS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "11320203E11817",
    "ad": "PHYSICAL DISTRIBUTION CHANNELS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "11320203E11819",
    "ad": "SERVICES MARKETING",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "11320203E11821",
    "ad": "BUSINESS TO BUSINESS MARKETING",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "11320203E11823",
    "ad": "LEADERSHIP ANALYSIS AND TEAM MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "11320203E11825",
    "ad": "MANAGEMENT CONSULTANCY",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "11320203E11831",
    "ad": "STATISTICAL QUALITY CONTROL",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "11320203E11833",
    "ad": "INTERNATIONAL TRADE",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "11320203E11837",
    "ad": "ENVIRONMENT AND GLOBAL ECONOMY",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "11320203E11843",
    "ad": "ENVIRONMENT MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "11320203E11845",
    "ad": "REKLAMCILIK YÖNETİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "11320203E11846",
    "ad": "SUPPLY CHAIN MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "11320203E11849",
    "ad": "ORGANIZATIONAL COMMUNICATION",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "11320203E11855",
    "ad": "FINANCIAL INSTITUTIONS AND MARKETS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "11320203T11829",
    "ad": "HALKLA İLİŞKİLER",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "11320203T11841",
    "ad": "TOPLAM KALİTE FELSEFESİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "11320203T11851",
    "ad": "BORÇLAR HUKUKU",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "11320303E11615",
    "ad": "EU INSTITUTIONS AND POLICIES",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "11320303T11769",
    "ad": "KÜRESEL SERMAYE HAREKETLERİ VE ULUSLARARASI İLİŞKİLER",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "1301001312002",
    "ad": "İKTİSAT,TOPLUM, UYGARLIK",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "1301002292003",
    "ad": "SOSYAL VE İKTİSADİ TARİH",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "1301007632011",
    "ad": "FRANSIZCA I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "1301007642011",
    "ad": "FRANSIZCA II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "1301007652011",
    "ad": "RUSÇA I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "1301007662011",
    "ad": "RUSÇA II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "1301007742012",
    "ad": "ECONOMIC GROWTH",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "1301008272009",
    "ad": "YARATICI EKONOMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "1302005132005",
    "ad": "YÖNETİM MUHASEBESİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "1302005152005",
    "ad": "MALİYET MUHASEBESİ-II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "1302005292006",
    "ad": "DENGELENMİŞ PUAN KARTI",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "1302005692026",
    "ad": "PAZARLAMADA ÖRNEK OLAY ÇALIŞMALARI I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "1302006832012",
    "ad": "BUSINESS FOREIGN LANGUAGE II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "1302006952019",
    "ad": "SOSYAL PSİKOLOJİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "1302006972019",
    "ad": "AKADEMİK TÜRKÇE(Yab.Uyruklu Öğr.ıçın)",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "1302007732014",
    "ad": "YÖNETİM GELİŞTİRME",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "1302007742014",
    "ad": "ALMANCA II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "1302007752014",
    "ad": "BEHAVIORAL FINANCE",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "1302007772016",
    "ad": "ULUSLARARASI FİNANSAL RAPORLAMA VE MUHASEBE",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "1302007792014",
    "ad": "DIŞ TİCARET İŞLEMLERİ VE MUHASEBESİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "1302007812014",
    "ad": "SPECIAL TOPICS IN FINANCE",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "1302007852014",
    "ad": "ALMANCA I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "1302007862015",
    "ad": "PORTEKİZCE II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "1302007872015",
    "ad": "PORTEKİZCE I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "1302007902015",
    "ad": "CURRENT ISSUES IN LOGISTICS MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "1302007912015",
    "ad": "TEDARİK ZİNCİRİ YÖNETİMİNDE MODERN YAKLAŞIMLAR",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "1302007952017",
    "ad": "KÜRESELLEŞME,ÜRETİM VE TOPLUM",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1510,7 +1510,7 @@
   {
    "kod": "1302007972017",
    "ad": "BİLGİ YÖNETİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1524,7 +1524,7 @@
   {
    "kod": "1302008272016",
    "ad": "FİNANSAL MATEMATİK",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1538,7 +1538,7 @@
   {
    "kod": "1302008472016",
    "ad": "RETAILING I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1552,7 +1552,7 @@
   {
    "kod": "1302008532026",
    "ad": "UYGULAMALI KURUMSAL KAYNAK PLANLAMASI",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1566,7 +1566,7 @@
   {
    "kod": "1302008592014",
    "ad": "YATIRIM YÖNETİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1580,7 +1580,7 @@
   {
    "kod": "1302008792014",
    "ad": "KÜRESEL TEDARİK ZİNCİRİ VE LOJİSTİK",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1594,7 +1594,7 @@
   {
    "kod": "1302008892017",
    "ad": "İNSAN KAYNAKLARI YÖNETİMİ UYGULAMALARI",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1608,7 +1608,7 @@
   {
    "kod": "1302008972025",
    "ad": "ARTIFICIAL INTELLIGENCE (AI) LITERACY",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1622,7 +1622,7 @@
   {
    "kod": "1302009152021",
    "ad": "ENFORMETRİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1636,7 +1636,7 @@
   {
    "kod": "1302009172021",
    "ad": "VERİ BİLİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1650,7 +1650,7 @@
   {
    "kod": "1302009192021",
    "ad": "STAJ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1664,7 +1664,7 @@
   {
    "kod": "1302009212023",
    "ad": "YÖNETİM TARİHİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1678,7 +1678,7 @@
   {
    "kod": "1303008352010",
    "ad": "ULUSLARARASI YÖNETİŞİM",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1692,7 +1692,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1706,7 +1706,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)5YY - SEÇMELİ (İŞLETME)5.YY",
    "tur": "Seçmeli",
@@ -1720,7 +1720,7 @@
   {
    "kod": "Bİİ305DSG",
    "ad": "DİN SOSYOLOJİSİNE GİRİŞ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1734,7 +1734,7 @@
   {
    "kod": "DTMK305TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1748,7 +1748,7 @@
   {
    "kod": "EĞT305CSE",
    "ad": "CİNSEL SAĞLIK EĞİTİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1762,7 +1762,7 @@
   {
    "kod": "YEN305GYKA",
    "ad": "GİRİŞİMCİLİKTE YATIRIM KARAR ANALİZLERİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1776,7 +1776,7 @@
   {
    "kod": "11320103E11722",
    "ad": "ECONOMICS OF THE EUROPEAN UNION",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -1790,7 +1790,7 @@
   {
    "kod": "11320103E11726",
    "ad": "SPORTS ECONOMICS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -1804,7 +1804,7 @@
   {
    "kod": "11320103E11732",
    "ad": "INTERNATIONAL FINANCE",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -1818,7 +1818,7 @@
   {
    "kod": "11320103T11740",
    "ad": "KIYMETLİ EVRAK HUKUKU",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -1832,7 +1832,7 @@
   {
    "kod": "11320103T11742",
    "ad": "OYUN TEORİSİNE GİRİŞ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -1846,7 +1846,7 @@
   {
    "kod": "11320203E11809",
    "ad": "LOGISTICS MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -1860,7 +1860,7 @@
   {
    "kod": "11320203E11826",
    "ad": "E-MARKETING",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -1874,7 +1874,7 @@
   {
    "kod": "11320203E11838",
    "ad": "INTERNATIONAL BUSINESS MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -1888,7 +1888,7 @@
   {
    "kod": "11320203E11840",
    "ad": "CURRENT ISSUES IN MARKETING",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -1902,7 +1902,7 @@
   {
    "kod": "11320203E11844",
    "ad": "EXPORT MARKETING",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -1916,7 +1916,7 @@
   {
    "kod": "11320203E11846",
    "ad": "SUPPLY CHAIN MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -1930,7 +1930,7 @@
   {
    "kod": "11320203E11848",
    "ad": "MARKETING STRATEGY",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -1944,7 +1944,7 @@
   {
    "kod": "11320203E11856",
    "ad": "CHANGE MANAGEMENT IN ORGANIZATIONS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -1958,7 +1958,7 @@
   {
    "kod": "11320203T11834",
    "ad": "SOSYAL SİGORTA TEKNİĞİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -1972,7 +1972,7 @@
   {
    "kod": "1301002282003",
    "ad": "İKTİSADİ DÜŞÜNCE TARİHİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -1986,7 +1986,7 @@
   {
    "kod": "1301003962004",
    "ad": "PUBLIC FINANCE AND FISCAL POLICY",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2000,7 +2000,7 @@
   {
    "kod": "1301007022004",
    "ad": "BÖLGESEL İKTİSAT VE GELİŞME",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2014,7 +2014,7 @@
   {
    "kod": "1301007042016",
    "ad": "YENİLİK YÖNETİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2028,7 +2028,7 @@
   {
    "kod": "1301007362017",
    "ad": "TÜREV PİYASALARI VE ARAÇLARI",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2042,7 +2042,7 @@
   {
    "kod": "1301007442011",
    "ad": "DEMOGRAPHICS AND POPULATION ECONOMICS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2056,7 +2056,7 @@
   {
    "kod": "1301007632011",
    "ad": "FRANSIZCA I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2070,7 +2070,7 @@
   {
    "kod": "1301007642011",
    "ad": "FRANSIZCA II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2084,7 +2084,7 @@
   {
    "kod": "1301007662011",
    "ad": "RUSÇA II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2098,7 +2098,7 @@
   {
    "kod": "1301007702011",
    "ad": "İDARİ YARGI",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2112,7 +2112,7 @@
   {
    "kod": "1302001422012",
    "ad": "FOREIGN LANGUAGE II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2126,7 +2126,7 @@
   {
    "kod": "1302005442017",
    "ad": "AUDITING",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2140,7 +2140,7 @@
   {
    "kod": "1302005702026",
    "ad": "PAZARLAMADA ÖRNEK OLAY ÇALIŞMALARI II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2154,7 +2154,7 @@
   {
    "kod": "1302006862012",
    "ad": "FOREIGN LANGUAGE FOR BUSINESS LIFE",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2168,7 +2168,7 @@
   {
    "kod": "1302006972019",
    "ad": "AKADEMİK TÜRKÇE(Yab.Uyruklu Öğr.ıçın)",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2182,7 +2182,7 @@
   {
    "kod": "1302007722014",
    "ad": "YÖNETİM FELSEFESİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2196,7 +2196,7 @@
   {
    "kod": "1302007742014",
    "ad": "ALMANCA II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2210,7 +2210,7 @@
   {
    "kod": "1302007762014",
    "ad": "KURUMSAL YÖNETİŞİM",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2224,7 +2224,7 @@
   {
    "kod": "1302007852014",
    "ad": "ALMANCA I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2238,7 +2238,7 @@
   {
    "kod": "1302007862015",
    "ad": "PORTEKİZCE II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2252,7 +2252,7 @@
   {
    "kod": "1302007872015",
    "ad": "PORTEKİZCE I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2266,7 +2266,7 @@
   {
    "kod": "1302007902015",
    "ad": "CURRENT ISSUES IN LOGISTICS MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2280,7 +2280,7 @@
   {
    "kod": "1302007912015",
    "ad": "TEDARİK ZİNCİRİ YÖNETİMİNDE MODERN YAKLAŞIMLAR",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2294,7 +2294,7 @@
   {
    "kod": "1302007922015",
    "ad": "RETAILING II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2308,7 +2308,7 @@
   {
    "kod": "1302007932017",
    "ad": "ULUSLARARASI PİYASALAR,ÖRGÜTLER VE TOPLUMSAL CİNSİYET EŞİTSİZLİĞİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2322,7 +2322,7 @@
   {
    "kod": "1302007942017",
    "ad": "DEĞERLEME",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2336,7 +2336,7 @@
   {
    "kod": "1302007962017",
    "ad": "PROJE YÖNETİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2350,7 +2350,7 @@
   {
    "kod": "1302008802014",
    "ad": "UYGULAMALI DIŞ TİCARET VE LOJİSTİK",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2364,7 +2364,7 @@
   {
    "kod": "1302008822014",
    "ad": "SİVİL HAVACILIK İŞLETMECİLİĞİ VE MALİYET YÖNETİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2378,7 +2378,7 @@
   {
    "kod": "1302008842016",
    "ad": "ENDÜSTRİYEL PAZARLAMA",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2392,7 +2392,7 @@
   {
    "kod": "1302008862016",
    "ad": "MARKA YÖNETİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2406,7 +2406,7 @@
   {
    "kod": "1302008972025",
    "ad": "ARTIFICIAL INTELLIGENCE (AI) LITERACY",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2420,7 +2420,7 @@
   {
    "kod": "1302008982025",
    "ad": "GİRİŞİMCİLİKTE FİZİBİLİTE ETÜDÜ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2434,7 +2434,7 @@
   {
    "kod": "1302009022018",
    "ad": "PORTFÖY YÖNETİMİ VE BORSA UYGULAMALARI",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2448,7 +2448,7 @@
   {
    "kod": "1302009042018",
    "ad": "STRATEGIC BRAND MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2462,7 +2462,7 @@
   {
    "kod": "1302009162021",
    "ad": "TEKNOLOJİ UZGÖRÜSÜ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2476,7 +2476,7 @@
   {
    "kod": "1302009182021",
    "ad": "VERİ MADENCİLİĞİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2490,7 +2490,7 @@
   {
    "kod": "1302009192021",
    "ad": "STAJ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2504,7 +2504,7 @@
   {
    "kod": "1303001061999",
    "ad": "SİYASET BİLİMİNE GİRİŞ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2518,7 +2518,7 @@
   {
    "kod": "1303006062005",
    "ad": "DENİZ HUKUKU",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2532,7 +2532,7 @@
   {
    "kod": "1303006082006",
    "ad": "MEDENİ HUKUK",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2546,7 +2546,7 @@
   {
    "kod": "1303007482011",
    "ad": "İTALYANCA",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2560,7 +2560,7 @@
   {
    "kod": "1303007652011",
    "ad": "RUSÇA I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2574,7 +2574,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "SÇM(İŞL)6YY - SEÇMELİ (İŞLETME)6.YY",
    "tur": "Seçmeli",
@@ -2588,7 +2588,7 @@
   {
    "kod": "Bİİ305DS",
    "ad": "DİN VE SANAT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2602,7 +2602,7 @@
   {
    "kod": "Bİİ306DİVKA",
    "ad": "DİNLER VE KADIN",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2616,7 +2616,7 @@
   {
    "kod": "ENF305WEB",
    "ad": "WEB TASARIMI",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2630,7 +2630,7 @@
   {
    "kod": "FEN305BİYO",
    "ad": "BİYOTEKNOLOJİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2644,7 +2644,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2658,7 +2658,7 @@
   {
    "kod": "MOD306MLB",
    "ad": "MALZEME BİLGİSİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2672,7 +2672,7 @@
   {
    "kod": "YEN306GTOD",
    "ad": "GİRİŞİMCİLİKTE TASARIM ODAKLI DÜŞÜNME",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2686,7 +2686,7 @@
   {
    "kod": "11320103E11747",
    "ad": "TOURISM ECONOMICS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2700,7 +2700,7 @@
   {
    "kod": "11320103E11757",
    "ad": "PUBLIC ECONOMICS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2714,7 +2714,7 @@
   {
    "kod": "11320203E11801",
    "ad": "MANAGEMENT OF SERVICE SYSTEMS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2728,7 +2728,7 @@
   {
    "kod": "11320203E11803",
    "ad": "COMPUTER AIDED DESIGN",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2742,7 +2742,7 @@
   {
    "kod": "11320203E11805",
    "ad": "INVESTMENT PROJECT ANALYSIS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2756,7 +2756,7 @@
   {
    "kod": "11320203E11809",
    "ad": "LOGISTICS MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2770,7 +2770,7 @@
   {
    "kod": "11320203E11813",
    "ad": "MARKETING COMMUNICATIONS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2784,7 +2784,7 @@
   {
    "kod": "11320203E11817",
    "ad": "PHYSICAL DISTRIBUTION CHANNELS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2798,7 +2798,7 @@
   {
    "kod": "11320203E11819",
    "ad": "SERVICES MARKETING",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2812,7 +2812,7 @@
   {
    "kod": "11320203E11821",
    "ad": "BUSINESS TO BUSINESS MARKETING",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2826,7 +2826,7 @@
   {
    "kod": "11320203E11823",
    "ad": "LEADERSHIP ANALYSIS AND TEAM MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2840,7 +2840,7 @@
   {
    "kod": "11320203E11825",
    "ad": "MANAGEMENT CONSULTANCY",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2854,7 +2854,7 @@
   {
    "kod": "11320203E11831",
    "ad": "STATISTICAL QUALITY CONTROL",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2868,7 +2868,7 @@
   {
    "kod": "11320203E11833",
    "ad": "INTERNATIONAL TRADE",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2882,7 +2882,7 @@
   {
    "kod": "11320203E11835",
    "ad": "COMMERCIAL PAPER LAW",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2896,7 +2896,7 @@
   {
    "kod": "11320203E11837",
    "ad": "ENVIRONMENT AND GLOBAL ECONOMY",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2910,7 +2910,7 @@
   {
    "kod": "11320203E11843",
    "ad": "ENVIRONMENT MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2924,7 +2924,7 @@
   {
    "kod": "11320203E11845",
    "ad": "REKLAMCILIK YÖNETİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2938,7 +2938,7 @@
   {
    "kod": "11320203E11846",
    "ad": "SUPPLY CHAIN MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2952,7 +2952,7 @@
   {
    "kod": "11320203E11849",
    "ad": "ORGANIZATIONAL COMMUNICATION",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2966,7 +2966,7 @@
   {
    "kod": "11320203E11855",
    "ad": "FINANCIAL INSTITUTIONS AND MARKETS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2980,7 +2980,7 @@
   {
    "kod": "11320203T11811",
    "ad": "KOOPERATİFÇİLİK",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -2994,7 +2994,7 @@
   {
    "kod": "11320203T11829",
    "ad": "HALKLA İLİŞKİLER",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3008,7 +3008,7 @@
   {
    "kod": "11320203T11839",
    "ad": "GİRİŞİMCİLİK VE KOBİ YÖNETİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3022,7 +3022,7 @@
   {
    "kod": "11320203T11841",
    "ad": "TOPLAM KALİTE FELSEFESİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3036,7 +3036,7 @@
   {
    "kod": "11320203T11851",
    "ad": "BORÇLAR HUKUKU",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3050,7 +3050,7 @@
   {
    "kod": "11320303T11857",
    "ad": "ULUSLARARASI TİCARET I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3064,7 +3064,7 @@
   {
    "kod": "1301007052007",
    "ad": "BORÇLAR HUKUKU",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3078,7 +3078,7 @@
   {
    "kod": "1301007632011",
    "ad": "FRANSIZCA I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3092,7 +3092,7 @@
   {
    "kod": "1301007642011",
    "ad": "FRANSIZCA II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3106,7 +3106,7 @@
   {
    "kod": "1301007652011",
    "ad": "RUSÇA I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3120,7 +3120,7 @@
   {
    "kod": "1301007662011",
    "ad": "RUSÇA II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3134,7 +3134,7 @@
   {
    "kod": "1301008212006",
    "ad": "TÜRK VERGİ SİSTEMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3148,7 +3148,7 @@
   {
    "kod": "1301008272009",
    "ad": "YARATICI EKONOMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3162,7 +3162,7 @@
   {
    "kod": "1302005132005",
    "ad": "YÖNETİM MUHASEBESİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3176,7 +3176,7 @@
   {
    "kod": "1302005152005",
    "ad": "MALİYET MUHASEBESİ-II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3190,7 +3190,7 @@
   {
    "kod": "1302005292006",
    "ad": "DENGELENMİŞ PUAN KARTI",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3204,7 +3204,7 @@
   {
    "kod": "1302005692026",
    "ad": "PAZARLAMADA ÖRNEK OLAY ÇALIŞMALARI I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3218,7 +3218,7 @@
   {
    "kod": "1302006952019",
    "ad": "SOSYAL PSİKOLOJİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3232,7 +3232,7 @@
   {
    "kod": "1302006972019",
    "ad": "AKADEMİK TÜRKÇE(Yab.Uyruklu Öğr.ıçın)",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3246,7 +3246,7 @@
   {
    "kod": "1302007742014",
    "ad": "ALMANCA II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3260,7 +3260,7 @@
   {
    "kod": "1302007752014",
    "ad": "BEHAVIORAL FINANCE",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3274,7 +3274,7 @@
   {
    "kod": "1302007772016",
    "ad": "ULUSLARARASI FİNANSAL RAPORLAMA VE MUHASEBE",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3288,7 +3288,7 @@
   {
    "kod": "1302007792014",
    "ad": "DIŞ TİCARET İŞLEMLERİ VE MUHASEBESİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3302,7 +3302,7 @@
   {
    "kod": "1302007812014",
    "ad": "SPECIAL TOPICS IN FINANCE",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3316,7 +3316,7 @@
   {
    "kod": "1302007852014",
    "ad": "ALMANCA I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3330,7 +3330,7 @@
   {
    "kod": "1302007862015",
    "ad": "PORTEKİZCE II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3344,7 +3344,7 @@
   {
    "kod": "1302007872015",
    "ad": "PORTEKİZCE I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3358,7 +3358,7 @@
   {
    "kod": "1302007902015",
    "ad": "CURRENT ISSUES IN LOGISTICS MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3372,7 +3372,7 @@
   {
    "kod": "1302007912015",
    "ad": "TEDARİK ZİNCİRİ YÖNETİMİNDE MODERN YAKLAŞIMLAR",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3386,7 +3386,7 @@
   {
    "kod": "1302007972017",
    "ad": "BİLGİ YÖNETİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3400,7 +3400,7 @@
   {
    "kod": "1302008272016",
    "ad": "FİNANSAL MATEMATİK",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3414,7 +3414,7 @@
   {
    "kod": "1302008472016",
    "ad": "RETAILING I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3428,7 +3428,7 @@
   {
    "kod": "1302008532026",
    "ad": "UYGULAMALI KURUMSAL KAYNAK PLANLAMASI",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3442,7 +3442,7 @@
   {
    "kod": "1302008592014",
    "ad": "YATIRIM YÖNETİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3456,7 +3456,7 @@
   {
    "kod": "1302008792014",
    "ad": "KÜRESEL TEDARİK ZİNCİRİ VE LOJİSTİK",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3470,7 +3470,7 @@
   {
    "kod": "1302008812014",
    "ad": "KURUMSAL İLETİŞİM",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3484,7 +3484,7 @@
   {
    "kod": "1302008892017",
    "ad": "İNSAN KAYNAKLARI YÖNETİMİ UYGULAMALARI",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3498,7 +3498,7 @@
   {
    "kod": "1302008912017",
    "ad": "DIVERSITY MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3512,7 +3512,7 @@
   {
    "kod": "1302008932017",
    "ad": "GLOBAL SOCIAL MOVEMENTS AND ORGANIZATIONS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3526,7 +3526,7 @@
   {
    "kod": "1302008972025",
    "ad": "ARTIFICIAL INTELLIGENCE (AI) LITERACY",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3540,7 +3540,7 @@
   {
    "kod": "1302009012018",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3554,7 +3554,7 @@
   {
    "kod": "1302009032018",
    "ad": "FOREIGN LANGUAGE I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3568,7 +3568,7 @@
   {
    "kod": "1302009052018",
    "ad": "READING AND WRITING IN FOREIGN LANGUAGE",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3582,7 +3582,7 @@
   {
    "kod": "1302009072018",
    "ad": "VESTEL İŞLETMECİLİK SEMİNERLERİ I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3596,7 +3596,7 @@
   {
    "kod": "1302009132020",
    "ad": "ELEKTRONİK PARA KURULUŞLARI,İŞLEMLERİ VE MUHASEBESİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3610,7 +3610,7 @@
   {
    "kod": "1302009152021",
    "ad": "ENFORMETRİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3624,7 +3624,7 @@
   {
    "kod": "1302009172021",
    "ad": "VERİ BİLİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3638,7 +3638,7 @@
   {
    "kod": "1302009192021",
    "ad": "STAJ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3652,7 +3652,7 @@
   {
    "kod": "1303003932004",
    "ad": "İNSAN HAKLARI HUKUKU",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3666,7 +3666,7 @@
   {
    "kod": "1303007872012",
    "ad": "KÜRESEL AKTÖR OLARAK AB",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3680,7 +3680,7 @@
   {
    "kod": "1303008352010",
    "ad": "ULUSLARARASI YÖNETİŞİM",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3694,7 +3694,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.7 - İŞLETME BÖLÜM SEÇMELİ 7.YY",
    "tur": "Seçmeli",
@@ -3708,7 +3708,7 @@
   {
    "kod": "11320203E11802",
    "ad": "OPERATIONS RESEARCH II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -3722,7 +3722,7 @@
   {
    "kod": "11320203E11804",
    "ad": "DEMAND FORECASTING METHODS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -3736,7 +3736,7 @@
   {
    "kod": "11320203E11806",
    "ad": "INVENTORY CONTROL SYSTEMS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -3750,7 +3750,7 @@
   {
    "kod": "11320203E11809",
    "ad": "LOGISTICS MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -3764,7 +3764,7 @@
   {
    "kod": "11320203E11810",
    "ad": "MARKETING RESEARCH",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -3778,7 +3778,7 @@
   {
    "kod": "11320203E11812",
    "ad": "QUALITY ASSURANCE AND CONTROL",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -3792,7 +3792,7 @@
   {
    "kod": "11320203E11818",
    "ad": "SPORTS AND ENTERTAINMENT MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -3806,7 +3806,7 @@
   {
    "kod": "11320203E11820",
    "ad": "NON-GOVERNMENTAL ORGANIZATIONS MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -3820,7 +3820,7 @@
   {
    "kod": "11320203E11822",
    "ad": "MANAGEMENT PHILOSOPHY IN EU",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -3834,7 +3834,7 @@
   {
    "kod": "11320203E11826",
    "ad": "E-MARKETING",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -3848,7 +3848,7 @@
   {
    "kod": "11320203E11828",
    "ad": "TOTAL QUALITY MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -3862,7 +3862,7 @@
   {
    "kod": "11320203E11830",
    "ad": "INTERNATIONAL FINANCE",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -3876,7 +3876,7 @@
   {
    "kod": "11320203E11836",
    "ad": "DECISION THEORY AND MODELS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -3890,7 +3890,7 @@
   {
    "kod": "11320203E11838",
    "ad": "INTERNATIONAL BUSINESS MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -3904,7 +3904,7 @@
   {
    "kod": "11320203E11840",
    "ad": "CURRENT ISSUES IN MARKETING",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -3918,7 +3918,7 @@
   {
    "kod": "11320203E11842",
    "ad": "CURRENT ISSUES IN MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -3932,7 +3932,7 @@
   {
    "kod": "11320203E11844",
    "ad": "EXPORT MARKETING",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -3946,7 +3946,7 @@
   {
    "kod": "11320203E11846",
    "ad": "SUPPLY CHAIN MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -3960,7 +3960,7 @@
   {
    "kod": "11320203E11848",
    "ad": "MARKETING STRATEGY",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -3974,7 +3974,7 @@
   {
    "kod": "11320203E11852",
    "ad": "INDIVIDUAL BEHAVIORS IN ORGANIZATIONS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -3988,7 +3988,7 @@
   {
    "kod": "11320203E11854",
    "ad": "MANAGEMENT AND MANAGERIAL DEVELOPMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4002,7 +4002,7 @@
   {
    "kod": "11320203E11856",
    "ad": "CHANGE MANAGEMENT IN ORGANIZATIONS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4016,7 +4016,7 @@
   {
    "kod": "11320203E11858",
    "ad": "MANAGEMENT OF LARGE SCALE PROJECTS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4030,7 +4030,7 @@
   {
    "kod": "11320203E11860",
    "ad": "INTERNATIONAL FINANCIAL REPORTING STANDARDS",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4044,7 +4044,7 @@
   {
    "kod": "11320203T11834",
    "ad": "SOSYAL SİGORTA TEKNİĞİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4058,7 +4058,7 @@
   {
    "kod": "11320203T11850",
    "ad": "İŞLETMELER İÇİN FRANSIZCA",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4072,7 +4072,7 @@
   {
    "kod": "11320203T11864",
    "ad": "PERFORMANS YÖNETİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4086,7 +4086,7 @@
   {
    "kod": "11320303T11830",
    "ad": "ULUSLARARASI TİCARET II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4100,7 +4100,7 @@
   {
    "kod": "1301007042016",
    "ad": "YENİLİK YÖNETİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4114,7 +4114,7 @@
   {
    "kod": "1301007632011",
    "ad": "FRANSIZCA I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4128,7 +4128,7 @@
   {
    "kod": "1301007642011",
    "ad": "FRANSIZCA II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4142,7 +4142,7 @@
   {
    "kod": "1301007652011",
    "ad": "RUSÇA I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4156,7 +4156,7 @@
   {
    "kod": "1301007662011",
    "ad": "RUSÇA II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4170,7 +4170,7 @@
   {
    "kod": "1301008182006",
    "ad": "TÜRK BANKACILIK SİSTEMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4184,7 +4184,7 @@
   {
    "kod": "1302005062005",
    "ad": "İŞLETME BÜTÇELERİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4198,7 +4198,7 @@
   {
    "kod": "1302005242006",
    "ad": "SİGORTA HUKUKU",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4212,7 +4212,7 @@
   {
    "kod": "1302005442017",
    "ad": "AUDITING",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4226,7 +4226,7 @@
   {
    "kod": "1302005702026",
    "ad": "PAZARLAMADA ÖRNEK OLAY ÇALIŞMALARI II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4240,7 +4240,7 @@
   {
    "kod": "1302006972019",
    "ad": "AKADEMİK TÜRKÇE(Yab.Uyruklu Öğr.ıçın)",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4254,7 +4254,7 @@
   {
    "kod": "1302007722014",
    "ad": "YÖNETİM FELSEFESİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4268,7 +4268,7 @@
   {
    "kod": "1302007742014",
    "ad": "ALMANCA II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4282,7 +4282,7 @@
   {
    "kod": "1302007852014",
    "ad": "ALMANCA I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4296,7 +4296,7 @@
   {
    "kod": "1302007862015",
    "ad": "PORTEKİZCE II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4310,7 +4310,7 @@
   {
    "kod": "1302007872015",
    "ad": "PORTEKİZCE I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4324,7 +4324,7 @@
   {
    "kod": "1302007902015",
    "ad": "CURRENT ISSUES IN LOGISTICS MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4338,7 +4338,7 @@
   {
    "kod": "1302007912015",
    "ad": "TEDARİK ZİNCİRİ YÖNETİMİNDE MODERN YAKLAŞIMLAR",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4352,7 +4352,7 @@
   {
    "kod": "1302007922015",
    "ad": "RETAILING II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4366,7 +4366,7 @@
   {
    "kod": "1302007932017",
    "ad": "ULUSLARARASI PİYASALAR,ÖRGÜTLER VE TOPLUMSAL CİNSİYET EŞİTSİZLİĞİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4380,7 +4380,7 @@
   {
    "kod": "1302007942017",
    "ad": "DEĞERLEME",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4394,7 +4394,7 @@
   {
    "kod": "1302007962017",
    "ad": "PROJE YÖNETİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4408,7 +4408,7 @@
   {
    "kod": "1302008242014",
    "ad": "BİLGİSAYARLI MUHASEBE",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4422,7 +4422,7 @@
   {
    "kod": "1302008322014",
    "ad": "BANKA YÖNETİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4436,7 +4436,7 @@
   {
    "kod": "1302008622014",
    "ad": "RİSK YÖNETİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4450,7 +4450,7 @@
   {
    "kod": "1302008782014",
    "ad": "VERGİ DENETİM VE MUHASEBESİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4464,7 +4464,7 @@
   {
    "kod": "1302008802014",
    "ad": "UYGULAMALI DIŞ TİCARET VE LOJİSTİK",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4478,7 +4478,7 @@
   {
    "kod": "1302008822014",
    "ad": "SİVİL HAVACILIK İŞLETMECİLİĞİ VE MALİYET YÖNETİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4492,7 +4492,7 @@
   {
    "kod": "1302008842016",
    "ad": "ENDÜSTRİYEL PAZARLAMA",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4506,7 +4506,7 @@
   {
    "kod": "1302008862016",
    "ad": "MARKA YÖNETİMİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4520,7 +4520,7 @@
   {
    "kod": "1302008972025",
    "ad": "ARTIFICIAL INTELLIGENCE (AI) LITERACY",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4534,7 +4534,7 @@
   {
    "kod": "1302008982025",
    "ad": "GİRİŞİMCİLİKTE FİZİBİLİTE ETÜDÜ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4548,7 +4548,7 @@
   {
    "kod": "1302009022018",
    "ad": "PORTFÖY YÖNETİMİ VE BORSA UYGULAMALARI",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4562,7 +4562,7 @@
   {
    "kod": "1302009042018",
    "ad": "STRATEGIC BRAND MANAGEMENT",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4576,7 +4576,7 @@
   {
    "kod": "1302009062018",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4590,7 +4590,7 @@
   {
    "kod": "1302009082018",
    "ad": "FOREIGN LANGUAGE II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4604,7 +4604,7 @@
   {
    "kod": "1302009102018",
    "ad": "BUSINESS FOREIGN LANGUAGE I",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4618,7 +4618,7 @@
   {
    "kod": "1302009122018",
    "ad": "VESTEL İŞLETMECİLİK SEMİNERLERİ II",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4632,7 +4632,7 @@
   {
    "kod": "1302009142020",
    "ad": "KRİPTO PARA İŞLEMLERİ VE MUHASEBESİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4646,7 +4646,7 @@
   {
    "kod": "1302009162021",
    "ad": "TEKNOLOJİ UZGÖRÜSÜ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4660,7 +4660,7 @@
   {
    "kod": "1302009182021",
    "ad": "VERİ MADENCİLİĞİ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4674,7 +4674,7 @@
   {
    "kod": "1302009192021",
    "ad": "STAJ",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",
@@ -4688,7 +4688,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": "İşletme",
+   "mufredat": "2014 Yılı Müfredatı (İşletme)",
    "yariyil": null,
    "grup": "İŞL.BÖLÜM.SÇ.8 - İŞLETME BÖLÜM SEÇMELİ 8.YY",
    "tur": "Seçmeli",

@@ -12,7 +12,7 @@
   {
    "kod": "9102015312004",
    "ad": "Bahçe Bıtkılerınde Deneme Teknığı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FENETKZRT2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "FENYLSEM",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "YLTEZ591",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9102015071998",
    "ad": "Meyve Ağaçlarını Çoğaltmanın Bıyolojık Esasları",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9102015151998",
    "ad": "Tohum Depolamanın Temel İlkelerı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9102015171998",
    "ad": "Bahçe Bıtkılerınde Doku Kültürü Uygulamaları I",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9102015191998",
    "ad": "Tohum Bıyolojısı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9102015252002",
    "ad": "Soğanlı ve Yumrulu Süs Bıtkılerı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9102015272002",
    "ad": "Dünya Ülkelerınde Bağcılık ve Karakterıstıklerı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9102015292003",
    "ad": "Bahçe Bıtkılerınde Stres Fızyolojısı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9102015372004",
    "ad": "Bıtkılerde Moleküler Yöntemlerın Kullanımı ve Pratık Uygulamaları",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9102015392016",
    "ad": "Tohumlarda Kalıteyı İyıleştırıcı Uygulamalar",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9102015412005",
    "ad": "Tarımsal Bıyoçeşıtlılık",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9102015432010",
    "ad": "Bıtkılerde Gen Ekspresyonu ve Analız Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9102015452010",
    "ad": "Sebze Islahının Prensıplerı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9102015512011",
    "ad": "Hasat Sonrası İşlemlerde Yenı Uygulamalar",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9102015532011",
    "ad": "Meslekı İngılızce",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9102015552012",
    "ad": "Üzümsü Meyvelerın Yetıştırılme Teknıklerı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9102015572016",
    "ad": "Egzotık Sebze Türlerı ve Yetıştırıcılığı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9102015612016",
    "ad": "Bahçe Bıtkılerı Araştırmalarında Yazım Ve Sunum Teknıklerı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9102015632014",
    "ad": "Bahçe Bıtkılerınde Mıkotoksın Oluşumu",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9102015652014",
    "ad": "Organık Sebze Yetıştırıcılığı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9102015672017",
    "ad": "Mantar Mıselı Üretım Teknığı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9102015692018",
    "ad": "Meyve Ağaçları Fızyolojısı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9102015712018",
    "ad": "Sebze Fızyolojısı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -432,7 +432,7 @@
   {
    "kod": "9102015732018",
    "ad": "Sebze Bahçesı Tesısı ve Yönetımı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -446,7 +446,7 @@
   {
    "kod": "9102015772024",
    "ad": "Şaraplık Üzüm Yetıştırıcılığı ve Gelışımı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-G - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Güz",
    "tur": "Seçmeli",
@@ -460,7 +460,7 @@
   {
    "kod": "9102015021998",
    "ad": "Ampelografı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -474,7 +474,7 @@
   {
    "kod": "9102015081998",
    "ad": "Meyvecılıkte Hormon Uygulamaları",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "9102015121998",
    "ad": "Bahçe Bıtkılerınde Organık Tarım Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "9102015161998",
    "ad": "Sebze Olarak Değerlendırılen Otlar",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9102015182012",
    "ad": "Sebzelerde Fıde Üretım Teknıklerı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "9102015201998",
    "ad": "Bahçe Bıtkılerınde Doku Kültürü Uygulamaları II",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "9102015221998",
    "ad": "Tohumlarda Kalıte Kontrol Yöntemlerı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "9102015241998",
    "ad": "Sera Bıtkılerınde Fızyolojık Bozukluklar",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "9102015261998",
    "ad": "Üzümsü Meyveler ve Kıvı Yetıştırıcılığı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "9102015282002",
    "ad": "Kaktüs ve Dığer Skulentler",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "9102015302002",
    "ad": "Bılgı Kaynaklarına Erışım ve Verı Sunumu",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -614,7 +614,7 @@
   {
    "kod": "9102015322002",
    "ad": "Ekolojık (Organık) Bağ Yetıştırme",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "9102015362004",
    "ad": "Topraksız Tarım Teknıklerı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "9102015422004",
    "ad": "Tohumla Çoğaltılan Kesme, Saksı ve Mevsımlık Çıçekler",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "9102015442004",
    "ad": "Süs Bıtkılerı Islahı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "9102015462004",
    "ad": "Organık Meyve Yetıştırıcılığı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "9102015502004",
    "ad": "Bahçe Bıtkılerınde Laboratuvar Teknığı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "9102015522005",
    "ad": "Organık Tohum ve Fıde Üretımı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "9102015542010",
    "ad": "Uygulamalı Sebze Islahı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "9102015562016",
    "ad": "Bıtkı Genetık Kaynaklarının Toplanması, Karakterızasyonu ve Değerlendırılmesı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "9102015582016",
    "ad": "Asmanın Moleküler Bıyolojısı ve Bıyoteknolojısı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "9102015622016",
    "ad": "Örtüaltı Meyve Yetıştırıcılığı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "9102015642016",
    "ad": "Aşılı Sebze Fıdesı Üretımı Ve Sebzelerde Aşılamanın Fızyolojısı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "9102015662014",
    "ad": "Meyve gelışımı ve olgunlaşması sırasındakı bıyokımyasal değışımler",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "9102015682016",
    "ad": "Sanayı Sebzecılığı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "9102015702016",
    "ad": "Sebze Olarak Değerlendırılen Fılızler ve Çıçekler",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "9102015722016",
    "ad": "Hobı Sebzecılığı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "9102015742018",
    "ad": "İlerı Fıdancılık Teknığı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "9102015762018",
    "ad": "Meyve ve Sebzelerde Bıyokımyasal ve Fızyolojık Analızler",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "9102015782020",
    "ad": "Kentsel Bahçe Bıtkılerı Tarımı",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "9102015802023",
    "ad": "Asmada Morfolojık ve Moleküler Tanımlama",
-   "mufredat": null,
+   "mufredat": "Bahçe Bitkileri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "BAB-SG-YL-B - Bahçe Bitkileri Seçmeli Grubu Yüksek Lisans Bahar",
    "tur": "Seçmeli",

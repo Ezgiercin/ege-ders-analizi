@@ -12,7 +12,7 @@
   {
    "kod": "9229015182020",
    "ad": "Araştırma Yöntemlerı (E)",
-   "mufredat": null,
+   "mufredat": "2014 Turizm Rehberliği, Rekreasyon ve Turist Rehberliği Programı Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "92SE290152022",
    "ad": "Semıner Çalışmaları",
-   "mufredat": null,
+   "mufredat": "2014 Turizm Rehberliği, Rekreasyon ve Turist Rehberliği Programı Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2014 Turizm Rehberliği, Rekreasyon ve Turist Rehberliği Programı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2014 Turizm Rehberliği, Rekreasyon ve Turist Rehberliği Programı Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2014 Turizm Rehberliği, Rekreasyon ve Turist Rehberliği Programı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2014 Turizm Rehberliği, Rekreasyon ve Turist Rehberliği Programı Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "9229015012020",
    "ad": "Turıst Rehberlığı ve Sosyal Bılımler",
-   "mufredat": null,
+   "mufredat": "2014 Turizm Rehberliği, Rekreasyon ve Turist Rehberliği Programı Müfredatı",
    "yariyil": null,
    "grup": "Tur.Reh.Rek.Tur.SDG1 - Turizm Rehberliği",
    "tur": "Seçmeli",
@@ -110,7 +110,7 @@
   {
    "kod": "9229015052014",
    "ad": "Erken Hırıstıyanlık Tarıhı ve Anadolu",
-   "mufredat": null,
+   "mufredat": "2014 Turizm Rehberliği, Rekreasyon ve Turist Rehberliği Programı Müfredatı",
    "yariyil": null,
    "grup": "Tur.Reh.Rek.Tur.SDG1 - Turizm Rehberliği",
    "tur": "Seçmeli",
@@ -124,7 +124,7 @@
   {
    "kod": "9229015072014",
    "ad": "Eşya Mekan ve İnsan",
-   "mufredat": null,
+   "mufredat": "2014 Turizm Rehberliği, Rekreasyon ve Turist Rehberliği Programı Müfredatı",
    "yariyil": null,
    "grup": "Tur.Reh.Rek.Tur.SDG1 - Turizm Rehberliği",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9229015092014",
    "ad": "İzmır ve Rehberlık",
-   "mufredat": null,
+   "mufredat": "2014 Turizm Rehberliği, Rekreasyon ve Turist Rehberliği Programı Müfredatı",
    "yariyil": null,
    "grup": "Tur.Reh.Rek.Tur.SDG1 - Turizm Rehberliği",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9229015172020",
    "ad": "Turızmın Temel İlkelerı",
-   "mufredat": null,
+   "mufredat": "2014 Turizm Rehberliği, Rekreasyon ve Turist Rehberliği Programı Müfredatı",
    "yariyil": null,
    "grup": "Tur.Reh.Rek.Tur.SDG1 - Turizm Rehberliği",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9229015212022",
    "ad": "Anadolu'da Türk Devrı Mımarısınde Dını ve Sosyal Yapılar",
-   "mufredat": null,
+   "mufredat": "2014 Turizm Rehberliği, Rekreasyon ve Turist Rehberliği Programı Müfredatı",
    "yariyil": null,
    "grup": "Tur.Reh.Rek.Tur.SDG1 - Turizm Rehberliği",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9229015252024",
    "ad": "Somut Olmayan Kültürel Mıras ve Turızm",
-   "mufredat": null,
+   "mufredat": "2014 Turizm Rehberliği, Rekreasyon ve Turist Rehberliği Programı Müfredatı",
    "yariyil": null,
    "grup": "Tur.Reh.Rek.Tur.SDG1 - Turizm Rehberliği",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9229015022017",
    "ad": "Doğu Roma İmparatorluğu Dönemınde İstanbul",
-   "mufredat": null,
+   "mufredat": "2014 Turizm Rehberliği, Rekreasyon ve Turist Rehberliği Programı Müfredatı",
    "yariyil": null,
    "grup": "Tur.Reh.Rek.Tur.SDG2 - Turizm Rehberliği 2",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9229015062014",
    "ad": "Antık Çağ Felsefesı ve Anadolu",
-   "mufredat": null,
+   "mufredat": "2014 Turizm Rehberliği, Rekreasyon ve Turist Rehberliği Programı Müfredatı",
    "yariyil": null,
    "grup": "Tur.Reh.Rek.Tur.SDG2 - Turizm Rehberliği 2",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9229015082014",
    "ad": "Anadolu İnançları",
-   "mufredat": null,
+   "mufredat": "2014 Turizm Rehberliği, Rekreasyon ve Turist Rehberliği Programı Müfredatı",
    "yariyil": null,
    "grup": "Tur.Reh.Rek.Tur.SDG2 - Turizm Rehberliği 2",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9229015122014",
    "ad": "İmparatorluk Kültlerı ve Anadolu",
-   "mufredat": null,
+   "mufredat": "2014 Turizm Rehberliği, Rekreasyon ve Turist Rehberliği Programı Müfredatı",
    "yariyil": null,
    "grup": "Tur.Reh.Rek.Tur.SDG2 - Turizm Rehberliği 2",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9229015162014",
    "ad": "Turızmde Güncel Gelışmeler",
-   "mufredat": null,
+   "mufredat": "2014 Turizm Rehberliği, Rekreasyon ve Turist Rehberliği Programı Müfredatı",
    "yariyil": null,
    "grup": "Tur.Reh.Rek.Tur.SDG2 - Turizm Rehberliği 2",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9229015302022",
    "ad": "Anadolu'da Türk Devrı Mımarısınde Süsleme ve El Sanatları",
-   "mufredat": null,
+   "mufredat": "2014 Turizm Rehberliği, Rekreasyon ve Turist Rehberliği Programı Müfredatı",
    "yariyil": null,
    "grup": "Tur.Reh.Rek.Tur.SDG2 - Turizm Rehberliği 2",
    "tur": "Seçmeli",

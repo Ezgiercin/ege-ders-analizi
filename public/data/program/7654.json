@@ -12,7 +12,7 @@
   {
    "kod": "1991001012010",
    "ad": "TÜRK DİLİ-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "1991001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "1991001032010",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "1991001052010",
    "ad": "MATEMATİK",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "1991001192010",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "1991001232018",
    "ad": "TEMEL TASARIM",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "1991001312018",
    "ad": "BİLGİ VE İLETİŞİM TEKNOLOJİSİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "1991001332018",
    "ad": "BİLGİSAYAR DESTEKLİ GRAFİK TAS.-1",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "1991001332020",
    "ad": "DESEN",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "1991001352020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "1991000922010",
    "ad": "TÜRK DİLİ-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "1991000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "1991000962010",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "1991001042010",
    "ad": "YAZI VE TİPOGRAFİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "1991001162018",
    "ad": "AMBALAJ TASARIMI I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "1991001192010",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "1991001202018",
    "ad": "BİLGİSAYAR DESTEKLİ GRAFİK TAS.-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "1991001242018",
    "ad": "İLLUSTRASYON",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "11919101T11203",
    "ad": "ÖZGÜN BASKI-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "11919101T11205",
    "ad": "MESLEKİ GELİŞİMLER",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "11919108T11214",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "1991002152018",
    "ad": "GÖRSEL TASARIM-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "1991002172018",
    "ad": "ARAŞTIRMA YÖNTEM VE TEKNİKLERİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "1991002192018",
    "ad": "GÖRÜNTÜ İŞLEME TEKNİKLERİ-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "1991002232018",
    "ad": "AMBALAJ TASARIMI II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "1991002252018",
    "ad": "BİLGİSAYAR DESTEKLİ GRAFİK TAS.-III",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "11919101T11206",
    "ad": "PROJE HAZIRLAMA",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "11919101T11210",
    "ad": "ÖZGÜN BASKI-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "11919108T11214",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "1991002262018",
    "ad": "WEB TASARIM",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "1991002282018",
    "ad": "YAYIN GRAFİĞİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "1991002302018",
    "ad": "GÖRÜNTÜ İŞLEME TEKNİKLERİ-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "1991002342018",
    "ad": "GÖRSEL TASARIM-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "1991001252018",
    "ad": "GRAFİK TASARIM TARİHİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SEÇGR19-91-1 - SEÇGR19-91-1",
    "tur": "Seçmeli",
@@ -488,7 +488,7 @@
   {
    "kod": "1991001292018",
    "ad": "GÖRSEL İLETİŞİM",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SEÇGR19-91-1 - SEÇGR19-91-1",
    "tur": "Seçmeli",
@@ -502,7 +502,7 @@
   {
    "kod": "1991001182018",
    "ad": "GRAFİK DESEN",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SEÇGR19-91-2 - SEÇGR19-91-2",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "1991001222018",
    "ad": "FOTOĞRAF ÇEKİM TEKNİKLERİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SEÇGR19-91-2 - SEÇGR19-91-2",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "1991002212018",
    "ad": "KALİTE GÜVENCE VE STANDARTLARI",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SEÇGR19-91-3 - SEÇGR19-91-3",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "1991002312018",
    "ad": "HAREKETLİ GRAFİK",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SEÇGR19-91-3 - SEÇGR19-91-3",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "1991002242014",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SEÇGR19-91-4 - SEÇGR19-91-4",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "1991002322018",
    "ad": "İŞLETME YÖNETİMİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2020 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SEÇGR19-91-4 - SEÇGR19-91-4",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "1991001012010",
    "ad": "TÜRK DİLİ-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "1991001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "1991001032010",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -628,7 +628,7 @@
   {
    "kod": "1991001192010",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "1991001232018",
    "ad": "TEMEL TASARIM",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "1991001312018",
    "ad": "BİLGİ VE İLETİŞİM TEKNOLOJİSİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "1991001332018",
    "ad": "BİLGİSAYAR DESTEKLİ GRAFİK TAS.-1",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "1991001332020",
    "ad": "DESEN",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -698,7 +698,7 @@
   {
    "kod": "1991001352020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -712,7 +712,7 @@
   {
    "kod": "1991001372023",
    "ad": "YAZI VE TİPOGRAFİ I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -726,7 +726,7 @@
   {
    "kod": "1991000922010",
    "ad": "TÜRK DİLİ-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -740,7 +740,7 @@
   {
    "kod": "1991000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -754,7 +754,7 @@
   {
    "kod": "1991000962010",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "1991001162018",
    "ad": "AMBALAJ TASARIMI I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -782,7 +782,7 @@
   {
    "kod": "1991001192010",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -796,7 +796,7 @@
   {
    "kod": "1991001202018",
    "ad": "BİLGİSAYAR DESTEKLİ GRAFİK TAS.-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -810,7 +810,7 @@
   {
    "kod": "1991001242018",
    "ad": "İLLUSTRASYON",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -824,7 +824,7 @@
   {
    "kod": "1991001262023",
    "ad": "YAZI VE TİPOGRAFİ II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -838,7 +838,7 @@
   {
    "kod": "1991001302023",
    "ad": "SANAT VE TASARIM KÜLTÜRÜ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -852,7 +852,7 @@
   {
    "kod": "1991001382023",
    "ad": "REKLAM ANALİZİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -866,7 +866,7 @@
   {
    "kod": "11919101T11203",
    "ad": "ÖZGÜN BASKI-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -880,7 +880,7 @@
   {
    "kod": "11919108T11214",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -894,7 +894,7 @@
   {
    "kod": "1991002152018",
    "ad": "GÖRSEL TASARIM-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -908,7 +908,7 @@
   {
    "kod": "1991002232018",
    "ad": "AMBALAJ TASARIMI II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -922,7 +922,7 @@
   {
    "kod": "1991002252018",
    "ad": "BİLGİSAYAR DESTEKLİ GRAFİK TAS.-III",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -936,7 +936,7 @@
   {
    "kod": "1991002352023",
    "ad": "MARKA YÖNETİMİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -950,7 +950,7 @@
   {
    "kod": "1991002372023",
    "ad": "TASARIM KÜLTÜRÜ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -964,7 +964,7 @@
   {
    "kod": "1991002392023",
    "ad": "MULTİ MEDYA I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -978,7 +978,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -992,7 +992,7 @@
   {
    "kod": "11919101T11210",
    "ad": "ÖZGÜN BASKI-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1006,7 +1006,7 @@
   {
    "kod": "11919108T11214",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1020,7 +1020,7 @@
   {
    "kod": "1991002282018",
    "ad": "YAYIN GRAFİĞİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1034,7 +1034,7 @@
   {
    "kod": "1991002342018",
    "ad": "GÖRSEL TASARIM-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1048,7 +1048,7 @@
   {
    "kod": "1991002422023",
    "ad": "VİDEO SANATI",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1062,7 +1062,7 @@
   {
    "kod": "1991002442023",
    "ad": "PORTFOLYO TASARIMI",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1076,7 +1076,7 @@
   {
    "kod": "1991002462023",
    "ad": "MULTİ MEDYA II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1090,7 +1090,7 @@
   {
    "kod": "1991002482023",
    "ad": "KURUMSAL KİMLİK",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1104,7 +1104,7 @@
   {
    "kod": "1991001252018",
    "ad": "GRAFİK TASARIM TARİHİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SEÇMELİ.GRAFİK1 - SEÇMELİ GRAFİK 1. GRUP",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "1991001272018",
    "ad": "PERSPEKTİF",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SEÇMELİ.GRAFİK1 - SEÇMELİ GRAFİK 1. GRUP",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "1991001292018",
    "ad": "GÖRSEL İLETİŞİM",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SEÇMELİ.GRAFİK1 - SEÇMELİ GRAFİK 1. GRUP",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "1991001222018",
    "ad": "FOTOĞRAF ÇEKİM TEKNİKLERİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SEÇMELİ.GRAFİK2 - SEÇMELİ GRAFİK 2. GRUP",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "1991002272018",
    "ad": "BASKI TEKNİKLERİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SEÇMELİ.GRAFİK2 - SEÇMELİ GRAFİK 2. GRUP",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "1991002292018",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SEÇMELİ.GRAFİK3 - SEÇMELİ GRAFİK 3. GRUP",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "1991002312018",
    "ad": "HAREKETLİ GRAFİK",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SEÇMELİ.GRAFİK3 - SEÇMELİ GRAFİK 3. GRUP",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "1991002502023",
    "ad": "GÖSTERGEBİLİM",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SEÇMELİ.GRAFİK3 - SEÇMELİ GRAFİK 3. GRUP",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "11919106T11216",
    "ad": "MESLEK ETİĞİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SEÇMELİ.GRAFİK4 - SEÇMELİ GRAFİK 4. GRUP",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "1991002242014",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SEÇMELİ.GRAFİK4 - SEÇMELİ GRAFİK 4. GRUP",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "1991002322018",
    "ad": "İŞLETME YÖNETİMİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2023 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SEÇMELİ.GRAFİK4 - SEÇMELİ GRAFİK 4. GRUP",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "1991001012010",
    "ad": "TÜRK DİLİ-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1272,7 +1272,7 @@
   {
    "kod": "1991001022010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1286,7 +1286,7 @@
   {
    "kod": "1991001032010",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1300,7 +1300,7 @@
   {
    "kod": "1991001192010",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1314,7 +1314,7 @@
   {
    "kod": "1991001232018",
    "ad": "TEMEL TASARIM",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1328,7 +1328,7 @@
   {
    "kod": "1991001332018",
    "ad": "BİLGİSAYAR DESTEKLİ GRAFİK TAS.-1",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1342,7 +1342,7 @@
   {
    "kod": "1991001332020",
    "ad": "DESEN",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1356,7 +1356,7 @@
   {
    "kod": "1991001352020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1370,7 +1370,7 @@
   {
    "kod": "1991001372023",
    "ad": "YAZI VE TİPOGRAFİ I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1384,7 +1384,7 @@
   {
    "kod": "1991001472025",
    "ad": "BİLGİSAYAR",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1398,7 +1398,7 @@
   {
    "kod": "1991000922010",
    "ad": "TÜRK DİLİ-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1412,7 +1412,7 @@
   {
    "kod": "1991000942010",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1426,7 +1426,7 @@
   {
    "kod": "1991000962010",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1440,7 +1440,7 @@
   {
    "kod": "1991001162018",
    "ad": "AMBALAJ TASARIMI I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1454,7 +1454,7 @@
   {
    "kod": "1991001192010",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1468,7 +1468,7 @@
   {
    "kod": "1991001202018",
    "ad": "BİLGİSAYAR DESTEKLİ GRAFİK TAS.-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1482,7 +1482,7 @@
   {
    "kod": "1991001242018",
    "ad": "İLLUSTRASYON",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1496,7 +1496,7 @@
   {
    "kod": "1991001262023",
    "ad": "YAZI VE TİPOGRAFİ II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1510,7 +1510,7 @@
   {
    "kod": "1991001382023",
    "ad": "REKLAM ANALİZİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1524,7 +1524,7 @@
   {
    "kod": "11919101T11203",
    "ad": "ÖZGÜN BASKI-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1538,7 +1538,7 @@
   {
    "kod": "11919108T11214",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1552,7 +1552,7 @@
   {
    "kod": "1991002152018",
    "ad": "GÖRSEL TASARIM-I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1566,7 +1566,7 @@
   {
    "kod": "1991002232018",
    "ad": "AMBALAJ TASARIMI II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1580,7 +1580,7 @@
   {
    "kod": "1991002252018",
    "ad": "BİLGİSAYAR DESTEKLİ GRAFİK TAS.-III",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1594,7 +1594,7 @@
   {
    "kod": "1991002352023",
    "ad": "MARKA YÖNETİMİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1608,7 +1608,7 @@
   {
    "kod": "1991002372023",
    "ad": "TASARIM KÜLTÜRÜ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1622,7 +1622,7 @@
   {
    "kod": "1991002392023",
    "ad": "MULTİ MEDYA I",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1636,7 +1636,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1650,7 +1650,7 @@
   {
    "kod": "11919101T11210",
    "ad": "ÖZGÜN BASKI-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1664,7 +1664,7 @@
   {
    "kod": "11919108T11214",
    "ad": "ENDÜSTRİYE DAYALI ÖĞRETİM-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1678,7 +1678,7 @@
   {
    "kod": "1991002282018",
    "ad": "YAYIN GRAFİĞİ",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1692,7 +1692,7 @@
   {
    "kod": "1991002342018",
    "ad": "GÖRSEL TASARIM-II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1706,7 +1706,7 @@
   {
    "kod": "1991002422023",
    "ad": "VİDEO SANATI",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1714,13 +1714,13 @@
    "teori": 2,
    "uygulama": 2,
    "laboratuvar": null,
-   "akts": null,
+   "akts": 4,
    "detayYolu": "/DereceProgramlari/Ders/0/7654/295703/792645/1/2026"
   },
   {
    "kod": "1991002442023",
    "ad": "PORTFOLYO TASARIMI",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1734,7 +1734,7 @@
   {
    "kod": "1991002462023",
    "ad": "MULTİ MEDYA II",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1742,13 +1742,13 @@
    "teori": 2,
    "uygulama": 2,
    "laboratuvar": null,
-   "akts": null,
+   "akts": 4,
    "detayYolu": "/DereceProgramlari/Ders/0/7654/295707/792647/1/2026"
   },
   {
    "kod": "1991002482023",
    "ad": "KURUMSAL KİMLİK",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1762,7 +1762,7 @@
   {
    "kod": "1991002622025",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1776,7 +1776,7 @@
   {
    "kod": "1991002312018",
    "ad": "HAREKETLİ GRAFİK",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SDG.GRAFİK-3 - SEÇMELİ DERS GRUBU (GT) 3",
    "tur": "Seçmeli",
@@ -1790,7 +1790,7 @@
   {
    "kod": "1991002502023",
    "ad": "GÖSTERGEBİLİM",
-   "mufredat": "Grafik Tasarımı İKMEP",
+   "mufredat": "2025 Yılı Müfredatı (Grafik Tasarımı İKMEP)",
    "yariyil": null,
    "grup": "SDG.GRAFİK-3 - SEÇMELİ DERS GRUBU (GT) 3",
    "tur": "Seçmeli",

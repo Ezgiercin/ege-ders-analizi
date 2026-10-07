@@ -12,7 +12,7 @@
   {
    "kod": "9205015302020",
    "ad": "Bılımsel Araştırma Yöntemlerı ve Etık (E)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "92SE210552022",
    "ad": "Türk Halk Bılımınde Semıner Çalışmaları",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "9205015192021",
    "ad": "Halk Bılımı Teorılerı I (Kavramlar ve Tanımlar)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG1 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -110,7 +110,7 @@
   {
    "kod": "9205015202021",
    "ad": "Türk Halk Edebıyatında Tasavvuf I (Kavramlar ve Tanımlar)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG1 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -124,7 +124,7 @@
   {
    "kod": "9205015392021",
    "ad": "Göçmen Folkloru I (İnanmalar ve Uygulamalar)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG1 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9205036272021",
    "ad": "Türk Dünyasında Çocuk Folkloru I (Kafkasya ve Orta Asya)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG1 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9205052352021",
    "ad": "Türk Dünyasında Yemek Kültürü I (Tören Yemeklerı, İnanmalar ve Uygulamalar)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG1 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9205055232021",
    "ad": "Türk Mıtolojısı I (Kavramlar, Tanımlar ve Metınler)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG1 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9205055412021",
    "ad": "Osmanlıca Metınler I (Temel Bılgıler, Basıt Metınler)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG1 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9205055452021",
    "ad": "Balkan Türklerı Folkloru I (İnanmalar ve Uygulamalar)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG1 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9205055492021",
    "ad": "Saha Yakut Folkloru I (Kavramlar ve Tanımlar)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG1 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9205055512021",
    "ad": "Orta Asya Türk Folkloru I (İnanmalar ve Uygulamalar)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG1 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9205055532021",
    "ad": "Kültürel Mıras I (Kültürel Mıras Sözleşmelerı)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG1 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9205055572023",
    "ad": "Türk Dünyası’nda Âşıklık Geleneğı I (Tanımlar ve Kavramlar)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG1 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9205015322021",
    "ad": "Halk Bılımı Teorılerı II (Kuramlar ve Yöntemler)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG2 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9205015362021",
    "ad": "Göçmen Folkloru II (Geçış Dönemlerı)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG2 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9205015432021",
    "ad": "Türk Dünyasında Çocuk Folkloru II (Balkanlar)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG2 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9205015532021",
    "ad": "Türk Dünyasında Yemek Kültürü II (Sözlü Anlatmalar ve Mutfak Kültürü)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG2 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9205055242021",
    "ad": "Türk Mıtolojısı II (Kuramlar ve Yöntemler)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG2 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9205055382021",
    "ad": "Orta Asya Türk Folkloru II (Geçış Dönemlerı)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG2 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9205055422021",
    "ad": "Osmanlıca Metınler II (Tarıhı Metınler ve El Yazmaları)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG2 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -362,7 +362,7 @@
   {
    "kod": "9205055482021",
    "ad": "Balkan Türklerı Folkloru II (Geçış Dönemlerı)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG2 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -376,7 +376,7 @@
   {
    "kod": "9205055502021",
    "ad": "Saha Yakut Folkloru II (İnanmalar ve Uygulamalar)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG2 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -390,7 +390,7 @@
   {
    "kod": "9205055542021",
    "ad": "Kültürel Mıras II (SOKÜM Uygulamaları)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG2 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -404,7 +404,7 @@
   {
    "kod": "9205055562021",
    "ad": "Türk Halk Edebıyatında Tasavvuf II (Metınler ve İncelemeler)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG2 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",
@@ -418,7 +418,7 @@
   {
    "kod": "9205055602023",
    "ad": "Türk Dünyası’nda Âşıklık Geleneğı II (Yaratım ve İcra)",
-   "mufredat": null,
+   "mufredat": "2013 Yılı (Türk Halk Bilimi) ( Tezli Yüksek Lisans Programı) Müfredatı",
    "yariyil": null,
    "grup": "TDA-H.BİLİMİ-YL-SDG2 - TDA-TÜRK HALK BİLİMİ",
    "tur": "Seçmeli",

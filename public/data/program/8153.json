@@ -12,7 +12,7 @@
   {
    "kod": "ÖZE101AE",
    "ad": "ZİHİN YETERSİZLİĞİ VE OTİZM SPEKTRUM BOZUKLUĞU",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "ÖZE101GK",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "ÖZE103AE",
    "ad": "ÖZEL EĞİTİM",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "ÖZE103GK",
    "ad": "TÜRK DİLİ 1",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "ÖZE105GK",
    "ad": "YABANCI DİL 1",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "ÖZE107GK",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ 1",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "ÖZE109GK",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "PF201",
    "ad": "EĞİTİME GİRİŞ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "ÖZE102AE",
    "ad": "İŞİTME VE GÖRME YETERSİZLİĞİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "ÖZE102GK",
    "ad": "TÜRK DİLİ 2",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "ÖZE104AE",
    "ad": "ÖĞRENME GÜÇLÜĞÜ VE ÖZEL YETENEK",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "ÖZE104GK",
    "ad": "YABANCI DİL 2",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "ÖZE106GK",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ 2",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "ÖZEGKSEÇ1",
    "ad": "GK SEÇMELİ 1",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "ÖZEMBSEÇ1",
    "ad": "MB SEÇMELİ 1",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -264,7 +264,7 @@
   {
    "kod": "ÖZE201AE",
    "ad": "UYGULAMALI DAVRANIŞ ANALIZİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "ÖZE203AE",
    "ad": "ÖZEL EĞİTİMDE DEĞERLENDİRME",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "ÖZE205AE",
    "ad": "ÖZEL EĞİTİMDE BÜTÜNLEŞTİRME",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "ÖZE207AE",
    "ad": "ERKEN ÇOCUKLUKTA ÖZEL EĞİTİM",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "ÖZE209AE",
    "ad": "TÜRK İŞARET DİLİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "ÖZEGKSEÇ2",
    "ad": "SEÇMELİ 2 ( GENEL KÜLTÜR )",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -376,7 +376,7 @@
   {
    "kod": "ÖZE202AE",
    "ad": "ÖZEL EĞİTİMDE TEKNOLOJİ DESTEKLİ ÖĞRETİM",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "ÖZE204AE",
    "ad": "BİREYSELLEŞTİRİLMİŞ EĞİTİM VE GEÇİŞ PLANLARININ HAZIRLANMASI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "ÖZE206AE",
    "ad": "DİL VE İLETİŞİM BECERİLERİNİN DESTEKLENMESİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "ÖZE206MB",
    "ad": "ALAN DENEYİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -474,7 +474,7 @@
   {
    "kod": "ÖZE301MB",
    "ad": "BİLİMSEL ARAŞTIRMA YÖNTEMLERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "ÖZE303AE",
    "ad": "ÖZEL EĞİTİMDE OKUMA-YAZMA ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "ÖZE305AE",
    "ad": "ÖZEL EĞİTİMDE MATEMATİK ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "ÖZE307AE",
    "ad": "ÖZEL EĞİTİMDE FEN VE SOSYAL BİLGİLER ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "ÖZE311AE",
    "ad": "ÖZEL EĞİTİMDE ÖĞRETİM PLANI GELİŞTİRME VE UYGULAMA",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "ÖZEAESEÇ1",
    "ad": "SEÇMELİ I (ALAN EĞİTİM)",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -572,7 +572,7 @@
   {
    "kod": "ÖZE302AE",
    "ad": "BRAİLLE OKUMA-YAZMA",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "ÖZE304AE",
    "ad": "ÖZEL EĞİTİMDE SOSYAL UYUM BECERİLERİNİN ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "ÖZE306AE",
    "ad": "ÖZEL EĞİTİMDE TÜRKÇE ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "ÖZE308AE",
    "ad": "ÖZEL EĞİTİMDE AİLE EĞİTİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -628,7 +628,7 @@
   {
    "kod": "ÖZE310AE",
    "ad": "ÖZEL EĞİTİMDE FİZİKSEL EĞİTİM VE SPOR",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "ÖZEAESEÇ2",
    "ad": "SEÇMELİ II (ALAN EĞİTİMİ)",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -670,7 +670,7 @@
   {
    "kod": "ÖZE401AE",
    "ad": "ÖZEL EĞİTİMDE MATERYAL TASARIMI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "ÖZEAESEÇ3",
    "ad": "SEÇMELİ 3 (ALAN EĞİTİM) (DERS 1)",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "ÖZEAESEÇ4",
    "ad": "SEÇMELİ 4 (ALAN EĞİTİM) (DERS 1)",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "ÖZEMBSEÇ2",
    "ad": "SEÇMELİ 2 (MESLEK BİLGİSİ) (DERS 1)",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -740,7 +740,7 @@
   {
    "kod": "PF408",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -754,7 +754,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -782,7 +782,7 @@
   {
    "kod": "ÖZAESEÇ6",
    "ad": "SEÇMELİ 6 (ALAN EĞİTİM) (DERS 1)",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "ÖZE402AE",
    "ad": "ÖZEL EĞİTİMDE OYUN VE MÜZİK",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -810,7 +810,7 @@
   {
    "kod": "ÖZE402GK",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -824,7 +824,7 @@
   {
    "kod": "ÖZE404MB",
    "ad": "ÖĞRETMENLİK UYGULAMASI II",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -838,7 +838,7 @@
   {
    "kod": "ÖZEAESEÇ5",
    "ad": "SEÇMELİ 5 (ALAN EĞİTİM) (DERS 1)",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -866,7 +866,7 @@
   {
    "kod": "ÖZEGKSEÇ001",
    "ad": "SANAT VE ESTETİK",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEGKSEÇ1 - GK SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "ÖZEGKSEÇ002",
    "ad": "ÇEVRE EĞİTİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEGKSEÇ1 - GK SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "ÖZEGKSEÇ003",
    "ad": "PSİKOLOJİDE SEÇME KONULAR",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEGKSEÇ1 - GK SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "ÖZEMBSEÇ001",
    "ad": "EĞİTİM TARİHİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEMBSEÇ1 - MB SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "ÖZEMBSEÇ002",
    "ad": "KARŞILAŞTIRMALI EĞİTİM",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEMBSEÇ1 - MB SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "ÖZEMBSEÇ003",
    "ad": "EĞİTİM FELSEFESİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEMBSEÇ1 - MB SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "ÖZEMBSEÇ004",
    "ad": "ELEŞTİREL DÜŞÜNME BECERİLERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEMBSEÇ1 - MB SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "ÖZEGKSEÇ004",
    "ad": "KARAKTER VE DEĞER EĞİTİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEGKSEÇ2 - SEÇMELİ 2 ( GENEL KÜLTÜR )",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "ÖZEGKSEÇ005",
    "ad": "TÜRK KÜLTÜR TARİHİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEGKSEÇ2 - SEÇMELİ 2 ( GENEL KÜLTÜR )",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "ÖZEGKSEÇ006",
    "ad": "AKADEMİK TÜRKÇE",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEGKSEÇ2 - SEÇMELİ 2 ( GENEL KÜLTÜR )",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "ÖZEGKSEÇ007",
    "ad": "TRAFİK VE İLK YARDIM",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEGKSEÇ2 - SEÇMELİ 2 ( GENEL KÜLTÜR )",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "ÖZEAESEÇ002",
    "ad": "İŞİTME VE DİL YETERSİZLİĞİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEAESEÇ1 - SEÇMELİ I (ALAN EĞİTİM)",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "ÖZEAESEÇ003",
    "ad": "OSB'DE DAVRANIŞ YÖNETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEAESEÇ1 - SEÇMELİ I (ALAN EĞİTİM)",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "ÖZEASEÇ01",
    "ad": "ÖĞRENME GÜÇLÜĞÜNDE ÖĞRETİMSEL MÜDAHALELER",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEAESEÇ1 - SEÇMELİ I (ALAN EĞİTİM)",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "Bİİ305ANKK",
    "ad": "ANA KONULARIYLA KUR'AN",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "Bİİ305DİNT",
    "ad": "DİNLER TARİHİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "Bİİ305DSG",
    "ad": "DİN SOSYOLOJİSİNE GİRİŞ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "Bİİ305KOAI",
    "ad": "KUR'ÂN OKUMA VE ANLAMA I",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "Bİİ305MESO",
    "ad": "MESNEVİ OKUMALARI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "DTMK305HALO",
    "ad": "HALK OYUNLARI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "DTMK305İLMÜ",
    "ad": "İLETİŞİM VE MÜZİK I",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "DTMK305TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ I",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "DTMK305TOSES",
    "ad": "TOPLU SES EĞİTİMİ VE KORO UYGULAMALARI I",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "ENF305ÖSMW",
    "ad": "ÖĞRETİMDE SOSYAL MEDYA VE WEB2.0 ARAÇLARI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "ENF305YMT",
    "ad": "YENİ MEDYA TEKNOLOJİLERİ VE DİJİTAL YAYINCILIK",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "FEN305BİYO",
    "ad": "BİYOTEKNOLOJİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "FEN305ENÇ",
    "ad": "ENERJİ VE ÇEVRE",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "FEN305GIDGUV",
    "ad": "GIDA GÜVENLİĞİ (MİKROBİYOLOJİ AĞIRLIKLI)",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "FEN305MAHY",
    "ad": "MATEMATİK HER YERDE",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "FEN305MAST",
    "ad": "MODERN ASTRONOMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "İİB307IGP",
    "ad": "INTRODUCTION TO GLOBAL POLITICS",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "SPB305BAS",
    "ad": "BASKETBOL",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "SPB305YÜZ",
    "ad": "YÜZME",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "SUÜ305AKV",
    "ad": "AKVARYUM DÜNYASI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "SUÜ305TSC",
    "ad": "TEHLİKELİ SUCUL CANLILAR",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "YEN305GYKA",
    "ad": "GİRİŞİMCİLİKTE YATIRIM KARAR ANALİZLERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "ZİR303AKTA",
    "ad": "AKILLI TARIM",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "ZİR305TABY",
    "ad": "TIBBİ VE AROMATİK BİTKİ YETİŞTİRİCİLİĞİNİN TEMEL İLKELERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "ZİR306GIDG",
    "ad": "GIDA GÜVENLİĞİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "ÖZEAESEÇ004",
    "ad": "ERKEN MÜDAHALE PROGRAMI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEAESEÇ2 - SEÇMELİ II (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "ÖZEAESEÇ005",
    "ad": "ZİHİNSEL YETERSİZLİKTE KAVRAM ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEAESEÇ2 - SEÇMELİ II (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "ÖZEAESEÇ006",
    "ad": "OSB'DE TEMEL BECERİLERİN KAZANDIRILMASI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEAESEÇ2 - SEÇMELİ II (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "ÖZEAESEÇ021",
    "ad": "ÖZEL YETENEKLİ BİREYLERİN SOSYAL, DUYGUSAL VE AKADEMİK GELİŞİMLERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEAESEÇ2 - SEÇMELİ II (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "Bİİ305DS",
    "ad": "DİN VE SANAT",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "Bİİ306DİVKA",
    "ad": "DİNLER VE KADIN",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "DTMK306İLMÜ",
    "ad": "İLETİŞİM VE MÜZİK II",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1510,7 +1510,7 @@
   {
    "kod": "DTMK306SAMR",
    "ad": "SANAT MÜZİK VE RİTİM",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1524,7 +1524,7 @@
   {
    "kod": "DTMK306TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ II",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1538,7 +1538,7 @@
   {
    "kod": "DTMSK306TOSES",
    "ad": "TOPLU SES EĞİTİMİ VE KORO UYGULAMALARI II",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1552,7 +1552,7 @@
   {
    "kod": "EDB306KÜLS",
    "ad": "KÜLTÜR SOSYOLOJİSİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1566,7 +1566,7 @@
   {
    "kod": "ENF305WEB",
    "ad": "WEB TASARIMI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1580,7 +1580,7 @@
   {
    "kod": "FEN305BİYO",
    "ad": "BİYOTEKNOLOJİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1594,7 +1594,7 @@
   {
    "kod": "FEN306MATDÜ",
    "ad": "MATEMATİKSEL DÜŞÜNME",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1608,7 +1608,7 @@
   {
    "kod": "FEN306TEAS",
    "ad": "TEMEL ASTRONOMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1622,7 +1622,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1636,7 +1636,7 @@
   {
    "kod": "İLE306REHEK",
    "ad": "REKLAMDA HEDEF KİTLE",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1650,7 +1650,7 @@
   {
    "kod": "SPB305YÜZ",
    "ad": "YÜZME",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1664,7 +1664,7 @@
   {
    "kod": "ZİR303AKTA",
    "ad": "AKILLI TARIM",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1678,7 +1678,7 @@
   {
    "kod": "ZİR305TABY",
    "ad": "TIBBİ VE AROMATİK BİTKİ YETİŞTİRİCİLİĞİNİN TEMEL İLKELERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1692,7 +1692,7 @@
   {
    "kod": "ZİR306GIDG",
    "ad": "GIDA GÜVENLİĞİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -1706,7 +1706,7 @@
   {
    "kod": "ÖZEAESEÇ007",
    "ad": "ÇOKLU YETERSİZLİK VE EĞİTİMLERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEAESEÇ3 - SEÇMELİ 3 (ALAN EĞİTİM) (DERS 1)",
    "tur": "Seçmeli",
@@ -1720,7 +1720,7 @@
   {
    "kod": "ÖZEAESEÇ008",
    "ad": "ÖZEL YETENEKTE TANILAMA MODELLERİ VE TESTLERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEAESEÇ3 - SEÇMELİ 3 (ALAN EĞİTİM) (DERS 1)",
    "tur": "Seçmeli",
@@ -1734,7 +1734,7 @@
   {
    "kod": "ÖZEAESEÇ009",
    "ad": "CİNSEL GELİŞİM VE MAHREMİYET EĞİTİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEAESEÇ3 - SEÇMELİ 3 (ALAN EĞİTİM) (DERS 1)",
    "tur": "Seçmeli",
@@ -1748,7 +1748,7 @@
   {
    "kod": "ÖZEAESEÇ010",
    "ad": "ÖĞRETİMDE FARKLILAŞTIRMA",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEAESEÇ3 - SEÇMELİ 3 (ALAN EĞİTİM) (DERS 1)",
    "tur": "Seçmeli",
@@ -1762,7 +1762,7 @@
   {
    "kod": "ÖZEAESEÇ011",
    "ad": "ZİHİNSEL YETERSİZLİKTE SOSYAL BECERİ ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEAESEÇ4 - SEÇMELİ 4 (ALAN EĞİTİM) (DERS 1)",
    "tur": "Seçmeli",
@@ -1776,7 +1776,7 @@
   {
    "kod": "ÖZEAESEÇ012",
    "ad": "DOĞAL ÖĞRETİM SÜRECİ VE UYGULANMASI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEAESEÇ4 - SEÇMELİ 4 (ALAN EĞİTİM) (DERS 1)",
    "tur": "Seçmeli",
@@ -1790,7 +1790,7 @@
   {
    "kod": "ÖZEAESEÇ013",
    "ad": "OSB'DE SOSYAL BECERİ ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEAESEÇ4 - SEÇMELİ 4 (ALAN EĞİTİM) (DERS 1)",
    "tur": "Seçmeli",
@@ -1804,7 +1804,7 @@
   {
    "kod": "EFMBSEÇ2025",
    "ad": "EĞİTİMDE YAPAY ZEKA VE UYGULAMALARI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEMBSEÇ2 - SEÇMELİ 2 (MESLEK BİLGİSİ) (DERS 1)",
    "tur": "Seçmeli",
@@ -1818,7 +1818,7 @@
   {
    "kod": "ÖZEMBSEÇ005",
    "ad": "EĞİTİMDE YARATICI DÜŞÜNME",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEMBSEÇ2 - SEÇMELİ 2 (MESLEK BİLGİSİ) (DERS 1)",
    "tur": "Seçmeli",
@@ -1832,7 +1832,7 @@
   {
    "kod": "ÖZEMBSEÇ007",
    "ad": "UZAKTAN ÖĞRETİM",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEMBSEÇ2 - SEÇMELİ 2 (MESLEK BİLGİSİ) (DERS 1)",
    "tur": "Seçmeli",
@@ -1846,7 +1846,7 @@
   {
    "kod": "ÖZMBSEÇ001",
    "ad": "EĞİTİM SOSYOLOJİSİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEMBSEÇ2 - SEÇMELİ 2 (MESLEK BİLGİSİ) (DERS 1)",
    "tur": "Seçmeli",
@@ -1860,7 +1860,7 @@
   {
    "kod": "ÖZEAESEÇ018",
    "ad": "İŞ VE MESLEK BECERİLERİNİN ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZAESEÇ6 - SEÇMELİ 6 (ALAN EĞİTİM) (DERS 1)",
    "tur": "Seçmeli",
@@ -1874,7 +1874,7 @@
   {
    "kod": "ÖZEAESEÇ019",
    "ad": "İŞİTME YETERSİZLİĞİNDE ERKEN ÇOCUKLUK DÖNEMİ EĞİTİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZAESEÇ6 - SEÇMELİ 6 (ALAN EĞİTİM) (DERS 1)",
    "tur": "Seçmeli",
@@ -1888,7 +1888,7 @@
   {
    "kod": "ÖZEAESEÇ020",
    "ad": "ZİHİNSEL YETERSİZLİKTE DİSİPLİNLERARASI ÇALIŞMA VE İŞ BİRLİĞİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZAESEÇ6 - SEÇMELİ 6 (ALAN EĞİTİM) (DERS 1)",
    "tur": "Seçmeli",
@@ -1902,7 +1902,7 @@
   {
    "kod": "ÖZEASEÇ022",
    "ad": "DİKKAT EKSİKLİĞİ VE HİPERAKTİVİTE BOZUKLUĞU",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZAESEÇ6 - SEÇMELİ 6 (ALAN EĞİTİM) (DERS 1)",
    "tur": "Seçmeli",
@@ -1916,7 +1916,7 @@
   {
    "kod": "ÖZEAESEÇ014",
    "ad": "YANLIŞSIZ ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEAESEÇ5 - SEÇMELİ 5 (ALAN EĞİTİM) (DERS 1)",
    "tur": "Seçmeli",
@@ -1930,7 +1930,7 @@
   {
    "kod": "ÖZEAESEÇ015",
    "ad": "OSB İÇİN ALTERNATİF İLETİŞİM YÖNTEMLERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEAESEÇ5 - SEÇMELİ 5 (ALAN EĞİTİM) (DERS 1)",
    "tur": "Seçmeli",
@@ -1944,7 +1944,7 @@
   {
    "kod": "ÖZEAESEÇ016",
    "ad": "ZİHİNSEL YETERSİZLİKTE ÖĞRETİM UYARLAMALARI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEAESEÇ5 - SEÇMELİ 5 (ALAN EĞİTİM) (DERS 1)",
    "tur": "Seçmeli",
@@ -1958,7 +1958,7 @@
   {
    "kod": "ÖZEAESEÇ017",
    "ad": "ÖZEL YETENEKLİLER EĞİTİMİNDE PROGRAM TASARIMI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2021 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEAESEÇ5 - SEÇMELİ 5 (ALAN EĞİTİM) (DERS 1)",
    "tur": "Seçmeli",
@@ -1972,7 +1972,7 @@
   {
    "kod": "ÖZE101AE",
    "ad": "ZİHİN YETERSİZLİĞİ VE OTİZM SPEKTRUM BOZUKLUĞU",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1986,7 +1986,7 @@
   {
    "kod": "ÖZE101GK",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2000,7 +2000,7 @@
   {
    "kod": "ÖZE101MB",
    "ad": "EĞİTİM BİLİMİNE GİRİŞ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2014,7 +2014,7 @@
   {
    "kod": "ÖZE103AE",
    "ad": "ÖZEL EĞİTİM",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2028,7 +2028,7 @@
   {
    "kod": "ÖZE103GK",
    "ad": "TÜRK DİLİ 1",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2042,7 +2042,7 @@
   {
    "kod": "ÖZE105GK",
    "ad": "YABANCI DİL 1",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2056,7 +2056,7 @@
   {
    "kod": "ÖZE107GK",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ 1",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2070,7 +2070,7 @@
   {
    "kod": "ÖZE111GK",
    "ad": "BİLİŞİM TEKNOLOJİLERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2084,7 +2084,7 @@
   {
    "kod": "ÖZE102AE",
    "ad": "İŞİTME VE GÖRME YETERSİZLİĞİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2098,7 +2098,7 @@
   {
    "kod": "ÖZE102GK",
    "ad": "TÜRK DİLİ 2",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2112,7 +2112,7 @@
   {
    "kod": "ÖZE102MB",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2126,7 +2126,7 @@
   {
    "kod": "ÖZE104AE",
    "ad": "ÖĞRENME GÜÇLÜĞÜ VE ÖZEL YETENEK",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2140,7 +2140,7 @@
   {
    "kod": "ÖZE104GK",
    "ad": "YABANCI DİL 2",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2154,7 +2154,7 @@
   {
    "kod": "ÖZE106GK",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ 2",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2168,7 +2168,7 @@
   {
    "kod": "ÖZEGKSEÇ1",
    "ad": "GK SEÇMELİ 1",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -2182,7 +2182,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -2196,7 +2196,7 @@
   {
    "kod": "ÖZE201AE",
    "ad": "UYGULAMALI DAVRANIŞ ANALIZİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2210,7 +2210,7 @@
   {
    "kod": "ÖZE201MB",
    "ad": "ÖĞRETİMİ PLANLAMA VE UYGULAMA",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2224,7 +2224,7 @@
   {
    "kod": "ÖZE202MB",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2238,7 +2238,7 @@
   {
    "kod": "ÖZE205AE",
    "ad": "ÖZEL EĞİTİMDE BÜTÜNLEŞTİRME",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2252,7 +2252,7 @@
   {
    "kod": "ÖZE207AE",
    "ad": "ERKEN ÇOCUKLUKTA ÖZEL EĞİTİM",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2266,7 +2266,7 @@
   {
    "kod": "ÖZE209AE",
    "ad": "TÜRK İŞARET DİLİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2280,7 +2280,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -2294,7 +2294,7 @@
   {
    "kod": "ÖZE202AE",
    "ad": "ÖZEL EĞİTİMDE TEKNOLOJİ DESTEKLİ ÖĞRETİM",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2308,7 +2308,7 @@
   {
    "kod": "ÖZE203AE",
    "ad": "ÖZEL EĞİTİMDE DEĞERLENDİRME",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2322,7 +2322,7 @@
   {
    "kod": "ÖZE206AE",
    "ad": "DİL VE İLETİŞİM BECERİLERİNİN DESTEKLENMESİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2336,7 +2336,7 @@
   {
    "kod": "ÖZE206MB",
    "ad": "ALAN DENEYİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2350,7 +2350,7 @@
   {
    "kod": "ÖZE302AE",
    "ad": "BRAİLLE OKUMA-YAZMA",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2364,7 +2364,7 @@
   {
    "kod": "ÖZE402AE",
    "ad": "ÖZEL EĞİTİMDE OYUN VE MÜZİK",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2378,7 +2378,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -2392,7 +2392,7 @@
   {
    "kod": "ÖZE204AE",
    "ad": "BİREYSELLEŞTİRİLMİŞ EĞİTİM VE GEÇİŞ PLANLARININ HAZIRLANMASI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2406,7 +2406,7 @@
   {
    "kod": "ÖZE204MB",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2420,7 +2420,7 @@
   {
    "kod": "ÖZE303AE",
    "ad": "ÖZEL EĞİTİMDE OKUMA-YAZMA ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2434,7 +2434,7 @@
   {
    "kod": "ÖZE304AE",
    "ad": "ÖZEL EĞİTİMDE SOSYAL UYUM BECERİLERİNİN ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2448,7 +2448,7 @@
   {
    "kod": "ÖZE305AE",
    "ad": "ÖZEL EĞİTİMDE MATEMATİK ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2462,7 +2462,7 @@
   {
    "kod": "ÖZE307AE",
    "ad": "ÖZEL EĞİTİMDE FEN VE SOSYAL BİLGİLER ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -2476,7 +2476,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -2490,7 +2490,7 @@
   {
    "kod": "ÖZE301AE",
    "ad": "ÖZEL EĞİTİMDE OKUL VE KURUM DENEYİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2504,7 +2504,7 @@
   {
    "kod": "ÖZE306AE",
    "ad": "ÖZEL EĞİTİMDE TÜRKÇE ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2518,7 +2518,7 @@
   {
    "kod": "ÖZE308AE",
    "ad": "ÖZEL EĞİTİMDE AİLE EĞİTİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2532,7 +2532,7 @@
   {
    "kod": "ÖZE310AE",
    "ad": "ÖZEL EĞİTİMDE FİZİKSEL EĞİTİM VE SPOR",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2546,7 +2546,7 @@
   {
    "kod": "ÖZE402GK",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -2560,7 +2560,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -2574,7 +2574,7 @@
   {
    "kod": "ÖZE301MB",
    "ad": "BİLİMSEL ARAŞTIRMA YÖNTEMLERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2588,7 +2588,7 @@
   {
    "kod": "ÖZE401AE",
    "ad": "ÖZEL EĞİTİMDE MATERYAL TASARIMI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2602,7 +2602,7 @@
   {
    "kod": "ÖZE403MB",
    "ad": "ÖĞRETMENLİK UYGULAMASI I",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -2616,7 +2616,7 @@
   {
    "kod": "4514004062017",
    "ad": "TÜRK EĞİTİM SİSTEMİ VE OKUL YÖNETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2630,7 +2630,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -2644,7 +2644,7 @@
   {
    "kod": "ÖZE402MB",
    "ad": "OKULLARDA PSİKOLOJİK DANIŞMA VE REHBERLİK",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2658,7 +2658,7 @@
   {
    "kod": "ÖZE404MB",
    "ad": "ÖĞRETMENLİK UYGULAMASI II",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -2672,7 +2672,7 @@
   {
    "kod": "ÖZEAESEÇ002",
    "ad": "İŞİTME VE DİL YETERSİZLİĞİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "SEÇÖZL-I - SEÇMELİ I",
    "tur": "Seçmeli",
@@ -2686,7 +2686,7 @@
   {
    "kod": "4514004092017",
    "ad": "ERKEN MÜDAHALE PROGRAMI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "SEÇÖZL-IX - SEÇMELİ IX",
    "tur": "Seçmeli",
@@ -2700,7 +2700,7 @@
   {
    "kod": "4514004112017",
    "ad": "YANLIŞSIZ ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "SEÇÖZL-IX - SEÇMELİ IX",
    "tur": "Seçmeli",
@@ -2714,7 +2714,7 @@
   {
    "kod": "4514004132017",
    "ad": "İLERİ SEVİYE TÜRK İŞARET DİLİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "SEÇÖZL-IX - SEÇMELİ IX",
    "tur": "Seçmeli",
@@ -2728,7 +2728,7 @@
   {
    "kod": "4514004152017",
    "ad": "ZİHİNSEL YETERSİZLİKLERDE DİSİPLİNLERARASI ÇALIŞMA VE İŞBİRLİĞİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "SEÇÖZL-X - SEÇMELİ X",
    "tur": "Seçmeli",
@@ -2742,7 +2742,7 @@
   {
    "kod": "4514004172017",
    "ad": "OSB'DE DİSİPLİNLERARASI ÇALIŞMA VE İŞBİRLİĞİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "SEÇÖZL-X - SEÇMELİ X",
    "tur": "Seçmeli",
@@ -2756,7 +2756,7 @@
   {
    "kod": "4514004192017",
    "ad": "İŞİTME YETERSİZLİĞİ EĞİTİMİNE AİLE KATILIMI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "SEÇÖZL-X - SEÇMELİ X",
    "tur": "Seçmeli",
@@ -2770,7 +2770,7 @@
   {
    "kod": "4514004102017",
    "ad": "ZİHİNSEL YETERSİZLİKTE YETİŞKİNLİĞE GEÇİŞ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "SEÇÖZL-XI - SEÇMELİ XI",
    "tur": "Seçmeli",
@@ -2784,7 +2784,7 @@
   {
    "kod": "4514004122017",
    "ad": "ORTA VE İLERİ DÜZEYDE OSB EĞİTİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "SEÇÖZL-XI - SEÇMELİ XI",
    "tur": "Seçmeli",
@@ -2798,7 +2798,7 @@
   {
    "kod": "4514004162017",
    "ad": "İŞ VE MESLEK BECERİLERİNİN ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "SEÇÖZL-XII - SEÇMELİ XII",
    "tur": "Seçmeli",
@@ -2812,7 +2812,7 @@
   {
    "kod": "4514004182017",
    "ad": "YÜKSEK İŞLEVLİ OSB EĞİTİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2016 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "SEÇÖZL-XII - SEÇMELİ XII",
    "tur": "Seçmeli",
@@ -2826,7 +2826,7 @@
   {
    "kod": "ÖZE101AE",
    "ad": "ZİHİN YETERSİZLİĞİ VE OTİZM SPEKTRUM BOZUKLUĞU",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2840,7 +2840,7 @@
   {
    "kod": "ÖZE103AE",
    "ad": "ÖZEL EĞİTİM",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2854,7 +2854,7 @@
   {
    "kod": "ÖZE103GK",
    "ad": "TÜRK DİLİ 1",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2868,7 +2868,7 @@
   {
    "kod": "ÖZE105GK",
    "ad": "YABANCI DİL 1",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2882,7 +2882,7 @@
   {
    "kod": "ÖZE107GK",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ 1",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2896,7 +2896,7 @@
   {
    "kod": "PF201",
    "ad": "EĞİTİME GİRİŞ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2910,7 +2910,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2924,7 +2924,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2938,7 +2938,7 @@
   {
    "kod": "ÖZE102AE",
    "ad": "İŞİTME VE GÖRME YETERSİZLİĞİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2952,7 +2952,7 @@
   {
    "kod": "ÖZE102GK",
    "ad": "TÜRK DİLİ 2",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2966,7 +2966,7 @@
   {
    "kod": "ÖZE104AE",
    "ad": "ÖĞRENME GÜÇLÜĞÜ VE ÖZEL YETENEK",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2980,7 +2980,7 @@
   {
    "kod": "ÖZE104GK",
    "ad": "YABANCI DİL 2",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2994,7 +2994,7 @@
   {
    "kod": "ÖZE106GK",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ 2",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -3008,7 +3008,7 @@
   {
    "kod": "ÖZEGKSEÇ1",
    "ad": "GK SEÇMELİ 1",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -3022,7 +3022,7 @@
   {
    "kod": "ÖZEMBSEÇ1",
    "ad": "MB SEÇMELİ 1",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -3036,7 +3036,7 @@
   {
    "kod": "AESEÇ1",
    "ad": "SEÇMELİ-I (ALAN EĞİTİMİ)",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Seçmeli",
@@ -3050,7 +3050,7 @@
   {
    "kod": "MDSD01",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - I",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": null,
@@ -3064,7 +3064,7 @@
   {
    "kod": "ÖZE201AE",
    "ad": "UYGULAMALI DAVRANIŞ ANALIZİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3078,7 +3078,7 @@
   {
    "kod": "ÖZE203AE",
    "ad": "ÖZEL EĞİTİMDE DEĞERLENDİRME",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3092,7 +3092,7 @@
   {
    "kod": "ÖZE205AE",
    "ad": "ÖZEL EĞİTİMDE BÜTÜNLEŞTİRME",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3106,7 +3106,7 @@
   {
    "kod": "ÖZE207AE",
    "ad": "ERKEN ÇOCUKLUKTA ÖZEL EĞİTİM",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3120,7 +3120,7 @@
   {
    "kod": "ÖZE209AE",
    "ad": "TÜRK İŞARET DİLİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3134,7 +3134,7 @@
   {
    "kod": "ÖZE301MB",
    "ad": "BİLİMSEL ARAŞTIRMA YÖNTEMLERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -3148,7 +3148,7 @@
   {
    "kod": "AESEÇ3",
    "ad": "SEÇMELİ-III (ALAN EĞİTİMİ)",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Seçmeli",
@@ -3162,7 +3162,7 @@
   {
    "kod": "MDSD02",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - II",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": null,
@@ -3176,7 +3176,7 @@
   {
    "kod": "ÖZE202AE",
    "ad": "ÖZEL EĞİTİMDE TEKNOLOJİ DESTEKLİ ÖĞRETİM",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3190,7 +3190,7 @@
   {
    "kod": "ÖZE204AE",
    "ad": "BİREYSELLEŞTİRİLMİŞ EĞİTİM VE GEÇİŞ PLANLARININ HAZIRLANMASI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3204,7 +3204,7 @@
   {
    "kod": "ÖZE206AE",
    "ad": "DİL VE İLETİŞİM BECERİLERİNİN DESTEKLENMESİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3218,7 +3218,7 @@
   {
    "kod": "ÖZE206MB",
    "ad": "ALAN DENEYİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3232,7 +3232,7 @@
   {
    "kod": "ÖZE302AE",
    "ad": "BRAİLLE OKUMA-YAZMA",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3246,7 +3246,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -3260,7 +3260,7 @@
   {
    "kod": "AESEÇ5",
    "ad": "SEÇMELİ 5 (ALAN EĞİTİMİ)",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Seçmeli",
@@ -3274,7 +3274,7 @@
   {
    "kod": "MB301",
    "ad": "TÜRK EĞİTİM SİSTEMİ VE OKUL YÖNETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3288,7 +3288,7 @@
   {
    "kod": "MDSD03",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - III",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": null,
@@ -3302,7 +3302,7 @@
   {
    "kod": "ÖZE303AE",
    "ad": "ÖZEL EĞİTİMDE OKUMA-YAZMA ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3316,7 +3316,7 @@
   {
    "kod": "ÖZE305AE",
    "ad": "ÖZEL EĞİTİMDE MATEMATİK ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3330,7 +3330,7 @@
   {
    "kod": "ÖZE307AE",
    "ad": "ÖZEL EĞİTİMDE FEN VE SOSYAL BİLGİLER ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3344,7 +3344,7 @@
   {
    "kod": "ÖZE310AE",
    "ad": "ÖZEL EĞİTİMDE FİZİKSEL EĞİTİM VE SPOR",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3358,7 +3358,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -3372,7 +3372,7 @@
   {
    "kod": "AESEÇ7",
    "ad": "SEÇMELİ-VII (ALAN EĞİTİMİ)",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Seçmeli",
@@ -3386,7 +3386,7 @@
   {
    "kod": "MDSD04",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - IV",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": null,
@@ -3400,7 +3400,7 @@
   {
    "kod": "ÖZE301AE",
    "ad": "ÖZEL EĞİTİMDE OKUL VE KURUM DENEYİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3414,7 +3414,7 @@
   {
    "kod": "ÖZE304AE",
    "ad": "ÖZEL EĞİTİMDE SOSYAL UYUM BECERİLERİNİN ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3428,7 +3428,7 @@
   {
    "kod": "ÖZE306AE",
    "ad": "ÖZEL EĞİTİMDE TÜRKÇE ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3442,7 +3442,7 @@
   {
    "kod": "ÖZE308AE",
    "ad": "ÖZEL EĞİTİMDE AİLE EĞİTİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3456,7 +3456,7 @@
   {
    "kod": "ÖZE402AE",
    "ad": "ÖZEL EĞİTİMDE OYUN VE MÜZİK",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3470,7 +3470,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -3484,7 +3484,7 @@
   {
    "kod": "AESEÇ10",
    "ad": "SEÇMELİ-X (ALAN EĞİTİMİ)",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Seçmeli",
@@ -3498,7 +3498,7 @@
   {
    "kod": "AESEÇ9",
    "ad": "SEÇMELİ-IX(ALAN EĞİTİMİ)",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Seçmeli",
@@ -3512,7 +3512,7 @@
   {
    "kod": "MBSEÇ1",
    "ad": "SEÇMELİ-I (MESLEK BİLGİSİ)",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Seçmeli",
@@ -3526,7 +3526,7 @@
   {
    "kod": "MBSEÇ2",
    "ad": "SEÇMELİ-II (MESLEK BİLGİSİ)",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Seçmeli",
@@ -3540,7 +3540,7 @@
   {
    "kod": "MDSD05",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - V",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 7,
    "grup": null,
    "tur": null,
@@ -3554,7 +3554,7 @@
   {
    "kod": "ÖZE403",
    "ad": "ÖZEL EĞİTİMDE MATERYAL TASARIMI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -3568,7 +3568,7 @@
   {
    "kod": "PF408",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -3582,7 +3582,7 @@
   {
    "kod": "AESEÇ11",
    "ad": "SEÇMELİ-XI (ALAN EĞİTİMİ)",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Seçmeli",
@@ -3596,7 +3596,7 @@
   {
    "kod": "AESEÇ12",
    "ad": "SEÇMELİ-XII (ALAN EĞİTİMİ)",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Seçmeli",
@@ -3610,7 +3610,7 @@
   {
    "kod": "GK202",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -3624,7 +3624,7 @@
   {
    "kod": "MBSEÇ3",
    "ad": "SEÇMELİ-III (MESLEK BİLGİSİ)",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Seçmeli",
@@ -3638,7 +3638,7 @@
   {
    "kod": "MDSD06",
    "ad": "Müfredat Dışı Seçmelı Ders Grubu - VI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 8,
    "grup": null,
    "tur": null,
@@ -3652,7 +3652,7 @@
   {
    "kod": "ÖZE402",
    "ad": "ÖĞRETMENLİK UYGULAMASI-II",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -3666,7 +3666,7 @@
   {
    "kod": "ÖZE404",
    "ad": "ÖZEL EĞİTİM POLİTİKALARI VE YASAL DÜZENLEMELER",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -3680,7 +3680,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -3694,7 +3694,7 @@
   {
    "kod": "ÖZEGKSEÇ001",
    "ad": "SANAT VE ESTETİK",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEGKSEÇ1 - GK SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -3708,7 +3708,7 @@
   {
    "kod": "ÖZEGKSEÇ002",
    "ad": "ÇEVRE EĞİTİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEGKSEÇ1 - GK SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -3722,7 +3722,7 @@
   {
    "kod": "ÖZEGKSEÇ003",
    "ad": "PSİKOLOJİDE SEÇME KONULAR",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEGKSEÇ1 - GK SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -3736,7 +3736,7 @@
   {
    "kod": "ÖZEMBSEÇ001",
    "ad": "EĞİTİM TARİHİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEMBSEÇ1 - MB SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -3750,7 +3750,7 @@
   {
    "kod": "ÖZEMBSEÇ002",
    "ad": "KARŞILAŞTIRMALI EĞİTİM",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEMBSEÇ1 - MB SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -3764,7 +3764,7 @@
   {
    "kod": "ÖZEMBSEÇ003",
    "ad": "EĞİTİM FELSEFESİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "ÖZEMBSEÇ1 - MB SEÇMELİ 1",
    "tur": "Seçmeli",
@@ -3778,7 +3778,7 @@
   {
    "kod": "ÖZEAESEÇ002",
    "ad": "İŞİTME VE DİL YETERSİZLİĞİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ1 - SEÇMELİ-I (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -3792,7 +3792,7 @@
   {
    "kod": "ÖZEAESEÇ003",
    "ad": "OSB'DE DAVRANIŞ YÖNETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ1 - SEÇMELİ-I (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -3806,7 +3806,7 @@
   {
    "kod": "ÖZEASEÇ01",
    "ad": "ÖĞRENME GÜÇLÜĞÜNDE ÖĞRETİMSEL MÜDAHALELER",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ1 - SEÇMELİ-I (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -3820,7 +3820,7 @@
   {
    "kod": "ÖZEAESEÇ004",
    "ad": "ERKEN MÜDAHALE PROGRAMI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ3 - SEÇMELİ-III (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -3834,7 +3834,7 @@
   {
    "kod": "ÖZEAESEÇ005",
    "ad": "ZİHİNSEL YETERSİZLİKTE KAVRAM ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ3 - SEÇMELİ-III (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -3848,7 +3848,7 @@
   {
    "kod": "ÖZEAESEÇ006",
    "ad": "OSB'DE TEMEL BECERİLERİN KAZANDIRILMASI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ3 - SEÇMELİ-III (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -3862,7 +3862,7 @@
   {
    "kod": "ÖZEAESEÇ002",
    "ad": "İŞİTME VE DİL YETERSİZLİĞİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ5 - SEÇMELİ 5 (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -3876,7 +3876,7 @@
   {
    "kod": "ÖZEAESEÇ003",
    "ad": "OSB'DE DAVRANIŞ YÖNETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ5 - SEÇMELİ 5 (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -3890,7 +3890,7 @@
   {
    "kod": "ÖZEASEÇ01",
    "ad": "ÖĞRENME GÜÇLÜĞÜNDE ÖĞRETİMSEL MÜDAHALELER",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ5 - SEÇMELİ 5 (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -3904,7 +3904,7 @@
   {
    "kod": "ÖZEAESEÇ004",
    "ad": "ERKEN MÜDAHALE PROGRAMI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ7 - SEÇMELİ-VII (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -3918,7 +3918,7 @@
   {
    "kod": "ÖZEAESEÇ005",
    "ad": "ZİHİNSEL YETERSİZLİKTE KAVRAM ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ7 - SEÇMELİ-VII (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -3932,7 +3932,7 @@
   {
    "kod": "ÖZEAESEÇ006",
    "ad": "OSB'DE TEMEL BECERİLERİN KAZANDIRILMASI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ7 - SEÇMELİ-VII (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -3946,7 +3946,7 @@
   {
    "kod": "ÖZEAESEÇ021",
    "ad": "ÖZEL YETENEKLİ BİREYLERİN SOSYAL, DUYGUSAL VE AKADEMİK GELİŞİMLERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ7 - SEÇMELİ-VII (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -3960,7 +3960,7 @@
   {
    "kod": "AEÖEÖ016",
    "ad": "ERGENLİK VE CİNSEL EĞİTİM",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ10 - SEÇMELİ-X (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -3974,7 +3974,7 @@
   {
    "kod": "AEÖEÖ017",
    "ad": "DOĞAL ÖĞRETİM SÜRECİ VE UYGULAMASI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ10 - SEÇMELİ-X (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -3988,7 +3988,7 @@
   {
    "kod": "AEÖEÖ018",
    "ad": "İŞİTME YETERSİZLİĞİNDE ERKEN ÇOCUKLUK DÖNEMİ EĞİTİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ10 - SEÇMELİ-X (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -4002,7 +4002,7 @@
   {
    "kod": "AEÖEÖ015",
    "ad": "İŞİTME YETERSİZLİĞİ EĞİTİMİNE AİLE KATILIMI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ9 - SEÇMELİ-IX(ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -4016,7 +4016,7 @@
   {
    "kod": "ÖZEAESEÇ010",
    "ad": "ÖĞRETİMDE FARKLILAŞTIRMA",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ9 - SEÇMELİ-IX(ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -4030,7 +4030,7 @@
   {
    "kod": "MBSEÇ001",
    "ad": "AÇIK VE UZAKTAN ÖĞRENME",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "MBSEÇ1 - SEÇMELİ-I (MESLEK BİLGİSİ)",
    "tur": "Seçmeli",
@@ -4044,7 +4044,7 @@
   {
    "kod": "MBSEÇ007",
    "ad": "EĞİTİMDE PROJE HAZIRLAMA",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "MBSEÇ1 - SEÇMELİ-I (MESLEK BİLGİSİ)",
    "tur": "Seçmeli",
@@ -4058,7 +4058,7 @@
   {
    "kod": "MBSEÇ017",
    "ad": "YETİŞKİN EĞİTİMİ VE HAYAT BOYU ÖĞRENME",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "MBSEÇ1 - SEÇMELİ-I (MESLEK BİLGİSİ)",
    "tur": "Seçmeli",
@@ -4072,7 +4072,7 @@
   {
    "kod": "MBSEÇ001",
    "ad": "AÇIK VE UZAKTAN ÖĞRENME",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "MBSEÇ2 - SEÇMELİ-II (MESLEK BİLGİSİ)",
    "tur": "Seçmeli",
@@ -4086,7 +4086,7 @@
   {
    "kod": "MBSEÇ007",
    "ad": "EĞİTİMDE PROJE HAZIRLAMA",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "MBSEÇ2 - SEÇMELİ-II (MESLEK BİLGİSİ)",
    "tur": "Seçmeli",
@@ -4100,7 +4100,7 @@
   {
    "kod": "MBSEÇ017",
    "ad": "YETİŞKİN EĞİTİMİ VE HAYAT BOYU ÖĞRENME",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "MBSEÇ2 - SEÇMELİ-II (MESLEK BİLGİSİ)",
    "tur": "Seçmeli",
@@ -4114,7 +4114,7 @@
   {
    "kod": "AEÖEÖ019",
    "ad": "İŞ VE MESLEK BECERİLERİNİN ÖĞRETİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ11 - SEÇMELİ-XI (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -4128,7 +4128,7 @@
   {
    "kod": "AEÖEÖ020",
    "ad": "YANLIŞSIZ ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ11 - SEÇMELİ-XI (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -4142,7 +4142,7 @@
   {
    "kod": "AEÖEÖ021",
    "ad": "İLERİ SEVİYE TÜRK İŞARET DİLİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ11 - SEÇMELİ-XI (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -4156,7 +4156,7 @@
   {
    "kod": "AEÖEÖ022",
    "ad": "ZİHİNSEL YETERSİZLİKTE ÖĞRETİM UYARLAMALARI",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ12 - SEÇMELİ-XII (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -4170,7 +4170,7 @@
   {
    "kod": "AEÖEÖ023",
    "ad": "OSB'DE DİSİPLİNLERARASI ÇALIŞMA VE İŞBİRLİĞİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ12 - SEÇMELİ-XII (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -4184,7 +4184,7 @@
   {
    "kod": "AEÖEÖ024",
    "ad": "KOKLEAR İMPLANT VE DİNLEME EĞİTİMİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ12 - SEÇMELİ-XII (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -4198,7 +4198,7 @@
   {
    "kod": "ÖZEAESEÇ020",
    "ad": "ZİHİNSEL YETERSİZLİKTE DİSİPLİNLERARASI ÇALIŞMA VE İŞ BİRLİĞİ",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ12 - SEÇMELİ-XII (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -4212,7 +4212,7 @@
   {
    "kod": "ÖZEASEÇ022",
    "ad": "DİKKAT EKSİKLİĞİ VE HİPERAKTİVİTE BOZUKLUĞU",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "AESEÇ12 - SEÇMELİ-XII (ALAN EĞİTİMİ)",
    "tur": "Seçmeli",
@@ -4226,7 +4226,7 @@
   {
    "kod": "MBSEÇ001",
    "ad": "AÇIK VE UZAKTAN ÖĞRENME",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "MBSEÇ3 - SEÇMELİ-III (MESLEK BİLGİSİ)",
    "tur": "Seçmeli",
@@ -4240,7 +4240,7 @@
   {
    "kod": "MBSEÇ007",
    "ad": "EĞİTİMDE PROJE HAZIRLAMA",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "MBSEÇ3 - SEÇMELİ-III (MESLEK BİLGİSİ)",
    "tur": "Seçmeli",
@@ -4254,7 +4254,7 @@
   {
    "kod": "MBSEÇ017",
    "ad": "YETİŞKİN EĞİTİMİ VE HAYAT BOYU ÖĞRENME",
-   "mufredat": "Özel Eğitim Öğretmenliği",
+   "mufredat": "2018 Yılı Müfredatı (Özel Eğitim Öğretmenliği)",
    "yariyil": null,
    "grup": "MBSEÇ3 - SEÇMELİ-III (MESLEK BİLGİSİ)",
    "tur": "Seçmeli",

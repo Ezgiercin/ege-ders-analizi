@@ -12,7 +12,7 @@
   {
    "kod": "9301165012003",
    "ad": "Genel Radyofızık",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9301165052003",
    "ad": "Klınık Onkolojı-I",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9301164022010",
    "ad": "SEÇMELI DERS GRUBU 2.YL",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Seçmeli",
@@ -54,7 +54,7 @@
   {
    "kod": "9301165042003",
    "ad": "Klınık Onkolojı-II",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "9301165182003",
    "ad": "Tıbbı Radyofızık",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLSEM590",
    "ad": "Semıner",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "9301165082005",
    "ad": "Radyasyondan Korunma -II",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": null,
    "grup": "930116SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9301165092005",
    "ad": "Radyasyondan Korunma-I",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": null,
    "grup": "930116SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9301165102005",
    "ad": "Anatomı-II",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": null,
    "grup": "930116SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9301165112005",
    "ad": "Anatomı-I",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": null,
    "grup": "930116SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9301165122005",
    "ad": "Genel Patolojı ve Tümör Patolojısı",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": null,
    "grup": "930116SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9301165132005",
    "ad": "Bılgısayar Uygulamalı Bıoıstatıstık",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": null,
    "grup": "930116SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9301165152005",
    "ad": "Bıofızık",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": null,
    "grup": "930116SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9301165172010",
    "ad": "Brakıterapı Fızığı",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": null,
    "grup": "930116SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9301165192005",
    "ad": "Tıbbı Görüntüleme Sıstemlerı",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": null,
    "grup": "930116SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9301165202008",
    "ad": "Temel Radyobıyolojı",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": null,
    "grup": "930116SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9301165212010",
    "ad": "Özel Radyoterapı Teknıklerı",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": null,
    "grup": "930116SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9301165112005",
    "ad": "Anatomı-I",
-   "mufredat": "Tıbbi Radyofizik",
+   "mufredat": "2012 Yılı (Tezli Yüksek Lisans Programı) Müfredatı (Tıbbi Radyofizik)",
    "yariyil": null,
    "grup": "9301164022010 - SEÇMELI DERS GRUBU 2.YL",
    "tur": "Seçmeli",

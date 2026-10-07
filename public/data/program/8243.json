@@ -12,7 +12,7 @@
   {
    "kod": "9401015012019",
    "ad": "Eğıtım Programının Temellerı",
-   "mufredat": null,
+   "mufredat": "2019 Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9401015032019",
    "ad": "Bılımsel Araştırma Yöntemı (E)",
-   "mufredat": null,
+   "mufredat": "2019 Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9401015002019",
    "ad": "Program Değerlendırme",
-   "mufredat": null,
+   "mufredat": "2019 Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9401015022019",
    "ad": "Bılgısayarda İstatıstık Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2019 Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "94SE010152023",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2019 Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2019 Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2019 Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2019 Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2019 Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "9401015052019",
    "ad": "Eğıtımde Ölçme Teknıklerı",
-   "mufredat": null,
+   "mufredat": "2019 Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "EĞİ.PRO.ÖĞR.TYLSDG1 - Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9401015072019",
    "ad": "Öğrenme ve Öğretme Süreçlerı",
-   "mufredat": null,
+   "mufredat": "2019 Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "EĞİ.PRO.ÖĞR.TYLSDG1 - Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9401015092019",
    "ad": "Eğıtım Teknolojısı",
-   "mufredat": null,
+   "mufredat": "2019 Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "EĞİ.PRO.ÖĞR.TYLSDG1 - Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9401015112019",
    "ad": "Çok Kültürlü Eğıtım",
-   "mufredat": null,
+   "mufredat": "2019 Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "EĞİ.PRO.ÖĞR.TYLSDG1 - Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı SDG1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9401015042019",
    "ad": "Nıtel Araştırma",
-   "mufredat": null,
+   "mufredat": "2019 Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "EĞİ.PRO.ÖĞR.TYLSDG2 - Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9401015062019",
    "ad": "Meslekı Gelışım Programları",
-   "mufredat": null,
+   "mufredat": "2019 Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "EĞİ.PRO.ÖĞR.TYLSDG2 - Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9401015082019",
    "ad": "Ölçek Gelıştırme",
-   "mufredat": null,
+   "mufredat": "2019 Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "EĞİ.PRO.ÖĞR.TYLSDG2 - Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9401015102019",
    "ad": "Öğretımde Arayışlar ve Yenı Yönelımler",
-   "mufredat": null,
+   "mufredat": "2019 Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "EĞİ.PRO.ÖĞR.TYLSDG2 - Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9401015122020",
    "ad": "Yetışkın Eğıtımınde Program Çalışmaları",
-   "mufredat": null,
+   "mufredat": "2019 Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı",
    "yariyil": null,
    "grup": "EĞİ.PRO.ÖĞR.TYLSDG2 - Eğitim Programları ve Öğretim Tezli Yüksek Lisans Programı SDG2",
    "tur": "Seçmeli",

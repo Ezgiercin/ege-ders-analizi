@@ -12,7 +12,7 @@
   {
    "kod": "9101015012017",
    "ad": "Işıkölçüm",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FENETKFEN2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9101015022017",
    "ad": "Çokrenk Işıkölçüm",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "FENYLSEM",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLTEZ591",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "9101015052012",
    "ad": "Güneş Atmosferı",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUBgenel2014-SG-YL-G - AUBGENEL2014-SG-YL-G",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9101015071998",
    "ad": "Yıldızlarda Enerjı Tayfı",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUBgenel2014-SG-YL-G - AUBGENEL2014-SG-YL-G",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9101015152002",
    "ad": "Genel Relatıvıte Teorısı ve Kozmolojı I",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUBgenel2014-SG-YL-G - AUBGENEL2014-SG-YL-G",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9101015232012",
    "ad": "X-Işın Çıftlerı",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUBgenel2014-SG-YL-G - AUBGENEL2014-SG-YL-G",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9101015272013",
    "ad": "Parçacık Astrofızığı",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUBgenel2014-SG-YL-G - AUBGENEL2014-SG-YL-G",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9101015102000",
    "ad": "Kırmızı Öte Astronomısı",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUBGENEL2014-SG-YL-B - AUBGENEL2014-SG-YL-B",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9101015162002",
    "ad": "Genel Relatıvıte Teorısı ve Kozmolojı II",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUBGENEL2014-SG-YL-B - AUBGENEL2014-SG-YL-B",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9101015182004",
    "ad": "Katalısmık Değışen Yıldızlar",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUBGENEL2014-SG-YL-B - AUBGENEL2014-SG-YL-B",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9101015202004",
    "ad": "Örten Çıft Yıldızlar",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUBGENEL2014-SG-YL-B - AUBGENEL2014-SG-YL-B",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9101015242004",
    "ad": "Güneş Aktıvıtesı",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUBGENEL2014-SG-YL-B - AUBGENEL2014-SG-YL-B",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9101015342016",
    "ad": "Toplanma Dısklı Dızgeler",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUBGENEL2014-SG-YL-B - AUBGENEL2014-SG-YL-B",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9101015382026",
    "ad": "Astrofızıksel Dızgelerde Kararsızlıklar",
-   "mufredat": null,
+   "mufredat": "Genel Astronomi Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "AUBGENEL2014-SG-YL-B - AUBGENEL2014-SG-YL-B",
    "tur": "Seçmeli",

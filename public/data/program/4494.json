@@ -12,7 +12,7 @@
   {
    "kod": "9101075392014",
    "ad": "Algorıtmaların Matematıksel Analızı ve Tasarımı I",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "FENETKFEN2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "FENYLSEM",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "YLTEZ591",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9101075292013",
    "ad": "İletışım Ağları ve Zedelenebılırlık",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "MAT-SG-YL-G - Matematik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -138,7 +138,7 @@
   {
    "kod": "9101075412002",
    "ad": "Kombınatorıal Optımalleşme",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "MAT-SG-YL-G - Matematik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9101075492005",
    "ad": "Topolojıksel Graf Teorısı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "MAT-SG-YL-G - Matematik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9101075692006",
    "ad": "Global Optımalleştırme I",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "MAT-SG-YL-G - Matematik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9101075852014",
    "ad": "Graf Teorı ve Kompleks Networkler I",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "MAT-SG-YL-G - Matematik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9101075892010",
    "ad": "Doğrusal Olmayan Optımızasyon I",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "MAT-SG-YL-G - Matematik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9101077012014",
    "ad": "İlerı Verı Yapıları",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "MAT-SG-YL-G - Matematik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9101077052016",
    "ad": "Graflarda Baskınlık ve Temellerı I",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "MAT-SG-YL-G - Matematik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9101077212020",
    "ad": "Bılımsel Araştırma Yöntemlerı ve Etık",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "MAT-SG-YL-G - Matematik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9101075282002",
    "ad": "Extramal Problemler ve Özel Graflar",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "MAT-SG-YL-B - Matematik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9101075442002",
    "ad": "Şıfreleme Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "MAT-SG-YL-B - Matematik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9101075642005",
    "ad": "Matroıdler ve Graflarda Şıfreleme",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "MAT-SG-YL-B - Matematik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9101075702006",
    "ad": "Global Optımalleştırme II",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "MAT-SG-YL-B - Matematik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9101075742014",
    "ad": "Graf Teorı ve Kompleks Networkler II",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "MAT-SG-YL-B - Matematik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9101075782010",
    "ad": "Doğrusal Olmayan Optımızasyon II",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "MAT-SG-YL-B - Matematik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9101075982016",
    "ad": "Graflarda Baskınlık ve Temellerı II",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "MAT-SG-YL-B - Matematik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9101077062014",
    "ad": "Yüksek Başarımlı Hesaplama",
-   "mufredat": null,
+   "mufredat": "2012 yılı Bilgisayar Bilimleri Yüksek Lisans Müfredatı",
    "yariyil": null,
    "grup": "MAT-SG-YL-B - Matematik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",

@@ -12,7 +12,7 @@
   {
    "kod": "ATA101",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "KP101",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "PİY101",
    "ad": "PİYANO I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "TBO101",
    "ad": "SES EĞİTİMİ I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "TBO117",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "TMS101",
    "ad": "TÜRK SANAT MÜZİĞİ SOLFEJ VE KURAMI I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "TUR101",
    "ad": "TÜRK DİLİ I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YDI101",
    "ad": "YABANCI DİL I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "ATA102",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "PİY102",
    "ad": "PİYANO II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "TBO102",
    "ad": "SES EĞİTİMİ II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "TBO118",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "TMS102",
    "ad": "TÜRK SANAT MÜZİĞİ SOLFEJ VE KURAMI II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "TUR102",
    "ad": "TÜRK DİLİ II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "YDI102",
    "ad": "YABANCI DİL II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "PİY201",
    "ad": "PİYANO III",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "TBO201",
    "ad": "SES EĞİTİMİ III",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "TBO225",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI III",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "TBS225",
    "ad": "REPERTUVAR I TSM",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "TMS201",
    "ad": "TÜRK SANAT MÜZİĞİ SOLFEJ VE KURAMI III",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "TMS203",
    "ad": "TÜRK HALK MÜZİĞİ BİLGİLERİ I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "PİY202",
    "ad": "PİYANO IV",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "TBO202",
    "ad": "SES EĞİTİMİ IV",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "TBO226",
    "ad": "TEMEL MÜZİK SOLFEJ VE KURAMI IV",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "TBS226",
    "ad": "REPERTUVAR II TSM",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "TMS202",
    "ad": "TÜRK SANAT MÜZİĞİ SOLFEJ VE KURAMI IV",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "TMS204",
    "ad": "TÜRK HALK MÜZİĞİ BİLGİLERİ II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "ARM301",
    "ad": "ARMONİ I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "TBO301",
    "ad": "TÜR VE BİÇİM BİLGİSİ I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "TBO303",
    "ad": "ÇALGI BİLGİSİ VE TARİHİ I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "TBS309",
    "ad": "YARDIMCI REPERTUVAR I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "TBS333",
    "ad": "REPERTUVAR III",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "TBS335",
    "ad": "MAKAM VE GEÇKİ UYGULAMALARI I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "TMS301",
    "ad": "TÜRK SANAT MÜZİĞİ SOLFEJ VE KURAMI V",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 5,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "ARM302",
    "ad": "ARMONİ II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "TBO302",
    "ad": "TÜR VE BİÇİM BİLGİSİ II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "TBO304",
    "ad": "ÇALGI BİLGİSİ VE TARİHİ II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "TBS310",
    "ad": "YARDIMCI REPERTUVAR II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "TBS336",
    "ad": "MAKAM VE GEÇKİ UYGULAMALARI II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -572,7 +572,7 @@
   {
    "kod": "TBS338",
    "ad": "REPERTUVAR IV",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "TMS302",
    "ad": "TÜRK SANAT MÜZİĞİ SOLFEJ VE KURAMI VI",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 6,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "TBO401",
    "ad": "TÜR VE BİÇİM BİLGİSİ III",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "TBO403",
    "ad": "TÜRK MÜZİĞİ'NDE ÇOK SESLİLİK UYGULAMALARI I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -628,7 +628,7 @@
   {
    "kod": "TBO405",
    "ad": "MÜZİK TARİHİ I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "TBS431",
    "ad": "REPERTUVAR V",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "TBS433",
    "ad": "MAKAM VE GEÇKİ UYGULAMALARI III",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "TMS401",
    "ad": "TÜRK SANAT MÜZİĞİ SOLFEJ VE KURAMI VII",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 7,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "TBO402",
    "ad": "TÜR VE BİÇİM BİLGİSİ IV",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -698,7 +698,7 @@
   {
    "kod": "TBO404",
    "ad": "TÜRK MÜZİĞİ'NDE ÇOK SESLİLİK UYGULAMALARI II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -712,7 +712,7 @@
   {
    "kod": "TBO406",
    "ad": "MÜZİK TARİHİ II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -726,7 +726,7 @@
   {
    "kod": "TBS432",
    "ad": "REPERTUVAR VI",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -740,7 +740,7 @@
   {
    "kod": "TBS434",
    "ad": "MAKAM VE GEÇKİ UYGULAMALARI IV",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -754,7 +754,7 @@
   {
    "kod": "TMS402",
    "ad": "TÜRK SANAT MÜZİĞİ SOLFEJ VE KURAMI VIII",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": 8,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "TBO119",
    "ad": "RİTİM 1",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.I - T.B(a)TSM. ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "TBS127",
    "ad": "UD I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.I - T.B(a)TSM. ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "TBS129",
    "ad": "TANBUR I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.I - T.B(a)TSM. ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -810,7 +810,7 @@
   {
    "kod": "TBS131",
    "ad": "KEMAN I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.I - T.B(a)TSM. ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -824,7 +824,7 @@
   {
    "kod": "TBS133",
    "ad": "KANUN I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.I - T.B(a)TSM. ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -838,7 +838,7 @@
   {
    "kod": "TBS135",
    "ad": "NEY I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.I - T.B(a)TSM. ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -852,7 +852,7 @@
   {
    "kod": "TBS137",
    "ad": "KEMENÇE I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.I - T.B(a)TSM. ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -866,7 +866,7 @@
   {
    "kod": "TBS139",
    "ad": "VİYOLONSEL I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.I - T.B(a)TSM. ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -880,7 +880,7 @@
   {
    "kod": "TBS141",
    "ad": "KLARNET I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.I - T.B(a)TSM. ÇALGI EĞİTİMİ I",
    "tur": "Seçmeli",
@@ -894,7 +894,7 @@
   {
    "kod": "TBO109",
    "ad": "SES SAĞLIĞI I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.SEÇ.1YY - T.B(a)TSM SEÇMELİ 1.YY",
    "tur": "Seçmeli",
@@ -908,7 +908,7 @@
   {
    "kod": "TBO111",
    "ad": "BİLGİSAYARDA NOTA YAZIM UYGULAMALARI I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.SEÇ.1YY - T.B(a)TSM SEÇMELİ 1.YY",
    "tur": "Seçmeli",
@@ -922,7 +922,7 @@
   {
    "kod": "TBO113",
    "ad": "KABARTMA NOTA UYGULAMALARI I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.SEÇ.1YY - T.B(a)TSM SEÇMELİ 1.YY",
    "tur": "Seçmeli",
@@ -936,7 +936,7 @@
   {
    "kod": "UYG104",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.SEÇ.1YY - T.B(a)TSM SEÇMELİ 1.YY",
    "tur": "Seçmeli",
@@ -950,7 +950,7 @@
   {
    "kod": "TBO120",
    "ad": "RİTİM II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.II - T.B(a)TSM. ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -964,7 +964,7 @@
   {
    "kod": "TBS128",
    "ad": "UD II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.II - T.B(a)TSM. ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -978,7 +978,7 @@
   {
    "kod": "TBS130",
    "ad": "TANBUR II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.II - T.B(a)TSM. ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -992,7 +992,7 @@
   {
    "kod": "TBS132",
    "ad": "KEMAN II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.II - T.B(a)TSM. ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1006,7 +1006,7 @@
   {
    "kod": "TBS134",
    "ad": "KANUN II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.II - T.B(a)TSM. ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1020,7 +1020,7 @@
   {
    "kod": "TBS136",
    "ad": "NEY II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.II - T.B(a)TSM. ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1034,7 +1034,7 @@
   {
    "kod": "TBS138",
    "ad": "KEMENÇE II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.II - T.B(a)TSM. ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1048,7 +1048,7 @@
   {
    "kod": "TBS140",
    "ad": "VİYOLONSEL II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.II - T.B(a)TSM. ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1062,7 +1062,7 @@
   {
    "kod": "TBS142",
    "ad": "KLARNET II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.II - T.B(a)TSM. ÇALGI EĞİTİMİ II",
    "tur": "Seçmeli",
@@ -1076,7 +1076,7 @@
   {
    "kod": "BLG107",
    "ad": "BİLGİSAYARA GİRİŞ",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.SEÇ.2YY - T.B(a)TSM SEÇMELİ 2.YY",
    "tur": "Seçmeli",
@@ -1090,7 +1090,7 @@
   {
    "kod": "TBO110",
    "ad": "SES SAĞLIĞI II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.SEÇ.2YY - T.B(a)TSM SEÇMELİ 2.YY",
    "tur": "Seçmeli",
@@ -1104,7 +1104,7 @@
   {
    "kod": "TBO124",
    "ad": "BİLGİSAYARDA NOTA YAZIM UYGULAMALARI II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.SEÇ.2YY - T.B(a)TSM SEÇMELİ 2.YY",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "TBO126",
    "ad": "KABARTMA NOTA UYGULAMALARI II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.SEÇ.2YY - T.B(a)TSM SEÇMELİ 2.YY",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "THU202",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.SEÇ.2YY - T.B(a)TSM SEÇMELİ 2.YY",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "PF203",
    "ad": "ÖĞRETİM İLKE VE YÖNTEMLERİ",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.I - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "TBO211",
    "ad": "TÜRK DİN MUSİKİSİ I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.I - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "TBO215",
    "ad": "GÖRÜNTÜ VE MÜZİK I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.I - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "TBO217",
    "ad": "MESLEKİ İNGİLİZCE I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.I - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -1202,7 +1202,7 @@
   {
    "kod": "TBO219",
    "ad": "MÜZİK TEKNOLOJİLERİNE GİRİŞ I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.I - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -1216,7 +1216,7 @@
   {
    "kod": "TBS227",
    "ad": "ODA MÜZİĞİ I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.I - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -1230,7 +1230,7 @@
   {
    "kod": "TBS231",
    "ad": "TÜRK MÜZİĞİ KORO ŞEFLİĞİ I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.I - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -1244,7 +1244,7 @@
   {
    "kod": "TMO201",
    "ad": "YAPAY ZEKA VE MÜZİK I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.I - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -1258,7 +1258,7 @@
   {
    "kod": "TMS205",
    "ad": "ÜSLUP VE TAVIR I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.I - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -I",
    "tur": "Seçmeli",
@@ -1272,7 +1272,7 @@
   {
    "kod": "TBO209",
    "ad": "RİTİM III",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.III - T.B(a)TSM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1286,7 +1286,7 @@
   {
    "kod": "TBS209",
    "ad": "UD III",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.III - T.B(a)TSM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1300,7 +1300,7 @@
   {
    "kod": "TBS211",
    "ad": "TANBUR III",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.III - T.B(a)TSM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1314,7 +1314,7 @@
   {
    "kod": "TBS213",
    "ad": "KEMAN III",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.III - T.B(a)TSM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1328,7 +1328,7 @@
   {
    "kod": "TBS215",
    "ad": "KANUN III",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.III - T.B(a)TSM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1342,7 +1342,7 @@
   {
    "kod": "TBS217",
    "ad": "NEY III",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.III - T.B(a)TSM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1356,7 +1356,7 @@
   {
    "kod": "TBS219",
    "ad": "KEMENÇE III",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.III - T.B(a)TSM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1370,7 +1370,7 @@
   {
    "kod": "TBS221",
    "ad": "VİYOLONSEL III",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.III - T.B(a)TSM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1384,7 +1384,7 @@
   {
    "kod": "TBS223",
    "ad": "KLARNET III",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.III - T.B(a)TSM.ÇALGI EĞİTİMİ III",
    "tur": "Seçmeli",
@@ -1398,7 +1398,7 @@
   {
    "kod": "PF202",
    "ad": "EĞİTİMDE ÖLÇME VE DEĞERLENDİRME",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.II - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -1412,7 +1412,7 @@
   {
    "kod": "PF204",
    "ad": "EĞİTİM PSİKOLOJİSİ",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.II - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "TBO212",
    "ad": "TÜRK DİN MUSİKİSİ II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.II - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "TBO216",
    "ad": "GÖRÜNTÜ VE MÜZİK II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.II - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "TBO218",
    "ad": "MESLEKİ İNGİLİZCE II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.II - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "TBO220",
    "ad": "MÜZİK TEKNOLOJİLERİNE GİRİŞ II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.II - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "TBS228",
    "ad": "ODA MÜZİĞİ II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.II - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "TBS232",
    "ad": "TÜRK MÜZİĞİ KORO ŞEFLİĞİ II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.II - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -1510,7 +1510,7 @@
   {
    "kod": "TMS206",
    "ad": "ÜSLUP VE TAVIR II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.II - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -II",
    "tur": "Seçmeli",
@@ -1524,7 +1524,7 @@
   {
    "kod": "TBO210",
    "ad": "RİTİM IV",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.IV - T.B(a)TSM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1538,7 +1538,7 @@
   {
    "kod": "TBS210",
    "ad": "UD IV",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.IV - T.B(a)TSM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1552,7 +1552,7 @@
   {
    "kod": "TBS212",
    "ad": "TANBUR IV",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.IV - T.B(a)TSM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1566,7 +1566,7 @@
   {
    "kod": "TBS214",
    "ad": "KEMAN IV",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.IV - T.B(a)TSM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1580,7 +1580,7 @@
   {
    "kod": "TBS216",
    "ad": "KANUN IV",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.IV - T.B(a)TSM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1594,7 +1594,7 @@
   {
    "kod": "TBS218",
    "ad": "NEY IV",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.IV - T.B(a)TSM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1608,7 +1608,7 @@
   {
    "kod": "TBS220",
    "ad": "KEMENÇE IV",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.IV - T.B(a)TSM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1622,7 +1622,7 @@
   {
    "kod": "TBS222",
    "ad": "VİYOLONSEL IV",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.IV - T.B(a)TSM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1636,7 +1636,7 @@
   {
    "kod": "TBS224",
    "ad": "KLARNET IV",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.IV - T.B(a)TSM.ÇALGI EĞİTİMİ IV",
    "tur": "Seçmeli",
@@ -1650,7 +1650,7 @@
   {
    "kod": "PF301",
    "ad": "SINIF YÖNETİMİ",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.III - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -III",
    "tur": "Seçmeli",
@@ -1664,7 +1664,7 @@
   {
    "kod": "PF303",
    "ad": "ÖZEL ÖĞRETİM YÖNTEMLERİ",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.III - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -III",
    "tur": "Seçmeli",
@@ -1678,7 +1678,7 @@
   {
    "kod": "TBO305",
    "ad": "SEÇMELİ PİYANO I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.III - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -III",
    "tur": "Seçmeli",
@@ -1692,7 +1692,7 @@
   {
    "kod": "TBO309",
    "ad": "PROZODİ I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.III - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -III",
    "tur": "Seçmeli",
@@ -1706,7 +1706,7 @@
   {
    "kod": "TBO311",
    "ad": "TÜRK MÜZİĞİNDE NOTA YAZILARI I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.III - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -III",
    "tur": "Seçmeli",
@@ -1720,7 +1720,7 @@
   {
    "kod": "TBO315",
    "ad": "MÜZİSYENLER İÇİN BEDEN FARKINDALIĞI VE NEFES UYGULAMALARI I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.III - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -III",
    "tur": "Seçmeli",
@@ -1734,7 +1734,7 @@
   {
    "kod": "TBS331",
    "ad": "USUL UYGULAMALARI I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.III - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -III",
    "tur": "Seçmeli",
@@ -1748,7 +1748,7 @@
   {
    "kod": "TBS337",
    "ad": "ODA MÜZİĞİ III",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.III - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -III",
    "tur": "Seçmeli",
@@ -1762,7 +1762,7 @@
   {
    "kod": "TMS303",
    "ad": "ÜSLUP VE TAVIR III",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.III - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -III",
    "tur": "Seçmeli",
@@ -1776,7 +1776,7 @@
   {
    "kod": "TBS311",
    "ad": "TANBUR V",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.V - T.B(a)TSM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1790,7 +1790,7 @@
   {
    "kod": "TBS313",
    "ad": "KEMAN V",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.V - T.B(a)TSM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1804,7 +1804,7 @@
   {
    "kod": "TBS315",
    "ad": "KANUN V",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.V - T.B(a)TSM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1818,7 +1818,7 @@
   {
    "kod": "TBS317",
    "ad": "NEY V",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.V - T.B(a)TSM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1832,7 +1832,7 @@
   {
    "kod": "TBS319",
    "ad": "KEMENÇE V",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.V - T.B(a)TSM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1846,7 +1846,7 @@
   {
    "kod": "TBS321",
    "ad": "VİYOLONSEL V",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.V - T.B(a)TSM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1860,7 +1860,7 @@
   {
    "kod": "TBS323",
    "ad": "KLARNET V",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.V - T.B(a)TSM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1874,7 +1874,7 @@
   {
    "kod": "TBS325",
    "ad": "RİTİM V",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.V - T.B(a)TSM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1888,7 +1888,7 @@
   {
    "kod": "TBS327",
    "ad": "UD V",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.V - T.B(a)TSM.ÇALGI EĞİTİMİ V",
    "tur": "Seçmeli",
@@ -1902,7 +1902,7 @@
   {
    "kod": "Bİİ305DSG",
    "ad": "DİN SOSYOLOJİSİNE GİRİŞ",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1916,7 +1916,7 @@
   {
    "kod": "DTMK305TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1930,7 +1930,7 @@
   {
    "kod": "DTMK305TRMR",
    "ad": "TÜRK SANAT MÜZİĞİ REPERTUVARI I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1944,7 +1944,7 @@
   {
    "kod": "İİB307IGP",
    "ad": "INTRODUCTION TO GLOBAL POLITICS",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.I - ÜNİVERSİTE SEÇMELİ DERS I",
    "tur": "Seçmeli",
@@ -1958,7 +1958,7 @@
   {
    "kod": "PF302",
    "ad": "ÖĞRETİM TEKNOLOJİLERİ",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.IV - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -IV",
    "tur": "Seçmeli",
@@ -1972,7 +1972,7 @@
   {
    "kod": "TBO306",
    "ad": "SEÇMELİ PİYANO II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.IV - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -IV",
    "tur": "Seçmeli",
@@ -1986,7 +1986,7 @@
   {
    "kod": "TBO310",
    "ad": "PROZODİ II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.IV - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -IV",
    "tur": "Seçmeli",
@@ -2000,7 +2000,7 @@
   {
    "kod": "TBO312",
    "ad": "TÜRK MÜZİĞİNDE NOTA YAZILARI II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.IV - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -IV",
    "tur": "Seçmeli",
@@ -2014,7 +2014,7 @@
   {
    "kod": "TBS340",
    "ad": "ODA MÜZİĞİ IV",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.IV - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -IV",
    "tur": "Seçmeli",
@@ -2028,7 +2028,7 @@
   {
    "kod": "TMS304",
    "ad": "ÜSLUP VE TAVIR IV",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.IV - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -IV",
    "tur": "Seçmeli",
@@ -2042,7 +2042,7 @@
   {
    "kod": "TBS314",
    "ad": "KEMAN VI",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VI - T.B(a)TSM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -2056,7 +2056,7 @@
   {
    "kod": "TBS316",
    "ad": "KANUN VI",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VI - T.B(a)TSM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -2070,7 +2070,7 @@
   {
    "kod": "TBS318",
    "ad": "NEY VI",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VI - T.B(a)TSM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -2084,7 +2084,7 @@
   {
    "kod": "TBS320",
    "ad": "KEMENÇE VI",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VI - T.B(a)TSM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -2098,7 +2098,7 @@
   {
    "kod": "TBS322",
    "ad": "VİYOLONSEL VI",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VI - T.B(a)TSM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -2112,7 +2112,7 @@
   {
    "kod": "TBS324",
    "ad": "KLARNET VI",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VI - T.B(a)TSM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -2126,7 +2126,7 @@
   {
    "kod": "TBS326",
    "ad": "RİTİM VI",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VI - T.B(a)TSM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -2140,7 +2140,7 @@
   {
    "kod": "TBS328",
    "ad": "UD VI",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VI - T.B(a)TSM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -2154,7 +2154,7 @@
   {
    "kod": "TBS330",
    "ad": "TANBUR VI",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VI - T.B(a)TSM.ÇALGI EĞİTİMİ VI",
    "tur": "Seçmeli",
@@ -2168,7 +2168,7 @@
   {
    "kod": "Bİİ305DS",
    "ad": "DİN VE SANAT",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2182,7 +2182,7 @@
   {
    "kod": "Bİİ306DİVKA",
    "ad": "DİNLER VE KADIN",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2196,7 +2196,7 @@
   {
    "kod": "DTMK306TEMT",
    "ad": "TEMEL MÜZİK TERMİNOLOJİSİ II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2210,7 +2210,7 @@
   {
    "kod": "ENF305WEB",
    "ad": "WEB TASARIMI",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2224,7 +2224,7 @@
   {
    "kod": "FEN305BİYO",
    "ad": "BİYOTEKNOLOJİ",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2238,7 +2238,7 @@
   {
    "kod": "İİB308IGG",
    "ad": "INTRODUCTION TO GLOBAL GOVERNANCE",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2252,7 +2252,7 @@
   {
    "kod": "MOD306MLB",
    "ad": "MALZEME BİLGİSİ",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2266,7 +2266,7 @@
   {
    "kod": "YEN306GTOD",
    "ad": "GİRİŞİMCİLİKTE TASARIM ODAKLI DÜŞÜNME",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "ÜNİV.SEÇ.DERS.II - ÜNİVERSİTE SEÇMELİ DERS II",
    "tur": "Seçmeli",
@@ -2280,7 +2280,7 @@
   {
    "kod": "PF401",
    "ad": "REHBERLİK VE ÖZEL EĞİTİM",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ-V - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -V",
    "tur": "Seçmeli",
@@ -2294,7 +2294,7 @@
   {
    "kod": "TBO407",
    "ad": "OSMANLICA I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ-V - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -V",
    "tur": "Seçmeli",
@@ -2308,7 +2308,7 @@
   {
    "kod": "TBO409",
    "ad": "KORO EĞİTİMİ VE YÖNETİM TEKNİKLERİ I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ-V - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -V",
    "tur": "Seçmeli",
@@ -2322,7 +2322,7 @@
   {
    "kod": "TBO411",
    "ad": "SEÇMELİ PİYANO III",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ-V - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -V",
    "tur": "Seçmeli",
@@ -2336,7 +2336,7 @@
   {
    "kod": "TBO413",
    "ad": "OKUL MÜZİĞİ REPERTUVARI I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ-V - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -V",
    "tur": "Seçmeli",
@@ -2350,7 +2350,7 @@
   {
    "kod": "TBO417",
    "ad": "POPÜLER KÜLTÜR VE MÜZİK I",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ-V - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -V",
    "tur": "Seçmeli",
@@ -2364,7 +2364,7 @@
   {
    "kod": "TBS453",
    "ad": "ODA MÜZİĞİ V",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ-V - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -V",
    "tur": "Seçmeli",
@@ -2378,7 +2378,7 @@
   {
    "kod": "TMS403",
    "ad": "ÜSLUP VE TAVIR V",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ-V - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -V",
    "tur": "Seçmeli",
@@ -2392,7 +2392,7 @@
   {
    "kod": "TBS435",
    "ad": "UD VII",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VII - T.B(a)TSM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2406,7 +2406,7 @@
   {
    "kod": "TBS437",
    "ad": "TANBUR VII",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VII - T.B(a)TSM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2420,7 +2420,7 @@
   {
    "kod": "TBS439",
    "ad": "KEMAN VII",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VII - T.B(a)TSM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2434,7 +2434,7 @@
   {
    "kod": "TBS441",
    "ad": "KANUN VII",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VII - T.B(a)TSM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2448,7 +2448,7 @@
   {
    "kod": "TBS443",
    "ad": "NEY VII",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VII - T.B(a)TSM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2462,7 +2462,7 @@
   {
    "kod": "TBS445",
    "ad": "KEMENÇE VII",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VII - T.B(a)TSM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2476,7 +2476,7 @@
   {
    "kod": "TBS447",
    "ad": "VİYOLONSEL VII",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VII - T.B(a)TSM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2490,7 +2490,7 @@
   {
    "kod": "TBS449",
    "ad": "KLARNET VII",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VII - T.B(a)TSM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2504,7 +2504,7 @@
   {
    "kod": "TBS451",
    "ad": "RİTİM VII",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİT.VII - T.B(a)TSM.ÇALGI EĞİTİMİ VII",
    "tur": "Seçmeli",
@@ -2518,7 +2518,7 @@
   {
    "kod": "PF402",
    "ad": "ÖĞRETMENLİK UYGULAMASI",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.VI - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -VI",
    "tur": "Seçmeli",
@@ -2532,7 +2532,7 @@
   {
    "kod": "TBO412",
    "ad": "SEÇMELİ PİYANO IV",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.VI - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -VI",
    "tur": "Seçmeli",
@@ -2546,7 +2546,7 @@
   {
    "kod": "TBO414",
    "ad": "OKUL MÜZİĞİ REPERTUVARI II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.VI - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -VI",
    "tur": "Seçmeli",
@@ -2560,7 +2560,7 @@
   {
    "kod": "TBO418",
    "ad": "POPÜLER KÜLTÜR VE MÜZİK II",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.VI - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -VI",
    "tur": "Seçmeli",
@@ -2574,7 +2574,7 @@
   {
    "kod": "TBS430",
    "ad": "USUL UYGULAMALARI IV",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.VI - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -VI",
    "tur": "Seçmeli",
@@ -2588,7 +2588,7 @@
   {
    "kod": "TBS454",
    "ad": "ODA MÜZİĞİ VI",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.VI - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -VI",
    "tur": "Seçmeli",
@@ -2602,7 +2602,7 @@
   {
    "kod": "TMS404",
    "ad": "ÜSLUP VE TAVIR VI",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a).TSM.SEÇ.VI - TEMEL BİLİMLER (a) .TSM.SEÇMELİ -VI",
    "tur": "Seçmeli",
@@ -2616,7 +2616,7 @@
   {
    "kod": "TBS436",
    "ad": "UD VIII",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİTVIII - T.B(a)TSM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2630,7 +2630,7 @@
   {
    "kod": "TBS438",
    "ad": "TANBUR VIII",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİTVIII - T.B(a)TSM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2644,7 +2644,7 @@
   {
    "kod": "TBS440",
    "ad": "KEMAN VIII",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİTVIII - T.B(a)TSM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2658,7 +2658,7 @@
   {
    "kod": "TBS442",
    "ad": "KANUN VIII",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİTVIII - T.B(a)TSM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2672,7 +2672,7 @@
   {
    "kod": "TBS444",
    "ad": "NEY VIII",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİTVIII - T.B(a)TSM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2686,7 +2686,7 @@
   {
    "kod": "TBS446",
    "ad": "KEMENÇE VIII",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİTVIII - T.B(a)TSM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2700,7 +2700,7 @@
   {
    "kod": "TBS448",
    "ad": "VİYOLONSEL VIII",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİTVIII - T.B(a)TSM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2714,7 +2714,7 @@
   {
    "kod": "TBS450",
    "ad": "KLARNET VIII",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİTVIII - T.B(a)TSM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",
@@ -2728,7 +2728,7 @@
   {
    "kod": "TBS452",
    "ad": "RİTİM VIII",
-   "mufredat": "T.S.M",
+   "mufredat": "2020 Yılı Müfredatı (T.S.M)",
    "yariyil": null,
    "grup": "T.B(a)TSM.Ç.EĞİTVIII - T.B(a)TSM.ÇALGI EĞİTİMİ VIII",
    "tur": "Seçmeli",

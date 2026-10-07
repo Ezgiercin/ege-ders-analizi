@@ -12,7 +12,7 @@
   {
    "kod": "9032001012021",
    "ad": "TÜRK DİLİ-I",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9032001032021",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9032001052021",
    "ad": "YABANCI DİL I",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9032001072021",
    "ad": "GENEL MUHASEBE-I",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "9032001092021",
    "ad": "MİKRO EKONOMİ",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "9032001112021",
    "ad": "TEMEL HUKUK",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "9032001132021",
    "ad": "KARİYER PLANLAMA,GELİŞTİRME VE YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "9032001152021",
    "ad": "DİJİTAL MUHASEBE",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9032001172021",
    "ad": "STAJ",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "9032001192021",
    "ad": "GENEL İŞLETME",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "9032001022021",
    "ad": "TÜRK DİLİ II",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "9032001042021",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "9032001062021",
    "ad": "YABANCI DİL II",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "9032001082021",
    "ad": "GENEL MUHASEBE-II",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "9032001102021",
    "ad": "MAKRO EKONOMİ",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "9032001122021",
    "ad": "TİCARİ MATEMATİK",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "9032001142021",
    "ad": "İLERİ OFİS UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "9032001162021",
    "ad": "İŞ VE SOSYAL GÜVENLİK HUK.",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "9032001172021",
    "ad": "STAJ",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "9032001182021",
    "ad": "DİJİTAL FİNANS",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "9032001202021",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "9032001222021",
    "ad": "TİCARET HUKUKU",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "9032002012021",
    "ad": "PAKET PROGRAMLAR-I",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "9032002032021",
    "ad": "VERGİ HUKUKU",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "9032002052021",
    "ad": "MALİYET MUHASEBESİ",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "9032002072021",
    "ad": "ŞİRKETLER MUHASEBESİ",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "9032002092021",
    "ad": "FİNANSAL YÖNETİM",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "9032002112021",
    "ad": "KAMU MALİYESİ",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "9032002022021",
    "ad": "PAKET PROGRAMLAR-II",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "9032002042021",
    "ad": "TÜRK VERGİ SİSTEMİ",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "9032002062021",
    "ad": "MUHASEBE DENETİMİ",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "9032002082021",
    "ad": "DIŞ TİCARET İŞLEMLERİ MUHASEBESİ",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "9032002102021",
    "ad": "MALİ TABLOLAR ANALİZİ",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "9032002142021",
    "ad": "FİNANSAL YATIRIM ARAÇLARI",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "9032002182021",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "9032002132021",
    "ad": "İŞARET DİLİ",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": null,
    "grup": "SEÇ.DERS.01 - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -516,7 +516,7 @@
   {
    "kod": "9032002152021",
    "ad": "MESLEKİ MEVZUAT VE ETİK",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": null,
    "grup": "SEÇ.DERS.01 - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -530,7 +530,7 @@
   {
    "kod": "9032002172021",
    "ad": "MUHASEBE TARİHİ",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": null,
    "grup": "SEÇ.DERS.01 - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -544,7 +544,7 @@
   {
    "kod": "9032002162021",
    "ad": "SERMAYE PİYASASI MEVZUATI",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": null,
    "grup": "SEÇ.DERS.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -558,7 +558,7 @@
   {
    "kod": "9032002202021",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": null,
    "grup": "SEÇ.DERS.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -572,7 +572,7 @@
   {
    "kod": "9032002222021",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": null,
    "grup": "SEÇ.DERS.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -586,7 +586,7 @@
   {
    "kod": "9032002242021",
    "ad": "YÖNETİM MUHASEBESİ",
-   "mufredat": null,
+   "mufredat": "2021 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": null,
    "grup": "SEÇ.DERS.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -600,7 +600,7 @@
   {
    "kod": "9032001012021",
    "ad": "TÜRK DİLİ-I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "9032001032021",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -628,7 +628,7 @@
   {
    "kod": "9032001052021",
    "ad": "YABANCI DİL I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -642,7 +642,7 @@
   {
    "kod": "9032001072021",
    "ad": "GENEL MUHASEBE-I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -656,7 +656,7 @@
   {
    "kod": "9032001092021",
    "ad": "MİKRO EKONOMİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -670,7 +670,7 @@
   {
    "kod": "9032001112021",
    "ad": "TEMEL HUKUK",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -684,7 +684,7 @@
   {
    "kod": "9032001132021",
    "ad": "KARİYER PLANLAMA,GELİŞTİRME VE YÖNETİMİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -698,7 +698,7 @@
   {
    "kod": "9032001152021",
    "ad": "DİJİTAL MUHASEBE",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -712,7 +712,7 @@
   {
    "kod": "9032001172021",
    "ad": "STAJ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -726,7 +726,7 @@
   {
    "kod": "9032001192021",
    "ad": "GENEL İŞLETME",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -740,7 +740,7 @@
   {
    "kod": "9032001022021",
    "ad": "TÜRK DİLİ II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -754,7 +754,7 @@
   {
    "kod": "9032001042021",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -768,7 +768,7 @@
   {
    "kod": "9032001062021",
    "ad": "YABANCI DİL II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -782,7 +782,7 @@
   {
    "kod": "9032001082023",
    "ad": "GENEL MUHASEBE-II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -796,7 +796,7 @@
   {
    "kod": "9032001102023",
    "ad": "MAKRO EKONOMİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -810,7 +810,7 @@
   {
    "kod": "9032001122021",
    "ad": "TİCARİ MATEMATİK",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -824,7 +824,7 @@
   {
    "kod": "9032001142021",
    "ad": "İLERİ OFİS UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -838,7 +838,7 @@
   {
    "kod": "9032001162021",
    "ad": "İŞ VE SOSYAL GÜVENLİK HUK.",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -852,7 +852,7 @@
   {
    "kod": "9032001172021",
    "ad": "STAJ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -866,7 +866,7 @@
   {
    "kod": "9032001182021",
    "ad": "DİJİTAL FİNANS",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -880,7 +880,7 @@
   {
    "kod": "9032001202021",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -894,7 +894,7 @@
   {
    "kod": "9032001222021",
    "ad": "TİCARET HUKUKU",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -908,7 +908,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -922,7 +922,7 @@
   {
    "kod": "9032002012021",
    "ad": "PAKET PROGRAMLAR-I",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -936,7 +936,7 @@
   {
    "kod": "9032002032021",
    "ad": "VERGİ HUKUKU",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -950,7 +950,7 @@
   {
    "kod": "9032002052021",
    "ad": "MALİYET MUHASEBESİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -964,7 +964,7 @@
   {
    "kod": "9032002072021",
    "ad": "ŞİRKETLER MUHASEBESİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -978,7 +978,7 @@
   {
    "kod": "9032002092021",
    "ad": "FİNANSAL YÖNETİM",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -992,7 +992,7 @@
   {
    "kod": "9032002112021",
    "ad": "KAMU MALİYESİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1006,7 +1006,7 @@
   {
    "kod": "9032002022021",
    "ad": "PAKET PROGRAMLAR-II",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1020,7 +1020,7 @@
   {
    "kod": "9032002042021",
    "ad": "TÜRK VERGİ SİSTEMİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1034,7 +1034,7 @@
   {
    "kod": "9032002062021",
    "ad": "MUHASEBE DENETİMİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1048,7 +1048,7 @@
   {
    "kod": "9032002082021",
    "ad": "DIŞ TİCARET İŞLEMLERİ MUHASEBESİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1062,7 +1062,7 @@
   {
    "kod": "9032002102021",
    "ad": "MALİ TABLOLAR ANALİZİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1076,7 +1076,7 @@
   {
    "kod": "9032002142021",
    "ad": "FİNANSAL YATIRIM ARAÇLARI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1090,7 +1090,7 @@
   {
    "kod": "9032002182021",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1104,7 +1104,7 @@
   {
    "kod": "9032002132021",
    "ad": "İŞARET DİLİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": null,
    "grup": "SEÇ.DERS.01 - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -1118,7 +1118,7 @@
   {
    "kod": "9032002152021",
    "ad": "MESLEKİ MEVZUAT VE ETİK",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": null,
    "grup": "SEÇ.DERS.01 - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -1132,7 +1132,7 @@
   {
    "kod": "9032002172021",
    "ad": "MUHASEBE TARİHİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": null,
    "grup": "SEÇ.DERS.01 - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -1146,7 +1146,7 @@
   {
    "kod": "9032002162021",
    "ad": "SERMAYE PİYASASI MEVZUATI",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": null,
    "grup": "SEÇ.DERS.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1160,7 +1160,7 @@
   {
    "kod": "9032002202021",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": null,
    "grup": "SEÇ.DERS.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1174,7 +1174,7 @@
   {
    "kod": "9032002222021",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": null,
    "grup": "SEÇ.DERS.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1188,7 +1188,7 @@
   {
    "kod": "9032002242021",
    "ad": "YÖNETİM MUHASEBESİ",
-   "mufredat": null,
+   "mufredat": "2023 Yılı Muhasebe ve Vergi Uygulamaları Müfredatı",
    "yariyil": null,
    "grup": "SEÇ.DERS.02 - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",

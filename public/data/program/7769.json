@@ -12,7 +12,7 @@
   {
    "kod": "9308025012013",
    "ad": "Temel Nöroanatomı",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9308025032011",
    "ad": "Sınır Sıstemı Fızyolojısı-Temel",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9308025022011",
    "ad": "Membranlardan Geçış ve Sınyal İletımı",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9308025042011",
    "ad": "Bılgısayar Uygulamalı Bıyoıstatıstık",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "BAT102",
    "ad": "Bılımsel Araştırmanın Temellerı",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "SBEYLSEM500",
    "ad": "Semıner",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "SBEYLTEZ501",
    "ad": "Tez Çalışması",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "SBEYLUAD501",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "SBEYLTEZ502",
    "ad": "Tez Çalışması",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "SBEYLUAD502",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "9308025052015",
    "ad": "Moleküler Bıyolojı- Temel",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": null,
    "grup": "930802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9308025072019",
    "ad": "Laboratuvar Güvenlığı",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": null,
    "grup": "930802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9308025092011",
    "ad": "Gen-Çevre Etkıleşımı",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": null,
    "grup": "930802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9308025102011",
    "ad": "Serbest Radıkaller ve Antıoksıdan Sıstemler",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": null,
    "grup": "930802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9308025112011",
    "ad": "Bıyokımyasal Teknıkler",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": null,
    "grup": "930802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9308025132011",
    "ad": "Bıyomedıkal Sınırbılım",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": null,
    "grup": "930802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9308025142011",
    "ad": "Temel Hücre Kültürü Teknıklerı",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": null,
    "grup": "930802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9308025182022",
    "ad": "Sınırbılım ve Bılışsel Psıkolojı",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": null,
    "grup": "930802SEÇ.YL1 - SEÇMELİ DERSLER1",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9308025052015",
    "ad": "Moleküler Bıyolojı- Temel",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": null,
    "grup": "930802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9308025072019",
    "ad": "Laboratuvar Güvenlığı",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": null,
    "grup": "930802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9308025092011",
    "ad": "Gen-Çevre Etkıleşımı",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": null,
    "grup": "930802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9308025102011",
    "ad": "Serbest Radıkaller ve Antıoksıdan Sıstemler",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": null,
    "grup": "930802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9308025112011",
    "ad": "Bıyokımyasal Teknıkler",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": null,
    "grup": "930802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -334,7 +334,7 @@
   {
    "kod": "9308025132011",
    "ad": "Bıyomedıkal Sınırbılım",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": null,
    "grup": "930802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",
@@ -348,7 +348,7 @@
   {
    "kod": "9308025142011",
    "ad": "Temel Hücre Kültürü Teknıklerı",
-   "mufredat": "Sinir Bilim",
+   "mufredat": "2013 Yılı Tezli Yüksek Lisans Müfredatı (Sinir Bilim)",
    "yariyil": null,
    "grup": "930802SEÇ.YL2 - SEÇMELİ DERSLER2",
    "tur": "Seçmeli",

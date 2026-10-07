@@ -12,7 +12,7 @@
   {
    "kod": "9105095012012",
    "ad": "Engıneerıng Mathematıcs",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9105095032012",
    "ad": "Mechatronıcs Systems",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "FENETKCOK2021",
    "ad": "Bılımsel Araştırma Teknıklerı ıle Araştırma ve Yayın Etığı",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "FENORYT2023",
    "ad": "Lısansüstü Eğıtım Süreç Yönetımı",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "FENYLSEM",
    "ad": "Semıner",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "YLTEZ591",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "YLTEZ592",
    "ad": "Tez Çalışması",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "YLUAD591",
    "ad": "Uzmanlık Alan Dersı",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "9105095052011",
    "ad": "Bılgısayar Desteklı Geometrık Tasarım I",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": null,
    "grup": "MKT-SG-YL-G - Mekatronik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -152,7 +152,7 @@
   {
    "kod": "9105095072012",
    "ad": "Algorıthm Desıgn and Programmıng",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": null,
    "grup": "MKT-SG-YL-G - Mekatronik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -166,7 +166,7 @@
   {
    "kod": "9105095092012",
    "ad": "Tarımsal Sıstemlerde Mekatronık Uygulamalar",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": null,
    "grup": "MKT-SG-YL-G - Mekatronik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -180,7 +180,7 @@
   {
    "kod": "9105095112012",
    "ad": "Ölçme Sıstemlerı ve Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": null,
    "grup": "MKT-SG-YL-G - Mekatronik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -194,7 +194,7 @@
   {
    "kod": "9105095172019",
    "ad": "Mekatronık Mühendıslığı ve Uzay Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": null,
    "grup": "MKT-SG-YL-G - Mekatronik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -208,7 +208,7 @@
   {
    "kod": "9105095192019",
    "ad": "Precısıon Mechatronıc System Desıgn",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": null,
    "grup": "MKT-SG-YL-G - Mekatronik Seçmeli Grubu YL Güz",
    "tur": "Seçmeli",
@@ -222,7 +222,7 @@
   {
    "kod": "9105095022012",
    "ad": "Mıkroışlemcıler ve Mıkrodenetleyıcıler",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": null,
    "grup": "MKT-SG-YL-B - Mekatronik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -236,7 +236,7 @@
   {
    "kod": "9105095042012",
    "ad": "Bıyosensörler ve Bıyoalgılama",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": null,
    "grup": "MKT-SG-YL-B - Mekatronik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -250,7 +250,7 @@
   {
    "kod": "9105095062011",
    "ad": "Bılgısayar Desteklı Geometrık Tasarım II",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": null,
    "grup": "MKT-SG-YL-B - Mekatronik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -264,7 +264,7 @@
   {
    "kod": "9105095082014",
    "ad": "Gözetımlı Kontrol ve Verı Toplama Sıstemlerı",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": null,
    "grup": "MKT-SG-YL-B - Mekatronik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -278,7 +278,7 @@
   {
    "kod": "9105095102012",
    "ad": "Agrıcultural Robots",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": null,
    "grup": "MKT-SG-YL-B - Mekatronik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -292,7 +292,7 @@
   {
    "kod": "9105095142014",
    "ad": "Sıstem Analızı ve Tasarımı",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": null,
    "grup": "MKT-SG-YL-B - Mekatronik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -306,7 +306,7 @@
   {
    "kod": "9105095162019",
    "ad": "Mıcrorobotıcs",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": null,
    "grup": "MKT-SG-YL-B - Mekatronik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",
@@ -320,7 +320,7 @@
   {
    "kod": "9105095262021",
    "ad": "Tekstılde Mekatronık Uygulamaları",
-   "mufredat": null,
+   "mufredat": "2018 Mekatronik Mühendisliği Yüksek lisans Müfredatı",
    "yariyil": null,
    "grup": "MKT-SG-YL-B - Mekatronik Seçmeli Grubu YL Bahar",
    "tur": "Seçmeli",

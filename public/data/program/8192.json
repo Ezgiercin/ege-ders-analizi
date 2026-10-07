@@ -12,7 +12,7 @@
   {
    "kod": "9003101012017",
    "ad": "TÜRK DİLİ-I",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -26,7 +26,7 @@
   {
    "kod": "9003101032017",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -40,7 +40,7 @@
   {
    "kod": "9003101052018",
    "ad": "YABANCI DİL-I",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -54,7 +54,7 @@
   {
    "kod": "9003101072020",
    "ad": "GENEL MİKROBİYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -68,7 +68,7 @@
   {
    "kod": "9003101092020",
    "ad": "BAHÇE BİTKİLERİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -82,7 +82,7 @@
   {
    "kod": "9003101112020",
    "ad": "TARLA BİTKİLERİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -96,7 +96,7 @@
   {
    "kod": "9003101152017",
    "ad": "TARIMSAL EKOLOJİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -110,7 +110,7 @@
   {
    "kod": "9003101172017",
    "ad": "BİLGİSAYAR-I",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -124,7 +124,7 @@
   {
    "kod": "9003101192017",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -138,7 +138,7 @@
   {
    "kod": "9003101192020",
    "ad": "STAJ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -152,7 +152,7 @@
   {
    "kod": "9003101292018",
    "ad": "TARIM EKONOMİSİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -166,7 +166,7 @@
   {
    "kod": "9003101312020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -180,7 +180,7 @@
   {
    "kod": "9003101022017",
    "ad": "TÜRK DİLİ-II",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -194,7 +194,7 @@
   {
    "kod": "9003101042017",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -208,7 +208,7 @@
   {
    "kod": "9003101062018",
    "ad": "YABANCI DİL-II",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -222,7 +222,7 @@
   {
    "kod": "9003101082020",
    "ad": "ENTOMOLOJİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -236,7 +236,7 @@
   {
    "kod": "9003101102017",
    "ad": "FİTOPATOLOJİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -250,7 +250,7 @@
   {
    "kod": "9003101122017",
    "ad": "SEBZE HASTALIKLARI",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -264,7 +264,7 @@
   {
    "kod": "9003101162017",
    "ad": "DEPOLANMIŞ ÜRÜN HASTALIKLILARI",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -278,7 +278,7 @@
   {
    "kod": "9003101182017",
    "ad": "DEPOLANMIŞ ÜRÜN ZARARLILARI",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -292,7 +292,7 @@
   {
    "kod": "9003101192020",
    "ad": "STAJ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -306,7 +306,7 @@
   {
    "kod": "9003101202017",
    "ad": "BİLGİSAYAR-II",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -320,7 +320,7 @@
   {
    "kod": "9003101302018",
    "ad": "KENTSEL ENTOMOLOJİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -334,7 +334,7 @@
   {
    "kod": "9003101132020",
    "ad": "TOPRAK BİLGİSİ VE BİTKİ BESLEME",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -348,7 +348,7 @@
   {
    "kod": "9003102012017",
    "ad": "YABANCI OTLAR VE MÜCADELESİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -362,7 +362,7 @@
   {
    "kod": "9003102032017",
    "ad": "TARLA BİTKİLERİ HASTALIKLARI",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -376,7 +376,7 @@
   {
    "kod": "9003102052017",
    "ad": "TARLA BİTKİLERİ ZARARLILARI",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -390,7 +390,7 @@
   {
    "kod": "9003102072017",
    "ad": "MEYVE VE BAĞ HASTALIKLARI",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -404,7 +404,7 @@
   {
    "kod": "9003102092017",
    "ad": "MEYVE VE BAĞ ZARARLILARI",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -418,7 +418,7 @@
   {
    "kod": "9003102112017",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -432,7 +432,7 @@
   {
    "kod": "9003102132017",
    "ad": "TARIMSAL SAVAŞ YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -446,7 +446,7 @@
   {
    "kod": "9003102152017",
    "ad": "ORGANİK TARIMDA BİTKİ KORUMA",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -460,7 +460,7 @@
   {
    "kod": "9003102172017",
    "ad": "BÖCEK EKOLOJİSİ VE EPİDEMİYOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -474,7 +474,7 @@
   {
    "kod": "9003101142020",
    "ad": "SEBZE ZARARLILARI",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -488,7 +488,7 @@
   {
    "kod": "9003102022020",
    "ad": "ORMAN VE SÜS BİTKİLERİ HASTALIKLARI",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -502,7 +502,7 @@
   {
    "kod": "9003102042020",
    "ad": "ORMAN VE SÜS BİTKİLERİ ZARARLILARI",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -516,7 +516,7 @@
   {
    "kod": "9003102062017",
    "ad": "TARIM SİGORTALARI",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -530,7 +530,7 @@
   {
    "kod": "9003102082017",
    "ad": "İYİ TARIM UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -544,7 +544,7 @@
   {
    "kod": "9003102102017",
    "ad": "MESLEK ETİĞİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -558,7 +558,7 @@
   {
    "kod": "9003102122017",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -572,7 +572,7 @@
   {
    "kod": "9003102142017",
    "ad": "BİTKİ KORUMA ÜRÜNLERİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -586,7 +586,7 @@
   {
    "kod": "9003102162017",
    "ad": "BİTKİ KORUMA MEKANİZASYONU",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -600,7 +600,7 @@
   {
    "kod": "9003102182017",
    "ad": "PROJE",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -614,7 +614,7 @@
   {
    "kod": "9003101232017",
    "ad": "GENEL MATEMATİK",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-I - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -628,7 +628,7 @@
   {
    "kod": "9003101252017",
    "ad": "GENEL KİMYA",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-I - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -642,7 +642,7 @@
   {
    "kod": "9003101272017",
    "ad": "BOTANİK",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-I - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -656,7 +656,7 @@
   {
    "kod": "9003101242017",
    "ad": "MİKOLOJİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-II - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -670,7 +670,7 @@
   {
    "kod": "9003101262017",
    "ad": "AKAROLOJİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-II - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -684,7 +684,7 @@
   {
    "kod": "9003101282017",
    "ad": "TARIMSAL METEOROLOJİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-II - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -698,7 +698,7 @@
   {
    "kod": "9003102232017",
    "ad": "BAKTERİYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-III - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -712,7 +712,7 @@
   {
    "kod": "9003102252017",
    "ad": "NEMATOLOJİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-III - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -726,7 +726,7 @@
   {
    "kod": "9003102272017",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-III - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -740,7 +740,7 @@
   {
    "kod": "9003102242017",
    "ad": "İŞARET DİLİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-IV - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -754,7 +754,7 @@
   {
    "kod": "9003102262017",
    "ad": "BÖCEK SİSTEMATİĞİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-IV - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -768,7 +768,7 @@
   {
    "kod": "9003102282017",
    "ad": "VİROLOJİ",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-IV - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -782,7 +782,7 @@
   {
    "kod": "9022002302019",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": null,
+   "mufredat": "2020 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-IV - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -796,7 +796,7 @@
   {
    "kod": "9003101012017",
    "ad": "TÜRK DİLİ-I",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -810,7 +810,7 @@
   {
    "kod": "9003101032017",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -824,7 +824,7 @@
   {
    "kod": "9003101052018",
    "ad": "YABANCI DİL-I",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -838,7 +838,7 @@
   {
    "kod": "9003101072020",
    "ad": "GENEL MİKROBİYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -852,7 +852,7 @@
   {
    "kod": "9003101092020",
    "ad": "BAHÇE BİTKİLERİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -866,7 +866,7 @@
   {
    "kod": "9003101112020",
    "ad": "TARLA BİTKİLERİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -880,7 +880,7 @@
   {
    "kod": "9003101152017",
    "ad": "TARIMSAL EKOLOJİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -894,7 +894,7 @@
   {
    "kod": "9003101172017",
    "ad": "BİLGİSAYAR-I",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -908,7 +908,7 @@
   {
    "kod": "9003101192017",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -922,7 +922,7 @@
   {
    "kod": "9003101192020",
    "ad": "STAJ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -936,7 +936,7 @@
   {
    "kod": "9003101292018",
    "ad": "TARIM EKONOMİSİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -950,7 +950,7 @@
   {
    "kod": "9003101312020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -964,7 +964,7 @@
   {
    "kod": "9003101022017",
    "ad": "TÜRK DİLİ-II",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -978,7 +978,7 @@
   {
    "kod": "9003101042017",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -992,7 +992,7 @@
   {
    "kod": "9003101062018",
    "ad": "YABANCI DİL-II",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1006,7 +1006,7 @@
   {
    "kod": "9003101082020",
    "ad": "ENTOMOLOJİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1020,7 +1020,7 @@
   {
    "kod": "9003101102023",
    "ad": "FİTOPATOLOJİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1034,7 +1034,7 @@
   {
    "kod": "9003101122023",
    "ad": "SEBZE HASTALIKLARI",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1048,7 +1048,7 @@
   {
    "kod": "9003101162017",
    "ad": "DEPOLANMIŞ ÜRÜN HASTALIKLILARI",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1062,7 +1062,7 @@
   {
    "kod": "9003101182017",
    "ad": "DEPOLANMIŞ ÜRÜN ZARARLILARI",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1076,7 +1076,7 @@
   {
    "kod": "9003101192020",
    "ad": "STAJ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1090,7 +1090,7 @@
   {
    "kod": "9003101202017",
    "ad": "BİLGİSAYAR-II",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1104,7 +1104,7 @@
   {
    "kod": "9003101302018",
    "ad": "KENTSEL ENTOMOLOJİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1118,7 +1118,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1132,7 +1132,7 @@
   {
    "kod": "9003101132020",
    "ad": "TOPRAK BİLGİSİ VE BİTKİ BESLEME",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1146,7 +1146,7 @@
   {
    "kod": "9003102012017",
    "ad": "YABANCI OTLAR VE MÜCADELESİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1160,7 +1160,7 @@
   {
    "kod": "9003102032017",
    "ad": "TARLA BİTKİLERİ HASTALIKLARI",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1174,7 +1174,7 @@
   {
    "kod": "9003102052017",
    "ad": "TARLA BİTKİLERİ ZARARLILARI",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1188,7 +1188,7 @@
   {
    "kod": "9003102072017",
    "ad": "MEYVE VE BAĞ HASTALIKLARI",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1202,7 +1202,7 @@
   {
    "kod": "9003102092017",
    "ad": "MEYVE VE BAĞ ZARARLILARI",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1216,7 +1216,7 @@
   {
    "kod": "9003102112017",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1230,7 +1230,7 @@
   {
    "kod": "9003102132017",
    "ad": "TARIMSAL SAVAŞ YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1244,7 +1244,7 @@
   {
    "kod": "9003102152017",
    "ad": "ORGANİK TARIMDA BİTKİ KORUMA",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1258,7 +1258,7 @@
   {
    "kod": "9003102172017",
    "ad": "BÖCEK EKOLOJİSİ VE EPİDEMİYOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1272,7 +1272,7 @@
   {
    "kod": "9003101142020",
    "ad": "SEBZE ZARARLILARI",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1286,7 +1286,7 @@
   {
    "kod": "9003102022020",
    "ad": "ORMAN VE SÜS BİTKİLERİ HASTALIKLARI",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1300,7 +1300,7 @@
   {
    "kod": "9003102042020",
    "ad": "ORMAN VE SÜS BİTKİLERİ ZARARLILARI",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1314,7 +1314,7 @@
   {
    "kod": "9003102062017",
    "ad": "TARIM SİGORTALARI",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1328,7 +1328,7 @@
   {
    "kod": "9003102082017",
    "ad": "İYİ TARIM UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1342,7 +1342,7 @@
   {
    "kod": "9003102102017",
    "ad": "MESLEK ETİĞİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1356,7 +1356,7 @@
   {
    "kod": "9003102122017",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1370,7 +1370,7 @@
   {
    "kod": "9003102142017",
    "ad": "BİTKİ KORUMA ÜRÜNLERİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1384,7 +1384,7 @@
   {
    "kod": "9003102162017",
    "ad": "BİTKİ KORUMA MEKANİZASYONU",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1398,7 +1398,7 @@
   {
    "kod": "9003102182017",
    "ad": "PROJE",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -1412,7 +1412,7 @@
   {
    "kod": "9003101232017",
    "ad": "GENEL MATEMATİK",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-I - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -1426,7 +1426,7 @@
   {
    "kod": "9003101252017",
    "ad": "GENEL KİMYA",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-I - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -1440,7 +1440,7 @@
   {
    "kod": "9003101272017",
    "ad": "BOTANİK",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-I - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -1454,7 +1454,7 @@
   {
    "kod": "9003101242017",
    "ad": "MİKOLOJİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-II - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1468,7 +1468,7 @@
   {
    "kod": "9003101262017",
    "ad": "AKAROLOJİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-II - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1482,7 +1482,7 @@
   {
    "kod": "9003101282017",
    "ad": "TARIMSAL METEOROLOJİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-II - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -1496,7 +1496,7 @@
   {
    "kod": "9003102232017",
    "ad": "BAKTERİYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-III - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -1510,7 +1510,7 @@
   {
    "kod": "9003102252017",
    "ad": "NEMATOLOJİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-III - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -1524,7 +1524,7 @@
   {
    "kod": "9003102272017",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-III - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -1538,7 +1538,7 @@
   {
    "kod": "9003102242017",
    "ad": "İŞARET DİLİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-IV - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -1552,7 +1552,7 @@
   {
    "kod": "9003102262017",
    "ad": "BÖCEK SİSTEMATİĞİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-IV - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -1566,7 +1566,7 @@
   {
    "kod": "9003102282017",
    "ad": "VİROLOJİ",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-IV - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -1580,7 +1580,7 @@
   {
    "kod": "9022002302019",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": null,
+   "mufredat": "2023 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-IV - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -1594,7 +1594,7 @@
   {
    "kod": "9003101012017",
    "ad": "TÜRK DİLİ-I",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1608,7 +1608,7 @@
   {
    "kod": "9003101032017",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1622,7 +1622,7 @@
   {
    "kod": "9003101052018",
    "ad": "YABANCI DİL-I",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1636,7 +1636,7 @@
   {
    "kod": "9003101152017",
    "ad": "TARIMSAL EKOLOJİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1650,7 +1650,7 @@
   {
    "kod": "9003101192017",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1664,7 +1664,7 @@
   {
    "kod": "9003101192020",
    "ad": "STAJ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1678,7 +1678,7 @@
   {
    "kod": "9003101292018",
    "ad": "TARIM EKONOMİSİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1692,7 +1692,7 @@
   {
    "kod": "9003101312020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1706,7 +1706,7 @@
   {
    "kod": "9003101332023",
    "ad": "FİTOPATOLOJİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1720,7 +1720,7 @@
   {
    "kod": "9003101352023",
    "ad": "BİLGİ İLETİŞİM VE TEKNOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -1734,7 +1734,7 @@
   {
    "kod": "9003101022017",
    "ad": "TÜRK DİLİ-II",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1748,7 +1748,7 @@
   {
    "kod": "9003101042017",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1762,7 +1762,7 @@
   {
    "kod": "9003101062018",
    "ad": "YABANCI DİL-II",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1776,7 +1776,7 @@
   {
    "kod": "9003101192020",
    "ad": "STAJ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1790,7 +1790,7 @@
   {
    "kod": "9003101242017",
    "ad": "MİKOLOJİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1804,7 +1804,7 @@
   {
    "kod": "9003101322025",
    "ad": "HASTALIK TANISI",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1818,7 +1818,7 @@
   {
    "kod": "9003101342025",
    "ad": "BİTKİ FİZYOLOJİSİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1832,7 +1832,7 @@
   {
    "kod": "9003101362025",
    "ad": "BİTKİSEL ÜRETİM İLKELERİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1846,7 +1846,7 @@
   {
    "kod": "9003101402025",
    "ad": "ENTOMOLOJİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1860,7 +1860,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -1874,7 +1874,7 @@
   {
    "kod": "9003101132020",
    "ad": "TOPRAK BİLGİSİ VE BİTKİ BESLEME",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1888,7 +1888,7 @@
   {
    "kod": "9003102012017",
    "ad": "YABANCI OTLAR VE MÜCADELESİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1902,7 +1902,7 @@
   {
    "kod": "9003102112017",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1916,7 +1916,7 @@
   {
    "kod": "9003102132017",
    "ad": "TARIMSAL SAVAŞ YÖNTEMLERİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1930,7 +1930,7 @@
   {
    "kod": "9003102152017",
    "ad": "ORGANİK TARIMDA BİTKİ KORUMA",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1944,7 +1944,7 @@
   {
    "kod": "9003102292025",
    "ad": "BİTKİ FUNGAL HASTALIKLARI",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1958,7 +1958,7 @@
   {
    "kod": "9003102312025",
    "ad": "BİTKİ VİRÜS HASTALIKLARI",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1972,7 +1972,7 @@
   {
    "kod": "9003102332025",
    "ad": "BİTKİ ZARARLILARI ENTEGRASYONU I",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -1986,7 +1986,7 @@
   {
    "kod": "9003102352025",
    "ad": "ZARARLI TANISI",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2000,7 +2000,7 @@
   {
    "kod": "9003102062017",
    "ad": "TARIM SİGORTALARI",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2014,7 +2014,7 @@
   {
    "kod": "9003102082017",
    "ad": "İYİ TARIM UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2028,7 +2028,7 @@
   {
    "kod": "9003102122017",
    "ad": "GİRİŞİMCİLİK",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2042,7 +2042,7 @@
   {
    "kod": "9003102142017",
    "ad": "BİTKİ KORUMA ÜRÜNLERİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2056,7 +2056,7 @@
   {
    "kod": "9003102322025",
    "ad": "PROKARYOTİK BİTKİ HASTALIKLARI",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2070,7 +2070,7 @@
   {
    "kod": "9003102342025",
    "ad": "BİTKİ ZARARLILARI ENTEGRASYONU II",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2084,7 +2084,7 @@
   {
    "kod": "9003102382025",
    "ad": "İLAÇLAMA ALET VE MAKİNELERİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2098,7 +2098,7 @@
   {
    "kod": "9003102402025",
    "ad": "KENTSEL ENTOMOLOJİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2112,7 +2112,7 @@
   {
    "kod": "9003101232017",
    "ad": "GENEL MATEMATİK",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-I - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -2126,7 +2126,7 @@
   {
    "kod": "9003101252017",
    "ad": "GENEL KİMYA",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-I - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -2140,7 +2140,7 @@
   {
    "kod": "9003101272017",
    "ad": "BOTANİK",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-I - SEÇMELİ DERS GRUBU-I",
    "tur": "Seçmeli",
@@ -2154,7 +2154,7 @@
   {
    "kod": "9003101262017",
    "ad": "AKAROLOJİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-II - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2168,7 +2168,7 @@
   {
    "kod": "9003101282017",
    "ad": "TARIMSAL METEOROLOJİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-II - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2182,7 +2182,7 @@
   {
    "kod": "9003102282017",
    "ad": "VİROLOJİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-II - SEÇMELİ DERS GRUBU-II",
    "tur": "Seçmeli",
@@ -2196,7 +2196,7 @@
   {
    "kod": "9003102232017",
    "ad": "BAKTERİYOLOJİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-III - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -2210,7 +2210,7 @@
   {
    "kod": "9003102252017",
    "ad": "NEMATOLOJİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-III - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -2224,7 +2224,7 @@
   {
    "kod": "9003102272017",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-III - SEÇMELİ DERS GRUBU-III",
    "tur": "Seçmeli",
@@ -2238,7 +2238,7 @@
   {
    "kod": "9003102242017",
    "ad": "İŞARET DİLİ",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-IV - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -2252,7 +2252,7 @@
   {
    "kod": "9003102362025",
    "ad": "DEPO HASTALIK VE ZARARLILARI",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-IV - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -2266,7 +2266,7 @@
   {
    "kod": "9022002302019",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": null,
+   "mufredat": "2025 Bitki Koruma Müfredatı",
    "yariyil": null,
    "grup": "SDG-IV - SEÇMELİ DERS GRUBU-IV",
    "tur": "Seçmeli",
@@ -2280,7 +2280,7 @@
   {
    "kod": "9003101012017",
    "ad": "TÜRK DİLİ-I",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2294,7 +2294,7 @@
   {
    "kod": "9003101032017",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ I",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2308,7 +2308,7 @@
   {
    "kod": "9003101052018",
    "ad": "YABANCI DİL-I",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2322,7 +2322,7 @@
   {
    "kod": "9003101102026",
    "ad": "FİTOPATOLOJİ",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2336,7 +2336,7 @@
   {
    "kod": "9003101192017",
    "ad": "ÜNİVERSİTE YAŞAMINA GEÇİŞ",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2350,7 +2350,7 @@
   {
    "kod": "9003101212026",
    "ad": "ENTOMOLOJİ",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2364,7 +2364,7 @@
   {
    "kod": "9003101292026",
    "ad": "TARIM EKONOMİSİ",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2378,7 +2378,7 @@
   {
    "kod": "9003101312020",
    "ad": "KARİYER PLANLAMA",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2392,7 +2392,7 @@
   {
    "kod": "9003101352026",
    "ad": "BİLGİ İLETİŞİM VE TEKNOLOJİSİ",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2406,7 +2406,7 @@
   {
    "kod": "9003101372026",
    "ad": "BİTKİ FİZYOLOJİSİ",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2420,7 +2420,7 @@
   {
    "kod": "9003101392026",
    "ad": "HASTALIK TANISI",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 1,
    "grup": null,
    "tur": "Zorunlu",
@@ -2434,7 +2434,7 @@
   {
    "kod": "9003101022017",
    "ad": "TÜRK DİLİ-II",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2448,7 +2448,7 @@
   {
    "kod": "9003101042017",
    "ad": "ATATÜRK İLKELERİ VE İNKILAP TARİHİ II",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2462,7 +2462,7 @@
   {
    "kod": "9003101062018",
    "ad": "YABANCI DİL-II",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2476,7 +2476,7 @@
   {
    "kod": "9003101242017",
    "ad": "MİKOLOJİ",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2490,7 +2490,7 @@
   {
    "kod": "9003101362026",
    "ad": "BİTKİSEL ÜRETİM İLKELERİ",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2504,7 +2504,7 @@
   {
    "kod": "9003101422026",
    "ad": "ZARARLI TANISI",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2518,7 +2518,7 @@
   {
    "kod": "9003101442026",
    "ad": "BİTKİ FUNGAL HASTALIKLARI",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2532,7 +2532,7 @@
   {
    "kod": "9003101462026",
    "ad": "BİTKİ ZARARLILARI ENTEGRASYONU I",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2546,7 +2546,7 @@
   {
    "kod": "9003101482026",
    "ad": "BİTKİ VİRÜS HASTALIKLARI",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2560,7 +2560,7 @@
   {
    "kod": "9003101502026",
    "ad": "TOPRAK BİLGİSİ VE BİTKİ BESLEME",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2574,7 +2574,7 @@
   {
    "kod": "CHA001",
    "ad": "ÇOCUK HAKLARI VE AİLE EĞİTİMİ",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 2,
    "grup": null,
    "tur": "Zorunlu",
@@ -2588,7 +2588,7 @@
   {
    "kod": "9003102012026",
    "ad": "YABANCI OTLAR VE MÜCADELESİ",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2602,7 +2602,7 @@
   {
    "kod": "9003102112017",
    "ad": "İŞ SAĞLIĞI VE GÜVENLİĞİ",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2616,7 +2616,7 @@
   {
    "kod": "9003102132017",
    "ad": "TARIMSAL SAVAŞ YÖNTEMLERİ",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2630,7 +2630,7 @@
   {
    "kod": "9003102152026",
    "ad": "ORGANİK TARIMDA BİTKİ KORUMA",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2644,7 +2644,7 @@
   {
    "kod": "9003102372026",
    "ad": "İYİ TARIM UYGULAMALARI",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2658,7 +2658,7 @@
   {
    "kod": "9003102392026",
    "ad": "BİTKİ KORUMA ÜRÜNLERİ",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2672,7 +2672,7 @@
   {
    "kod": "9003102412026",
    "ad": "PROKARYOTİK BİTKİ HASTALIKLARI",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2686,7 +2686,7 @@
   {
    "kod": "9003102432026",
    "ad": "BİTKİ ZARARLILARI ENTEGRASYONU II",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2700,7 +2700,7 @@
   {
    "kod": "9003102452026",
    "ad": "KENTSEL ENTOMOLOJİ",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 3,
    "grup": null,
    "tur": "Zorunlu",
@@ -2714,7 +2714,7 @@
   {
    "kod": "9003102422026",
    "ad": "İŞLETMELERDE MESLEKİ EĞİTİM",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": 4,
    "grup": null,
    "tur": "Zorunlu",
@@ -2728,7 +2728,7 @@
   {
    "kod": "9003101232017",
    "ad": "GENEL MATEMATİK",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": null,
    "grup": "SDG-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -2742,7 +2742,7 @@
   {
    "kod": "9003101252017",
    "ad": "GENEL KİMYA",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": null,
    "grup": "SDG-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -2756,7 +2756,7 @@
   {
    "kod": "9003101272017",
    "ad": "BOTANİK",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": null,
    "grup": "SDG-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -2770,7 +2770,7 @@
   {
    "kod": "9003101412026",
    "ad": "TARIMSAL METEOROLOJİ",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": null,
    "grup": "SDG-1 - SEÇMELİ DERS GRUBU-1",
    "tur": "Seçmeli",
@@ -2784,7 +2784,7 @@
   {
    "kod": "9003101262017",
    "ad": "AKAROLOJİ",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": null,
    "grup": "SDG-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -2798,7 +2798,7 @@
   {
    "kod": "9003101522026",
    "ad": "BAKTERİYOLOJİ",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": null,
    "grup": "SDG-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -2812,7 +2812,7 @@
   {
    "kod": "9003101542026",
    "ad": "İŞARET DİLİ",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": null,
    "grup": "SDG-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -2826,7 +2826,7 @@
   {
    "kod": "9003102282017",
    "ad": "VİROLOJİ",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": null,
    "grup": "SDG-2 - SEÇMELİ DERS GRUBU-2",
    "tur": "Seçmeli",
@@ -2840,7 +2840,7 @@
   {
    "kod": "9003102252017",
    "ad": "NEMATOLOJİ",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": null,
    "grup": "SDG-3 - SEÇMELİ DERS GRUBU-3",
    "tur": "Seçmeli",
@@ -2854,7 +2854,7 @@
   {
    "kod": "9003102272017",
    "ad": "TOPLUMA HİZMET UYGULAMALARI",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": null,
    "grup": "SDG-3 - SEÇMELİ DERS GRUBU-3",
    "tur": "Seçmeli",
@@ -2868,7 +2868,7 @@
   {
    "kod": "9003102472026",
    "ad": "DEPO HASTALIK VE ZARARLILARI",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": null,
    "grup": "SDG-3 - SEÇMELİ DERS GRUBU-3",
    "tur": "Seçmeli",
@@ -2882,7 +2882,7 @@
   {
    "kod": "9022002492026",
    "ad": "AKADEMİK TÜRKÇE (YABANCI UYRUKLU ÖĞRENCİLER İÇİN)",
-   "mufredat": "Bitki Koruma",
+   "mufredat": "2026 Müfredatı (Bitki Koruma)",
    "yariyil": null,
    "grup": "SDG-3 - SEÇMELİ DERS GRUBU-3",
    "tur": "Seçmeli",
